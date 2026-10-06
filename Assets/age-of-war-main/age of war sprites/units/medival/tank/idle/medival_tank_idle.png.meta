@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 7c2ae4cd7077f2847b84489e791e9016
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4629834127232654645
+    second: medival_tank_idle_0
+  - first:
+      213: -3801777179450486497
+    second: medival_tank_idle_1
+  - first:
+      213: -6742658517097162245
+    second: medival_tank_idle_2
+  - first:
+      213: -8735890587350451706
+    second: medival_tank_idle_3
+  - first:
+      213: -4679056109443975401
+    second: medival_tank_idle_4
+  - first:
+      213: -4183686535757287615
+    second: medival_tank_idle_5
+  - first:
+      213: 896105702737663950
+    second: medival_tank_idle_6
+  - first:
+      213: -6838890554666387858
+    second: medival_tank_idle_7
+  - first:
+      213: 1036398567528563810
+    second: medival_tank_idle_8
+  - first:
+      213: -1482241960485843300
+    second: medival_tank_idle_9
+  - first:
+      213: 7220844170079825369
+    second: medival_tank_idle_10
+  - first:
+      213: 2866630247667195284
+    second: medival_tank_idle_11
+  - first:
+      213: -1799603886028283086
+    second: medival_tank_idle_12
+  - first:
+      213: 5770580310721354688
+    second: medival_tank_idle_13
+  - first:
+      213: -7230154767551364852
+    second: medival_tank_idle_14
+  - first:
+      213: -6407092121510648783
+    second: medival_tank_idle_15
+  - first:
+      213: 5804807985150769845
+    second: medival_tank_idle_16
+  - first:
+      213: 7763673524388795881
+    second: medival_tank_idle_17
+  - first:
+      213: 7474443462847124119
+    second: medival_tank_idle_18
+  - first:
+      213: -5732817675603904562
+    second: medival_tank_idle_19
+  - first:
+      213: 1259667119911047974
+    second: medival_tank_idle_20
+  - first:
+      213: 2517320702472655630
+    second: medival_tank_idle_21
+  - first:
+      213: 8064995165600456437
+    second: medival_tank_idle_22
+  - first:
+      213: -1503477485146668716
+    second: medival_tank_idle_23
+  - first:
+      213: 8011897868165033140
+    second: medival_tank_idle_24
+  - first:
+      213: 8133814450967360926
+    second: medival_tank_idle_25
+  - first:
+      213: 6963687378770722021
+    second: medival_tank_idle_26
+  - first:
+      213: 7828462479241586257
+    second: medival_tank_idle_27
+  - first:
+      213: 3757581185245884605
+    second: medival_tank_idle_28
+  - first:
+      213: 4601645861639746021
+    second: medival_tank_idle_29
+  - first:
+      213: -5749930510279077665
+    second: medival_tank_idle_30
+  - first:
+      213: 6380818470756218977
+    second: medival_tank_idle_31
+  - first:
+      213: 2823071326652206089
+    second: medival_tank_idle_32
+  - first:
+      213: -7624718787471485883
+    second: medival_tank_idle_33
+  - first:
+      213: -4664265348315348420
+    second: medival_tank_idle_34
+  - first:
+      213: 5130041601486039040
+    second: medival_tank_idle_35
+  - first:
+      213: 1559919547373898496
+    second: medival_tank_idle_36
+  - first:
+      213: -3512702953779755398
+    second: medival_tank_idle_37
+  - first:
+      213: -7909735331137182015
+    second: medival_tank_idle_38
+  - first:
+      213: 3758050945251020369
+    second: medival_tank_idle_39
+  - first:
+      213: 4112159480094113842
+    second: medival_tank_idle_40
+  - first:
+      213: 406465101185519394
+    second: medival_tank_idle_41
+  - first:
+      213: 3457522218848624242
+    second: medival_tank_idle_42
+  - first:
+      213: 2175329716936405835
+    second: medival_tank_idle_43
+  - first:
+      213: -6495061703486958910
+    second: medival_tank_idle_44
+  - first:
+      213: 8241686011283533675
+    second: medival_tank_idle_45
+  - first:
+      213: 7089361294856929785
+    second: medival_tank_idle_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_tank_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 41
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ddeaadb99704040800000000000000
+      internalID: 4629834127232654645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11daa74ccf5d3bc0800000000000000
+      internalID: -3801777179450486497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf959a68dc34d62a0800000000000000
+      internalID: -6742658517097162245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3c48abc1e3c680800000000000000
+      internalID: -8735890587350451706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71778785247a01fb0800000000000000
+      internalID: -4679056109443975401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f2a98034f80f5c0800000000000000
+      internalID: -4183686535757287615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec751ec836b9f6c00800000000000000
+      internalID: 896105702737663950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66f55746416711a0800000000000000
+      internalID: -6838890554666387858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264834f8107026e00800000000000000
+      internalID: 1036398567528563810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e001a4ac40e6be0800000000000000
+      internalID: -1482241960485843300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddee08d387953460800000000000000
+      internalID: 7220844170079825369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd79ea50158c720800000000000000
+      internalID: 2866630247667195284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 255
+        width: 43
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332fd4ecc58607e0800000000000000
+      internalID: -1799603886028283086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd8600838351050800000000000000
+      internalID: 5770580310721354688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010101cb8459ab90800000000000000
+      internalID: -7230154767551364852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_15
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134672669af6517a0800000000000000
+      internalID: -6407092121510648783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_16
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba33487b12de8050800000000000000
+      internalID: 5804807985150769845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_17
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e59c4dcfeb1ebb60800000000000000
+      internalID: 7763673524388795881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_18
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7925eb86abe8ab760800000000000000
+      internalID: 7474443462847124119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec77c83a2b0f070b0800000000000000
+      internalID: -5732817675603904562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6239981529c3b7110800000000000000
+      internalID: 1259667119911047974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039e9077d15fe220800000000000000
+      internalID: 2517320702472655630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_22
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe9bd87f5e9cef60800000000000000
+      internalID: 8064995165600456437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_23
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451090a6133922be0800000000000000
+      internalID: -1503477485146668716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_24
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcafa889aaff2f60800000000000000
+      internalID: 8011897868165033140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_25
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9539daf52d11e070800000000000000
+      internalID: 8133814450967360926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_26
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecff7a96ccf3a060800000000000000
+      internalID: 6963687378770722021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562bacd52944ac60800000000000000
+      internalID: 7828462479241586257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_28
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0b541fd2c952430800000000000000
+      internalID: 3757581185245884605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_29
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1fe25d7845cdf30800000000000000
+      internalID: 4601645861639746021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_30
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd092a35aa42430b0800000000000000
+      internalID: -5749930510279077665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168fca597983d8850800000000000000
+      internalID: 6380818470756218977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_32
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c02b01a609d2720800000000000000
+      internalID: 2823071326652206089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_33
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d38809ae8f2690800000000000000
+      internalID: -7624718787471485883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_34
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320087c063354fb0800000000000000
+      internalID: -4664265348315348420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_35
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 319
+        width: 43
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0082d8b08a1913740800000000000000
+      internalID: 5130041601486039040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_36
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc8634092f5a510800000000000000
+      internalID: 1559919547373898496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a760e7e464f504fc0800000000000000
+      internalID: -3512702953779755398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62638bf99fa3290800000000000000
+      internalID: -7909735331137182015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e02877c67472430800000000000000
+      internalID: 3758050945251020369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_40
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230c3ce8243511930800000000000000
+      internalID: 4112159480094113842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f81c12bdd04a500800000000000000
+      internalID: 406465101185519394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e1e79a3269bff20800000000000000
+      internalID: 3457522218848624242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4378572ad2503e10800000000000000
+      internalID: 2175329716936405835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c29a610bc7ecd5a0800000000000000
+      internalID: -6495061703486958910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6cdcc2c9506270800000000000000
+      internalID: 8241686011283533675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_idle_46
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c9506988726260800000000000000
+      internalID: 7089361294856929785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_tank_idle_0: 4629834127232654645
+      medival_tank_idle_1: -3801777179450486497
+      medival_tank_idle_10: 7220844170079825369
+      medival_tank_idle_11: 2866630247667195284
+      medival_tank_idle_12: -1799603886028283086
+      medival_tank_idle_13: 5770580310721354688
+      medival_tank_idle_14: -7230154767551364852
+      medival_tank_idle_15: -6407092121510648783
+      medival_tank_idle_16: 5804807985150769845
+      medival_tank_idle_17: 7763673524388795881
+      medival_tank_idle_18: 7474443462847124119
+      medival_tank_idle_19: -5732817675603904562
+      medival_tank_idle_2: -6742658517097162245
+      medival_tank_idle_20: 1259667119911047974
+      medival_tank_idle_21: 2517320702472655630
+      medival_tank_idle_22: 8064995165600456437
+      medival_tank_idle_23: -1503477485146668716
+      medival_tank_idle_24: 8011897868165033140
+      medival_tank_idle_25: 8133814450967360926
+      medival_tank_idle_26: 6963687378770722021
+      medival_tank_idle_27: 7828462479241586257
+      medival_tank_idle_28: 3757581185245884605
+      medival_tank_idle_29: 4601645861639746021
+      medival_tank_idle_3: -8735890587350451706
+      medival_tank_idle_30: -5749930510279077665
+      medival_tank_idle_31: 6380818470756218977
+      medival_tank_idle_32: 2823071326652206089
+      medival_tank_idle_33: -7624718787471485883
+      medival_tank_idle_34: -4664265348315348420
+      medival_tank_idle_35: 5130041601486039040
+      medival_tank_idle_36: 1559919547373898496
+      medival_tank_idle_37: -3512702953779755398
+      medival_tank_idle_38: -7909735331137182015
+      medival_tank_idle_39: 3758050945251020369
+      medival_tank_idle_4: -4679056109443975401
+      medival_tank_idle_40: 4112159480094113842
+      medival_tank_idle_41: 406465101185519394
+      medival_tank_idle_42: 3457522218848624242
+      medival_tank_idle_43: 2175329716936405835
+      medival_tank_idle_44: -6495061703486958910
+      medival_tank_idle_45: 8241686011283533675
+      medival_tank_idle_46: 7089361294856929785
+      medival_tank_idle_5: -4183686535757287615
+      medival_tank_idle_6: 896105702737663950
+      medival_tank_idle_7: -6838890554666387858
+      medival_tank_idle_8: 1036398567528563810
+      medival_tank_idle_9: -1482241960485843300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

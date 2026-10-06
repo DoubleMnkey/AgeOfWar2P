@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Medieval Range
+  m_Controller: {fileID: 9100000, guid: d1855bb5a34784dbfbec1c3fc7827d39, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 39c7d5723155a413bbd38e86fa0d77d5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1b90130674d53fd499d0d888b80eb3bd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ca1d6ed8823b548bc80605bdf7e66957, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ed1e9c4832302c24f93375932e784a2d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1f4dc1af4aa0646d0b56ba8f4d4cde7a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 959898eccbfc6a34fb836b1b88cb4880, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b25f2c567c8eb47149f4cf64286e66c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 566b6a709eac776429345c5f297a6b16, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3396978a34bc24a62b4b6d12b3d53d5a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aa79d1bd23a68a84d8aea9fa6dc5421c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c8c1ef96047547e3b8a16a1c44ee640, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 959898eccbfc6a34fb836b1b88cb4880, type: 2}

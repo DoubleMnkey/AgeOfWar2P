@@ -1,0 +1,3148 @@
+fileFormatVersion: 2
+guid: 5bbb04ef9a065ca4594151a679509427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1087472013380393111
+    second: miltary_range_die_0
+  - first:
+      213: 9007578011686670949
+    second: miltary_range_die_1
+  - first:
+      213: 4145329066644907726
+    second: miltary_range_die_2
+  - first:
+      213: 338279543083237817
+    second: miltary_range_die_3
+  - first:
+      213: 556716202841192541
+    second: miltary_range_die_4
+  - first:
+      213: 2264877529050850797
+    second: miltary_range_die_5
+  - first:
+      213: -1466094688906779690
+    second: miltary_range_die_6
+  - first:
+      213: -6573155424390483391
+    second: miltary_range_die_7
+  - first:
+      213: -7574213268332437433
+    second: miltary_range_die_8
+  - first:
+      213: 1119810127844887883
+    second: miltary_range_die_9
+  - first:
+      213: -3005477266764614669
+    second: miltary_range_die_10
+  - first:
+      213: -7497294132050653615
+    second: miltary_range_die_11
+  - first:
+      213: -6772793000871570879
+    second: miltary_range_die_12
+  - first:
+      213: 5944468267621840608
+    second: miltary_range_die_13
+  - first:
+      213: 8003148047552058977
+    second: miltary_range_die_14
+  - first:
+      213: 233753313928918835
+    second: miltary_range_die_15
+  - first:
+      213: -7341483013092208810
+    second: miltary_range_die_16
+  - first:
+      213: 4104641367991210256
+    second: miltary_range_die_17
+  - first:
+      213: -7844693019963770381
+    second: miltary_range_die_18
+  - first:
+      213: 1288918506217911922
+    second: miltary_range_die_19
+  - first:
+      213: -8052203914584222461
+    second: miltary_range_die_20
+  - first:
+      213: -5834275704895129249
+    second: miltary_range_die_21
+  - first:
+      213: 6346610005537735992
+    second: miltary_range_die_22
+  - first:
+      213: 3777630626405021028
+    second: miltary_range_die_23
+  - first:
+      213: -5625304665593901026
+    second: miltary_range_die_24
+  - first:
+      213: 6205454256692278347
+    second: miltary_range_die_25
+  - first:
+      213: -395647878601987976
+    second: miltary_range_die_26
+  - first:
+      213: -3425188861539498601
+    second: miltary_range_die_27
+  - first:
+      213: 755819536080872410
+    second: miltary_range_die_28
+  - first:
+      213: 6467431883666944914
+    second: miltary_range_die_29
+  - first:
+      213: 2584035507134511160
+    second: miltary_range_die_30
+  - first:
+      213: 6296511024828542887
+    second: miltary_range_die_31
+  - first:
+      213: 6266430016654563280
+    second: miltary_range_die_32
+  - first:
+      213: -2533054308282537866
+    second: miltary_range_die_33
+  - first:
+      213: -8098020557541732119
+    second: miltary_range_die_34
+  - first:
+      213: -7889252680264424115
+    second: miltary_range_die_35
+  - first:
+      213: -7835784534462817548
+    second: miltary_range_die_36
+  - first:
+      213: 7622279626349981615
+    second: miltary_range_die_37
+  - first:
+      213: -153063121357461108
+    second: miltary_range_die_38
+  - first:
+      213: 8479354319408289190
+    second: miltary_range_die_39
+  - first:
+      213: 7740168845804049152
+    second: miltary_range_die_40
+  - first:
+      213: -7796574474924617666
+    second: miltary_range_die_41
+  - first:
+      213: -3347477381138975679
+    second: miltary_range_die_42
+  - first:
+      213: -4117853776080550621
+    second: miltary_range_die_43
+  - first:
+      213: -2383027205956212639
+    second: miltary_range_die_44
+  - first:
+      213: 3162470275453197298
+    second: miltary_range_die_45
+  - first:
+      213: -8695555408549049700
+    second: miltary_range_die_46
+  - first:
+      213: -4066353683616912072
+    second: miltary_range_die_47
+  - first:
+      213: 4837751692613626014
+    second: miltary_range_die_48
+  - first:
+      213: -8209735290697614684
+    second: miltary_range_die_49
+  - first:
+      213: -3778446504442674033
+    second: miltary_range_die_50
+  - first:
+      213: 6561098729142186939
+    second: miltary_range_die_51
+  - first:
+      213: 8550323468730939456
+    second: miltary_range_die_52
+  - first:
+      213: 1116436513863765598
+    second: miltary_range_die_53
+  - first:
+      213: 8694541408705573343
+    second: miltary_range_die_54
+  - first:
+      213: -5914569375508294810
+    second: miltary_range_die_55
+  - first:
+      213: 5984498295666600823
+    second: miltary_range_die_56
+  - first:
+      213: 7331910269287888326
+    second: miltary_range_die_57
+  - first:
+      213: 2216119812119781150
+    second: miltary_range_die_58
+  - first:
+      213: -5563210179153182288
+    second: miltary_range_die_59
+  - first:
+      213: -2356763154479654454
+    second: miltary_range_die_60
+  - first:
+      213: 4370638515211468276
+    second: miltary_range_die_61
+  - first:
+      213: -3216856891647924654
+    second: miltary_range_die_62
+  - first:
+      213: -8272206098915702213
+    second: miltary_range_die_63
+  - first:
+      213: 8863026667624834736
+    second: miltary_range_die_64
+  - first:
+      213: 625036537110184804
+    second: miltary_range_die_65
+  - first:
+      213: -8079403074144286434
+    second: miltary_range_die_66
+  - first:
+      213: -6020455439001118082
+    second: miltary_range_die_67
+  - first:
+      213: -3333384569913570862
+    second: miltary_range_die_68
+  - first:
+      213: -1754899628108947683
+    second: miltary_range_die_69
+  - first:
+      213: -5725764836841714
+    second: miltary_range_die_70
+  - first:
+      213: 6930158751283256571
+    second: miltary_range_die_71
+  - first:
+      213: -414521914282941183
+    second: miltary_range_die_72
+  - first:
+      213: 8357814102837531508
+    second: miltary_range_die_73
+  - first:
+      213: -2964110755732915845
+    second: miltary_range_die_74
+  - first:
+      213: 8126591969019254475
+    second: miltary_range_die_75
+  - first:
+      213: -3417332600849832041
+    second: miltary_range_die_76
+  - first:
+      213: 7135377187936062031
+    second: miltary_range_die_77
+  - first:
+      213: 183024500087060550
+    second: miltary_range_die_78
+  - first:
+      213: -7918279215555906936
+    second: miltary_range_die_79
+  - first:
+      213: 8538105968380843611
+    second: miltary_range_die_80
+  - first:
+      213: 8792970849255757772
+    second: miltary_range_die_81
+  - first:
+      213: 4973136724737454511
+    second: miltary_range_die_82
+  - first:
+      213: 5792197417662016025
+    second: miltary_range_die_83
+  - first:
+      213: 4551056858163253979
+    second: miltary_range_die_84
+  - first:
+      213: -883793914504839008
+    second: miltary_range_die_85
+  - first:
+      213: -7040639937918814121
+    second: miltary_range_die_86
+  - first:
+      213: -6832347280465154754
+    second: miltary_range_die_87
+  - first:
+      213: 6191272413572100824
+    second: miltary_range_die_88
+  - first:
+      213: -1537518298735341021
+    second: miltary_range_die_89
+  - first:
+      213: 8892978476947412793
+    second: miltary_range_die_90
+  - first:
+      213: 2169500766117334752
+    second: miltary_range_die_91
+  - first:
+      213: -7994648885790919805
+    second: miltary_range_die_92
+  - first:
+      213: -2189952311089184068
+    second: miltary_range_die_93
+  - first:
+      213: -1965348892257251933
+    second: miltary_range_die_94
+  - first:
+      213: -4671574837202159605
+    second: miltary_range_die_95
+  - first:
+      213: 5950580456099833343
+    second: miltary_range_die_96
+  - first:
+      213: -8970882834033143530
+    second: miltary_range_die_97
+  - first:
+      213: -7148048833522509089
+    second: miltary_range_die_98
+  - first:
+      213: -1854466481649321134
+    second: miltary_range_die_99
+  - first:
+      213: 5422436403717766288
+    second: miltary_range_die_100
+  - first:
+      213: 5104090666123731843
+    second: miltary_range_die_101
+  - first:
+      213: -936612616094056997
+    second: miltary_range_die_102
+  - first:
+      213: 4123545288180874796
+    second: miltary_range_die_103
+  - first:
+      213: -3891087590181656389
+    second: miltary_range_die_104
+  - first:
+      213: -5991580162721575543
+    second: miltary_range_die_105
+  - first:
+      213: 2987128972611676328
+    second: miltary_range_die_106
+  - first:
+      213: -2351026883628359213
+    second: miltary_range_die_107
+  - first:
+      213: 7499695946911796101
+    second: miltary_range_die_108
+  - first:
+      213: -2445670594329950394
+    second: miltary_range_die_109
+  - first:
+      213: -3738686816000255156
+    second: miltary_range_die_110
+  - first:
+      213: 3870434992267481468
+    second: miltary_range_die_111
+  - first:
+      213: 4382641009352054392
+    second: miltary_range_die_112
+  - first:
+      213: 7079809893686668585
+    second: miltary_range_die_113
+  - first:
+      213: -3727911457781740307
+    second: miltary_range_die_114
+  - first:
+      213: 7929249433183581945
+    second: miltary_range_die_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_range_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79897b4d80a771f00800000000000000
+      internalID: 1087472013380393111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 964
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56214393a78510d70800000000000000
+      internalID: 9007578011686670949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 964
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a87eb2da278930800000000000000
+      internalID: 4145329066644907726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 964
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10240c37fc1b400800000000000000
+      internalID: 338279543083237817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 964
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58bd07df6ad9b700800000000000000
+      internalID: 556716202841192541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 960
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de527d2ec167e6f10800000000000000
+      internalID: 2264877529050850797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 959
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ef9ce5a267abe0800000000000000
+      internalID: -1466094688906779690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 963
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f5c3b7f577c4a0800000000000000
+      internalID: -6573155424390483391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 959
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740aeff892df2e690800000000000000
+      internalID: -7574213268332437433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 963
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d4416d06d5a8f00800000000000000
+      internalID: 1119810127844887883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 959
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3bbfd79566a46d0800000000000000
+      internalID: -3005477266764614669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 963
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e008295b244f790800000000000000
+      internalID: -7497294132050653615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 959
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1425cc546a43202a0800000000000000
+      internalID: -6772793000871570879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 963
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67e2ee46efe7250800000000000000
+      internalID: 5944468267621840608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_14
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 959
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166933b2fb4e01f60800000000000000
+      internalID: 8003148047552058977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 962
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337bdc986657e3300800000000000000
+      internalID: 233753313928918835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_16
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 959
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0310b810dd1a90800000000000000
+      internalID: -7341483013092208810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_17
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 962
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115d7da39d96f830800000000000000
+      internalID: 4104641367991210256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_18
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 959
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b215e24d022390800000000000000
+      internalID: -7844693019963770381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 959
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276bb8b6d8823e110800000000000000
+      internalID: 1288918506217911922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_20
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 959
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305923cb333d04090800000000000000
+      internalID: -8052203914584222461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 959
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b800682d780fa0800000000000000
+      internalID: -5834275704895129249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_22
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 959
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835440c9c20b31850800000000000000
+      internalID: 6346610005537735992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_23
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 959
+        width: 947
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f18b3a07dc6430800000000000000
+      internalID: 3777630626405021028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e109de5f537eee1b0800000000000000
+      internalID: -5625304665593901026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443410c4c33e1650800000000000000
+      internalID: 6205454256692278347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878aac3c950628af0800000000000000
+      internalID: -395647878601987976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795405bb0e84770d0800000000000000
+      internalID: -3425188861539498601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a6621dd53d7a00800000000000000
+      internalID: 755819536080872410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f003480fe0c950800000000000000
+      internalID: 6467431883666944914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838bfb95a965cd320800000000000000
+      internalID: 2584035507134511160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af6c3faa63b16750800000000000000
+      internalID: 6296511024828542887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75a8036e4d6f650800000000000000
+      internalID: 6266430016654563280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678eb0ef688c8dcd0800000000000000
+      internalID: -2533054308282537866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e01ae3453d0e9f80800000000000000
+      internalID: -8098020557541732119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_35
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456a818c7eb38290800000000000000
+      internalID: -7889252680264424115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_36
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa18de4b73b14390800000000000000
+      internalID: -7835784534462817548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_37
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafa9438fe6c7c960800000000000000
+      internalID: 7622279626349981615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a64fe6e530edf0800000000000000
+      internalID: -153063121357461108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_39
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a55105f3d7bca570800000000000000
+      internalID: 8479354319408289190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_40
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00312bb5e8a9a6b60800000000000000
+      internalID: 7740168845804049152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_41
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309d35b2d00dc390800000000000000
+      internalID: -7796574474924617666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1447e8bbe0f5b81d0800000000000000
+      internalID: -3347477381138975679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_43
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c7b7dec17ad6c0800000000000000
+      internalID: -4117853776080550621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_44
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16863eac169cdeed0800000000000000
+      internalID: -2383027205956212639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_45
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb9e15c5f953eb20800000000000000
+      internalID: 3162470275453197298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_46
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a05bc4d6e235780800000000000000
+      internalID: -8695555408549049700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_47
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83da9e48ed86197c0800000000000000
+      internalID: -4066353683616912072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_48
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a7cd6885232340800000000000000
+      internalID: 4837751692613626014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_49
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aafaf90049211e80800000000000000
+      internalID: -8209735290697614684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_50
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c0eb5ce2409bc0800000000000000
+      internalID: -3778446504442674033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_51
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb379ce2884bd0b50800000000000000
+      internalID: 6561098729142186939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_52
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048b46ca4e9d8a670800000000000000
+      internalID: 8550323468730939456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_53
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e002f18116e7f00800000000000000
+      internalID: 1116436513863765598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_54
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1f1d6785739a870800000000000000
+      internalID: 8694541408705573343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_55
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 844
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639c6d5d7a3beda0800000000000000
+      internalID: -5914569375508294810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 2016
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b63202e753d0350800000000000000
+      internalID: 5984498295666600823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c571f53b8d20c560800000000000000
+      internalID: 7331910269287888326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fda154a3d31ce10800000000000000
+      internalID: 2216119812119781150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ccb431d18bc2b0800000000000000
+      internalID: -5563210179153182288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d28dc5681b4fd0800000000000000
+      internalID: -2356763154479654454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf1dca290a7ac30800000000000000
+      internalID: 4370638515211468276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_62
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ee0063bd6b53d0800000000000000
+      internalID: -3216856891647924654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a4f4d8168333d80800000000000000
+      internalID: -8272206098915702213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_64
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6a79ebbcbcffa70800000000000000
+      internalID: 8863026667624834736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_65
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c71e3b639ca800800000000000000
+      internalID: 625036537110184804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194e68e5b130ef80800000000000000
+      internalID: -8079403074144286434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_67
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a154c0dab037ca0800000000000000
+      internalID: -6020455439001118082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_68
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9888a05607db1d0800000000000000
+      internalID: -3333384569913570862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_69
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fd91a061855a7e0800000000000000
+      internalID: -1754899628108947683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_70
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0725dc7278abeff0800000000000000
+      internalID: -5725764836841714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_71
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9d4faaaedc2060800000000000000
+      internalID: 6930158751283256571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_72
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105ec83e3825f3af0800000000000000
+      internalID: -414521914282941183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_73
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473916a15abecf370800000000000000
+      internalID: 8357814102837531508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_74
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79ff91e8fc5dd6d0800000000000000
+      internalID: -2964110755732915845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_75
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc65febd65477c070800000000000000
+      internalID: 8126591969019254475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_76
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ebf6fa123390d0800000000000000
+      internalID: -3417332600849832041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_77
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aca516fb3f50360800000000000000
+      internalID: 7135377187936062031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_78
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f1e820db3a8200800000000000000
+      internalID: 183024500087060550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_79
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8827e6c910f9c1290800000000000000
+      internalID: -7918279215555906936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_80
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569bf334227d7670800000000000000
+      internalID: 8538105968380843611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_81
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc711467668e60a70800000000000000
+      internalID: 8792970849255757772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_82
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1fc699081240540800000000000000
+      internalID: 4973136724737454511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_83
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aedacecd4026050800000000000000
+      internalID: 5792197417662016025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_84
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd21d67991a982f30800000000000000
+      internalID: 4551056858163253979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_85
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a089470e122cb3f0800000000000000
+      internalID: -883793914504839008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_86
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758bbe4874f9a4e90800000000000000
+      internalID: -7040639937918814121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_87
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da4c50950ae21a0800000000000000
+      internalID: -6832347280465154754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_88
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 665
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f3a61571dbe550800000000000000
+      internalID: 6191272413572100824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 1638
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3229730e043a9aae0800000000000000
+      internalID: -1537518298735341021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93715a9cec43a6b70800000000000000
+      internalID: 8892978476947412793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee8c58c37d9b1e10800000000000000
+      internalID: 2169500766117334752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383b572223d4d0190800000000000000
+      internalID: -7994648885790919805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2cb76d9f9bb91e0800000000000000
+      internalID: -2189952311089184068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_94
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8c49689da9b4e0800000000000000
+      internalID: -1965348892257251933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0879e6cf6b3b2fb0800000000000000
+      internalID: -4671574837202159605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_96
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff56635b565b49250800000000000000
+      internalID: 5950580456099833343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_97
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111ecb9795018380800000000000000
+      internalID: -8970882834033143530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_98
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdadeb835770dcc90800000000000000
+      internalID: -7148048833522509089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_99
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b7c617f8c9346e0800000000000000
+      internalID: -1854466481649321134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_100
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7ebc0e2d504b40800000000000000
+      internalID: 5422436403717766288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_101
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38321bf0b6f55d640800000000000000
+      internalID: 5104090666123731843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_102
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd709db9cb7003f0800000000000000
+      internalID: -936612616094056997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_103
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb1459796c93930800000000000000
+      internalID: 4123545288180874796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_104
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8aa4dd374100ac0800000000000000
+      internalID: -3891087590181656389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_105
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d04b53691a9dca0800000000000000
+      internalID: -5991580162721575543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_106
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ebce59f9647920800000000000000
+      internalID: 2987128972611676328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_107
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d120ff61897f5fd0800000000000000
+      internalID: -2351026883628359213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_108
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b4d178ab5441860800000000000000
+      internalID: 7499695946911796101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_109
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647485b5d8b3f0ed0800000000000000
+      internalID: -2445670594329950394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_110
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b5ed536248d1cc0800000000000000
+      internalID: -3738686816000255156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_111
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7158587e1c86b530800000000000000
+      internalID: 3870434992267481468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_112
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761d7c17c442dc30800000000000000
+      internalID: 4382641009352054392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_113
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d6d7e7699804260800000000000000
+      internalID: 7079809893686668585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_114
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec8fccc74cc34cc0800000000000000
+      internalID: -3727911457781740307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_die_115
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 486
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ff58395a5a0e60800000000000000
+      internalID: 7929249433183581945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_range_die_0: 1087472013380393111
+      miltary_range_die_1: 9007578011686670949
+      miltary_range_die_10: -3005477266764614669
+      miltary_range_die_100: 5422436403717766288
+      miltary_range_die_101: 5104090666123731843
+      miltary_range_die_102: -936612616094056997
+      miltary_range_die_103: 4123545288180874796
+      miltary_range_die_104: -3891087590181656389
+      miltary_range_die_105: -5991580162721575543
+      miltary_range_die_106: 2987128972611676328
+      miltary_range_die_107: -2351026883628359213
+      miltary_range_die_108: 7499695946911796101
+      miltary_range_die_109: -2445670594329950394
+      miltary_range_die_11: -7497294132050653615
+      miltary_range_die_110: -3738686816000255156
+      miltary_range_die_111: 3870434992267481468
+      miltary_range_die_112: 4382641009352054392
+      miltary_range_die_113: 7079809893686668585
+      miltary_range_die_114: -3727911457781740307
+      miltary_range_die_115: 7929249433183581945
+      miltary_range_die_12: -6772793000871570879
+      miltary_range_die_13: 5944468267621840608
+      miltary_range_die_14: 8003148047552058977
+      miltary_range_die_15: 233753313928918835
+      miltary_range_die_16: -7341483013092208810
+      miltary_range_die_17: 4104641367991210256
+      miltary_range_die_18: -7844693019963770381
+      miltary_range_die_19: 1288918506217911922
+      miltary_range_die_2: 4145329066644907726
+      miltary_range_die_20: -8052203914584222461
+      miltary_range_die_21: -5834275704895129249
+      miltary_range_die_22: 6346610005537735992
+      miltary_range_die_23: 3777630626405021028
+      miltary_range_die_24: -5625304665593901026
+      miltary_range_die_25: 6205454256692278347
+      miltary_range_die_26: -395647878601987976
+      miltary_range_die_27: -3425188861539498601
+      miltary_range_die_28: 755819536080872410
+      miltary_range_die_29: 6467431883666944914
+      miltary_range_die_3: 338279543083237817
+      miltary_range_die_30: 2584035507134511160
+      miltary_range_die_31: 6296511024828542887
+      miltary_range_die_32: 6266430016654563280
+      miltary_range_die_33: -2533054308282537866
+      miltary_range_die_34: -8098020557541732119
+      miltary_range_die_35: -7889252680264424115
+      miltary_range_die_36: -7835784534462817548
+      miltary_range_die_37: 7622279626349981615
+      miltary_range_die_38: -153063121357461108
+      miltary_range_die_39: 8479354319408289190
+      miltary_range_die_4: 556716202841192541
+      miltary_range_die_40: 7740168845804049152
+      miltary_range_die_41: -7796574474924617666
+      miltary_range_die_42: -3347477381138975679
+      miltary_range_die_43: -4117853776080550621
+      miltary_range_die_44: -2383027205956212639
+      miltary_range_die_45: 3162470275453197298
+      miltary_range_die_46: -8695555408549049700
+      miltary_range_die_47: -4066353683616912072
+      miltary_range_die_48: 4837751692613626014
+      miltary_range_die_49: -8209735290697614684
+      miltary_range_die_5: 2264877529050850797
+      miltary_range_die_50: -3778446504442674033
+      miltary_range_die_51: 6561098729142186939
+      miltary_range_die_52: 8550323468730939456
+      miltary_range_die_53: 1116436513863765598
+      miltary_range_die_54: 8694541408705573343
+      miltary_range_die_55: -5914569375508294810
+      miltary_range_die_56: 5984498295666600823
+      miltary_range_die_57: 7331910269287888326
+      miltary_range_die_58: 2216119812119781150
+      miltary_range_die_59: -5563210179153182288
+      miltary_range_die_6: -1466094688906779690
+      miltary_range_die_60: -2356763154479654454
+      miltary_range_die_61: 4370638515211468276
+      miltary_range_die_62: -3216856891647924654
+      miltary_range_die_63: -8272206098915702213
+      miltary_range_die_64: 8863026667624834736
+      miltary_range_die_65: 625036537110184804
+      miltary_range_die_66: -8079403074144286434
+      miltary_range_die_67: -6020455439001118082
+      miltary_range_die_68: -3333384569913570862
+      miltary_range_die_69: -1754899628108947683
+      miltary_range_die_7: -6573155424390483391
+      miltary_range_die_70: -5725764836841714
+      miltary_range_die_71: 6930158751283256571
+      miltary_range_die_72: -414521914282941183
+      miltary_range_die_73: 8357814102837531508
+      miltary_range_die_74: -2964110755732915845
+      miltary_range_die_75: 8126591969019254475
+      miltary_range_die_76: -3417332600849832041
+      miltary_range_die_77: 7135377187936062031
+      miltary_range_die_78: 183024500087060550
+      miltary_range_die_79: -7918279215555906936
+      miltary_range_die_8: -7574213268332437433
+      miltary_range_die_80: 8538105968380843611
+      miltary_range_die_81: 8792970849255757772
+      miltary_range_die_82: 4973136724737454511
+      miltary_range_die_83: 5792197417662016025
+      miltary_range_die_84: 4551056858163253979
+      miltary_range_die_85: -883793914504839008
+      miltary_range_die_86: -7040639937918814121
+      miltary_range_die_87: -6832347280465154754
+      miltary_range_die_88: 6191272413572100824
+      miltary_range_die_89: -1537518298735341021
+      miltary_range_die_9: 1119810127844887883
+      miltary_range_die_90: 8892978476947412793
+      miltary_range_die_91: 2169500766117334752
+      miltary_range_die_92: -7994648885790919805
+      miltary_range_die_93: -2189952311089184068
+      miltary_range_die_94: -1965348892257251933
+      miltary_range_die_95: -4671574837202159605
+      miltary_range_die_96: 5950580456099833343
+      miltary_range_die_97: -8970882834033143530
+      miltary_range_die_98: -7148048833522509089
+      miltary_range_die_99: -1854466481649321134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

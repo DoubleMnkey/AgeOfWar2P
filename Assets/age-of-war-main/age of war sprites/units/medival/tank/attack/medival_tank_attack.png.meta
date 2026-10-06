@@ -1,0 +1,2316 @@
+fileFormatVersion: 2
+guid: 39b8b354cf4588744aeb4c9e03554ebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6403676991154066373
+    second: medival_tank_attack_0
+  - first:
+      213: 7744834384313748674
+    second: medival_tank_attack_1
+  - first:
+      213: 7161985644286098993
+    second: medival_tank_attack_2
+  - first:
+      213: -630303192877675393
+    second: medival_tank_attack_3
+  - first:
+      213: 5838601585662197828
+    second: medival_tank_attack_4
+  - first:
+      213: 6148881161167668981
+    second: medival_tank_attack_5
+  - first:
+      213: -5153701186668641576
+    second: medival_tank_attack_6
+  - first:
+      213: 3217956186016469740
+    second: medival_tank_attack_7
+  - first:
+      213: 9199079950592071285
+    second: medival_tank_attack_8
+  - first:
+      213: -6858297964052566855
+    second: medival_tank_attack_9
+  - first:
+      213: -986897712927170441
+    second: medival_tank_attack_10
+  - first:
+      213: 1060251043258479343
+    second: medival_tank_attack_11
+  - first:
+      213: 2480896164857384939
+    second: medival_tank_attack_12
+  - first:
+      213: 9207981984566083532
+    second: medival_tank_attack_13
+  - first:
+      213: 8472094193909304365
+    second: medival_tank_attack_14
+  - first:
+      213: -4720431273139405689
+    second: medival_tank_attack_15
+  - first:
+      213: -6865414616038963869
+    second: medival_tank_attack_16
+  - first:
+      213: 3096479687289256961
+    second: medival_tank_attack_17
+  - first:
+      213: 9052950640840069718
+    second: medival_tank_attack_18
+  - first:
+      213: -7368327239994418140
+    second: medival_tank_attack_19
+  - first:
+      213: 5742691659211805168
+    second: medival_tank_attack_20
+  - first:
+      213: -2653610632851101523
+    second: medival_tank_attack_21
+  - first:
+      213: -7475096266734109782
+    second: medival_tank_attack_22
+  - first:
+      213: -2218768787445038965
+    second: medival_tank_attack_23
+  - first:
+      213: 841145223251163241
+    second: medival_tank_attack_24
+  - first:
+      213: -6228753849479772330
+    second: medival_tank_attack_25
+  - first:
+      213: 6292485300392938525
+    second: medival_tank_attack_26
+  - first:
+      213: 4181578772397286338
+    second: medival_tank_attack_27
+  - first:
+      213: 292075075732915412
+    second: medival_tank_attack_28
+  - first:
+      213: 5303095911792240435
+    second: medival_tank_attack_29
+  - first:
+      213: 6623743951267781495
+    second: medival_tank_attack_30
+  - first:
+      213: -3758460444222982257
+    second: medival_tank_attack_31
+  - first:
+      213: 4583193506735418495
+    second: medival_tank_attack_32
+  - first:
+      213: -8654887039775819382
+    second: medival_tank_attack_33
+  - first:
+      213: 1540825535700849836
+    second: medival_tank_attack_34
+  - first:
+      213: -2377216008954831130
+    second: medival_tank_attack_35
+  - first:
+      213: 7180698808507083076
+    second: medival_tank_attack_36
+  - first:
+      213: 3777464765929142528
+    second: medival_tank_attack_37
+  - first:
+      213: -2279384312504540428
+    second: medival_tank_attack_38
+  - first:
+      213: 7057624832421325022
+    second: medival_tank_attack_39
+  - first:
+      213: 4003816173798682297
+    second: medival_tank_attack_40
+  - first:
+      213: -804511732338102050
+    second: medival_tank_attack_41
+  - first:
+      213: -2798296508772172541
+    second: medival_tank_attack_42
+  - first:
+      213: 3133548736272150735
+    second: medival_tank_attack_43
+  - first:
+      213: 1129138541575875861
+    second: medival_tank_attack_44
+  - first:
+      213: 4412843614462391928
+    second: medival_tank_attack_45
+  - first:
+      213: 867759894104048751
+    second: medival_tank_attack_46
+  - first:
+      213: 7855155829930107826
+    second: medival_tank_attack_47
+  - first:
+      213: -6527915260689453301
+    second: medival_tank_attack_48
+  - first:
+      213: 1572455201307849267
+    second: medival_tank_attack_49
+  - first:
+      213: 6209546201369412354
+    second: medival_tank_attack_50
+  - first:
+      213: 7672655614144376611
+    second: medival_tank_attack_51
+  - first:
+      213: 9025906939961825412
+    second: medival_tank_attack_52
+  - first:
+      213: 8236753044394871207
+    second: medival_tank_attack_53
+  - first:
+      213: -830375186388641416
+    second: medival_tank_attack_54
+  - first:
+      213: -8601076734478252644
+    second: medival_tank_attack_55
+  - first:
+      213: 6190918526168251368
+    second: medival_tank_attack_56
+  - first:
+      213: -8677851132937797020
+    second: medival_tank_attack_57
+  - first:
+      213: -7608633526014293724
+    second: medival_tank_attack_58
+  - first:
+      213: -9115378107434084125
+    second: medival_tank_attack_59
+  - first:
+      213: -829297715934496611
+    second: medival_tank_attack_60
+  - first:
+      213: 6712721607006837498
+    second: medival_tank_attack_61
+  - first:
+      213: -4896750418602044949
+    second: medival_tank_attack_62
+  - first:
+      213: -5899232045105716705
+    second: medival_tank_attack_63
+  - first:
+      213: 9098783164515170826
+    second: medival_tank_attack_64
+  - first:
+      213: -6374091168544322352
+    second: medival_tank_attack_65
+  - first:
+      213: 3937558307193914460
+    second: medival_tank_attack_66
+  - first:
+      213: -343444145617905599
+    second: medival_tank_attack_67
+  - first:
+      213: 7406869687107988684
+    second: medival_tank_attack_68
+  - first:
+      213: -3569275408640064314
+    second: medival_tank_attack_69
+  - first:
+      213: 849474892791409468
+    second: medival_tank_attack_70
+  - first:
+      213: 1103711602347571817
+    second: medival_tank_attack_71
+  - first:
+      213: 2609469361461206290
+    second: medival_tank_attack_72
+  - first:
+      213: -1916183704356979922
+    second: medival_tank_attack_73
+  - first:
+      213: 6912211856707993013
+    second: medival_tank_attack_74
+  - first:
+      213: 486207338709977730
+    second: medival_tank_attack_75
+  - first:
+      213: 2188177278096021274
+    second: medival_tank_attack_76
+  - first:
+      213: -4701673963894806157
+    second: medival_tank_attack_77
+  - first:
+      213: 4933397670759519610
+    second: medival_tank_attack_78
+  - first:
+      213: 1952108717785157048
+    second: medival_tank_attack_79
+  - first:
+      213: -8641349715816263876
+    second: medival_tank_attack_80
+  - first:
+      213: -3820230069297220473
+    second: medival_tank_attack_81
+  - first:
+      213: 3968719905772141965
+    second: medival_tank_attack_82
+  - first:
+      213: -3066837178416456050
+    second: medival_tank_attack_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_tank_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3941a9b4e6ed850800000000000000
+      internalID: 6403676991154066373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc8041b6dd2b7b60800000000000000
+      internalID: 7744834384313748674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebe166ffb746360800000000000000
+      internalID: 7161985644286098993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c4bb7e596b047f0800000000000000
+      internalID: -630303192877675393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408d6a3531e60150800000000000000
+      internalID: 5838601585662197828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f68d7186d6355550800000000000000
+      internalID: 6148881161167668981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d24b1283106a78b0800000000000000
+      internalID: -5153701186668641576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2584a0a1a78ac20800000000000000
+      internalID: 3217956186016469740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576557be972b9af70800000000000000
+      internalID: 9199079950592071285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcacd8a65e62d0a0800000000000000
+      internalID: -6858297964052566855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 385
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770a45742c5dd42f0800000000000000
+      internalID: -986897712927170441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 385
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2b826d4b4c6be00800000000000000
+      internalID: 1060251043258479343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 385
+        width: 53
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef04f6eae9ed6220800000000000000
+      internalID: 2480896164857384939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_13
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 385
+        width: 54
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff14834d259cf70800000000000000
+      internalID: 9207981984566083532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_14
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 448
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c0d9348cce29570800000000000000
+      internalID: 8472094193909304365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 385
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c71e954c8ad7eb0800000000000000
+      internalID: -4720431273139405689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 412
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365093ff7c529b0a0800000000000000
+      internalID: -6865414616038963869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb617aed7e8fa20800000000000000
+      internalID: 3096479687289256961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 349
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652da6ca4aa82ad70800000000000000
+      internalID: 9052950640840069718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 322
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c5c4f0a617eb990800000000000000
+      internalID: -7368327239994418140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 349
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11be153a322bf40800000000000000
+      internalID: 5742691659211805168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e5b8503b7c2bd0800000000000000
+      internalID: -2653610632851101523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 348
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabf677dc8f134890800000000000000
+      internalID: -7475096266734109782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 322
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b804d991b895531e0800000000000000
+      internalID: -2218768787445038965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 348
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f66cbf195cab00800000000000000
+      internalID: 841145223251163241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 322
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657496010650f89a0800000000000000
+      internalID: -6228753849479772330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 348
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc94caa06635750800000000000000
+      internalID: 6292485300392938525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ed011db3f70a30800000000000000
+      internalID: 4181578772397286338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 348
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d44ec0ebb8ad0400800000000000000
+      internalID: 292075075732915412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 322
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337e33082a1689940800000000000000
+      internalID: 5303095911792240435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_30
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 348
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b557297044ceb50800000000000000
+      internalID: 6623743951267781495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 322
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f877bbf932447dbc0800000000000000
+      internalID: -3758460444222982257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 370
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c67d92636ca9f30800000000000000
+      internalID: 4583193506735418495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 322
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b707c71aa3e780800000000000000
+      internalID: -8654887039775819382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 371
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4dc4c39ac126510800000000000000
+      internalID: 1540825535700849836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee10e782ae620fd0800000000000000
+      internalID: -2377216008954831130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_36
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 372
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449a2287587f6a360800000000000000
+      internalID: 7180698808507083076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b2c4d0304c6430800000000000000
+      internalID: 3777464765929142528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 373
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2a1926b000e50e0800000000000000
+      internalID: -2279384312504540428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_39
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8e2766468b1f160800000000000000
+      internalID: 7057624832421325022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_40
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 374
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beeb31d899609730800000000000000
+      internalID: 4003816173798682297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_41
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed07a5887dcc5d4f0800000000000000
+      internalID: -804511732338102050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_42
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 375
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d3b6ab6247a29d0800000000000000
+      internalID: -2798296508772172541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_43
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc030ef29f99c7b20800000000000000
+      internalID: 3133548736272150735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_44
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 376
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d25d865818baf00800000000000000
+      internalID: 1129138541575875861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_45
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876b16913e19d3d30800000000000000
+      internalID: 4412843614462391928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_46
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 377
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64076ea607ea0c00800000000000000
+      internalID: 867759894104048751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_47
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 348
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3a252eb9e130d60800000000000000
+      internalID: 7855155829930107826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 359
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fe0c228af2865a0800000000000000
+      internalID: -6527915260689453301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_49
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 360
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3327b23acab72d510800000000000000
+      internalID: 1572455201307849267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_50
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 360
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203000dde5dbc2650800000000000000
+      internalID: 6209546201369412354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_51
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 361
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6bfc21afba7a60800000000000000
+      internalID: 7672655614144376611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_52
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 361
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48858246a86724d70800000000000000
+      internalID: 9025906939961825412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_53
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 362
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a906c1f043de4270800000000000000
+      internalID: 8236753044394871207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_54
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 362
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799101ea2ae974f0800000000000000
+      internalID: -830375186388641416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 347
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950c8bc746d2a880800000000000000
+      internalID: -8601076734478252644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_56
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 347
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb4a1499f8ae550800000000000000
+      internalID: 6190918526168251368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_57
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 347
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462858f2f54129780800000000000000
+      internalID: -8677851132937797020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 347
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4294acfce14b86690800000000000000
+      internalID: -7608633526014293724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_59
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 347
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8d40918ebaf7180800000000000000
+      internalID: -9115378107434084125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_60
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 346
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987ea40f1ebd74f0800000000000000
+      internalID: -829297715934496611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_61
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 346
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5bbd6cb0682d50800000000000000
+      internalID: 6712721607006837498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1da79307f3b0cb0800000000000000
+      internalID: -4896750418602044949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f126fdfd5b7b12ea0800000000000000
+      internalID: -5899232045105716705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 259
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3b39a41f554e70800000000000000
+      internalID: 9098783164515170826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 133
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc06f48addaa87a0800000000000000
+      internalID: -6374091168544322352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 259
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548ea61b6405a630800000000000000
+      internalID: 3937558307193914460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 133
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d1448e57db3bf0800000000000000
+      internalID: -343444145617905599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 259
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2ea5bcbc7ac660800000000000000
+      internalID: 7406869687107988684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 196
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c87a3de2677ec0800000000000000
+      internalID: -3569275408640064314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_70
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 259
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be17e0ae0f9cb00800000000000000
+      internalID: 849474892791409468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_71
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 196
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a7768cadb215f00800000000000000
+      internalID: 1103711602347571817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 259
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d19260f82b63420800000000000000
+      internalID: 2609469361461206290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 196
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bf861c2195865e0800000000000000
+      internalID: -1916183704356979922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_74
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 196
+        width: 38
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb25baf0c1def50800000000000000
+      internalID: 6912211856707993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_75
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 259
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a0ffe9ffa5fb600800000000000000
+      internalID: 486207338709977730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_76
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 196
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a179e7614a7fd5e10800000000000000
+      internalID: 2188177278096021274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 196
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e85cb07c40ceb0800000000000000
+      internalID: -4701673963894806157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_78
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 196
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a755c551b03f67440800000000000000
+      internalID: 4933397670759519610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_79
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 196
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd078e3988471b10800000000000000
+      internalID: 1952108717785157048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_80
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 196
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f49d0a732c31880800000000000000
+      internalID: -8641349715816263876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_81
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 196
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784f54f0ef0dbfac0800000000000000
+      internalID: -3820230069297220473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_82
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 196
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df1942ab9b31730800000000000000
+      internalID: 3968719905772141965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_attack_83
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 196
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e9684c5d76075d0800000000000000
+      internalID: -3066837178416456050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_tank_attack_0: 6403676991154066373
+      medival_tank_attack_1: 7744834384313748674
+      medival_tank_attack_10: -986897712927170441
+      medival_tank_attack_11: 1060251043258479343
+      medival_tank_attack_12: 2480896164857384939
+      medival_tank_attack_13: 9207981984566083532
+      medival_tank_attack_14: 8472094193909304365
+      medival_tank_attack_15: -4720431273139405689
+      medival_tank_attack_16: -6865414616038963869
+      medival_tank_attack_17: 3096479687289256961
+      medival_tank_attack_18: 9052950640840069718
+      medival_tank_attack_19: -7368327239994418140
+      medival_tank_attack_2: 7161985644286098993
+      medival_tank_attack_20: 5742691659211805168
+      medival_tank_attack_21: -2653610632851101523
+      medival_tank_attack_22: -7475096266734109782
+      medival_tank_attack_23: -2218768787445038965
+      medival_tank_attack_24: 841145223251163241
+      medival_tank_attack_25: -6228753849479772330
+      medival_tank_attack_26: 6292485300392938525
+      medival_tank_attack_27: 4181578772397286338
+      medival_tank_attack_28: 292075075732915412
+      medival_tank_attack_29: 5303095911792240435
+      medival_tank_attack_3: -630303192877675393
+      medival_tank_attack_30: 6623743951267781495
+      medival_tank_attack_31: -3758460444222982257
+      medival_tank_attack_32: 4583193506735418495
+      medival_tank_attack_33: -8654887039775819382
+      medival_tank_attack_34: 1540825535700849836
+      medival_tank_attack_35: -2377216008954831130
+      medival_tank_attack_36: 7180698808507083076
+      medival_tank_attack_37: 3777464765929142528
+      medival_tank_attack_38: -2279384312504540428
+      medival_tank_attack_39: 7057624832421325022
+      medival_tank_attack_4: 5838601585662197828
+      medival_tank_attack_40: 4003816173798682297
+      medival_tank_attack_41: -804511732338102050
+      medival_tank_attack_42: -2798296508772172541
+      medival_tank_attack_43: 3133548736272150735
+      medival_tank_attack_44: 1129138541575875861
+      medival_tank_attack_45: 4412843614462391928
+      medival_tank_attack_46: 867759894104048751
+      medival_tank_attack_47: 7855155829930107826
+      medival_tank_attack_48: -6527915260689453301
+      medival_tank_attack_49: 1572455201307849267
+      medival_tank_attack_5: 6148881161167668981
+      medival_tank_attack_50: 6209546201369412354
+      medival_tank_attack_51: 7672655614144376611
+      medival_tank_attack_52: 9025906939961825412
+      medival_tank_attack_53: 8236753044394871207
+      medival_tank_attack_54: -830375186388641416
+      medival_tank_attack_55: -8601076734478252644
+      medival_tank_attack_56: 6190918526168251368
+      medival_tank_attack_57: -8677851132937797020
+      medival_tank_attack_58: -7608633526014293724
+      medival_tank_attack_59: -9115378107434084125
+      medival_tank_attack_6: -5153701186668641576
+      medival_tank_attack_60: -829297715934496611
+      medival_tank_attack_61: 6712721607006837498
+      medival_tank_attack_62: -4896750418602044949
+      medival_tank_attack_63: -5899232045105716705
+      medival_tank_attack_64: 9098783164515170826
+      medival_tank_attack_65: -6374091168544322352
+      medival_tank_attack_66: 3937558307193914460
+      medival_tank_attack_67: -343444145617905599
+      medival_tank_attack_68: 7406869687107988684
+      medival_tank_attack_69: -3569275408640064314
+      medival_tank_attack_7: 3217956186016469740
+      medival_tank_attack_70: 849474892791409468
+      medival_tank_attack_71: 1103711602347571817
+      medival_tank_attack_72: 2609469361461206290
+      medival_tank_attack_73: -1916183704356979922
+      medival_tank_attack_74: 6912211856707993013
+      medival_tank_attack_75: 486207338709977730
+      medival_tank_attack_76: 2188177278096021274
+      medival_tank_attack_77: -4701673963894806157
+      medival_tank_attack_78: 4933397670759519610
+      medival_tank_attack_79: 1952108717785157048
+      medival_tank_attack_8: 9199079950592071285
+      medival_tank_attack_80: -8641349715816263876
+      medival_tank_attack_81: -3820230069297220473
+      medival_tank_attack_82: 3968719905772141965
+      medival_tank_attack_83: -3066837178416456050
+      medival_tank_attack_9: -6858297964052566855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

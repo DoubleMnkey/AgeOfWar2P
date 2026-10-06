@@ -1,0 +1,792 @@
+[gd_scene load_steps=180 format=3 uid="uid://5w6hh4jkl2mo"]
+
+[ext_resource type="Script" path="res://units/future/tank/future_tank.gd" id="1_jq22a"]
+[ext_resource type="Texture2D" uid="uid://lbayk3stnyqi" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0001.png" id="1_yuep6"]
+[ext_resource type="Texture2D" uid="uid://c3y1mtb14tqtv" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0002.png" id="2_gtakp"]
+[ext_resource type="Texture2D" uid="uid://cr1r5c47lxi16" path="res://age of war sprites/effects/shadow.png" id="2_kj5ga"]
+[ext_resource type="Texture2D" uid="uid://bo55w3ybugtre" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0003.png" id="3_ennvf"]
+[ext_resource type="Texture2D" uid="uid://cr6jhvkrn1ce7" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0004.png" id="4_bd5gj"]
+[ext_resource type="Texture2D" uid="uid://cqvslnoeb7obm" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0005.png" id="5_jobxl"]
+[ext_resource type="Texture2D" uid="uid://c6g18cqxoelce" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0006.png" id="6_6q718"]
+[ext_resource type="Texture2D" uid="uid://dammscsmbhobj" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0007.png" id="7_u37wp"]
+[ext_resource type="Texture2D" uid="uid://dmhv7tmpvo6sn" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0008.png" id="8_6vs0f"]
+[ext_resource type="Texture2D" uid="uid://cxj85xrat0s0k" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0009.png" id="9_xxmtf"]
+[ext_resource type="Texture2D" uid="uid://dtabu2b3fum75" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0010.png" id="10_mtyam"]
+[ext_resource type="Texture2D" uid="uid://dy0ifdhqfcaiw" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0011.png" id="11_hcucy"]
+[ext_resource type="Texture2D" uid="uid://di154s4m8u3p3" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0012.png" id="12_wcusg"]
+[ext_resource type="Texture2D" uid="uid://diw2l5kq7ommm" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0013.png" id="13_l4a00"]
+[ext_resource type="Texture2D" uid="uid://bgog7yi33y1uq" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0014.png" id="14_ew7dl"]
+[ext_resource type="Texture2D" uid="uid://c5u0ar6c34yl1" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0015.png" id="15_wwweb"]
+[ext_resource type="Texture2D" uid="uid://cn42q2lqddq5q" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0016.png" id="16_4qb4j"]
+[ext_resource type="Texture2D" uid="uid://dmv0jg3654gfu" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0017.png" id="17_tsbsp"]
+[ext_resource type="Texture2D" uid="uid://c0rxwxaxoel0" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0018.png" id="18_aogjl"]
+[ext_resource type="Texture2D" uid="uid://bjy5f2v0ab065" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0019.png" id="19_unybr"]
+[ext_resource type="Texture2D" uid="uid://de77smxqrmv5h" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0020.png" id="20_m4gdo"]
+[ext_resource type="Texture2D" uid="uid://bxqt4042m31yw" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0021.png" id="21_5nsxu"]
+[ext_resource type="Texture2D" uid="uid://cily1n60y6fjo" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0022.png" id="22_gjdyo"]
+[ext_resource type="Texture2D" uid="uid://bvfm7wpw0okt2" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0023.png" id="23_wuxjf"]
+[ext_resource type="Texture2D" uid="uid://8rvq3psrjjb7" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0024.png" id="24_7om1p"]
+[ext_resource type="Texture2D" uid="uid://dhly1bs0lie3l" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0025.png" id="25_pwqa7"]
+[ext_resource type="Texture2D" uid="uid://bth8yocpd2hf7" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0026.png" id="26_ls77v"]
+[ext_resource type="Texture2D" uid="uid://5h0s2sdw24ud" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0027.png" id="27_jhqds"]
+[ext_resource type="Texture2D" uid="uid://b6nvshaouda58" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0028.png" id="28_7gncm"]
+[ext_resource type="Texture2D" uid="uid://bgsgdr6b5dxnw" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0029.png" id="29_jwbk3"]
+[ext_resource type="Texture2D" uid="uid://j0yff6dsoira" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0030.png" id="30_loyfm"]
+[ext_resource type="Texture2D" uid="uid://csweoiip3ff7t" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0031.png" id="31_ek3td"]
+[ext_resource type="Texture2D" uid="uid://dbhes2hj4yryd" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0032.png" id="32_xnug0"]
+[ext_resource type="Texture2D" uid="uid://7uwtqt73eeeu" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0033.png" id="33_q3idj"]
+[ext_resource type="Texture2D" uid="uid://cqkbdm1xshag0" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0034.png" id="34_qrh5p"]
+[ext_resource type="Texture2D" uid="uid://4p7w43s5oiwa" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0035.png" id="35_aenju"]
+[ext_resource type="Texture2D" uid="uid://4qwfo4vi310s" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0036.png" id="36_s7141"]
+[ext_resource type="Texture2D" uid="uid://b8bfexnvebwud" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0037.png" id="37_rmvxn"]
+[ext_resource type="Texture2D" uid="uid://dnf1eac2kntu7" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0038.png" id="38_ukoga"]
+[ext_resource type="Texture2D" uid="uid://8jur1540ps3v" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0039.png" id="39_lgk13"]
+[ext_resource type="Texture2D" uid="uid://bqqpvhj3jq55n" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0040.png" id="40_j6cwt"]
+[ext_resource type="Texture2D" uid="uid://cdkv454qt7dul" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0041.png" id="41_efwfi"]
+[ext_resource type="Texture2D" uid="uid://b4clxl3wp6txl" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0042.png" id="42_isptu"]
+[ext_resource type="Texture2D" uid="uid://c2yols75vfnvs" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0043.png" id="43_5lka8"]
+[ext_resource type="Texture2D" uid="uid://cvr43mbrpry4n" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0044.png" id="44_l24vy"]
+[ext_resource type="Texture2D" uid="uid://dyo4dl6gjr73u" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0045.png" id="45_s6iv6"]
+[ext_resource type="Texture2D" uid="uid://vndh41epqenu" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0046.png" id="46_woroa"]
+[ext_resource type="Texture2D" uid="uid://c82ibcihcuuoa" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0047.png" id="47_kdi4i"]
+[ext_resource type="Texture2D" uid="uid://bq1mkfcte5uo7" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0048.png" id="48_5dlrb"]
+[ext_resource type="Texture2D" uid="uid://t8s0r7y6ca5r" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0049.png" id="49_o3ctg"]
+[ext_resource type="Texture2D" uid="uid://c726cst5it1im" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0050.png" id="50_46aqu"]
+[ext_resource type="Texture2D" uid="uid://fkrporfncuim" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0051.png" id="51_v4y7i"]
+[ext_resource type="Texture2D" uid="uid://cdh407lbx83sp" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0052.png" id="52_nxps0"]
+[ext_resource type="Texture2D" uid="uid://cs6udd41mq7uo" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0053.png" id="53_nkfm7"]
+[ext_resource type="Texture2D" uid="uid://db3evfarvmal5" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0054.png" id="54_5gpo0"]
+[ext_resource type="Texture2D" uid="uid://k8p2fe83blms" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0055.png" id="55_di4iw"]
+[ext_resource type="Texture2D" uid="uid://ba6jvby1d0ya0" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0056.png" id="56_h1akc"]
+[ext_resource type="Texture2D" uid="uid://coj3s4wv7mjma" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0057.png" id="57_gpr4y"]
+[ext_resource type="Texture2D" uid="uid://deig1csrgu8eg" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0058.png" id="58_3emsl"]
+[ext_resource type="Texture2D" uid="uid://cnxds764lqpim" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0059.png" id="59_n4u08"]
+[ext_resource type="Texture2D" uid="uid://bwx4vovaenuh2" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0060.png" id="60_ewcj8"]
+[ext_resource type="Texture2D" uid="uid://dqv7tiwfpgk5" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0061.png" id="61_xkiaj"]
+[ext_resource type="Texture2D" uid="uid://cc6wua26ikae7" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0062.png" id="62_5pvmc"]
+[ext_resource type="Texture2D" uid="uid://bwuyrjk15gf1" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0063.png" id="63_t0n2k"]
+[ext_resource type="Texture2D" uid="uid://dhv3fwb1jyfg" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0064.png" id="64_38wvo"]
+[ext_resource type="Texture2D" uid="uid://qb0tjttp4gx1" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0065.png" id="65_4c551"]
+[ext_resource type="Texture2D" uid="uid://hya64u8ghmsb" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0066.png" id="66_k5l58"]
+[ext_resource type="Texture2D" uid="uid://cj6dfd5s4ejfl" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0067.png" id="67_evx1e"]
+[ext_resource type="Texture2D" uid="uid://dg445c6yr1n0k" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0068.png" id="68_87bke"]
+[ext_resource type="Texture2D" uid="uid://ccpesm31pgfwq" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0069.png" id="69_bdfmg"]
+[ext_resource type="Texture2D" uid="uid://ccwvjstft1sji" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0070.png" id="70_614tv"]
+[ext_resource type="Texture2D" uid="uid://dx3r3br6y4noc" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0071.png" id="71_uq1lc"]
+[ext_resource type="Texture2D" uid="uid://g3b0y6cudf45" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0072.png" id="72_3h1he"]
+[ext_resource type="Texture2D" uid="uid://bp7b7cjxpwq5c" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0073.png" id="73_oyknv"]
+[ext_resource type="Texture2D" uid="uid://bb2p1xr83ive1" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0074.png" id="74_3r0jo"]
+[ext_resource type="Texture2D" uid="uid://bkipqceojoo3d" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0075.png" id="75_w5t6g"]
+[ext_resource type="Texture2D" uid="uid://kd8w5u2e1eir" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0076.png" id="76_4u3jk"]
+[ext_resource type="Texture2D" uid="uid://dxr3ete1r13r2" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0077.png" id="77_wqibt"]
+[ext_resource type="Texture2D" uid="uid://citerjep3o8bd" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0078.png" id="78_88tr2"]
+[ext_resource type="Texture2D" uid="uid://f5616gx566xc" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0079.png" id="79_6kjre"]
+[ext_resource type="Texture2D" uid="uid://bukhaw4eseevj" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0080.png" id="80_dvako"]
+[ext_resource type="Texture2D" uid="uid://dcr01esw0rh7p" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0081.png" id="81_hwng6"]
+[ext_resource type="Texture2D" uid="uid://gn4o54ro2svq" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0082.png" id="82_8lbr6"]
+[ext_resource type="Texture2D" uid="uid://b876vr8gb5sxn" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0083.png" id="83_8jvqj"]
+[ext_resource type="Texture2D" uid="uid://bdn462mm4hps1" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0084.png" id="84_bb3tb"]
+[ext_resource type="Texture2D" uid="uid://be15ytpd5ebbf" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0085.png" id="85_v11mw"]
+[ext_resource type="Texture2D" uid="uid://eahcqon73mtc" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0086.png" id="86_1wo0s"]
+[ext_resource type="Texture2D" uid="uid://c8ad1dhunbi2f" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0087.png" id="87_rx6tc"]
+[ext_resource type="Texture2D" uid="uid://cne3d7suaan4u" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0088.png" id="88_opvun"]
+[ext_resource type="Texture2D" uid="uid://cdy7y05aqbueg" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0089.png" id="89_84w0s"]
+[ext_resource type="Texture2D" uid="uid://c5mmgyqyjabdn" path="res://age of war sprites/units/future/tank/attack/future_tank_attack0090.png" id="90_oqgaw"]
+[ext_resource type="Texture2D" uid="uid://b2gcvwypjouua" path="res://age of war sprites/units/future/tank/die/future_tank_die0001.png" id="91_esggr"]
+[ext_resource type="Texture2D" uid="uid://bd8m2bj5flya1" path="res://age of war sprites/units/future/tank/die/future_tank_die0002.png" id="92_g0lxk"]
+[ext_resource type="Texture2D" uid="uid://cl7ki7u7xnpqk" path="res://age of war sprites/units/future/tank/die/future_tank_die0003.png" id="93_8jjt4"]
+[ext_resource type="Texture2D" uid="uid://y5vppfoyb51y" path="res://age of war sprites/units/future/tank/die/future_tank_die0004.png" id="94_w6nph"]
+[ext_resource type="Texture2D" uid="uid://mymj275timgu" path="res://age of war sprites/units/future/tank/die/future_tank_die0005.png" id="95_bxw18"]
+[ext_resource type="Texture2D" uid="uid://wcdrtv4wsv6f" path="res://age of war sprites/units/future/tank/die/future_tank_die0006.png" id="96_uio56"]
+[ext_resource type="Texture2D" uid="uid://cy1yubdtolsrs" path="res://age of war sprites/units/future/tank/die/future_tank_die0007.png" id="97_oqfp3"]
+[ext_resource type="Texture2D" uid="uid://dt64fgsarmael" path="res://age of war sprites/units/future/tank/die/future_tank_die0008.png" id="98_rj4wb"]
+[ext_resource type="Texture2D" uid="uid://xbgokx5midf4" path="res://age of war sprites/units/future/tank/die/future_tank_die0009.png" id="99_bxugk"]
+[ext_resource type="Texture2D" uid="uid://v3lqq3nfjokc" path="res://age of war sprites/units/future/tank/die/future_tank_die0010.png" id="100_qshll"]
+[ext_resource type="Texture2D" uid="uid://fwjfttfr5iyd" path="res://age of war sprites/units/future/tank/die/future_tank_die0011.png" id="101_nwfqd"]
+[ext_resource type="Texture2D" uid="uid://b24quq5rm7bom" path="res://age of war sprites/units/future/tank/die/future_tank_die0012.png" id="102_0nke8"]
+[ext_resource type="Texture2D" uid="uid://qasxgirsqwm8" path="res://age of war sprites/units/future/tank/die/future_tank_die0013.png" id="103_stq2r"]
+[ext_resource type="Texture2D" uid="uid://djce302b1mryv" path="res://age of war sprites/units/future/tank/die/future_tank_die0014.png" id="104_wxgr8"]
+[ext_resource type="Texture2D" uid="uid://ct8x74ntajws" path="res://age of war sprites/units/future/tank/die/future_tank_die0015.png" id="105_kmieg"]
+[ext_resource type="Texture2D" uid="uid://domv53iq82i4g" path="res://age of war sprites/units/future/tank/die/future_tank_die0016.png" id="106_0luhe"]
+[ext_resource type="Texture2D" uid="uid://bqcmd6tkdgunh" path="res://age of war sprites/units/future/tank/die/future_tank_die0017.png" id="107_5cxaq"]
+[ext_resource type="Texture2D" uid="uid://dovthli2ynghm" path="res://age of war sprites/units/future/tank/die/future_tank_die0018.png" id="108_d8omf"]
+[ext_resource type="Texture2D" uid="uid://bmnped4nk7e3n" path="res://age of war sprites/units/future/tank/die/future_tank_die0019.png" id="109_4d1jc"]
+[ext_resource type="Texture2D" uid="uid://bf1iucrkgvl27" path="res://age of war sprites/units/future/tank/die/future_tank_die0020.png" id="110_nyanw"]
+[ext_resource type="Texture2D" uid="uid://5nn44q2ohc5s" path="res://age of war sprites/units/future/tank/die/future_tank_die0021.png" id="111_t6714"]
+[ext_resource type="Texture2D" uid="uid://cx4ea201s156w" path="res://age of war sprites/units/future/tank/die/future_tank_die0022.png" id="112_mo31d"]
+[ext_resource type="Texture2D" uid="uid://o15ag4c3xim7" path="res://age of war sprites/units/future/tank/die/future_tank_die0023.png" id="113_03on6"]
+[ext_resource type="Texture2D" uid="uid://bmkuai4txpmk6" path="res://age of war sprites/units/future/tank/die/future_tank_die0024.png" id="114_6cgam"]
+[ext_resource type="Texture2D" uid="uid://dqarlgq0cqwfy" path="res://age of war sprites/units/future/tank/die/future_tank_die0025.png" id="115_akp77"]
+[ext_resource type="Texture2D" uid="uid://1mmhptv6cm5a" path="res://age of war sprites/units/future/tank/die/future_tank_die0026.png" id="116_0e2wm"]
+[ext_resource type="Texture2D" uid="uid://bvqonpisetmot" path="res://age of war sprites/units/future/tank/die/future_tank_die0027.png" id="117_7tc6a"]
+[ext_resource type="Texture2D" uid="uid://itmpov4nl64o" path="res://age of war sprites/units/future/tank/die/future_tank_die0028.png" id="118_ggmbq"]
+[ext_resource type="Texture2D" uid="uid://cgwmrvnjpkruo" path="res://age of war sprites/units/future/tank/die/future_tank_die0029.png" id="119_2hj7b"]
+[ext_resource type="Texture2D" uid="uid://dk4jon4lp0gav" path="res://age of war sprites/units/future/tank/die/future_tank_die0030.png" id="120_5ojah"]
+[ext_resource type="Texture2D" uid="uid://dc7dieun3fmqr" path="res://age of war sprites/units/future/tank/die/future_tank_die0031.png" id="121_k7jr2"]
+[ext_resource type="Texture2D" uid="uid://bokra5umwvvsu" path="res://age of war sprites/units/future/tank/die/future_tank_die0032.png" id="122_hdlnc"]
+[ext_resource type="Texture2D" uid="uid://cr1w5p25eq2n1" path="res://age of war sprites/units/future/tank/die/future_tank_die0033.png" id="123_sx0n6"]
+[ext_resource type="Texture2D" uid="uid://dbson60n02dj7" path="res://age of war sprites/units/future/tank/die/future_tank_die0034.png" id="124_u5dnf"]
+[ext_resource type="Texture2D" uid="uid://t13klukgtx73" path="res://age of war sprites/units/future/tank/die/future_tank_die0035.png" id="125_8fhv4"]
+[ext_resource type="Texture2D" uid="uid://mae1rs1dery4" path="res://age of war sprites/units/future/tank/die/future_tank_die0036.png" id="126_hkvjy"]
+[ext_resource type="Texture2D" uid="uid://cxmmdx3ic5ess" path="res://age of war sprites/units/future/tank/die/future_tank_die0037.png" id="127_c20il"]
+[ext_resource type="Texture2D" uid="uid://gu6o4b34gi31" path="res://age of war sprites/units/future/tank/die/future_tank_die0038.png" id="128_y58cv"]
+[ext_resource type="Texture2D" uid="uid://5g225wnt6da3" path="res://age of war sprites/units/future/tank/die/future_tank_die0039.png" id="129_xa80r"]
+[ext_resource type="Texture2D" uid="uid://q5ekj6xtk3tg" path="res://age of war sprites/units/future/tank/die/future_tank_die0040.png" id="130_manqq"]
+[ext_resource type="Texture2D" uid="uid://i2wb8le8cgss" path="res://age of war sprites/units/future/tank/die/future_tank_die0041.png" id="131_a6tuo"]
+[ext_resource type="Texture2D" uid="uid://b2iowvfa2wj37" path="res://age of war sprites/units/future/tank/die/future_tank_die0042.png" id="132_nfcfm"]
+[ext_resource type="Texture2D" uid="uid://gofhdaanf5j8" path="res://age of war sprites/units/future/tank/die/future_tank_die0043.png" id="133_j7g8w"]
+[ext_resource type="Texture2D" uid="uid://d0inb0itqfqkx" path="res://age of war sprites/units/future/tank/die/future_tank_die0044.png" id="134_jrwu6"]
+[ext_resource type="Texture2D" uid="uid://b3cko2v7hwsj8" path="res://age of war sprites/units/future/tank/die/future_tank_die0045.png" id="135_4midb"]
+[ext_resource type="Texture2D" uid="uid://c3gkaowy1472u" path="res://age of war sprites/units/future/tank/die/future_tank_die0046.png" id="136_24xar"]
+[ext_resource type="Texture2D" uid="uid://cg0unpgp1aegu" path="res://age of war sprites/units/future/tank/die/future_tank_die0047.png" id="137_5jn2n"]
+[ext_resource type="Texture2D" uid="uid://1l7hw2gv7tr1" path="res://age of war sprites/units/future/tank/die/future_tank_die0048.png" id="138_b2edc"]
+[ext_resource type="Texture2D" uid="uid://rm5qoovbp1k8" path="res://age of war sprites/units/future/tank/die/future_tank_die0049.png" id="139_61q2j"]
+[ext_resource type="Texture2D" uid="uid://uwwqqma3no8h" path="res://age of war sprites/units/future/tank/die/future_tank_die0050.png" id="140_txj6j"]
+[ext_resource type="Texture2D" uid="uid://c5sg6s1lpv1yx" path="res://age of war sprites/units/future/tank/die/future_tank_die0051.png" id="141_fl8d2"]
+[ext_resource type="Texture2D" uid="uid://tt0g3qvo6pgd" path="res://age of war sprites/units/future/tank/die/future_tank_die0052.png" id="142_1q72e"]
+[ext_resource type="Texture2D" uid="uid://bpy7yx54arc8i" path="res://age of war sprites/units/future/tank/die/future_tank_die0053.png" id="143_up6nw"]
+[ext_resource type="Texture2D" uid="uid://cjwat5aqua5g0" path="res://age of war sprites/units/future/tank/die/future_tank_die0054.png" id="144_syovn"]
+[ext_resource type="Texture2D" uid="uid://dswt7fmwtwbv0" path="res://age of war sprites/units/future/tank/die/future_tank_die0055.png" id="145_rbjb6"]
+[ext_resource type="Texture2D" uid="uid://yxwxijdij17" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0001.png" id="146_a1n6s"]
+[ext_resource type="Texture2D" uid="uid://cjp55bomfgjpl" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0002.png" id="147_cw71m"]
+[ext_resource type="Texture2D" uid="uid://blkxs6btmpfwg" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0003.png" id="148_7pmmc"]
+[ext_resource type="Texture2D" uid="uid://pelx7pgybqia" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0004.png" id="149_3dpye"]
+[ext_resource type="Texture2D" uid="uid://s8ulx7ypmi7l" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0005.png" id="150_eo0h3"]
+[ext_resource type="Texture2D" uid="uid://hw6xp42ndfuc" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0006.png" id="151_e0lj3"]
+[ext_resource type="Texture2D" uid="uid://dywmsyjkl052d" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0007.png" id="152_jca20"]
+[ext_resource type="Texture2D" uid="uid://cjgi1hqs78kwa" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0008.png" id="153_4v6wp"]
+[ext_resource type="Texture2D" uid="uid://b1ingtki8kese" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0009.png" id="154_86cn1"]
+[ext_resource type="Texture2D" uid="uid://l2ltvefhb517" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0010.png" id="155_ev3nw"]
+[ext_resource type="Texture2D" uid="uid://dg414epfqvc74" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0011.png" id="156_bhois"]
+[ext_resource type="Texture2D" uid="uid://istkmy5i3xfb" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0012.png" id="157_58otk"]
+[ext_resource type="Texture2D" uid="uid://xutcd0fnya2i" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0013.png" id="158_1yjng"]
+[ext_resource type="Texture2D" uid="uid://xe2eclha1cak" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0014.png" id="159_aj5v0"]
+[ext_resource type="Texture2D" uid="uid://bd7ss2g0w6gb7" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0015.png" id="160_edij6"]
+[ext_resource type="Texture2D" uid="uid://duaxgohhyrdsc" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0016.png" id="161_uvfbe"]
+[ext_resource type="Texture2D" uid="uid://cjyrrdlliehwk" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0017.png" id="162_6q833"]
+[ext_resource type="Texture2D" uid="uid://c1781fthwdprx" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0018.png" id="163_vj76b"]
+[ext_resource type="Texture2D" uid="uid://lbq23v01b5f3" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0019.png" id="164_xn3if"]
+[ext_resource type="Texture2D" uid="uid://boq8aotbliqhh" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0020.png" id="165_bu5yg"]
+[ext_resource type="Texture2D" uid="uid://dk8fquh45ruvg" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0021.png" id="166_cf4e3"]
+[ext_resource type="Texture2D" uid="uid://byeoyrlrwefwf" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0022.png" id="167_itkfl"]
+[ext_resource type="Texture2D" uid="uid://dn2ka0putwypp" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0023.png" id="168_07wo3"]
+[ext_resource type="Texture2D" uid="uid://dec8nmq83pe33" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0024.png" id="169_1hi52"]
+[ext_resource type="Texture2D" uid="uid://b65fx7b2ycnip" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0025.png" id="170_6qrv6"]
+[ext_resource type="Texture2D" uid="uid://bg7jrvh3rslkk" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0026.png" id="171_14exl"]
+[ext_resource type="Texture2D" uid="uid://f1d2l1vqtmuh" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0027.png" id="172_i3m16"]
+[ext_resource type="Texture2D" uid="uid://bucivpi3koks2" path="res://age of war sprites/units/future/tank/walk/future_tank_walk0028.png" id="173_xekoy"]
+[ext_resource type="AudioStream" uid="uid://7evknfnxhb7c" path="res://age of war sprites/audio/sfx/future_tank_attack.mp3" id="175_ohtws"]
+[ext_resource type="AudioStream" uid="uid://bpblq48sfy66y" path="res://age of war sprites/audio/sfx/explosion_02.mp3" id="177_1usop"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_qle5k"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_yuep6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_gtakp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ennvf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_bd5gj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_jobxl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_6q718")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_u37wp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_6vs0f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_xxmtf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_mtyam")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_hcucy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_wcusg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_l4a00")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ew7dl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_wwweb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_4qb4j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_tsbsp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_aogjl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_unybr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_m4gdo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_5nsxu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_gjdyo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_wuxjf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_7om1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_pwqa7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ls77v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_jhqds")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_7gncm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_jwbk3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_loyfm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_ek3td")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_xnug0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_q3idj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_qrh5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_aenju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_s7141")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_rmvxn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_ukoga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_lgk13")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_j6cwt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_efwfi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_isptu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_5lka8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_l24vy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_s6iv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_woroa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_kdi4i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_5dlrb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_o3ctg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_46aqu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_v4y7i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_nxps0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_nkfm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_5gpo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_di4iw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_h1akc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_gpr4y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_3emsl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_n4u08")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_ewcj8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_xkiaj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_5pvmc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_t0n2k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_38wvo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_4c551")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_k5l58")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_evx1e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_87bke")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_bdfmg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_614tv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_uq1lc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_3h1he")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_oyknv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_3r0jo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_w5t6g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_4u3jk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_wqibt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_88tr2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_6kjre")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_dvako")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_hwng6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_8lbr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_8jvqj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_bb3tb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_v11mw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_1wo0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_rx6tc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_opvun")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_84w0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_oqgaw")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("91_esggr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_g0lxk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_8jjt4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_w6nph")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_bxw18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_uio56")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_oqfp3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_rj4wb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_bxugk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_qshll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_nwfqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_0nke8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_stq2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_wxgr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_kmieg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_0luhe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_5cxaq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_d8omf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_4d1jc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_nyanw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_t6714")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_mo31d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_03on6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_6cgam")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_akp77")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_0e2wm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_7tc6a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_ggmbq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_2hj7b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_5ojah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_k7jr2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_hdlnc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_sx0n6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_u5dnf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_8fhv4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_hkvjy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_c20il")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_y58cv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_xa80r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_manqq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_a6tuo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_nfcfm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_j7g8w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_jrwu6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_4midb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_24xar")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_5jn2n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_b2edc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_61q2j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_txj6j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_fl8d2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_1q72e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_up6nw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_syovn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_rbjb6")
+}],
+"loop": false,
+"name": &"die",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("146_a1n6s")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("146_a1n6s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_cw71m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_7pmmc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_3dpye")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_eo0h3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_e0lj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_jca20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_4v6wp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_86cn1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_ev3nw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_bhois")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_58otk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_1yjng")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_aj5v0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_edij6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_uvfbe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_6q833")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_vj76b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_xn3if")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_bu5yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_cf4e3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_itkfl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_07wo3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_1hi52")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_6qrv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_14exl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_i3m16")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_xekoy")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 30.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nkbhr"]
+size = Vector2(248, 135)
+
+[node name="future_tank" type="RigidBody2D"]
+script = ExtResource("1_jq22a")
+
+[node name="Shadow" type="Sprite2D" parent="."]
+position = Vector2(0.499996, 2.38419e-07)
+scale = Vector2(1.68072, 0.653614)
+texture = ExtResource("2_kj5ga")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(86, -82)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_qle5k")
+animation = &"die"
+frame = 54
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -67.5)
+shape = SubResource("RectangleShape2D_nkbhr")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+position = Vector2(0, -64)
+target_position = Vector2(131, 0)
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="hit_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("175_ohtws")
+
+[node name="die_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("177_1usop")
+
+[node name="death_timer" type="Timer" parent="."]
+
+[node name="Label" type="Label" parent="."]
+offset_left = -34.0
+offset_top = -152.0
+offset_right = 6.0
+offset_bottom = -129.0
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -22.0
+offset_top = -145.0
+offset_right = 26.0
+offset_bottom = -140.0
+
+[node name="health_bg" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.588235, 0.588235, 0.588235, 0.588235)
+
+[node name="health_bar" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 0, 0, 1)

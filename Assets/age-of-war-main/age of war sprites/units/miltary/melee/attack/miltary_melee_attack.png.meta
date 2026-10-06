@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 38ecd2d114546584d8ed31d070397110
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7135245700527070907
+    second: miltary_melee_attack_0
+  - first:
+      213: 6125846153986858256
+    second: miltary_melee_attack_1
+  - first:
+      213: -733798542144462467
+    second: miltary_melee_attack_2
+  - first:
+      213: 3462758663365625104
+    second: miltary_melee_attack_3
+  - first:
+      213: 6105797921612254909
+    second: miltary_melee_attack_4
+  - first:
+      213: 7833429941023907610
+    second: miltary_melee_attack_5
+  - first:
+      213: 636789370338891390
+    second: miltary_melee_attack_6
+  - first:
+      213: -3723784565407239166
+    second: miltary_melee_attack_7
+  - first:
+      213: 6542589703410665227
+    second: miltary_melee_attack_8
+  - first:
+      213: 2586309601957797628
+    second: miltary_melee_attack_9
+  - first:
+      213: -4477641754898863115
+    second: miltary_melee_attack_10
+  - first:
+      213: 6229960151159945299
+    second: miltary_melee_attack_11
+  - first:
+      213: -4381043250550250228
+    second: miltary_melee_attack_12
+  - first:
+      213: -4113284378568615185
+    second: miltary_melee_attack_13
+  - first:
+      213: 6732080632937982779
+    second: miltary_melee_attack_14
+  - first:
+      213: 4711370634066947029
+    second: miltary_melee_attack_15
+  - first:
+      213: 4485446117731374894
+    second: miltary_melee_attack_16
+  - first:
+      213: -2315940675079487343
+    second: miltary_melee_attack_17
+  - first:
+      213: -5318956107548438533
+    second: miltary_melee_attack_18
+  - first:
+      213: -4983510969487742981
+    second: miltary_melee_attack_19
+  - first:
+      213: -2986814383214996646
+    second: miltary_melee_attack_20
+  - first:
+      213: -8752075398342340921
+    second: miltary_melee_attack_21
+  - first:
+      213: -8948966690371831446
+    second: miltary_melee_attack_22
+  - first:
+      213: -2958848595941741783
+    second: miltary_melee_attack_23
+  - first:
+      213: -3072572457155507604
+    second: miltary_melee_attack_24
+  - first:
+      213: -7856182549273374093
+    second: miltary_melee_attack_25
+  - first:
+      213: 3300288840362471702
+    second: miltary_melee_attack_26
+  - first:
+      213: 8838876790710018583
+    second: miltary_melee_attack_27
+  - first:
+      213: -5924678196850289424
+    second: miltary_melee_attack_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_melee_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9c05192c750360800000000000000
+      internalID: 7135245700527070907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 135
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5415fe90630550800000000000000
+      internalID: 6125846153986858256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 195
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71a7ce1d1601d5f0800000000000000
+      internalID: -733798542144462467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01580d868a03e0030800000000000000
+      internalID: 3462758663365625104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 195
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe440c1cd62cb450800000000000000
+      internalID: 6105797921612254909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 135
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f93af270fe5bc60800000000000000
+      internalID: 7833429941023907610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 135
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e765bc7fe8456d800800000000000000
+      internalID: 636789370338891390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 195
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b1decaa5725cc0800000000000000
+      internalID: -3723784565407239166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 135
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07cbeecba2fbca50800000000000000
+      internalID: 6542589703410665227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 195
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe50ef41ea64e320800000000000000
+      internalID: 2586309601957797628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 135
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbebc72c883cd1c0800000000000000
+      internalID: -4477641754898863115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 195
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3583abeefb3457650800000000000000
+      internalID: 6229960151159945299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 135
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05645910686333c0800000000000000
+      internalID: -4381043250550250228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 195
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea114b96adaae6c0800000000000000
+      internalID: -4113284378568615185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 135
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b2e85eaa72d6d50800000000000000
+      internalID: 6732080632937982779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db64c831a6226140800000000000000
+      internalID: 4711370634066947029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27988aaa718f3e30800000000000000
+      internalID: 4485446117731374894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1904205f9302cdfd0800000000000000
+      internalID: -2315940675079487343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff4ea9e9954f26b0800000000000000
+      internalID: -5318956107548438533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 15
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7ab615d2307dab0800000000000000
+      internalID: -4983510969487742981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53517ea424bc86d0800000000000000
+      internalID: -2986814383214996646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 15
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce8e52bbc16a8680800000000000000
+      internalID: -8752075398342340921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 75
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6975917532eec380800000000000000
+      internalID: -8948966690371831446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 15
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92baabee0ee00f6d0800000000000000
+      internalID: -2958848595941741783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 75
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ac89021a70c55d0800000000000000
+      internalID: -3072572457155507604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37210f3689b39f290800000000000000
+      internalID: -7856182549273374093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 75
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611bdf1f63bfccd20800000000000000
+      internalID: 3300288840362471702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 75
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71227bb5c9ff9aa70800000000000000
+      internalID: 8838876790710018583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_attack_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 75
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f49c3cf19057cda0800000000000000
+      internalID: -5924678196850289424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_melee_attack_0: 7135245700527070907
+      miltary_melee_attack_1: 6125846153986858256
+      miltary_melee_attack_10: -4477641754898863115
+      miltary_melee_attack_11: 6229960151159945299
+      miltary_melee_attack_12: -4381043250550250228
+      miltary_melee_attack_13: -4113284378568615185
+      miltary_melee_attack_14: 6732080632937982779
+      miltary_melee_attack_15: 4711370634066947029
+      miltary_melee_attack_16: 4485446117731374894
+      miltary_melee_attack_17: -2315940675079487343
+      miltary_melee_attack_18: -5318956107548438533
+      miltary_melee_attack_19: -4983510969487742981
+      miltary_melee_attack_2: -733798542144462467
+      miltary_melee_attack_20: -2986814383214996646
+      miltary_melee_attack_21: -8752075398342340921
+      miltary_melee_attack_22: -8948966690371831446
+      miltary_melee_attack_23: -2958848595941741783
+      miltary_melee_attack_24: -3072572457155507604
+      miltary_melee_attack_25: -7856182549273374093
+      miltary_melee_attack_26: 3300288840362471702
+      miltary_melee_attack_27: 8838876790710018583
+      miltary_melee_attack_28: -5924678196850289424
+      miltary_melee_attack_3: 3462758663365625104
+      miltary_melee_attack_4: 6105797921612254909
+      miltary_melee_attack_5: 7833429941023907610
+      miltary_melee_attack_6: 636789370338891390
+      miltary_melee_attack_7: -3723784565407239166
+      miltary_melee_attack_8: 6542589703410665227
+      miltary_melee_attack_9: 2586309601957797628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

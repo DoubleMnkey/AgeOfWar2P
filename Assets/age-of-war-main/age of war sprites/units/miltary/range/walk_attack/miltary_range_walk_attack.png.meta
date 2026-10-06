@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: 041ccefa18d80454a8e0b8b7236df623
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1038927323723265995
+    second: miltary_range_walk_attack_0
+  - first:
+      213: 6084702179843836830
+    second: miltary_range_walk_attack_1
+  - first:
+      213: 5724429310221499061
+    second: miltary_range_walk_attack_2
+  - first:
+      213: 2352487008363622413
+    second: miltary_range_walk_attack_3
+  - first:
+      213: -6951354519729745956
+    second: miltary_range_walk_attack_4
+  - first:
+      213: 7911131689817735552
+    second: miltary_range_walk_attack_5
+  - first:
+      213: -8794122383934598289
+    second: miltary_range_walk_attack_6
+  - first:
+      213: -1424707519149869554
+    second: miltary_range_walk_attack_7
+  - first:
+      213: -6895752520357067247
+    second: miltary_range_walk_attack_8
+  - first:
+      213: -6529828917185521284
+    second: miltary_range_walk_attack_9
+  - first:
+      213: -3989266386725633905
+    second: miltary_range_walk_attack_10
+  - first:
+      213: 8390967435813204641
+    second: miltary_range_walk_attack_11
+  - first:
+      213: 7260766326240468013
+    second: miltary_range_walk_attack_12
+  - first:
+      213: 371977197328396212
+    second: miltary_range_walk_attack_13
+  - first:
+      213: 5219978904182875810
+    second: miltary_range_walk_attack_14
+  - first:
+      213: 8395986703055351979
+    second: miltary_range_walk_attack_15
+  - first:
+      213: 4037000866765860490
+    second: miltary_range_walk_attack_16
+  - first:
+      213: 4474177293369082726
+    second: miltary_range_walk_attack_17
+  - first:
+      213: 1281546769222852757
+    second: miltary_range_walk_attack_18
+  - first:
+      213: 2257921585847955334
+    second: miltary_range_walk_attack_19
+  - first:
+      213: 5634576493147209687
+    second: miltary_range_walk_attack_20
+  - first:
+      213: 836750296591253789
+    second: miltary_range_walk_attack_21
+  - first:
+      213: 707215653080294226
+    second: miltary_range_walk_attack_22
+  - first:
+      213: -5911589703732694053
+    second: miltary_range_walk_attack_23
+  - first:
+      213: 3352574680398896035
+    second: miltary_range_walk_attack_24
+  - first:
+      213: 8053667370579195702
+    second: miltary_range_walk_attack_25
+  - first:
+      213: 4061450363147320629
+    second: miltary_range_walk_attack_26
+  - first:
+      213: -7234095310873166759
+    second: miltary_range_walk_attack_27
+  - first:
+      213: -8767021925690922732
+    second: miltary_range_walk_attack_28
+  - first:
+      213: -3393682081341739536
+    second: miltary_range_walk_attack_29
+  - first:
+      213: -732490486563401541
+    second: miltary_range_walk_attack_30
+  - first:
+      213: -7375064104868646663
+    second: miltary_range_walk_attack_31
+  - first:
+      213: -1017000674764453372
+    second: miltary_range_walk_attack_32
+  - first:
+      213: -2554180795434229757
+    second: miltary_range_walk_attack_33
+  - first:
+      213: 7172398096196354345
+    second: miltary_range_walk_attack_34
+  - first:
+      213: -1304462570863758222
+    second: miltary_range_walk_attack_35
+  - first:
+      213: 557425490916927729
+    second: miltary_range_walk_attack_36
+  - first:
+      213: 3170331024759599945
+    second: miltary_range_walk_attack_37
+  - first:
+      213: -5226059092616851252
+    second: miltary_range_walk_attack_38
+  - first:
+      213: -7225036284250490252
+    second: miltary_range_walk_attack_39
+  - first:
+      213: -600062712051062264
+    second: miltary_range_walk_attack_40
+  - first:
+      213: 5483998679911258888
+    second: miltary_range_walk_attack_41
+  - first:
+      213: 6106136557283289747
+    second: miltary_range_walk_attack_42
+  - first:
+      213: 720430750667153316
+    second: miltary_range_walk_attack_43
+  - first:
+      213: -2571896603367681569
+    second: miltary_range_walk_attack_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7f8fd75e20b6e00800000000000000
+      internalID: 1038927323723265995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 319
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b03a9f464317450800000000000000
+      internalID: 6084702179843836830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 448
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba3699d022417f40800000000000000
+      internalID: 5724429310221499061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 59
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003c385876b5a020800000000000000
+      internalID: 2352487008363622413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc3b7e4e3d78f90800000000000000
+      internalID: -6951354519729745956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810cee5b5cf9cd60800000000000000
+      internalID: 7911131689817735552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 448
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63544af84005f580800000000000000
+      internalID: -8794122383934598289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 383
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067e3c4f0c6a3ce0800000000000000
+      internalID: -1424707519149869554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 383
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116cc153e9d5d40a0800000000000000
+      internalID: -6895752520357067247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 448
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79551342336165a0800000000000000
+      internalID: -6529828917185521284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 383
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8000d87b5743a8c0800000000000000
+      internalID: -3989266386725633905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 257
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a23485fc64b27470800000000000000
+      internalID: 8390967435813204641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c5ea8218c63c460800000000000000
+      internalID: 7260766326240468013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfed474a47892500800000000000000
+      internalID: 371977197328396212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 320
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a66ade1827117840800000000000000
+      internalID: 5219978904182875810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0748e2c69848470800000000000000
+      internalID: 8395986703055351979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 257
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ee58d36ee460830800000000000000
+      internalID: 4037000866765860490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 257
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66302690b88771e30800000000000000
+      internalID: 4474177293369082726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 258
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590e3962ff7f8c110800000000000000
+      internalID: 1281546769222852757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 258
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f672728bfb55f10800000000000000
+      internalID: 2257921585847955334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 258
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3ecd9779023e40800000000000000
+      internalID: 5634576493147209687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11460226fbbc9b00800000000000000
+      internalID: 836750296591253789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 194
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2536275b3e880d900800000000000000
+      internalID: 707215653080294226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 194
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f7234c70d5fda0800000000000000
+      internalID: -5911589703732694053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab152cb8ecb68e20800000000000000
+      internalID: 3352574680398896035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 193
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f68aadcf54cf60800000000000000
+      internalID: 8053667370579195702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 193
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df648369b2d5830800000000000000
+      internalID: 4061450363147320629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cf51484a45b9b90800000000000000
+      internalID: -7234095310873166759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419a12d1208455680800000000000000
+      internalID: -8767021925690922732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd6405a02837e0d0800000000000000
+      internalID: -3393682081341739536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0190b88cba5d5f0800000000000000
+      internalID: -732490486563401541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 129
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f199754286a990800000000000000
+      internalID: -7375064104868646663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 65
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a055c4643e2e1f0800000000000000
+      internalID: -1017000674764453372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a404691abd8cd0800000000000000
+      internalID: -2554180795434229757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 129
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c877411a798360800000000000000
+      internalID: 7172398096196354345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_35
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 65
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747fd0043e95ede0800000000000000
+      internalID: -1304462570863758222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 128
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e9d6d78f5cb700800000000000000
+      internalID: 557425490916927729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 65
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943323715474ffb20800000000000000
+      internalID: 3170331024759599945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc05f51b1fe4977b0800000000000000
+      internalID: -5226059092616851252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47af0f387c38bbb90800000000000000
+      internalID: -7225036284250490252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2d3584262ca7f0800000000000000
+      internalID: -600062712051062264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b52d07eb31b1c40800000000000000
+      internalID: 5483998679911258888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aa5eed8da5db450800000000000000
+      internalID: 6106136557283289747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af98c263fb7ff900800000000000000
+      internalID: 720430750667153316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_attack_44
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd15c3d6aa9ce4cd0800000000000000
+      internalID: -2571896603367681569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_range_walk_attack_0: 1038927323723265995
+      miltary_range_walk_attack_1: 6084702179843836830
+      miltary_range_walk_attack_10: -3989266386725633905
+      miltary_range_walk_attack_11: 8390967435813204641
+      miltary_range_walk_attack_12: 7260766326240468013
+      miltary_range_walk_attack_13: 371977197328396212
+      miltary_range_walk_attack_14: 5219978904182875810
+      miltary_range_walk_attack_15: 8395986703055351979
+      miltary_range_walk_attack_16: 4037000866765860490
+      miltary_range_walk_attack_17: 4474177293369082726
+      miltary_range_walk_attack_18: 1281546769222852757
+      miltary_range_walk_attack_19: 2257921585847955334
+      miltary_range_walk_attack_2: 5724429310221499061
+      miltary_range_walk_attack_20: 5634576493147209687
+      miltary_range_walk_attack_21: 836750296591253789
+      miltary_range_walk_attack_22: 707215653080294226
+      miltary_range_walk_attack_23: -5911589703732694053
+      miltary_range_walk_attack_24: 3352574680398896035
+      miltary_range_walk_attack_25: 8053667370579195702
+      miltary_range_walk_attack_26: 4061450363147320629
+      miltary_range_walk_attack_27: -7234095310873166759
+      miltary_range_walk_attack_28: -8767021925690922732
+      miltary_range_walk_attack_29: -3393682081341739536
+      miltary_range_walk_attack_3: 2352487008363622413
+      miltary_range_walk_attack_30: -732490486563401541
+      miltary_range_walk_attack_31: -7375064104868646663
+      miltary_range_walk_attack_32: -1017000674764453372
+      miltary_range_walk_attack_33: -2554180795434229757
+      miltary_range_walk_attack_34: 7172398096196354345
+      miltary_range_walk_attack_35: -1304462570863758222
+      miltary_range_walk_attack_36: 557425490916927729
+      miltary_range_walk_attack_37: 3170331024759599945
+      miltary_range_walk_attack_38: -5226059092616851252
+      miltary_range_walk_attack_39: -7225036284250490252
+      miltary_range_walk_attack_4: -6951354519729745956
+      miltary_range_walk_attack_40: -600062712051062264
+      miltary_range_walk_attack_41: 5483998679911258888
+      miltary_range_walk_attack_42: 6106136557283289747
+      miltary_range_walk_attack_43: 720430750667153316
+      miltary_range_walk_attack_44: -2571896603367681569
+      miltary_range_walk_attack_5: 7911131689817735552
+      miltary_range_walk_attack_6: -8794122383934598289
+      miltary_range_walk_attack_7: -1424707519149869554
+      miltary_range_walk_attack_8: -6895752520357067247
+      miltary_range_walk_attack_9: -6529828917185521284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 6801d0ba13494d948afd287b9d7f572c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7679244274099125007
+    second: knight_melee_walk_0
+  - first:
+      213: -4403076626554524580
+    second: knight_melee_walk_1
+  - first:
+      213: 336315774616447242
+    second: knight_melee_walk_2
+  - first:
+      213: 7306419526226691500
+    second: knight_melee_walk_3
+  - first:
+      213: -5780614681302933341
+    second: knight_melee_walk_4
+  - first:
+      213: 1242419002489133439
+    second: knight_melee_walk_5
+  - first:
+      213: 3077441349414463217
+    second: knight_melee_walk_6
+  - first:
+      213: -8953314542583306129
+    second: knight_melee_walk_7
+  - first:
+      213: -1295301387821069611
+    second: knight_melee_walk_8
+  - first:
+      213: -9216485869141479312
+    second: knight_melee_walk_9
+  - first:
+      213: -3186697671861793937
+    second: knight_melee_walk_10
+  - first:
+      213: -3687815711817108055
+    second: knight_melee_walk_11
+  - first:
+      213: 3887889750484342084
+    second: knight_melee_walk_12
+  - first:
+      213: -1242348748225353579
+    second: knight_melee_walk_13
+  - first:
+      213: -4441193274469213628
+    second: knight_melee_walk_14
+  - first:
+      213: -2657733692326818926
+    second: knight_melee_walk_15
+  - first:
+      213: -9205752464577193688
+    second: knight_melee_walk_16
+  - first:
+      213: -8763583252374219664
+    second: knight_melee_walk_17
+  - first:
+      213: -2327078832460347538
+    second: knight_melee_walk_18
+  - first:
+      213: 5194236970182624909
+    second: knight_melee_walk_19
+  - first:
+      213: 2761772952973260766
+    second: knight_melee_walk_20
+  - first:
+      213: 2721886484875551439
+    second: knight_melee_walk_21
+  - first:
+      213: -2085812200108611665
+    second: knight_melee_walk_22
+  - first:
+      213: 6987440520342062352
+    second: knight_melee_walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_melee_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b712d1bf7229a60800000000000000
+      internalID: 7679244274099125007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c646bf22125e2c0800000000000000
+      internalID: -4403076626554524580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 100
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09af564a65daa400800000000000000
+      internalID: 336315774616447242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca548b819dd956560800000000000000
+      internalID: 7306419526226691500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 100
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e789039127cfa0800000000000000
+      internalID: -5780614681302933341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 204
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f795f890085fd3110800000000000000
+      internalID: 1242419002489133439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6a2f03a9445ba20800000000000000
+      internalID: 3077441349414463217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 204
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68abf63cdf6fb380800000000000000
+      internalID: -8953314542583306129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dacad5204a260ee0800000000000000
+      internalID: -1295301387821069611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 152
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703a6cdee6781080800000000000000
+      internalID: -9216485869141479312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0d1ee95396c3d0800000000000000
+      internalID: -3186697671861793937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 152
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a57904262f32dcc0800000000000000
+      internalID: -3687815711817108055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 152
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445508f012f84f530800000000000000
+      internalID: 3887889750484342084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 152
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59860ee456a42cee0800000000000000
+      internalID: -1242348748225353579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a98605f36bd52c0800000000000000
+      internalID: -4441193274469213628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc541c945dd1bd0800000000000000
+      internalID: -2657733692326818926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 48
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82913ba58e89e3080800000000000000
+      internalID: -9205752464577193688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0741ca2a67f716680800000000000000
+      internalID: -8763583252374219664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 40
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ceda912e84bfd0800000000000000
+      internalID: -2327078832460347538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86cfee0103a51840800000000000000
+      internalID: 5194236970182624909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 48
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7b0444ed9c35620800000000000000
+      internalID: 2761772952973260766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 48
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2a1f9365516c520800000000000000
+      internalID: 2721886484875551439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 48
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a958ead4bd03e0800000000000000
+      internalID: -2085812200108611665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_walk_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 48
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015c828d12068f060800000000000000
+      internalID: 6987440520342062352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_melee_walk_0: 7679244274099125007
+      knight_melee_walk_1: -4403076626554524580
+      knight_melee_walk_10: -3186697671861793937
+      knight_melee_walk_11: -3687815711817108055
+      knight_melee_walk_12: 3887889750484342084
+      knight_melee_walk_13: -1242348748225353579
+      knight_melee_walk_14: -4441193274469213628
+      knight_melee_walk_15: -2657733692326818926
+      knight_melee_walk_16: -9205752464577193688
+      knight_melee_walk_17: -8763583252374219664
+      knight_melee_walk_18: -2327078832460347538
+      knight_melee_walk_19: 5194236970182624909
+      knight_melee_walk_2: 336315774616447242
+      knight_melee_walk_20: 2761772952973260766
+      knight_melee_walk_21: 2721886484875551439
+      knight_melee_walk_22: -2085812200108611665
+      knight_melee_walk_23: 6987440520342062352
+      knight_melee_walk_3: 7306419526226691500
+      knight_melee_walk_4: -5780614681302933341
+      knight_melee_walk_5: 1242419002489133439
+      knight_melee_walk_6: 3077441349414463217
+      knight_melee_walk_7: -8953314542583306129
+      knight_melee_walk_8: -1295301387821069611
+      knight_melee_walk_9: -9216485869141479312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

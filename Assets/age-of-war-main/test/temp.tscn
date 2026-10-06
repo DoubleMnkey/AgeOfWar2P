@@ -1,0 +1,57 @@
+[gd_scene load_steps=7 format=3 uid="uid://ci6wtkxjyeos0"]
+
+[ext_resource type="Texture2D" uid="uid://dli1o17atwjdp" path="res://age of war sprites/background.png" id="2_6c2qi"]
+[ext_resource type="Texture2D" uid="uid://71pvlksb1if3" path="res://age of war sprites/units/knight/tank/walk/knight_tank_walk0014.png" id="3_0i8so"]
+[ext_resource type="Texture2D" uid="uid://clbbt1yc40dte" path="res://age of war sprites/units/cave/melee/attack/cave_melee_attack.png0020.png" id="3_03nxn"]
+[ext_resource type="Texture2D" uid="uid://b1rjtgwf000ba" path="res://age of war sprites/units/cave/melee/attack/cave_melee_attack.png0001.png" id="4_vco27"]
+[ext_resource type="Texture2D" uid="uid://nxq7tdrrjvtl" path="res://age of war sprites/units/cave/range/walk_attack/cave_range_walk_attack0003.png" id="5_2d81j"]
+[ext_resource type="Texture2D" uid="uid://c5foiu457f17" path="res://age of war sprites/units/knight/range/walk/knight_range_walk0001.png" id="6_a5kut"]
+
+[node name="temp" type="Node2D"]
+
+[node name="d" type="ColorRect" parent="."]
+custom_minimum_size = Vector2(600, 900)
+offset_left = 138.444
+offset_top = -1608.0
+offset_right = 4440.44
+offset_bottom = -471.0
+color = Color(0, 0.682353, 1, 1)
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(3932.44, -703)
+scale = Vector2(1.50141, 1.50141)
+texture = ExtResource("2_6c2qi")
+
+[node name="1232" type="ColorRect" parent="."]
+visible = false
+custom_minimum_size = Vector2(3840, 1240)
+offset_left = 362.0
+offset_top = -1467.0
+offset_right = 4202.0
+offset_bottom = -227.0
+color = Color(1, 1, 1, 0.509804)
+
+[node name="KnightTankWalk0014" type="Sprite2D" parent="."]
+position = Vector2(2735.44, -735)
+scale = Vector2(-3, 3)
+texture = ExtResource("3_0i8so")
+
+[node name="CaveMeleeAttack_png0020" type="Sprite2D" parent="."]
+position = Vector2(2189.44, -659)
+scale = Vector2(3, 3)
+texture = ExtResource("3_03nxn")
+
+[node name="CaveMeleeAttack_png0001" type="Sprite2D" parent="."]
+position = Vector2(1861.44, -659)
+scale = Vector2(3, 3)
+texture = ExtResource("4_vco27")
+
+[node name="CaveRangeWalkAttack0003" type="Sprite2D" parent="."]
+position = Vector2(1345.44, -593)
+scale = Vector2(3, 3)
+texture = ExtResource("5_2d81j")
+
+[node name="KnightRangeWalk0001" type="Sprite2D" parent="."]
+position = Vector2(3799.44, -635)
+scale = Vector2(-3, 3)
+texture = ExtResource("6_a5kut")

@@ -1,0 +1,171 @@
+[gd_scene load_steps=36 format=3 uid="uid://ciqbtq7y6ep6y"]
+
+[ext_resource type="Script" path="res://cave_special_projectile.gd" id="1_c62pa"]
+[ext_resource type="Texture2D" uid="uid://bs5jqltnpvt3t" path="res://age of war sprites/effects/fire_trail.png" id="1_jl2rg"]
+[ext_resource type="Texture2D" uid="uid://b57y8hbyxg1na" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0001.png" id="3_3tb6g"]
+[ext_resource type="Texture2D" uid="uid://dcnsi731lrg2n" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0002.png" id="4_esy2h"]
+[ext_resource type="Texture2D" uid="uid://cj53sngpmrfvb" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0003.png" id="5_ysweb"]
+[ext_resource type="Texture2D" uid="uid://blvmk2arvbiln" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0004.png" id="6_3xxnp"]
+[ext_resource type="Texture2D" uid="uid://daw5xyy8w3vf2" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0005.png" id="7_lncmp"]
+[ext_resource type="Texture2D" uid="uid://bwaiq3oxvvpvh" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0006.png" id="8_eqs1t"]
+[ext_resource type="Texture2D" uid="uid://bslrixmxf2nh6" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0007.png" id="9_ftkw4"]
+[ext_resource type="Texture2D" uid="uid://dm2cn3xywlqop" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0008.png" id="10_btlmj"]
+[ext_resource type="Texture2D" uid="uid://c2r1wmv3tehmt" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0009.png" id="11_0etja"]
+[ext_resource type="Texture2D" uid="uid://dnnosapxakca1" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0010.png" id="12_k26sk"]
+[ext_resource type="Texture2D" uid="uid://bme0igs44a5bt" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0011.png" id="13_lv03s"]
+[ext_resource type="Texture2D" uid="uid://dbvrqtpnkn0kr" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0012.png" id="14_pjc14"]
+[ext_resource type="Texture2D" uid="uid://dyue52n07s1uv" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0013.png" id="15_pryje"]
+[ext_resource type="Texture2D" uid="uid://btum7ljqf1pgg" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0014.png" id="16_i52iw"]
+[ext_resource type="Texture2D" uid="uid://cmdiirs74yvbx" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0015.png" id="17_t1a24"]
+[ext_resource type="Texture2D" uid="uid://f0i2woy51sin" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0016.png" id="18_dsc73"]
+[ext_resource type="Texture2D" uid="uid://bufqqrhptynjv" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0017.png" id="19_a0dth"]
+[ext_resource type="Texture2D" uid="uid://jwlrdursayah" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0018.png" id="20_kcthd"]
+[ext_resource type="Texture2D" uid="uid://0km7ej5p2ddb" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0019.png" id="21_332y6"]
+[ext_resource type="Texture2D" uid="uid://c0iwd60tsw04p" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0020.png" id="22_2kvyq"]
+[ext_resource type="Texture2D" uid="uid://cy0b24mlu6gpv" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0021.png" id="23_d8gvr"]
+[ext_resource type="Texture2D" uid="uid://ct56hdebe28pc" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0022.png" id="24_4y0d1"]
+[ext_resource type="Texture2D" uid="uid://k73oa4luubkr" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0023.png" id="25_yls76"]
+[ext_resource type="Texture2D" uid="uid://boucc4mtrfpwb" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0024.png" id="26_3ileu"]
+[ext_resource type="Texture2D" uid="uid://daako741xqaww" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0025.png" id="27_tkuaa"]
+[ext_resource type="Texture2D" uid="uid://buywybtxslnnj" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0026.png" id="28_tj0f0"]
+[ext_resource type="Texture2D" uid="uid://c1i7wcd5v21sw" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0027.png" id="29_dwqjo"]
+[ext_resource type="Texture2D" uid="uid://hhxbqt0bn4u6" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0028.png" id="30_hv3na"]
+[ext_resource type="Texture2D" uid="uid://dnh3lkpbdcm3x" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0029.png" id="31_6k0va"]
+[ext_resource type="Texture2D" uid="uid://duk1jdyok0f8p" path="res://age of war sprites/effects/cave_special_projectile/cave_special_projectile0030.png" id="32_6j5dm"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mt4pq"]
+size = Vector2(32, 32)
+
+[sub_resource type="Gradient" id="Gradient_t1ktk"]
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0.196078)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_uu1oe"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_3tb6g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_esy2h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_ysweb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_3xxnp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_lncmp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_eqs1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_ftkw4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_btlmj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_0etja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_k26sk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_lv03s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_pjc14")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_pryje")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_i52iw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_t1a24")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_dsc73")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_a0dth")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_kcthd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_332y6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_2kvyq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_d8gvr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_4y0d1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_yls76")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_3ileu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_tkuaa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_tj0f0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_dwqjo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_hv3na")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_6k0va")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_6j5dm")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="cave_special_projectile" type="Area2D"]
+script = ExtResource("1_c62pa")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_mt4pq")
+
+[node name="CPUParticles2D" type="CPUParticles2D" parent="."]
+position = Vector2(0, -24)
+amount = 16
+texture = ExtResource("1_jl2rg")
+emission_shape = 3
+emission_rect_extents = Vector2(1, 4)
+particle_flag_align_y = true
+direction = Vector2(-1, 0)
+spread = 10.0
+gravity = Vector2(0, 0)
+initial_velocity_min = 1.0
+initial_velocity_max = 1.0
+scale_amount_min = 0.5
+scale_amount_max = 0.5
+color_ramp = SubResource("Gradient_t1ktk")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+rotation = 1.57079
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_uu1oe")
+autoplay = "default"
+frame = 5
+frame_progress = 0.2502
+offset = Vector2(-42.225, 0)

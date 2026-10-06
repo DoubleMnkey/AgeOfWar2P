@@ -1,0 +1,57 @@
+[gd_scene load_steps=9 format=3 uid="uid://cdwj7ynfxhkm7"]
+
+[ext_resource type="Script" path="res://future_special_laser.gd" id="1_1hx1a"]
+[ext_resource type="Texture2D" uid="uid://bygu4kcr2gw7p" path="res://age of war sprites/effects/future_special/future_special_attack0002.png" id="1_eppte"]
+[ext_resource type="Texture2D" uid="uid://cj08p4xc1rta6" path="res://age of war sprites/effects/future_special/future_special_attack0003.png" id="2_cdsws"]
+[ext_resource type="Texture2D" uid="uid://d0jxw6uqmr4dp" path="res://age of war sprites/effects/future_special/future_special_attack0004.png" id="3_v71tf"]
+[ext_resource type="Texture2D" uid="uid://bksstt2x06hwd" path="res://age of war sprites/effects/future_special/future_special_attack0005.png" id="4_glpjd"]
+[ext_resource type="AudioStream" uid="uid://7evknfnxhb7c" path="res://age of war sprites/audio/sfx/future_tank_attack.mp3" id="5_74yc3"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_wtv8e"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": null
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_eppte")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_cdsws")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_v71tf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_glpjd")
+}, {
+"duration": 1.0,
+"texture": null
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ehapt"]
+size = Vector2(48, 88)
+
+[node name="future_special_laser" type="Area2D"]
+script = ExtResource("1_1hx1a")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(3, -636)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_wtv8e")
+autoplay = "default"
+frame = 5
+frame_progress = 1.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -44)
+shape = SubResource("RectangleShape2D_ehapt")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("5_74yc3")
+
+[connection signal="finished" from="AudioStreamPlayer2D" to="." method="_on_audio_stream_player_2d_finished"]

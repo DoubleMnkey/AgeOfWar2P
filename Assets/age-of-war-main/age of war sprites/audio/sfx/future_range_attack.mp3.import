@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://rfma7ixfw3st"
+path="res://.godot/imported/future_range_attack.mp3-65d4dec66d76f41b78cd5eeb224494ce.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/future_range_attack.mp3"
+dest_files=["res://.godot/imported/future_range_attack.mp3-65d4dec66d76f41b78cd5eeb224494ce.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

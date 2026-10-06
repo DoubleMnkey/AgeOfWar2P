@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 4e7575ae7a7b0b445bad49f4f3d8ee5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8586572782254124062
+    second: medival_melee_walk_0
+  - first:
+      213: -1329542280156061877
+    second: medival_melee_walk_1
+  - first:
+      213: 2843885454402662320
+    second: medival_melee_walk_2
+  - first:
+      213: 5323684850927710319
+    second: medival_melee_walk_3
+  - first:
+      213: -560898679235063842
+    second: medival_melee_walk_4
+  - first:
+      213: 6483085894411950615
+    second: medival_melee_walk_5
+  - first:
+      213: 1930433708609277323
+    second: medival_melee_walk_6
+  - first:
+      213: -8243802677593937792
+    second: medival_melee_walk_7
+  - first:
+      213: -2748945901416667968
+    second: medival_melee_walk_8
+  - first:
+      213: -477429436549316323
+    second: medival_melee_walk_9
+  - first:
+      213: 2827867059343193456
+    second: medival_melee_walk_10
+  - first:
+      213: 317612511201382781
+    second: medival_melee_walk_11
+  - first:
+      213: -7728509326131790033
+    second: medival_melee_walk_12
+  - first:
+      213: 1254614605625869591
+    second: medival_melee_walk_13
+  - first:
+      213: -6481041243737831114
+    second: medival_melee_walk_14
+  - first:
+      213: 233380106981117195
+    second: medival_melee_walk_15
+  - first:
+      213: 8984984771607765014
+    second: medival_melee_walk_16
+  - first:
+      213: 544204154929756252
+    second: medival_melee_walk_17
+  - first:
+      213: 8356315462674191540
+    second: medival_melee_walk_18
+  - first:
+      213: -2625864491782427092
+    second: medival_melee_walk_19
+  - first:
+      213: 3088007806781066554
+    second: medival_melee_walk_20
+  - first:
+      213: 6747083570712385515
+    second: medival_melee_walk_21
+  - first:
+      213: -998991055808693237
+    second: medival_melee_walk_22
+  - first:
+      213: -4016675702619385403
+    second: medival_melee_walk_23
+  - first:
+      213: -395380242993972380
+    second: medival_melee_walk_24
+  - first:
+      213: -7338705903238477047
+    second: medival_melee_walk_25
+  - first:
+      213: 219316562248920977
+    second: medival_melee_walk_26
+  - first:
+      213: -565975785729068839
+    second: medival_melee_walk_27
+  - first:
+      213: -8546090486131292324
+    second: medival_melee_walk_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_melee_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 58
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c6b4ca372a92770800000000000000
+      internalID: 8586572782254124062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 448
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5f6527548c8de0800000000000000
+      internalID: -1329542280156061877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 448
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2293d0c2877720800000000000000
+      internalID: 2843885454402662320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 323
+        width: 51
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60bca37a2781e940800000000000000
+      internalID: 5323684850927710319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 448
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf453d7f994738f0800000000000000
+      internalID: -560898679235063842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 323
+        width: 52
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a15c8a54c88f950800000000000000
+      internalID: 6483085894411950615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8818ea374aca10800000000000000
+      internalID: 1930433708609277323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 323
+        width: 54
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088699b6421289d80800000000000000
+      internalID: -8243802677593937792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 449
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c42b476448c9d9d0800000000000000
+      internalID: -2748945901416667968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 323
+        width: 55
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11c92df474df59f0800000000000000
+      internalID: -477429436549316323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 323
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075fd289b1a9e3720800000000000000
+      internalID: 2827867059343193456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 449
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d06a65e2686400800000000000000
+      internalID: 317612511201382781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 324
+        width: 58
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ffe9c17b1deb490800000000000000
+      internalID: -7728509326131790033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 324
+        width: 60
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715c85a2659496110800000000000000
+      internalID: 1254614605625869591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639c95ca357be06a0800000000000000
+      internalID: -6481041243737831114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 261
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d804688f12d3300800000000000000
+      internalID: 233380106981117195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 133
+        width: 49
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610a9f79b0411bc70800000000000000
+      internalID: 8984984771607765014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 261
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5831ebabc66d8700800000000000000
+      internalID: 544204154929756252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 133
+        width: 49
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49ccfb3a897f370800000000000000
+      internalID: 8356315462674191540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 261
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e2ffa382e0f8bd0800000000000000
+      internalID: -2625864491782427092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 133
+        width: 49
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d81d24dbecada20800000000000000
+      internalID: 3088007806781066554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 261
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be79f2e82c472ad50800000000000000
+      internalID: 6747083570712385515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 196
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cfab87deed222f0800000000000000
+      internalID: -998991055808693237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 133
+        width: 49
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1dd6fcab6e148c0800000000000000
+      internalID: -4016675702619385403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 260
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf22983c3538af0800000000000000
+      internalID: -395380242993972380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 196
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8866fcdda72a90800000000000000
+      internalID: -7338705903238477047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 196
+        width: 50
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fe43a504b2b0300800000000000000
+      internalID: 219316562248920977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 133
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0752485004528f0800000000000000
+      internalID: -565975785729068839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_walk_28
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 133
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c578cc36bff266980800000000000000
+      internalID: -8546090486131292324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_melee_walk_0: 8586572782254124062
+      medival_melee_walk_1: -1329542280156061877
+      medival_melee_walk_10: 2827867059343193456
+      medival_melee_walk_11: 317612511201382781
+      medival_melee_walk_12: -7728509326131790033
+      medival_melee_walk_13: 1254614605625869591
+      medival_melee_walk_14: -6481041243737831114
+      medival_melee_walk_15: 233380106981117195
+      medival_melee_walk_16: 8984984771607765014
+      medival_melee_walk_17: 544204154929756252
+      medival_melee_walk_18: 8356315462674191540
+      medival_melee_walk_19: -2625864491782427092
+      medival_melee_walk_2: 2843885454402662320
+      medival_melee_walk_20: 3088007806781066554
+      medival_melee_walk_21: 6747083570712385515
+      medival_melee_walk_22: -998991055808693237
+      medival_melee_walk_23: -4016675702619385403
+      medival_melee_walk_24: -395380242993972380
+      medival_melee_walk_25: -7338705903238477047
+      medival_melee_walk_26: 219316562248920977
+      medival_melee_walk_27: -565975785729068839
+      medival_melee_walk_28: -8546090486131292324
+      medival_melee_walk_3: 5323684850927710319
+      medival_melee_walk_4: -560898679235063842
+      medival_melee_walk_5: 6483085894411950615
+      medival_melee_walk_6: 1930433708609277323
+      medival_melee_walk_7: -8243802677593937792
+      medival_melee_walk_8: -2748945901416667968
+      medival_melee_walk_9: -477429436549316323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

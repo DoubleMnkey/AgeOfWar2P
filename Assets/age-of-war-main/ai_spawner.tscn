@@ -1,0 +1,33 @@
+[gd_scene load_steps=3 format=3 uid="uid://d4bgctdvogk2y"]
+
+[ext_resource type="Script" path="res://ai_spawner.gd" id="1_bbgo7"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_j04ul"]
+size = Vector2(32, 20)
+
+[node name="ai_spawner" type="Node2D"]
+script = ExtResource("1_bbgo7")
+
+[node name="unit_spawn_timer" type="Timer" parent="."]
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("RectangleShape2D_j04ul")
+debug_color = Color(0.960784, 0, 0.956863, 0.419608)
+
+[node name="change_age_timer" type="Timer" parent="."]
+wait_time = 120.0
+autostart = true
+
+[node name="turret_timer" type="Timer" parent="."]
+wait_time = 30.0
+
+[node name="phase_timer" type="Timer" parent="."]
+
+[connection signal="timeout" from="unit_spawn_timer" to="." method="_on_timer_timeout"]
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
+[connection signal="body_exited" from="Area2D" to="." method="_on_area_2d_body_exited"]
+[connection signal="timeout" from="change_age_timer" to="." method="_on_timer_2_timeout"]
+[connection signal="timeout" from="turret_timer" to="." method="_on_timer_3_timeout"]
+[connection signal="timeout" from="phase_timer" to="." method="_on_phase_timer_timeout"]

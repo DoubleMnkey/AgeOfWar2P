@@ -1,0 +1,833 @@
+[gd_scene load_steps=190 format=3 uid="uid://dexhbnofnhph0"]
+
+[ext_resource type="Script" path="res://units/cave/tank/cave_tank.gd" id="1_egoxl"]
+[ext_resource type="Texture2D" uid="uid://bicw4vxjolkse" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0001.png" id="2_jol8u"]
+[ext_resource type="Texture2D" uid="uid://dvixyo0jwi657" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0002.png" id="3_tpljt"]
+[ext_resource type="Texture2D" uid="uid://d3ei0nh1mkqjo" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0003.png" id="4_e38ap"]
+[ext_resource type="Texture2D" uid="uid://drxcf236qeynl" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0004.png" id="5_y4nt6"]
+[ext_resource type="Texture2D" uid="uid://fqsx7slvptni" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0005.png" id="6_mvayh"]
+[ext_resource type="Texture2D" uid="uid://jfemwk2d8vkn" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0006.png" id="7_ph7a0"]
+[ext_resource type="Texture2D" uid="uid://dqo0t1l7x8oyp" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0007.png" id="8_06ey4"]
+[ext_resource type="Texture2D" uid="uid://caa4re65v8kex" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0008.png" id="9_cbfb3"]
+[ext_resource type="Texture2D" uid="uid://cpjnchifvf4ve" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0009.png" id="10_b75ws"]
+[ext_resource type="Texture2D" uid="uid://bue0ss4p6xhbw" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0010.png" id="11_m8q78"]
+[ext_resource type="Texture2D" uid="uid://d3ke4fje00b1u" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0011.png" id="12_t4x8m"]
+[ext_resource type="Texture2D" uid="uid://buj80ic4qttro" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0012.png" id="13_c1ve2"]
+[ext_resource type="Texture2D" uid="uid://bqk65mytfts6w" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0013.png" id="14_u45xg"]
+[ext_resource type="Texture2D" uid="uid://cv2ob3kuov5y6" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0014.png" id="15_oh4gm"]
+[ext_resource type="Texture2D" uid="uid://2c252wfvcmnc" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0015.png" id="16_vptgv"]
+[ext_resource type="Texture2D" uid="uid://bkbbt1hns3xim" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0016.png" id="17_apt63"]
+[ext_resource type="Texture2D" uid="uid://cx5r4yckpsoko" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0017.png" id="18_laqxb"]
+[ext_resource type="Texture2D" uid="uid://oxwvwqfsxxeu" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0018.png" id="19_jfmas"]
+[ext_resource type="Texture2D" uid="uid://r4g7w2c01nwl" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0019.png" id="20_4kjet"]
+[ext_resource type="Texture2D" uid="uid://cej0kwyx624oo" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0020.png" id="21_ksjxp"]
+[ext_resource type="Texture2D" uid="uid://catyxlug7o2q0" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0021.png" id="22_nexde"]
+[ext_resource type="Texture2D" uid="uid://15y4nkiy8ix1" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0022.png" id="23_ue32l"]
+[ext_resource type="Texture2D" uid="uid://6h1tybttra54" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0023.png" id="24_hdmj4"]
+[ext_resource type="Texture2D" uid="uid://dkbd0re7homot" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0024.png" id="25_enuea"]
+[ext_resource type="Texture2D" uid="uid://cix6vk0vrfh75" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0025.png" id="26_1l7q8"]
+[ext_resource type="Texture2D" uid="uid://qytjqxnvjwdg" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0026.png" id="27_u66ek"]
+[ext_resource type="Texture2D" uid="uid://csc54lod7h8dx" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0027.png" id="28_o2puf"]
+[ext_resource type="Texture2D" uid="uid://b5ybno1c7mtig" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0028.png" id="29_ons8n"]
+[ext_resource type="Texture2D" uid="uid://durb0mx5tdvj6" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0029.png" id="30_apqvr"]
+[ext_resource type="Texture2D" uid="uid://cv8r7ea5xrbt6" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0030.png" id="31_l8w8t"]
+[ext_resource type="Texture2D" uid="uid://bamt7gal8i12k" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0031.png" id="32_368r8"]
+[ext_resource type="Texture2D" uid="uid://cdrwgimj7ilr1" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0032.png" id="33_0qxcl"]
+[ext_resource type="Texture2D" uid="uid://bul1025wdfhrb" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0033.png" id="34_tshji"]
+[ext_resource type="Texture2D" uid="uid://c0bc2xipyqcfm" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0034.png" id="35_etafh"]
+[ext_resource type="Texture2D" uid="uid://bktsq0btjnmnu" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0035.png" id="36_4we5h"]
+[ext_resource type="Texture2D" uid="uid://dijo83bxws36k" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0036.png" id="37_hb1y3"]
+[ext_resource type="Texture2D" uid="uid://bnggcdw64t5p2" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0037.png" id="38_1geoo"]
+[ext_resource type="Texture2D" uid="uid://ckmkl2b0cf0bo" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0038.png" id="39_xwolh"]
+[ext_resource type="Texture2D" uid="uid://bxgb8g6s8v3ks" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0039.png" id="40_p37xk"]
+[ext_resource type="Texture2D" uid="uid://cboakql7lqr3i" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0040.png" id="41_hihru"]
+[ext_resource type="Texture2D" uid="uid://cf4yjc51kmfdc" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0041.png" id="42_cs2nn"]
+[ext_resource type="Texture2D" uid="uid://x6hpj4b18gai" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0042.png" id="43_70cit"]
+[ext_resource type="Texture2D" uid="uid://bb4cgimt7264g" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0043.png" id="44_hfggh"]
+[ext_resource type="Texture2D" uid="uid://fjn8m1kmesac" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0044.png" id="45_50ovh"]
+[ext_resource type="Texture2D" uid="uid://dn6cwlx43hvih" path="res://age of war sprites/units/cave/tank/attack/cave_tank_attack0045.png" id="46_anff3"]
+[ext_resource type="Texture2D" uid="uid://doxhmw5hantxa" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0001.png" id="47_ia3lq"]
+[ext_resource type="Texture2D" uid="uid://doftyb7e4h3nq" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0002.png" id="48_0ey63"]
+[ext_resource type="Texture2D" uid="uid://bf18r0jx41tom" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0003.png" id="49_a1krh"]
+[ext_resource type="Texture2D" uid="uid://dyogrtg8ef3wt" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0004.png" id="50_xo6ti"]
+[ext_resource type="Texture2D" uid="uid://cnfjmwubp1as1" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0005.png" id="51_5q40c"]
+[ext_resource type="Texture2D" uid="uid://bfkn1vpjujlur" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0006.png" id="52_uqxge"]
+[ext_resource type="Texture2D" uid="uid://bwiemlfjt0vd2" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0007.png" id="53_opib7"]
+[ext_resource type="Texture2D" uid="uid://creuwia6amib4" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0008.png" id="54_5w5i8"]
+[ext_resource type="Texture2D" uid="uid://e4x8oxm0ackp" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0009.png" id="55_mtxkp"]
+[ext_resource type="Texture2D" uid="uid://bskbhhu3w5mxl" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0010.png" id="56_2r76j"]
+[ext_resource type="Texture2D" uid="uid://cubh4hn18glky" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0011.png" id="57_h8hjc"]
+[ext_resource type="Texture2D" uid="uid://qmhy4f3okb4d" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0012.png" id="58_fyobh"]
+[ext_resource type="Texture2D" uid="uid://bj51ofcexagwb" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0013.png" id="59_1pf84"]
+[ext_resource type="Texture2D" uid="uid://c4vt7i0b16hrg" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0014.png" id="60_62yb0"]
+[ext_resource type="Texture2D" uid="uid://cfs1no54jbete" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0015.png" id="61_trj0i"]
+[ext_resource type="Texture2D" uid="uid://dr75n0v77uvmp" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0016.png" id="62_4k030"]
+[ext_resource type="Texture2D" uid="uid://dk8p2vqk032jp" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0017.png" id="63_xhfoe"]
+[ext_resource type="Texture2D" uid="uid://cm70jyk3oxla6" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0018.png" id="64_qw3kj"]
+[ext_resource type="Texture2D" uid="uid://dov3d2xw0sao7" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0019.png" id="65_e4mr6"]
+[ext_resource type="Texture2D" uid="uid://bmjxyyvjxec3h" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0020.png" id="66_i064o"]
+[ext_resource type="Texture2D" uid="uid://ch3mb8m55eg5b" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0021.png" id="67_aynoh"]
+[ext_resource type="Texture2D" uid="uid://b7wk1bxtosw3" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0022.png" id="68_d7muc"]
+[ext_resource type="Texture2D" uid="uid://drkpnaxem3c7v" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0023.png" id="69_vw4b3"]
+[ext_resource type="Texture2D" uid="uid://ca3kh5h6txuwm" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0024.png" id="70_dvjtj"]
+[ext_resource type="Texture2D" uid="uid://dbkicidg5h5mv" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0025.png" id="71_nfjjt"]
+[ext_resource type="Texture2D" uid="uid://cjxskg6gvmnkq" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0026.png" id="72_daobt"]
+[ext_resource type="Texture2D" uid="uid://bf7lvwnjv3h20" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0027.png" id="73_847es"]
+[ext_resource type="Texture2D" uid="uid://dbrvcpd3uqd5n" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0028.png" id="74_66ba1"]
+[ext_resource type="Texture2D" uid="uid://kn5eb7gpxktd" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0029.png" id="75_hl2ef"]
+[ext_resource type="Texture2D" uid="uid://c0ncsswoe0fie" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0030.png" id="76_orj84"]
+[ext_resource type="Texture2D" uid="uid://cn08nn2d3o1gr" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0031.png" id="77_jxpmp"]
+[ext_resource type="Texture2D" uid="uid://tvqne216n80i" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0032.png" id="78_ubqu1"]
+[ext_resource type="Texture2D" uid="uid://bnjawo8g2mudi" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0033.png" id="79_37j7a"]
+[ext_resource type="Texture2D" uid="uid://bpktynoylnj6l" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0034.png" id="80_1rhh8"]
+[ext_resource type="Texture2D" uid="uid://cjgmnb5rw6x4f" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0035.png" id="81_3lbvc"]
+[ext_resource type="Texture2D" uid="uid://ckcjuwkpaofi1" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0036.png" id="82_pohvu"]
+[ext_resource type="Texture2D" uid="uid://c8iuygd5uodpa" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0037.png" id="83_3bsqd"]
+[ext_resource type="Texture2D" uid="uid://daealo45tq6k" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0038.png" id="84_6nsj3"]
+[ext_resource type="Texture2D" uid="uid://dutbiayctx77u" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0039.png" id="85_8s8b5"]
+[ext_resource type="Texture2D" uid="uid://d0h6v3dfj5aex" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0040.png" id="86_x6pd7"]
+[ext_resource type="Texture2D" uid="uid://c5cibcltv74fk" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0041.png" id="87_tq05l"]
+[ext_resource type="Texture2D" uid="uid://dpsi0dwar6qew" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0042.png" id="88_7jyyq"]
+[ext_resource type="Texture2D" uid="uid://bl8v7ct5hjxf2" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0043.png" id="89_vs6dj"]
+[ext_resource type="Texture2D" uid="uid://b7h7vapsi0ng3" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0044.png" id="90_tiia1"]
+[ext_resource type="Texture2D" uid="uid://dfnm27g5vdu4j" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0045.png" id="91_8lavo"]
+[ext_resource type="Texture2D" uid="uid://3jovhmuk5shl" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0046.png" id="92_eijx6"]
+[ext_resource type="Texture2D" uid="uid://7vw4wwoiwdq7" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0047.png" id="93_3yuyd"]
+[ext_resource type="Texture2D" uid="uid://o8jv151w5ey3" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0048.png" id="94_amhde"]
+[ext_resource type="Texture2D" uid="uid://c1x8x05xl0100" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0049.png" id="95_87ga6"]
+[ext_resource type="Texture2D" uid="uid://860pn5jf3uq1" path="res://age of war sprites/units/cave/tank/die/cave_tank_die0050.png" id="96_cyf6w"]
+[ext_resource type="Texture2D" uid="uid://dmc31she04o07" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0001.png" id="97_wao7e"]
+[ext_resource type="Texture2D" uid="uid://cj4cbxvjckwlh" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0002.png" id="98_8anwo"]
+[ext_resource type="Texture2D" uid="uid://uo5ndk6k065s" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0003.png" id="99_hkkdu"]
+[ext_resource type="Texture2D" uid="uid://deibqf5kkcma7" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0004.png" id="100_qhgoq"]
+[ext_resource type="Texture2D" uid="uid://dcftcm500aw52" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0005.png" id="101_xqfoh"]
+[ext_resource type="Texture2D" uid="uid://dk50usinu6bmf" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0006.png" id="102_eulq6"]
+[ext_resource type="Texture2D" uid="uid://beu2qag23wm3" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0007.png" id="103_uqwxn"]
+[ext_resource type="Texture2D" uid="uid://d2tuw5dakoaa5" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0008.png" id="104_gdt0s"]
+[ext_resource type="Texture2D" uid="uid://c3t48ukddiog1" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0009.png" id="105_wnlcc"]
+[ext_resource type="Texture2D" uid="uid://d1ehdd2kmlc1n" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0010.png" id="106_xeyhs"]
+[ext_resource type="Texture2D" uid="uid://bvcloj553qg6f" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0011.png" id="107_monr8"]
+[ext_resource type="Texture2D" uid="uid://dp6yn702ohsi6" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0012.png" id="108_2yw04"]
+[ext_resource type="Texture2D" uid="uid://ct7qstseonntc" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0013.png" id="109_v1wlo"]
+[ext_resource type="Texture2D" uid="uid://f7ggn8xm2x1y" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0014.png" id="110_kkwyx"]
+[ext_resource type="Texture2D" uid="uid://3sfd5acwmj20" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0015.png" id="111_1ln3v"]
+[ext_resource type="Texture2D" uid="uid://bk4j1ho8m7yk5" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0016.png" id="112_22n2d"]
+[ext_resource type="Texture2D" uid="uid://csyenaqi7cn7i" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0017.png" id="113_ajkfv"]
+[ext_resource type="Texture2D" uid="uid://c2jdom73wqai5" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0018.png" id="114_vdf7r"]
+[ext_resource type="Texture2D" uid="uid://cxmv1s2dn5wan" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0019.png" id="115_3fp1n"]
+[ext_resource type="Texture2D" uid="uid://ya0i0ohtxvll" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0020.png" id="116_6l10u"]
+[ext_resource type="Texture2D" uid="uid://b1pvw7maee7h3" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0021.png" id="117_gp7m0"]
+[ext_resource type="Texture2D" uid="uid://cg1r38h5bx4g" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0022.png" id="118_min0q"]
+[ext_resource type="Texture2D" uid="uid://cydicgiwomkk1" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0023.png" id="119_4utwc"]
+[ext_resource type="Texture2D" uid="uid://c5jnc7f57vq8v" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0024.png" id="120_5ghta"]
+[ext_resource type="Texture2D" uid="uid://bigayc4ha1xy7" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0025.png" id="121_ityx2"]
+[ext_resource type="Texture2D" uid="uid://dyr6i361c10li" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0026.png" id="122_15mg2"]
+[ext_resource type="Texture2D" uid="uid://d1mg85pux4m80" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0027.png" id="123_e4g4q"]
+[ext_resource type="Texture2D" uid="uid://dsrryw2jppv0h" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0028.png" id="124_44qo8"]
+[ext_resource type="Texture2D" uid="uid://dtm5xqgbdnrkw" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0029.png" id="125_yimqd"]
+[ext_resource type="Texture2D" uid="uid://58v5v53vitc4" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0030.png" id="126_ub0hs"]
+[ext_resource type="Texture2D" uid="uid://ck1eagcdxtdon" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0031.png" id="127_q2lui"]
+[ext_resource type="Texture2D" uid="uid://cv28ao4prttej" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0032.png" id="128_0m7se"]
+[ext_resource type="Texture2D" uid="uid://c7l1ixwnwcwxe" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0033.png" id="129_tnere"]
+[ext_resource type="Texture2D" uid="uid://g75m6rivt2e0" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0034.png" id="130_s2jil"]
+[ext_resource type="Texture2D" uid="uid://cehrjyanmfv2n" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0035.png" id="131_0yfni"]
+[ext_resource type="Texture2D" uid="uid://dsq48bs5dhcu2" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0036.png" id="132_s62wd"]
+[ext_resource type="Texture2D" uid="uid://jl4kpvwylj2i" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0037.png" id="133_6cwc5"]
+[ext_resource type="Texture2D" uid="uid://bh7rrijbnt5bc" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0038.png" id="134_vh8kp"]
+[ext_resource type="Texture2D" uid="uid://urte8am37vxx" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0039.png" id="135_d5547"]
+[ext_resource type="Texture2D" uid="uid://eekmg6edwnwd" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0040.png" id="136_c61t3"]
+[ext_resource type="Texture2D" uid="uid://bgwx1aw3ewk72" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0041.png" id="137_u3o25"]
+[ext_resource type="Texture2D" uid="uid://c5iuh01qvper4" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0042.png" id="138_bxsxl"]
+[ext_resource type="Texture2D" uid="uid://2rom4xon5ctu" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0043.png" id="139_imnc0"]
+[ext_resource type="Texture2D" uid="uid://cfbcxqmvidbsx" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0044.png" id="140_qhmhs"]
+[ext_resource type="Texture2D" uid="uid://7v5xk6s8teqy" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0045.png" id="141_2h2h1"]
+[ext_resource type="Texture2D" uid="uid://dkc1bjmjq61d0" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0046.png" id="142_hyt7c"]
+[ext_resource type="Texture2D" uid="uid://d246iysv5t2qc" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0047.png" id="143_v8cxy"]
+[ext_resource type="Texture2D" uid="uid://c6pexu7pmfl1n" path="res://age of war sprites/units/cave/tank/idle/cave_tank_idle0048.png" id="144_y624q"]
+[ext_resource type="Texture2D" uid="uid://crvbop58pp5ym" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0001.png" id="145_s1f70"]
+[ext_resource type="Texture2D" uid="uid://b2uej73twqnrb" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0002.png" id="146_0bv5c"]
+[ext_resource type="Texture2D" uid="uid://b6mhg5qmqjrk2" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0003.png" id="147_6erke"]
+[ext_resource type="Texture2D" uid="uid://psvbfbt6pv14" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0004.png" id="148_3spmu"]
+[ext_resource type="Texture2D" uid="uid://b4bcu74yc53rc" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0005.png" id="149_ww8ho"]
+[ext_resource type="Texture2D" uid="uid://dkunjpb81ci6o" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0006.png" id="150_8qb4j"]
+[ext_resource type="Texture2D" uid="uid://bbbtl2ej4ev6y" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0007.png" id="151_8vfin"]
+[ext_resource type="Texture2D" uid="uid://0b6y2sqnumjn" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0008.png" id="152_2f65e"]
+[ext_resource type="Texture2D" uid="uid://5ayspjhikhix" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0009.png" id="153_0vjgj"]
+[ext_resource type="Texture2D" uid="uid://nvf47erjofey" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0010.png" id="154_cg4p4"]
+[ext_resource type="Texture2D" uid="uid://bj56mvwahlolm" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0011.png" id="155_ikdi0"]
+[ext_resource type="Texture2D" uid="uid://drk345ucpnqet" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0012.png" id="156_yk62n"]
+[ext_resource type="Texture2D" uid="uid://ttyjw4273vpg" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0013.png" id="157_kqbbs"]
+[ext_resource type="Texture2D" uid="uid://cjvs5b2s1ryxk" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0014.png" id="158_6gufd"]
+[ext_resource type="Texture2D" uid="uid://fvstjh2i4ycx" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0015.png" id="159_o27xb"]
+[ext_resource type="Texture2D" uid="uid://b8urxru06h6ay" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0016.png" id="160_p52wy"]
+[ext_resource type="Texture2D" uid="uid://btbptlfab721f" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0017.png" id="161_m2hfs"]
+[ext_resource type="Texture2D" uid="uid://buhst5hiqxurk" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0018.png" id="162_b33cb"]
+[ext_resource type="Texture2D" uid="uid://d1xplgfaeuhiv" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0019.png" id="163_fyc4b"]
+[ext_resource type="Texture2D" uid="uid://dy2stuvhr2oqs" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0020.png" id="164_o5fb3"]
+[ext_resource type="Texture2D" uid="uid://de8hrctkwamlw" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0021.png" id="165_8b2l6"]
+[ext_resource type="Texture2D" uid="uid://cg1p02a57b6ab" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0022.png" id="166_5gk4j"]
+[ext_resource type="Texture2D" uid="uid://bw6k7n21re81f" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0023.png" id="167_23qxb"]
+[ext_resource type="Texture2D" uid="uid://cego4056mldt8" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0024.png" id="168_4ul5c"]
+[ext_resource type="Texture2D" uid="uid://b2iswuochlt2d" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0025.png" id="169_bka4i"]
+[ext_resource type="Texture2D" uid="uid://dcyns3m12vcan" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0026.png" id="170_6fcok"]
+[ext_resource type="Texture2D" uid="uid://btmw2q4v6jrrs" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0027.png" id="171_2e6j2"]
+[ext_resource type="Texture2D" uid="uid://d4t01dk31ay" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0028.png" id="172_3g7s2"]
+[ext_resource type="Texture2D" uid="uid://c8hrif8m3ej1i" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0029.png" id="173_bhl0t"]
+[ext_resource type="Texture2D" uid="uid://46vsgp1d3sui" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0030.png" id="174_jfyj2"]
+[ext_resource type="Texture2D" uid="uid://c7imw4jdnr43n" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0031.png" id="175_8psht"]
+[ext_resource type="Texture2D" uid="uid://1xyqm258rsgt" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0032.png" id="176_2eo6n"]
+[ext_resource type="Texture2D" uid="uid://b4sbv81j2eukn" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0033.png" id="177_3daty"]
+[ext_resource type="Texture2D" uid="uid://bc8h2gsq4ogvu" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0034.png" id="178_1ojm3"]
+[ext_resource type="Texture2D" uid="uid://6rn17bh3kj60" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0035.png" id="179_to6bf"]
+[ext_resource type="Texture2D" uid="uid://c7aa5sc763yvl" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0036.png" id="180_a057b"]
+[ext_resource type="Texture2D" uid="uid://cr6s0nictvt6y" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0037.png" id="181_t6enb"]
+[ext_resource type="Texture2D" uid="uid://bv54tsgpel1eg" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0038.png" id="182_3t8qy"]
+[ext_resource type="Texture2D" uid="uid://dunieceiywyu0" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0039.png" id="183_honuv"]
+[ext_resource type="Texture2D" uid="uid://pcbk8jpy3g48" path="res://age of war sprites/units/cave/tank/walk/cave_tank_walk0040.png" id="184_dd02g"]
+[ext_resource type="AudioStream" uid="uid://bojyh5xe5fhh8" path="res://age of war sprites/audio/sfx/stab_02.mp3" id="185_713ou"]
+[ext_resource type="AudioStream" uid="uid://oqageoxma8v6" path="res://age of war sprites/audio/sfx/cave_tank_die.mp3" id="185_iie0a"]
+[ext_resource type="Texture2D" uid="uid://cr1r5c47lxi16" path="res://age of war sprites/effects/shadow.png" id="187_q6qqf"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ll4i1"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_jol8u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_tpljt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_e38ap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_y4nt6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_mvayh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ph7a0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_06ey4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_cbfb3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_b75ws")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_m8q78")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_t4x8m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_c1ve2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_u45xg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_oh4gm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_vptgv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_apt63")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_laqxb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_jfmas")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_4kjet")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ksjxp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_nexde")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_ue32l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_hdmj4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_enuea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_1l7q8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_u66ek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_o2puf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_ons8n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_apqvr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_l8w8t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_368r8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_0qxcl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_tshji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_etafh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_4we5h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_hb1y3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_1geoo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_xwolh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_p37xk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_hihru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_cs2nn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_70cit")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_hfggh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_50ovh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_anff3")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("47_ia3lq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_0ey63")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_a1krh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_xo6ti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_5q40c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_uqxge")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_opib7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_5w5i8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_mtxkp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_2r76j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_h8hjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_fyobh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_1pf84")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_62yb0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_trj0i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_4k030")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_xhfoe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_qw3kj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_e4mr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_i064o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_aynoh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_d7muc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_vw4b3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_dvjtj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_nfjjt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_daobt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_847es")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_66ba1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_hl2ef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_orj84")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_jxpmp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_ubqu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_37j7a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_1rhh8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_3lbvc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_pohvu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_3bsqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_6nsj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_8s8b5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_x6pd7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_tq05l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_7jyyq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_vs6dj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_tiia1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_8lavo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_eijx6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_3yuyd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_amhde")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_87ga6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_cyf6w")
+}],
+"loop": false,
+"name": &"die",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("97_wao7e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_8anwo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_hkkdu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_qhgoq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_xqfoh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_eulq6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_uqwxn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_gdt0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_wnlcc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_xeyhs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_monr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_2yw04")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_v1wlo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_kkwyx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_1ln3v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_22n2d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_ajkfv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_vdf7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_3fp1n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_6l10u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_gp7m0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_min0q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_4utwc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_5ghta")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_ityx2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_15mg2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_e4g4q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_44qo8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_yimqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_ub0hs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_q2lui")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_0m7se")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_tnere")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_s2jil")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_0yfni")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_s62wd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_6cwc5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_vh8kp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_d5547")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_c61t3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_u3o25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_bxsxl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_imnc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_qhmhs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_2h2h1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_hyt7c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_v8cxy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_y624q")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("145_s1f70")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_0bv5c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_6erke")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_3spmu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_ww8ho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_8qb4j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_8vfin")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_2f65e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_0vjgj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_cg4p4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_ikdi0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_yk62n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_kqbbs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_6gufd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_o27xb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_p52wy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_m2hfs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_b33cb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_fyc4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_o5fb3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_8b2l6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_5gk4j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_23qxb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_4ul5c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_bka4i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_6fcok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_2e6j2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_3g7s2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_bhl0t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_jfyj2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_8psht")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_2eo6n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_3daty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_1ojm3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_to6bf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_a057b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_t6enb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_3t8qy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_honuv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_dd02g")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 30.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_n6dwa"]
+size = Vector2(162, 130)
+
+[node name="cave_tank" type="RigidBody2D"]
+gravity_scale = 0.0
+lock_rotation = true
+script = ExtResource("1_egoxl")
+
+[node name="Shadow" type="Sprite2D" parent="."]
+texture = ExtResource("187_q6qqf")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(-32, -65)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_ll4i1")
+animation = &"attack"
+autoplay = "walk"
+flip_h = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -65)
+shape = SubResource("RectangleShape2D_n6dwa")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+position = Vector2(0, -44)
+target_position = Vector2(87, 0)
+
+[node name="death_timer" type="Timer" parent="."]
+
+[node name="Label" type="Label" parent="."]
+offset_left = -79.0
+offset_top = -153.0
+offset_right = -39.0
+offset_bottom = -130.0
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="hit_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("185_713ou")
+
+[node name="die_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("185_iie0a")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -24.0
+offset_top = -139.0
+offset_right = 24.0
+offset_bottom = -134.0
+
+[node name="health_bg" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.588235, 0.588235, 0.588235, 0.588235)
+
+[node name="health_bar" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 0, 0, 1)
+
+[connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
+[connection signal="timeout" from="death_timer" to="." method="_on_death_timer_timeout"]

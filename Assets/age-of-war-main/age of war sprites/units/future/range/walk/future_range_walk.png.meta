@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 7cbb9b4bf04aa7847bab12df8d932327
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8472282694544950723
+    second: future_range_walk_0
+  - first:
+      213: -5637836360640405628
+    second: future_range_walk_1
+  - first:
+      213: -3468679520486558299
+    second: future_range_walk_2
+  - first:
+      213: 4581401284727960162
+    second: future_range_walk_3
+  - first:
+      213: -3992701088072225248
+    second: future_range_walk_4
+  - first:
+      213: 3793434784132617304
+    second: future_range_walk_5
+  - first:
+      213: 5646742252938144786
+    second: future_range_walk_6
+  - first:
+      213: 7663321300724201308
+    second: future_range_walk_7
+  - first:
+      213: -1422813393513006820
+    second: future_range_walk_8
+  - first:
+      213: 9017461654902142718
+    second: future_range_walk_9
+  - first:
+      213: -6757643412992850658
+    second: future_range_walk_10
+  - first:
+      213: -5270225542107023734
+    second: future_range_walk_11
+  - first:
+      213: -6199639969686979532
+    second: future_range_walk_12
+  - first:
+      213: 1359284701666085623
+    second: future_range_walk_13
+  - first:
+      213: -1954799615351282306
+    second: future_range_walk_14
+  - first:
+      213: 200390695562826679
+    second: future_range_walk_15
+  - first:
+      213: 5770703353689141881
+    second: future_range_walk_16
+  - first:
+      213: 3023912532751232892
+    second: future_range_walk_17
+  - first:
+      213: 5293139986327092447
+    second: future_range_walk_18
+  - first:
+      213: 5197897979601695498
+    second: future_range_walk_19
+  - first:
+      213: 826715430058807289
+    second: future_range_walk_20
+  - first:
+      213: -7517915978132015133
+    second: future_range_walk_21
+  - first:
+      213: -7648419243202095360
+    second: future_range_walk_22
+  - first:
+      213: 6035340609336611345
+    second: future_range_walk_23
+  - first:
+      213: -953806259291437880
+    second: future_range_walk_24
+  - first:
+      213: -8683708170537312508
+    second: future_range_walk_25
+  - first:
+      213: -8642214159911663057
+    second: future_range_walk_26
+  - first:
+      213: -7283628867332431836
+    second: future_range_walk_27
+  - first:
+      213: -6849580823436885251
+    second: future_range_walk_28
+  - first:
+      213: 985026334784875253
+    second: future_range_walk_29
+  - first:
+      213: -3451512921042843534
+    second: future_range_walk_30
+  - first:
+      213: 4492617702990459772
+    second: future_range_walk_31
+  - first:
+      213: -898834179202194893
+    second: future_range_walk_32
+  - first:
+      213: -7138671417472165052
+    second: future_range_walk_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_range_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c58a0df838939570800000000000000
+      internalID: 8472282694544950723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5f3653b162c1b0800000000000000
+      internalID: -5637836360640405628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 194
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f9bd9a56ccdfc0800000000000000
+      internalID: -3468679520486558299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2627ab5f138649f30800000000000000
+      internalID: 4581401284727960162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 193
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ea32fb3831798c0800000000000000
+      internalID: -3992701088072225248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 129
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d5d276dcf4a430800000000000000
+      internalID: 3793434784132617304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c219c49224d5e40800000000000000
+      internalID: 5646742252938144786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b959fe16995a60800000000000000
+      internalID: 7663321300724201308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c193df9c1c6214ce0800000000000000
+      internalID: -1422813393513006820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6f52c3995742d70800000000000000
+      internalID: 9017461654902142718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 130
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158dc19e170832a0800000000000000
+      internalID: -6757643412992850658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a863584dac56cd6b0800000000000000
+      internalID: -5270225542107023734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 130
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c7e7f6b4476f9a0800000000000000
+      internalID: -6199639969686979532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa0e6ffb362dd210800000000000000
+      internalID: 1359284701666085623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 131
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75aae75b182fd4e0800000000000000
+      internalID: -1954799615351282306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d051a64ee7c200800000000000000
+      internalID: 200390695562826679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972fbcc2028a51050800000000000000
+      internalID: 5770703353689141881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2d7a5d6817f920800000000000000
+      internalID: 3023912532751232892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc3177f5c2057940800000000000000
+      internalID: 5293139986327092447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 130
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0331ec3ca4a22840800000000000000
+      internalID: 5197897979601695498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 130
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4df2bd45197b00800000000000000
+      internalID: 826715430058807289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 130
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e73530ef3ffaa790800000000000000
+      internalID: -7517915978132015133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075daba83b5bd590800000000000000
+      internalID: -7648419243202095360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129ffdbe46d1c350800000000000000
+      internalID: 6035340609336611345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c36ab24663c2f0800000000000000
+      internalID: -953806259291437880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f57f95d654d7780800000000000000
+      internalID: -8683708170537312508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 63
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a4d9d8200b01880800000000000000
+      internalID: -8642214159911663057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 63
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420aedea22a5bea90800000000000000
+      internalID: -7283628867332431836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df287be188661f0a0800000000000000
+      internalID: -6849580823436885251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 64
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae14b8b348bad00800000000000000
+      internalID: 985026334784875253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27802930943c910d0800000000000000
+      internalID: -3451512921042843534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b06a7ffbf85e30800000000000000
+      internalID: 4492617702990459772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_32
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3326ca48313b683f0800000000000000
+      internalID: -898834179202194893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_walk_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b56590b285eec90800000000000000
+      internalID: -7138671417472165052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_range_walk_0: 8472282694544950723
+      future_range_walk_1: -5637836360640405628
+      future_range_walk_10: -6757643412992850658
+      future_range_walk_11: -5270225542107023734
+      future_range_walk_12: -6199639969686979532
+      future_range_walk_13: 1359284701666085623
+      future_range_walk_14: -1954799615351282306
+      future_range_walk_15: 200390695562826679
+      future_range_walk_16: 5770703353689141881
+      future_range_walk_17: 3023912532751232892
+      future_range_walk_18: 5293139986327092447
+      future_range_walk_19: 5197897979601695498
+      future_range_walk_2: -3468679520486558299
+      future_range_walk_20: 826715430058807289
+      future_range_walk_21: -7517915978132015133
+      future_range_walk_22: -7648419243202095360
+      future_range_walk_23: 6035340609336611345
+      future_range_walk_24: -953806259291437880
+      future_range_walk_25: -8683708170537312508
+      future_range_walk_26: -8642214159911663057
+      future_range_walk_27: -7283628867332431836
+      future_range_walk_28: -6849580823436885251
+      future_range_walk_29: 985026334784875253
+      future_range_walk_3: 4581401284727960162
+      future_range_walk_30: -3451512921042843534
+      future_range_walk_31: 4492617702990459772
+      future_range_walk_32: -898834179202194893
+      future_range_walk_33: -7138671417472165052
+      future_range_walk_4: -3992701088072225248
+      future_range_walk_5: 3793434784132617304
+      future_range_walk_6: 5646742252938144786
+      future_range_walk_7: 7663321300724201308
+      future_range_walk_8: -1422813393513006820
+      future_range_walk_9: 9017461654902142718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: be48d561cc3298144bdacb95e5c041e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5816913855243160356
+    second: knight_tank_walk_0
+  - first:
+      213: 6455547659547835755
+    second: knight_tank_walk_1
+  - first:
+      213: -1582858720221197710
+    second: knight_tank_walk_2
+  - first:
+      213: -4304513591336092867
+    second: knight_tank_walk_3
+  - first:
+      213: -6646097041457563798
+    second: knight_tank_walk_4
+  - first:
+      213: 2786504080130369631
+    second: knight_tank_walk_5
+  - first:
+      213: -5042133252461174788
+    second: knight_tank_walk_6
+  - first:
+      213: 559192011954209457
+    second: knight_tank_walk_7
+  - first:
+      213: -847242290352657806
+    second: knight_tank_walk_8
+  - first:
+      213: -6787049008958334402
+    second: knight_tank_walk_9
+  - first:
+      213: 4739841244164242827
+    second: knight_tank_walk_10
+  - first:
+      213: -3236522333552294563
+    second: knight_tank_walk_11
+  - first:
+      213: -7517947710129570416
+    second: knight_tank_walk_12
+  - first:
+      213: -5741841941000714421
+    second: knight_tank_walk_13
+  - first:
+      213: -7145122078395946318
+    second: knight_tank_walk_14
+  - first:
+      213: 3123353203849779590
+    second: knight_tank_walk_15
+  - first:
+      213: -4424924753063233896
+    second: knight_tank_walk_16
+  - first:
+      213: -1699129265065933918
+    second: knight_tank_walk_17
+  - first:
+      213: -6671527168358449246
+    second: knight_tank_walk_18
+  - first:
+      213: 697165197952461530
+    second: knight_tank_walk_19
+  - first:
+      213: 3696110733618508448
+    second: knight_tank_walk_20
+  - first:
+      213: 6371254942931507704
+    second: knight_tank_walk_21
+  - first:
+      213: 8623081202806130187
+    second: knight_tank_walk_22
+  - first:
+      213: -821634523123652609
+    second: knight_tank_walk_23
+  - first:
+      213: 2378096071190333163
+    second: knight_tank_walk_24
+  - first:
+      213: -1326935585122899360
+    second: knight_tank_walk_25
+  - first:
+      213: -5305332850386741916
+    second: knight_tank_walk_26
+  - first:
+      213: 4693856754561024437
+    second: knight_tank_walk_27
+  - first:
+      213: 6628267544270997582
+    second: knight_tank_walk_28
+  - first:
+      213: 7440357704589916784
+    second: knight_tank_walk_29
+  - first:
+      213: -3674688526164623553
+    second: knight_tank_walk_30
+  - first:
+      213: 5501524039759315010
+    second: knight_tank_walk_31
+  - first:
+      213: 2188581643544057433
+    second: knight_tank_walk_32
+  - first:
+      213: -7619432838359378576
+    second: knight_tank_walk_33
+  - first:
+      213: 587275850241978120
+    second: knight_tank_walk_34
+  - first:
+      213: -7465769795634672465
+    second: knight_tank_walk_35
+  - first:
+      213: 2835073874512070849
+    second: knight_tank_walk_36
+  - first:
+      213: 6913063628865274235
+    second: knight_tank_walk_37
+  - first:
+      213: 8219563947996140161
+    second: knight_tank_walk_38
+  - first:
+      213: 137393451667950123
+    second: knight_tank_walk_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_tank_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b01def454d9b050800000000000000
+      internalID: 5816913855243160356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6df3f5b466b69950800000000000000
+      internalID: 6455547659547835755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a069b516e880ae0800000000000000
+      internalID: -1582858720221197710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 371
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b3299e1bb4344c0800000000000000
+      internalID: -4304513591336092867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b52d04f154c3a0800000000000000
+      internalID: -6646097041457563798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 371
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58e85582b6aba620800000000000000
+      internalID: 2786504080130369631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffddd0758eb60ab0800000000000000
+      internalID: -5042133252461174788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 371
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b244c11c26a2c700800000000000000
+      internalID: 559192011954209457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a67d430adfd34f0800000000000000
+      internalID: -847242290352657806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 371
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a1fdbb2ee8fc1a0800000000000000
+      internalID: -6787049008958334402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db722bf7c47c140800000000000000
+      internalID: 4739841244164242827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 371
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d554ff0e5109513d0800000000000000
+      internalID: -3236522333552294563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df3c1b362eaa790800000000000000
+      internalID: -7517947710129570416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 372
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47863e1d21e050b0800000000000000
+      internalID: -5741841941000714421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baa860835d67dc90800000000000000
+      internalID: -7145122078395946318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 371
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6895b8fc031685b20800000000000000
+      internalID: 3123353203849779590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 441
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89635df91628792c0800000000000000
+      internalID: -4424924753063233896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 370
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a346409fea7b68e0800000000000000
+      internalID: -1699129265065933918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 441
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af70ac3369f963a0800000000000000
+      internalID: -6671527168358449246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_19
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 370
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa8b5cd04dca900800000000000000
+      internalID: 697165197952461530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2f6df11293b4330800000000000000
+      internalID: 3696110733618508448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f952ee3d9e3b6850800000000000000
+      internalID: 6371254942931507704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 299
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b068b9abaa65ba770800000000000000
+      internalID: 8623081202806130187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7640221c7f894f0800000000000000
+      internalID: -821634523123652609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 299
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be64d0de6c1b00120800000000000000
+      internalID: 2378096071190333163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aace0ad17c59de0800000000000000
+      internalID: -1326935585122899360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 299
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465dc75a1ebaf56b0800000000000000
+      internalID: -5305332850386741916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b18d2269dde32140800000000000000
+      internalID: 4693856754561024437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 299
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480684a6365cfb50800000000000000
+      internalID: 6628267544270997582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a3cef59e5714760800000000000000
+      internalID: 7440357704589916784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 299
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff0c93142e00dc0800000000000000
+      internalID: -3674688526164623553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240402147f6595c40800000000000000
+      internalID: 5501524039759315010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 299
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9565261c8676f5e10800000000000000
+      internalID: 2188581643544057433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07594a7f336524690800000000000000
+      internalID: -7619432838359378576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 299
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa6d6364c662800800000000000000
+      internalID: 587275850241978120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_35
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facca5c1de1446890800000000000000
+      internalID: -7465769795634672465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_36
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 299
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c848420ba4385720800000000000000
+      internalID: 2835073874512070849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_37
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7100345eb220ff50800000000000000
+      internalID: 6913063628865274235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 299
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182dae09cd1c11270800000000000000
+      internalID: 8219563947996140161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_walk_39
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 228
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0229cd9e18e100800000000000000
+      internalID: 137393451667950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_tank_walk_0: 5816913855243160356
+      knight_tank_walk_1: 6455547659547835755
+      knight_tank_walk_10: 4739841244164242827
+      knight_tank_walk_11: -3236522333552294563
+      knight_tank_walk_12: -7517947710129570416
+      knight_tank_walk_13: -5741841941000714421
+      knight_tank_walk_14: -7145122078395946318
+      knight_tank_walk_15: 3123353203849779590
+      knight_tank_walk_16: -4424924753063233896
+      knight_tank_walk_17: -1699129265065933918
+      knight_tank_walk_18: -6671527168358449246
+      knight_tank_walk_19: 697165197952461530
+      knight_tank_walk_2: -1582858720221197710
+      knight_tank_walk_20: 3696110733618508448
+      knight_tank_walk_21: 6371254942931507704
+      knight_tank_walk_22: 8623081202806130187
+      knight_tank_walk_23: -821634523123652609
+      knight_tank_walk_24: 2378096071190333163
+      knight_tank_walk_25: -1326935585122899360
+      knight_tank_walk_26: -5305332850386741916
+      knight_tank_walk_27: 4693856754561024437
+      knight_tank_walk_28: 6628267544270997582
+      knight_tank_walk_29: 7440357704589916784
+      knight_tank_walk_3: -4304513591336092867
+      knight_tank_walk_30: -3674688526164623553
+      knight_tank_walk_31: 5501524039759315010
+      knight_tank_walk_32: 2188581643544057433
+      knight_tank_walk_33: -7619432838359378576
+      knight_tank_walk_34: 587275850241978120
+      knight_tank_walk_35: -7465769795634672465
+      knight_tank_walk_36: 2835073874512070849
+      knight_tank_walk_37: 6913063628865274235
+      knight_tank_walk_38: 8219563947996140161
+      knight_tank_walk_39: 137393451667950123
+      knight_tank_walk_4: -6646097041457563798
+      knight_tank_walk_5: 2786504080130369631
+      knight_tank_walk_6: -5042133252461174788
+      knight_tank_walk_7: 559192011954209457
+      knight_tank_walk_8: -847242290352657806
+      knight_tank_walk_9: -6787049008958334402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

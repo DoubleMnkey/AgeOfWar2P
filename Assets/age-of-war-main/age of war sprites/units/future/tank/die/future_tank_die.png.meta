@@ -1,0 +1,2862 @@
+fileFormatVersion: 2
+guid: 1378ebe2d1a8ce740a60cea5a040bcdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7013881927802440348
+    second: future_tank_die_0
+  - first:
+      213: -2731522101210160022
+    second: future_tank_die_1
+  - first:
+      213: -5385948058490925376
+    second: future_tank_die_2
+  - first:
+      213: -1916647927707029370
+    second: future_tank_die_3
+  - first:
+      213: -3022258367620895688
+    second: future_tank_die_4
+  - first:
+      213: -6507901754797870486
+    second: future_tank_die_5
+  - first:
+      213: -3903587752913747981
+    second: future_tank_die_6
+  - first:
+      213: -1044331352480959893
+    second: future_tank_die_7
+  - first:
+      213: 6395625349771436984
+    second: future_tank_die_8
+  - first:
+      213: -6433413734267952833
+    second: future_tank_die_9
+  - first:
+      213: 1638143193453814367
+    second: future_tank_die_10
+  - first:
+      213: -6240206066564520912
+    second: future_tank_die_11
+  - first:
+      213: 7636432675659597101
+    second: future_tank_die_12
+  - first:
+      213: -7464526481986851473
+    second: future_tank_die_13
+  - first:
+      213: -2148030262772562387
+    second: future_tank_die_14
+  - first:
+      213: 8220351795594562808
+    second: future_tank_die_15
+  - first:
+      213: 228672299758097310
+    second: future_tank_die_16
+  - first:
+      213: -4597664460172193755
+    second: future_tank_die_17
+  - first:
+      213: -3886390078809705051
+    second: future_tank_die_18
+  - first:
+      213: 3275630480005371478
+    second: future_tank_die_19
+  - first:
+      213: 9153168745991283775
+    second: future_tank_die_20
+  - first:
+      213: -5524677097699201872
+    second: future_tank_die_21
+  - first:
+      213: 4138510999139320016
+    second: future_tank_die_22
+  - first:
+      213: 7106579620670732839
+    second: future_tank_die_23
+  - first:
+      213: -7406170085743386541
+    second: future_tank_die_24
+  - first:
+      213: -7079635937980489230
+    second: future_tank_die_25
+  - first:
+      213: -3833439447748163810
+    second: future_tank_die_26
+  - first:
+      213: 2326034384427142202
+    second: future_tank_die_27
+  - first:
+      213: -7932339191245560840
+    second: future_tank_die_28
+  - first:
+      213: -3264625770287321931
+    second: future_tank_die_29
+  - first:
+      213: 3697774363332057366
+    second: future_tank_die_30
+  - first:
+      213: 7355432958801116461
+    second: future_tank_die_31
+  - first:
+      213: -653432114562869575
+    second: future_tank_die_32
+  - first:
+      213: -3201914712872208598
+    second: future_tank_die_33
+  - first:
+      213: 1551517942747273162
+    second: future_tank_die_34
+  - first:
+      213: -1291919302289633879
+    second: future_tank_die_35
+  - first:
+      213: -4869797684191414837
+    second: future_tank_die_36
+  - first:
+      213: -2831894346131399522
+    second: future_tank_die_37
+  - first:
+      213: -8502370133337353678
+    second: future_tank_die_38
+  - first:
+      213: 7663152028720605330
+    second: future_tank_die_39
+  - first:
+      213: -4385362199988214979
+    second: future_tank_die_40
+  - first:
+      213: 2959932301747332591
+    second: future_tank_die_41
+  - first:
+      213: 3802510237994479448
+    second: future_tank_die_42
+  - first:
+      213: -4362178018702252043
+    second: future_tank_die_43
+  - first:
+      213: -8774548406271478306
+    second: future_tank_die_44
+  - first:
+      213: 1033782038342989813
+    second: future_tank_die_45
+  - first:
+      213: -8054378977556325733
+    second: future_tank_die_46
+  - first:
+      213: -4417300034763692926
+    second: future_tank_die_47
+  - first:
+      213: 5388299452587558450
+    second: future_tank_die_48
+  - first:
+      213: -8785251143674628422
+    second: future_tank_die_49
+  - first:
+      213: -2711424212556389529
+    second: future_tank_die_50
+  - first:
+      213: 7913285252132150740
+    second: future_tank_die_51
+  - first:
+      213: -8773619230289926803
+    second: future_tank_die_52
+  - first:
+      213: 966740470436111303
+    second: future_tank_die_53
+  - first:
+      213: 1348820149917989296
+    second: future_tank_die_54
+  - first:
+      213: 588807689484189015
+    second: future_tank_die_55
+  - first:
+      213: 4921127508106689280
+    second: future_tank_die_56
+  - first:
+      213: -3951100930483372835
+    second: future_tank_die_57
+  - first:
+      213: 1126327743731104682
+    second: future_tank_die_58
+  - first:
+      213: -8274746535596053003
+    second: future_tank_die_59
+  - first:
+      213: 7893360666264482819
+    second: future_tank_die_60
+  - first:
+      213: -4790619169659418268
+    second: future_tank_die_61
+  - first:
+      213: -8101273045551141344
+    second: future_tank_die_62
+  - first:
+      213: 3656619524203167054
+    second: future_tank_die_63
+  - first:
+      213: -4896443119127303574
+    second: future_tank_die_64
+  - first:
+      213: -7665024654707554485
+    second: future_tank_die_65
+  - first:
+      213: -594623120357506974
+    second: future_tank_die_66
+  - first:
+      213: 3751462872315446943
+    second: future_tank_die_67
+  - first:
+      213: 2160874764891000425
+    second: future_tank_die_68
+  - first:
+      213: -7874493672697488122
+    second: future_tank_die_69
+  - first:
+      213: 4382675848727647721
+    second: future_tank_die_70
+  - first:
+      213: 5887132888538258644
+    second: future_tank_die_71
+  - first:
+      213: 6879282237456746808
+    second: future_tank_die_72
+  - first:
+      213: -3554011189034080787
+    second: future_tank_die_73
+  - first:
+      213: -3220918437059042411
+    second: future_tank_die_74
+  - first:
+      213: -4197436224961721579
+    second: future_tank_die_75
+  - first:
+      213: 2571647156727368166
+    second: future_tank_die_76
+  - first:
+      213: 7344396240358060453
+    second: future_tank_die_77
+  - first:
+      213: -5242511991276957644
+    second: future_tank_die_78
+  - first:
+      213: -270382818220545615
+    second: future_tank_die_79
+  - first:
+      213: -189612727234648617
+    second: future_tank_die_80
+  - first:
+      213: 5014666779564923539
+    second: future_tank_die_81
+  - first:
+      213: -7493833036043462233
+    second: future_tank_die_82
+  - first:
+      213: -1850945379932829698
+    second: future_tank_die_83
+  - first:
+      213: -8673313166647395267
+    second: future_tank_die_84
+  - first:
+      213: -8932660329207481448
+    second: future_tank_die_85
+  - first:
+      213: -5157813173850764704
+    second: future_tank_die_86
+  - first:
+      213: -287395281080989578
+    second: future_tank_die_87
+  - first:
+      213: -2899971515220797012
+    second: future_tank_die_88
+  - first:
+      213: 8270085027057694746
+    second: future_tank_die_89
+  - first:
+      213: -6969917419363357286
+    second: future_tank_die_90
+  - first:
+      213: 7020785277110011674
+    second: future_tank_die_91
+  - first:
+      213: -7470678609689280199
+    second: future_tank_die_92
+  - first:
+      213: 7896912012485466127
+    second: future_tank_die_93
+  - first:
+      213: 8182787748665618816
+    second: future_tank_die_94
+  - first:
+      213: -8266100680864284494
+    second: future_tank_die_95
+  - first:
+      213: -8798018644297593065
+    second: future_tank_die_96
+  - first:
+      213: -4650110009931955549
+    second: future_tank_die_97
+  - first:
+      213: -5450522850888113979
+    second: future_tank_die_98
+  - first:
+      213: 3796458751125626853
+    second: future_tank_die_99
+  - first:
+      213: 3771152110139484269
+    second: future_tank_die_100
+  - first:
+      213: -805119161738624123
+    second: future_tank_die_101
+  - first:
+      213: -4533157879203062279
+    second: future_tank_die_102
+  - first:
+      213: -844531676075037529
+    second: future_tank_die_103
+  - first:
+      213: -7051949726174532185
+    second: future_tank_die_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_tank_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 123
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4233c370565160800000000000000
+      internalID: 7013881927802440348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 876
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a646d350f1fa71ad0800000000000000
+      internalID: -2731522101210160022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 874
+        width: 124
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce81fad6c44145b0800000000000000
+      internalID: -5385948058490925376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 872
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b8855dd2b665e0800000000000000
+      internalID: -1916647927707029370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 869
+        width: 124
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c218af608ce06d0800000000000000
+      internalID: -3022258367620895688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_5
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 867
+        width: 127
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62b12895d94fa5a0800000000000000
+      internalID: -6507901754797870486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 868
+        width: 136
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffb20eee9ba3d9c0800000000000000
+      internalID: -3903587752913747981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 868
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62b1930b2ac181f0800000000000000
+      internalID: -1044331352480959893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_8
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 867
+        width: 135
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b32c91ce53d1c850800000000000000
+      internalID: 6395625349771436984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_9
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 864
+        width: 138
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31e6db5b4ce7b6a0800000000000000
+      internalID: -6433413734267952833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_10
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 864
+        width: 132
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52e9012e8adbb610800000000000000
+      internalID: 1638143193453814367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_11
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 864
+        width: 137
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342f2df4a55669a0800000000000000
+      internalID: -6240206066564520912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_12
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 863
+        width: 129
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2540e71f0f0af960800000000000000
+      internalID: 7636432675659597101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_13
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 921
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d6da0a6bca86890800000000000000
+      internalID: -7464526481986851473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_14
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 863
+        width: 143
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2607a45bd9a032e0800000000000000
+      internalID: -2148030262772562387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_15
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 921
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8821a76e841270800000000000000
+      internalID: 8220351795594562808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 897
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939d0dbe386c2300800000000000000
+      internalID: 228672299758097310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_17
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 887
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5209ffe6880d130c0800000000000000
+      internalID: -4597664460172193755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_18
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 888
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f1f570d4c01ac0800000000000000
+      internalID: -3886390078809705051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_19
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 889
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65699280190657d20800000000000000
+      internalID: 3275630480005371478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_20
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 889
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a40a9a76960f70800000000000000
+      internalID: 9153168745991283775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 770
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc27ec53776453b0800000000000000
+      internalID: -5524677097699201872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 770
+        width: 116
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00fb2b3d1fe6930800000000000000
+      internalID: 4138510999139320016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 774
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72afb124384af9260800000000000000
+      internalID: 7106579620670732839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_24
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 775
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350242deb8ff73990800000000000000
+      internalID: -7406170085743386541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 771
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f16599bf9410cd90800000000000000
+      internalID: -7079635937980489230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 830
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e174009f123eccac0800000000000000
+      internalID: -3833439447748163810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 830
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ccf13e2fbb74020800000000000000
+      internalID: 2326034384427142202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_28
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 835
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f326eb688baae190800000000000000
+      internalID: -7932339191245560840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_29
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 835
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc207d9828b1b2d0800000000000000
+      internalID: -3264625770287321931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_30
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 838
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61914f91132215330800000000000000
+      internalID: 3697774363332057366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_31
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 838
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d7a862e4fb31660800000000000000
+      internalID: 7355432958801116461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_32
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 771
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6d5ae24fa8ee6f0800000000000000
+      internalID: -653432114562869575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_33
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 767
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27b72a78838093d0800000000000000
+      internalID: -3201914712872208598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 767
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac798104959188510800000000000000
+      internalID: 1551517942747273162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_35
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 802
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4e8c4d3e221ee0800000000000000
+      internalID: -1291919302289633879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_36
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 787
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc530c9bec00b6cb0800000000000000
+      internalID: -4869797684191414837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_37
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 802
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c9661a81713b8d0800000000000000
+      internalID: -2831894346131399522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_38
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 787
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23259854963810a80800000000000000
+      internalID: -8502370133337353678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_39
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 789
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a4b34b2cf85a60800000000000000
+      internalID: 7663152028720605330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_40
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 789
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33e64250501423c0800000000000000
+      internalID: -4385362199988214979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_41
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 793
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5aadcfebac31920800000000000000
+      internalID: 2959932301747332591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_42
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 793
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f62763aea35c430800000000000000
+      internalID: 3802510237994479448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_43
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 779
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f72c3c243e6673c0800000000000000
+      internalID: -4362178018702252043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_44
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f7bbc6ba8a3680800000000000000
+      internalID: -8774548406271478306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fc92694bb85e00800000000000000
+      internalID: 1033782038342989813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_46
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 784
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a916c6ef8193090800000000000000
+      internalID: -8054378977556325733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_47
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 784
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e691b50992b2c0800000000000000
+      internalID: -4417300034763692926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_48
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 774
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236c9eebdc517ca40800000000000000
+      internalID: 5388299452587558450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 776
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6fdae81a4841680800000000000000
+      internalID: -8785251143674628422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 764
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ee2f5b061f5ad0800000000000000
+      internalID: -2711424212556389529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd9caba203a1dd60800000000000000
+      internalID: 7913285252132150740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 764
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6568007bc7dd3680800000000000000
+      internalID: -8773619230289926803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3a65af55d8a6d00800000000000000
+      internalID: 966740470436111303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 766
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b930cda7c8f7b210800000000000000
+      internalID: 1348820149917989296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_55
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 762
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d39b4597ddb2800800000000000000
+      internalID: 588807689484189015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 768
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b3a17356b5b4440800000000000000
+      internalID: 4921127508106689280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 766
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcb2d633aeda29c0800000000000000
+      internalID: -3951100930483372835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_58
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 762
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab72c98d1581af00800000000000000
+      internalID: 1126327743731104682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 768
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd276b0ed13a2d80800000000000000
+      internalID: -8274746535596053003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 703
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3043cb484b9da8d60800000000000000
+      internalID: 7893360666264482819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_61
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 767
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469064a3f3d448db0800000000000000
+      internalID: -4790619169659418268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_62
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 703
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2a73661f729f80800000000000000
+      internalID: -8101273045551141344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_63
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 767
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d33ea651ceeb230800000000000000
+      internalID: 3656619524203167054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 123
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ae285fce65c0cb0800000000000000
+      internalID: -4896443119127303574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 758
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b478b8500bc50a590800000000000000
+      internalID: -7665024654707554485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2604bd72c697fb7f0800000000000000
+      internalID: -594623120357506974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_67
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 758
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96cd643b9fdf0430800000000000000
+      internalID: 3751462872315446943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e0f6d5628fcfd10800000000000000
+      internalID: 2160874764891000425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d1eccb9bd28b290800000000000000
+      internalID: -7874493672697488122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_70
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e55819c67462dc30800000000000000
+      internalID: 4382675848727647721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_71
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc97d6bb2c43b150800000000000000
+      internalID: 5887132888538258644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_72
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83983493fbe187f50800000000000000
+      internalID: 6879282237456746808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_73
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de52cdd47ad9daec0800000000000000
+      internalID: -3554011189034080787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_74
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e6942fbffc43d0800000000000000
+      internalID: -3220918437059042411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_75
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bcccb0ef5bfb5c0800000000000000
+      internalID: -4197436224961721579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_76
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c060c67350b320800000000000000
+      internalID: 2571647156727368166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_77
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 703
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1b144e7798ce560800000000000000
+      internalID: 7344396240358060453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 123
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301635be1bde37b0800000000000000
+      internalID: -5242511991276957644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9689662486f3cf0800000000000000
+      internalID: -270382818220545615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_80
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5294caa3c5e5df0800000000000000
+      internalID: -189612727234648617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_81
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a5beefddca79540800000000000000
+      internalID: 5014666779564923539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_82
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9da88ce8e800890800000000000000
+      internalID: -7493833036043462233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_83
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef70472dbfe1056e0800000000000000
+      internalID: -1850945379932829698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_84
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c734cc0a332a780800000000000000
+      internalID: -8673313166647395267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_85
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b3d5202c0d80480800000000000000
+      internalID: -8932660329207481448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_86
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a8bc2ee34cb68b0800000000000000
+      internalID: -5157813173850764704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_87
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6784b09b387f20cf0800000000000000
+      internalID: -287395281080989578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_88
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95388854b31c7d0800000000000000
+      internalID: -2899971515220797012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_89
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18fc0ce38e35c270800000000000000
+      internalID: 8270085027057694746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_90
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d2a090901e54f90800000000000000
+      internalID: -6969917419363357286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_91
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 543
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a174f660307de6160800000000000000
+      internalID: 7020785277110011674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 123
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318c56c261d25890800000000000000
+      internalID: -7470678609689280199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0816beb2a7779d60800000000000000
+      internalID: 7896912012485466127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_94
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081f1a76a1a1f8170800000000000000
+      internalID: 8182787748665618816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b04877f939e84d80800000000000000
+      internalID: -8266100680864284494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_96
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc06b28a827e580800000000000000
+      internalID: -8798018644297593065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_97
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a28483559d777fb0800000000000000
+      internalID: -4650110009931955549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_98
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c02aa0685adb54b0800000000000000
+      internalID: -5450522850888113979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_99
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1441ae1bbfa430800000000000000
+      internalID: 3796458751125626853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_100
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6824de1dd2d55430800000000000000
+      internalID: 3771152110139484269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_101
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58385ba5364a3d4f0800000000000000
+      internalID: -805119161738624123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_102
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd96533decf611c0800000000000000
+      internalID: -4533157879203062279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_103
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac6bf54aee9744f0800000000000000
+      internalID: -844531676075037529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_tank_die_104
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 383
+        width: 124
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad247d3611722e90800000000000000
+      internalID: -7051949726174532185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_tank_die_0: 7013881927802440348
+      future_tank_die_1: -2731522101210160022
+      future_tank_die_10: 1638143193453814367
+      future_tank_die_100: 3771152110139484269
+      future_tank_die_101: -805119161738624123
+      future_tank_die_102: -4533157879203062279
+      future_tank_die_103: -844531676075037529
+      future_tank_die_104: -7051949726174532185
+      future_tank_die_11: -6240206066564520912
+      future_tank_die_12: 7636432675659597101
+      future_tank_die_13: -7464526481986851473
+      future_tank_die_14: -2148030262772562387
+      future_tank_die_15: 8220351795594562808
+      future_tank_die_16: 228672299758097310
+      future_tank_die_17: -4597664460172193755
+      future_tank_die_18: -3886390078809705051
+      future_tank_die_19: 3275630480005371478
+      future_tank_die_2: -5385948058490925376
+      future_tank_die_20: 9153168745991283775
+      future_tank_die_21: -5524677097699201872
+      future_tank_die_22: 4138510999139320016
+      future_tank_die_23: 7106579620670732839
+      future_tank_die_24: -7406170085743386541
+      future_tank_die_25: -7079635937980489230
+      future_tank_die_26: -3833439447748163810
+      future_tank_die_27: 2326034384427142202
+      future_tank_die_28: -7932339191245560840
+      future_tank_die_29: -3264625770287321931
+      future_tank_die_3: -1916647927707029370
+      future_tank_die_30: 3697774363332057366
+      future_tank_die_31: 7355432958801116461
+      future_tank_die_32: -653432114562869575
+      future_tank_die_33: -3201914712872208598
+      future_tank_die_34: 1551517942747273162
+      future_tank_die_35: -1291919302289633879
+      future_tank_die_36: -4869797684191414837
+      future_tank_die_37: -2831894346131399522
+      future_tank_die_38: -8502370133337353678
+      future_tank_die_39: 7663152028720605330
+      future_tank_die_4: -3022258367620895688
+      future_tank_die_40: -4385362199988214979
+      future_tank_die_41: 2959932301747332591
+      future_tank_die_42: 3802510237994479448
+      future_tank_die_43: -4362178018702252043
+      future_tank_die_44: -8774548406271478306
+      future_tank_die_45: 1033782038342989813
+      future_tank_die_46: -8054378977556325733
+      future_tank_die_47: -4417300034763692926
+      future_tank_die_48: 5388299452587558450
+      future_tank_die_49: -8785251143674628422
+      future_tank_die_5: -6507901754797870486
+      future_tank_die_50: -2711424212556389529
+      future_tank_die_51: 7913285252132150740
+      future_tank_die_52: -8773619230289926803
+      future_tank_die_53: 966740470436111303
+      future_tank_die_54: 1348820149917989296
+      future_tank_die_55: 588807689484189015
+      future_tank_die_56: 4921127508106689280
+      future_tank_die_57: -3951100930483372835
+      future_tank_die_58: 1126327743731104682
+      future_tank_die_59: -8274746535596053003
+      future_tank_die_6: -3903587752913747981
+      future_tank_die_60: 7893360666264482819
+      future_tank_die_61: -4790619169659418268
+      future_tank_die_62: -8101273045551141344
+      future_tank_die_63: 3656619524203167054
+      future_tank_die_64: -4896443119127303574
+      future_tank_die_65: -7665024654707554485
+      future_tank_die_66: -594623120357506974
+      future_tank_die_67: 3751462872315446943
+      future_tank_die_68: 2160874764891000425
+      future_tank_die_69: -7874493672697488122
+      future_tank_die_7: -1044331352480959893
+      future_tank_die_70: 4382675848727647721
+      future_tank_die_71: 5887132888538258644
+      future_tank_die_72: 6879282237456746808
+      future_tank_die_73: -3554011189034080787
+      future_tank_die_74: -3220918437059042411
+      future_tank_die_75: -4197436224961721579
+      future_tank_die_76: 2571647156727368166
+      future_tank_die_77: 7344396240358060453
+      future_tank_die_78: -5242511991276957644
+      future_tank_die_79: -270382818220545615
+      future_tank_die_8: 6395625349771436984
+      future_tank_die_80: -189612727234648617
+      future_tank_die_81: 5014666779564923539
+      future_tank_die_82: -7493833036043462233
+      future_tank_die_83: -1850945379932829698
+      future_tank_die_84: -8673313166647395267
+      future_tank_die_85: -8932660329207481448
+      future_tank_die_86: -5157813173850764704
+      future_tank_die_87: -287395281080989578
+      future_tank_die_88: -2899971515220797012
+      future_tank_die_89: 8270085027057694746
+      future_tank_die_9: -6433413734267952833
+      future_tank_die_90: -6969917419363357286
+      future_tank_die_91: 7020785277110011674
+      future_tank_die_92: -7470678609689280199
+      future_tank_die_93: 7896912012485466127
+      future_tank_die_94: 8182787748665618816
+      future_tank_die_95: -8266100680864284494
+      future_tank_die_96: -8798018644297593065
+      future_tank_die_97: -4650110009931955549
+      future_tank_die_98: -5450522850888113979
+      future_tank_die_99: 3796458751125626853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

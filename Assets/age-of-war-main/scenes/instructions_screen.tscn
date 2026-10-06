@@ -1,0 +1,95 @@
+[gd_scene load_steps=7 format=3 uid="uid://ca86sp4x6dnrj"]
+
+[ext_resource type="Script" path="res://scenes/instructions_screen.gd" id="1_o4ra7"]
+[ext_resource type="PackedScene" uid="uid://dwx7knn8q5clv" path="res://scenes/menu_parallax_background.tscn" id="2_6y5u0"]
+[ext_resource type="LabelSettings" uid="uid://chnsy2dt5a4rw" path="res://UI/title_text.tres" id="3_w7x26"]
+[ext_resource type="PackedScene" uid="uid://0fkoqk68ht8c" path="res://scenes/ui/menu_button.tscn" id="4_d5krd"]
+[ext_resource type="LabelSettings" uid="uid://bq7rf2ulwh2gg" path="res://UI/regular_text.tres" id="4_i8nm2"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_fh4jt"]
+bg_color = Color(1, 1, 1, 0.72549)
+corner_radius_top_left = 32
+corner_radius_top_right = 32
+corner_radius_bottom_right = 32
+corner_radius_bottom_left = 32
+
+[node name="instructions_screen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_o4ra7")
+
+[node name="ParallaxBackground" parent="." instance=ExtResource("2_6y5u0")]
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -369.0
+offset_top = -607.0
+offset_right = 369.0
+offset_bottom = -45.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_fh4jt")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Panel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 80.0
+offset_top = 10.0
+offset_right = -80.0
+offset_bottom = 34.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="Panel/VBoxContainer"]
+visible = false
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 5
+theme_override_font_sizes/font_size = 40
+text = "Instructions"
+label_settings = ExtResource("3_w7x26")
+horizontal_alignment = 1
+
+[node name="Label" type="Label" parent="Panel/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 5
+text = "The goal of the game is to survive and destroy the enemy base.
+
+The game is divided in 5 ages. To move to the next age, you need 
+Xp points. To gain these points, you have to kill enemy units.
+
+You also gain Xp points when one of your units is killed. You can 
+also build defences. Finding the balance between defence and 
+offence is the key.
+
+You will also be able to use a special attack. This attack will need 
+time to be available again after you use it. Each age have its own 
+special attack.
+
+You cannot repair your base, but it will gain health points 
+everytime you evolve to the next age. Protect your base at all cost!"
+label_settings = ExtResource("4_i8nm2")
+
+[node name="Spacer" type="Control" parent="Panel/VBoxContainer"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="BtnReturn" parent="Panel/VBoxContainer" instance=ExtResource("4_d5krd")]
+layout_mode = 2
+text = "Click here to return to the menu"
+show_hover_pointer = true
+dark = true
+
+[connection signal="pressed" from="Panel/VBoxContainer/BtnReturn" to="." method="_on_button_pressed"]

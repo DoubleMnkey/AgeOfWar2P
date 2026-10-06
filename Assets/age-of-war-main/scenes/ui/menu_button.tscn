@@ -1,0 +1,91 @@
+[gd_scene load_steps=7 format=3 uid="uid://0fkoqk68ht8c"]
+
+[ext_resource type="FontFile" uid="uid://bi67eh3ngbnui" path="res://fonts/Lora/static/Lora-Bold.ttf" id="1_0jv2s"]
+[ext_resource type="Script" path="res://scripts/menu_button.gd" id="1_kobky"]
+[ext_resource type="Texture2D" uid="uid://cqi5y7ryvx4wh" path="res://age of war sprites/ui/ui_sword.png" id="3_860tu"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_rc7uw"]
+font = ExtResource("1_0jv2s")
+font_size = 26
+font_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_50hlh"]
+font = ExtResource("1_0jv2s")
+font_size = 26
+font_color = Color(0, 0, 0, 1)
+
+[sub_resource type="LabelSettings" id="LabelSettings_ujkd6"]
+font = ExtResource("1_0jv2s")
+font_size = 26
+
+[node name="MenuButton" type="Control" node_paths=PackedStringArray("button", "label_background_nodes", "label_foreground_node", "hover_pointer")]
+custom_minimum_size = Vector2(0, 35)
+layout_mode = 3
+anchor_right = 1.0
+anchor_bottom = 0.054
+offset_bottom = 0.00799942
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_kobky")
+button = NodePath("Button")
+label_background_nodes = [NodePath("LabelBG2"), NodePath("LabelBG")]
+label_foreground_node = NodePath("LabelFG")
+show_hover_pointer = null
+hover_pointer = NodePath("Pointer")
+dark = null
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 36.0
+grow_horizontal = 2
+mouse_default_cursor_shape = 2
+flat = true
+
+[node name="LabelBG2" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_top = -1.0
+offset_bottom = 34.0
+grow_horizontal = 2
+text = "NEW BUTTON"
+label_settings = SubResource("LabelSettings_rc7uw")
+horizontal_alignment = 1
+
+[node name="LabelBG" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_top = -2.0
+offset_bottom = 33.0
+grow_horizontal = 2
+text = "NEW BUTTON"
+label_settings = SubResource("LabelSettings_50hlh")
+horizontal_alignment = 1
+
+[node name="LabelFG" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_top = -4.0
+offset_bottom = 31.0
+grow_horizontal = 2
+text = "NEW BUTTON"
+label_settings = SubResource("LabelSettings_ujkd6")
+horizontal_alignment = 1
+
+[node name="Pointer" type="TextureRect" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_left = 204.6
+offset_top = 5.0
+offset_right = -825.4
+offset_bottom = 45.0
+grow_horizontal = 2
+scale = Vector2(0.6, 0.6)
+mouse_filter = 2
+texture = ExtResource("3_860tu")

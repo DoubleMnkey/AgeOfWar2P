@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 8fa4b2473f6860942a178bf3ac16a6ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1110472893848815933
+    second: knight_tank_attack_0
+  - first:
+      213: 1058747548936587990
+    second: knight_tank_attack_1
+  - first:
+      213: -547761171680770395
+    second: knight_tank_attack_2
+  - first:
+      213: -1819422159615503609
+    second: knight_tank_attack_3
+  - first:
+      213: -5072928750569290844
+    second: knight_tank_attack_4
+  - first:
+      213: -1991649507058188874
+    second: knight_tank_attack_5
+  - first:
+      213: -7782830661406716865
+    second: knight_tank_attack_6
+  - first:
+      213: 3242816936542768859
+    second: knight_tank_attack_7
+  - first:
+      213: 1622137746801365008
+    second: knight_tank_attack_8
+  - first:
+      213: 8758927080209524168
+    second: knight_tank_attack_9
+  - first:
+      213: 7955535677687077496
+    second: knight_tank_attack_10
+  - first:
+      213: -5468685177908807589
+    second: knight_tank_attack_11
+  - first:
+      213: -7912450599921103901
+    second: knight_tank_attack_12
+  - first:
+      213: 1979080698954604137
+    second: knight_tank_attack_13
+  - first:
+      213: 8835726670403297729
+    second: knight_tank_attack_14
+  - first:
+      213: 8764558445320378388
+    second: knight_tank_attack_15
+  - first:
+      213: 4541046087035342656
+    second: knight_tank_attack_16
+  - first:
+      213: 31995007195328904
+    second: knight_tank_attack_17
+  - first:
+      213: -4860648396471800539
+    second: knight_tank_attack_18
+  - first:
+      213: 2404007717386167288
+    second: knight_tank_attack_19
+  - first:
+      213: 7177405074214062925
+    second: knight_tank_attack_20
+  - first:
+      213: -8409858315066565289
+    second: knight_tank_attack_21
+  - first:
+      213: 2022459966800951715
+    second: knight_tank_attack_22
+  - first:
+      213: -3814143781675448093
+    second: knight_tank_attack_23
+  - first:
+      213: -5737033984536337281
+    second: knight_tank_attack_24
+  - first:
+      213: 366485396365636888
+    second: knight_tank_attack_25
+  - first:
+      213: -6234343890881269399
+    second: knight_tank_attack_26
+  - first:
+      213: -561327664745300917
+    second: knight_tank_attack_27
+  - first:
+      213: 3219056998333033618
+    second: knight_tank_attack_28
+  - first:
+      213: -4247457692494495745
+    second: knight_tank_attack_29
+  - first:
+      213: 5387727410926307364
+    second: knight_tank_attack_30
+  - first:
+      213: -762874158426439255
+    second: knight_tank_attack_31
+  - first:
+      213: -7071434068401287059
+    second: knight_tank_attack_32
+  - first:
+      213: -8926207445611481660
+    second: knight_tank_attack_33
+  - first:
+      213: -98563776263742711
+    second: knight_tank_attack_34
+  - first:
+      213: 7366153833772361926
+    second: knight_tank_attack_35
+  - first:
+      213: 5030039468193637552
+    second: knight_tank_attack_36
+  - first:
+      213: 5147878426365129239
+    second: knight_tank_attack_37
+  - first:
+      213: -672064062767069873
+    second: knight_tank_attack_38
+  - first:
+      213: -6473440912245831112
+    second: knight_tank_attack_39
+  - first:
+      213: -5595977146769943733
+    second: knight_tank_attack_40
+  - first:
+      213: -5182440530641060586
+    second: knight_tank_attack_41
+  - first:
+      213: -4062174968007387178
+    second: knight_tank_attack_42
+  - first:
+      213: 7538922112996967989
+    second: knight_tank_attack_43
+  - first:
+      213: 7670398816748755823
+    second: knight_tank_attack_44
+  - first:
+      213: 2802951562790276268
+    second: knight_tank_attack_45
+  - first:
+      213: -4999905116777035854
+    second: knight_tank_attack_46
+  - first:
+      213: -6252863330514533482
+    second: knight_tank_attack_47
+  - first:
+      213: -737129077417086869
+    second: knight_tank_attack_48
+  - first:
+      213: -3271428114310379490
+    second: knight_tank_attack_49
+  - first:
+      213: 1618909868851295157
+    second: knight_tank_attack_50
+  - first:
+      213: -3396775160536098309
+    second: knight_tank_attack_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_tank_attack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f07d59cec690f0800000000000000
+      internalID: -1110472893848815933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da4e29494d61be00800000000000000
+      internalID: 1058747548936587990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 442
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64734dd16f568f0800000000000000
+      internalID: -547761171680770395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 372
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d4af7f2d10c6e0800000000000000
+      internalID: -1819422159615503609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 372
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3837bcd265999b0800000000000000
+      internalID: -5072928750569290844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 442
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf6b6535d3c54e0800000000000000
+      internalID: -1991649507058188874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 372
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c85d7afb4ddf390800000000000000
+      internalID: -7782830661406716865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 442
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde804692dcc00d20800000000000000
+      internalID: 3242816936542768859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 372
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01019deafadf28610800000000000000
+      internalID: 1622137746801365008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 442
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5207dc5c5fd8970800000000000000
+      internalID: 8758927080209524168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 372
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1c727c8db76e60800000000000000
+      internalID: 7955535677687077496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 442
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b583d461ec35b14b0800000000000000
+      internalID: -5468685177908807589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_12
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 372
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb40e0f914513290800000000000000
+      internalID: -7912450599921103901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 442
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e550bf86b177b10800000000000000
+      internalID: 1979080698954604137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_14
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 372
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c165d1d79ece9a70800000000000000
+      internalID: 8835726670403297729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_15
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 442
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418987a2877f1a970800000000000000
+      internalID: 8764558445320378388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 302
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f4b6e4b59050f30800000000000000
+      internalID: 4541046087035342656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 302
+        width: 107
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b67e1a4ba17000800000000000000
+      internalID: 31995007195328904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 302
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52de93649028b8cb0800000000000000
+      internalID: -4860648396471800539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 302
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3a9103840cc5120800000000000000
+      internalID: 2404007717386167288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 302
+        width: 115
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b8d9133e34b9360800000000000000
+      internalID: 7177405074214062925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 302
+        width: 115
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d97177b6e2a4b80800000000000000
+      internalID: -8409858315066565289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_22
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 302
+        width: 115
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a97e95df98311c10800000000000000
+      internalID: 2022459966800951715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_23
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 302
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e848f25070711bc0800000000000000
+      internalID: -3814143781675448093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 113
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f742e57bcf5f160b0800000000000000
+      internalID: -5737033984536337281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 109
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815fdb9b684061500800000000000000
+      internalID: 366485396365636888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 232
+        width: 113
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961356023492b79a0800000000000000
+      internalID: -6234343890881269399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 162
+        width: 109
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cb1448673c538f0800000000000000
+      internalID: -561327664745300917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 232
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c2061e8436cac20800000000000000
+      internalID: 3219056998333033618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 162
+        width: 108
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff7d509bbffd05c0800000000000000
+      internalID: -4247457692494495745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 232
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428c5eae88d05ca40800000000000000
+      internalID: 5387727410926307364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 162
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1caaaaef9b965f0800000000000000
+      internalID: -762874158426439255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 232
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60985c4e283ddd90800000000000000
+      internalID: -7071434068401287059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 162
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c571ec0f9dbf1480800000000000000
+      internalID: -8926207445611481660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_34
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 232
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b141884c4d1aef0800000000000000
+      internalID: -98563776263742711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 162
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c822ee52e5d93660800000000000000
+      internalID: 7366153833772361926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_36
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 232
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b460ebfe3a4ec540800000000000000
+      internalID: 5030039468193637552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 162
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f3667720f07740800000000000000
+      internalID: 5147878426365129239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_38
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 232
+        width: 109
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f458670bb495ca6f0800000000000000
+      internalID: -672064062767069873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_39
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 162
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a4b1fb9c7b926a0800000000000000
+      internalID: -6473440912245831112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d29b0f681752b0800000000000000
+      internalID: -5595977146769943733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d7d8d8bc54418b0800000000000000
+      internalID: -5182440530641060586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 92
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79f60936140a7c0800000000000000
+      internalID: -4062174968007387178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 22
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536858608b1af9860800000000000000
+      internalID: 7538922112996967989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 92
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd2e5951bb27a60800000000000000
+      internalID: 7670398816748755823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 22
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8dbe789516e620800000000000000
+      internalID: 2802951562790276268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 92
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c8d379c4cc9ab0800000000000000
+      internalID: -4999905116777035854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 22
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6938d931eed5939a0800000000000000
+      internalID: -6252863330514533482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 92
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6071f2720135c5f0800000000000000
+      internalID: -737129077417086869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_49
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 92
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18cd4a767d8992d0800000000000000
+      internalID: -3271428114310379490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_50
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 92
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b37148c2f5877610800000000000000
+      internalID: 1618909868851295157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_attack_51
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 92
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf910660dfa3cd0d0800000000000000
+      internalID: -3396775160536098309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_tank_attack_0: -1110472893848815933
+      knight_tank_attack_1: 1058747548936587990
+      knight_tank_attack_10: 7955535677687077496
+      knight_tank_attack_11: -5468685177908807589
+      knight_tank_attack_12: -7912450599921103901
+      knight_tank_attack_13: 1979080698954604137
+      knight_tank_attack_14: 8835726670403297729
+      knight_tank_attack_15: 8764558445320378388
+      knight_tank_attack_16: 4541046087035342656
+      knight_tank_attack_17: 31995007195328904
+      knight_tank_attack_18: -4860648396471800539
+      knight_tank_attack_19: 2404007717386167288
+      knight_tank_attack_2: -547761171680770395
+      knight_tank_attack_20: 7177405074214062925
+      knight_tank_attack_21: -8409858315066565289
+      knight_tank_attack_22: 2022459966800951715
+      knight_tank_attack_23: -3814143781675448093
+      knight_tank_attack_24: -5737033984536337281
+      knight_tank_attack_25: 366485396365636888
+      knight_tank_attack_26: -6234343890881269399
+      knight_tank_attack_27: -561327664745300917
+      knight_tank_attack_28: 3219056998333033618
+      knight_tank_attack_29: -4247457692494495745
+      knight_tank_attack_3: -1819422159615503609
+      knight_tank_attack_30: 5387727410926307364
+      knight_tank_attack_31: -762874158426439255
+      knight_tank_attack_32: -7071434068401287059
+      knight_tank_attack_33: -8926207445611481660
+      knight_tank_attack_34: -98563776263742711
+      knight_tank_attack_35: 7366153833772361926
+      knight_tank_attack_36: 5030039468193637552
+      knight_tank_attack_37: 5147878426365129239
+      knight_tank_attack_38: -672064062767069873
+      knight_tank_attack_39: -6473440912245831112
+      knight_tank_attack_4: -5072928750569290844
+      knight_tank_attack_40: -5595977146769943733
+      knight_tank_attack_41: -5182440530641060586
+      knight_tank_attack_42: -4062174968007387178
+      knight_tank_attack_43: 7538922112996967989
+      knight_tank_attack_44: 7670398816748755823
+      knight_tank_attack_45: 2802951562790276268
+      knight_tank_attack_46: -4999905116777035854
+      knight_tank_attack_47: -6252863330514533482
+      knight_tank_attack_48: -737129077417086869
+      knight_tank_attack_49: -3271428114310379490
+      knight_tank_attack_5: -1991649507058188874
+      knight_tank_attack_50: 1618909868851295157
+      knight_tank_attack_51: -3396775160536098309
+      knight_tank_attack_6: -7782830661406716865
+      knight_tank_attack_7: 3242816936542768859
+      knight_tank_attack_8: 1622137746801365008
+      knight_tank_attack_9: 8758927080209524168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

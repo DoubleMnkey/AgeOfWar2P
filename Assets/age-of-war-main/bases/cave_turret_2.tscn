@@ -1,0 +1,84 @@
+[gd_scene load_steps=15 format=3 uid="uid://cbgigp1olen7w"]
+
+[ext_resource type="Script" path="res://bases/cave_turret_2.gd" id="1_gugvt"]
+[ext_resource type="Texture2D" uid="uid://bijcm01aako37" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0001.png" id="2_0que0"]
+[ext_resource type="Texture2D" uid="uid://ly21ii8qo8jm" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0002.png" id="3_lvshy"]
+[ext_resource type="Texture2D" uid="uid://chlka6iwukqnq" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0003.png" id="4_xkj46"]
+[ext_resource type="Texture2D" uid="uid://bc0gfp5odv0ly" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0004.png" id="5_yxubx"]
+[ext_resource type="Texture2D" uid="uid://c8pvhk4ejj3sh" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0005.png" id="6_otst5"]
+[ext_resource type="Texture2D" uid="uid://bhshf5wfdtjff" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0006.png" id="7_66dv6"]
+[ext_resource type="Texture2D" uid="uid://cu2dcdu0lyicm" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0007.png" id="8_tk36q"]
+[ext_resource type="Texture2D" uid="uid://ryajgsc0glkb" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0008.png" id="9_fws11"]
+[ext_resource type="Texture2D" uid="uid://befa7oebu1581" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0009.png" id="10_mtmjc"]
+[ext_resource type="Texture2D" uid="uid://dogxumoinvp31" path="res://age of war sprites/bases/cave/turret_2/cave_turret_2_attack0010.png" id="11_rgddp"]
+[ext_resource type="AudioStream" uid="uid://ci0j0aw12ik2e" path="res://age of war sprites/audio/sfx/cave_turret_2_attack.mp3" id="12_lid0m"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_5unll"]
+radius = 350.0
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_2cbed"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_0que0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_lvshy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_xkj46")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_yxubx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_otst5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_66dv6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_tk36q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_fws11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_mtmjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_rgddp")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_0que0")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[node name="cave_turret_2" type="Node2D"]
+script = ExtResource("1_gugvt")
+
+[node name="range" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="range"]
+shape = SubResource("CircleShape2D_5unll")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_2cbed")
+animation = &"idle"
+autoplay = "idle"
+offset = Vector2(0, -14.34)
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("12_lid0m")
+volume_db = 15.0

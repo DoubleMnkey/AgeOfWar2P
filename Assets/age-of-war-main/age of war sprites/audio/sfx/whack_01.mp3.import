@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dtm74aedthons"
+path="res://.godot/imported/whack_01.mp3-fb7c1586c57a87dd646fa824391db646.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/whack_01.mp3"
+dest_files=["res://.godot/imported/whack_01.mp3-fb7c1586c57a87dd646fa824391db646.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

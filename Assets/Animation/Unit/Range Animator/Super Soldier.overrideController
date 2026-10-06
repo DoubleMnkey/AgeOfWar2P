@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Super Soldier
+  m_Controller: {fileID: 9100000, guid: d1855bb5a34784dbfbec1c3fc7827d39, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 39c7d5723155a413bbd38e86fa0d77d5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c14596e08a22924408d8419ade03e255, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ca1d6ed8823b548bc80605bdf7e66957, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9cc083a2bee7bcc42a5c43312ca0a867, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1f4dc1af4aa0646d0b56ba8f4d4cde7a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 24ccb1b6c90d20046b74cedbf6bd4849, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c8c1ef96047547e3b8a16a1c44ee640, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e1738088023bd3e4a8803cbc7c4908be, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b25f2c567c8eb47149f4cf64286e66c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9c5154cac15ae934da47f9c6f82c2acb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3396978a34bc24a62b4b6d12b3d53d5a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ca8542bce94ead459b454ec2aebc4e5, type: 2}

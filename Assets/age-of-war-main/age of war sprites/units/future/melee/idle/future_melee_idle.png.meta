@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 348a09486b484d341974704c2631c24b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4460137774008649674
+    second: future_melee_idle_0
+  - first:
+      213: -8742504762806480227
+    second: future_melee_idle_1
+  - first:
+      213: -2453136505057308448
+    second: future_melee_idle_2
+  - first:
+      213: -2324593534172532073
+    second: future_melee_idle_3
+  - first:
+      213: -7068423125477621997
+    second: future_melee_idle_4
+  - first:
+      213: -5463429581498556276
+    second: future_melee_idle_5
+  - first:
+      213: 5142543618477119599
+    second: future_melee_idle_6
+  - first:
+      213: -1606887481312164239
+    second: future_melee_idle_7
+  - first:
+      213: 2646314085347449956
+    second: future_melee_idle_8
+  - first:
+      213: 1953744290245850509
+    second: future_melee_idle_9
+  - first:
+      213: 4611435017348440143
+    second: future_melee_idle_10
+  - first:
+      213: 401515803857968617
+    second: future_melee_idle_11
+  - first:
+      213: 3160221378235655968
+    second: future_melee_idle_12
+  - first:
+      213: -6575849480107064136
+    second: future_melee_idle_13
+  - first:
+      213: -2899677177470171033
+    second: future_melee_idle_14
+  - first:
+      213: -231282947058450395
+    second: future_melee_idle_15
+  - first:
+      213: 6280802857321810992
+    second: future_melee_idle_16
+  - first:
+      213: -8449191520455718582
+    second: future_melee_idle_17
+  - first:
+      213: -8636267735640309718
+    second: future_melee_idle_18
+  - first:
+      213: 5452612864952165522
+    second: future_melee_idle_19
+  - first:
+      213: 5551876583082949895
+    second: future_melee_idle_20
+  - first:
+      213: 6129243977097656395
+    second: future_melee_idle_21
+  - first:
+      213: 800584370928766292
+    second: future_melee_idle_22
+  - first:
+      213: 7442055088815714118
+    second: future_melee_idle_23
+  - first:
+      213: 880735946138885440
+    second: future_melee_idle_24
+  - first:
+      213: -2555042768433240708
+    second: future_melee_idle_25
+  - first:
+      213: -5479102618751991602
+    second: future_melee_idle_26
+  - first:
+      213: 3087501553628399551
+    second: future_melee_idle_27
+  - first:
+      213: 5839196303852144121
+    second: future_melee_idle_28
+  - first:
+      213: 4742701209912694958
+    second: future_melee_idle_29
+  - first:
+      213: 488519675509712953
+    second: future_melee_idle_30
+  - first:
+      213: 2840956004424387725
+    second: future_melee_idle_31
+  - first:
+      213: -3290383674076185080
+    second: future_melee_idle_32
+  - first:
+      213: 5374701811730726063
+    second: future_melee_idle_33
+  - first:
+      213: 6233936196981471944
+    second: future_melee_idle_34
+  - first:
+      213: 4847276025000925208
+    second: future_melee_idle_35
+  - first:
+      213: 516443982429417156
+    second: future_melee_idle_36
+  - first:
+      213: -3218020929745471630
+    second: future_melee_idle_37
+  - first:
+      213: -2365232093637397771
+    second: future_melee_idle_38
+  - first:
+      213: -5947331228181672690
+    second: future_melee_idle_39
+  - first:
+      213: 3839274904451513339
+    second: future_melee_idle_40
+  - first:
+      213: -9103488546852232068
+    second: future_melee_idle_41
+  - first:
+      213: -1955041864275072739
+    second: future_melee_idle_42
+  - first:
+      213: 1888978754403572831
+    second: future_melee_idle_43
+  - first:
+      213: -1332414517288517281
+    second: future_melee_idle_44
+  - first:
+      213: -1146911024294877434
+    second: future_melee_idle_45
+  - first:
+      213: -5598209753741955858
+    second: future_melee_idle_46
+  - first:
+      213: 7179696852716443131
+    second: future_melee_idle_47
+  - first:
+      213: 7424301502530706998
+    second: future_melee_idle_48
+  - first:
+      213: 699627470921912081
+    second: future_melee_idle_49
+  - first:
+      213: -7669639030569374319
+    second: future_melee_idle_50
+  - first:
+      213: 6630553063231456923
+    second: future_melee_idle_51
+  - first:
+      213: 3153500229888813978
+    second: future_melee_idle_52
+  - first:
+      213: 4008480085318581986
+    second: future_melee_idle_53
+  - first:
+      213: -8332742165954451523
+    second: future_melee_idle_54
+  - first:
+      213: -6508197042664279644
+    second: future_melee_idle_55
+  - first:
+      213: -5856095878597701183
+    second: future_melee_idle_56
+  - first:
+      213: -4931907499213558597
+    second: future_melee_idle_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_melee_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638b9ea43586a12c0800000000000000
+      internalID: -4460137774008649674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9252cdec326ca680800000000000000
+      internalID: -8742504762806480227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0148e8855b4fdd0800000000000000
+      internalID: -2453136505057308448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f9743f726dbfd0800000000000000
+      internalID: -2324593534172532073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fffb31e9ae7ed90800000000000000
+      internalID: -7068423125477621997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ea6bfdbffd24b0800000000000000
+      internalID: -5463429581498556276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68d745bc2cfd5740800000000000000
+      internalID: 5142543618477119599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176cd52795033b9e0800000000000000
+      internalID: -1606887481312164239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5f3dc3a899b420800000000000000
+      internalID: 2646314085347449956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d853d02a4181d1b10800000000000000
+      internalID: 1953744290245850509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e9d147bb1fff30800000000000000
+      internalID: 4611435017348440143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd8ac0f78729500800000000000000
+      internalID: 401515803857968617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e455999c5bdb20800000000000000
+      internalID: 3160221378235655968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b408c9fcb3edb4a0800000000000000
+      internalID: -6575849480107064136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768459168f642c7d0800000000000000
+      internalID: -2899677177470171033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520c9f192615accf0800000000000000
+      internalID: -231282947058450395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ccceeebe4e92750800000000000000
+      internalID: 6280802857321810992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498effe3117eba80800000000000000
+      internalID: -8449191520455718582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200ef75040d52880800000000000000
+      internalID: -8636267735640309718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_19
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e231f2829bab40800000000000000
+      internalID: 5452612864952165522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_20
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70df773565a3c0d40800000000000000
+      internalID: 5551876583082949895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48bb9c4ce27f0550800000000000000
+      internalID: 6129243977097656395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d40f16e3f3c1b00800000000000000
+      internalID: 800584370928766292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_23
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 369
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fafbf6cad774760800000000000000
+      internalID: 7442055088815714118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_24
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 369
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d968a3da0093c00800000000000000
+      internalID: 880735946138885440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_25
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752b99a32aaa8cd0800000000000000
+      internalID: -2555042768433240708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 369
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec00061a23156f3b0800000000000000
+      internalID: -5479102618751991602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_27
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7cc730e4209da20800000000000000
+      internalID: 3087501553628399551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 369
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f581e8d91ef80150800000000000000
+      internalID: 5839196303852144121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_29
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 440
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea859ac5f9571d140800000000000000
+      internalID: 4742701209912694958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ab8c7e0297c600800000000000000
+      internalID: 488519675509712953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8a3a1f6a1d6720800000000000000
+      internalID: 2840956004424387725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eb1fb4b753652d0800000000000000
+      internalID: -3290383674076185080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facbbd542d6c69a40800000000000000
+      internalID: 5374701811730726063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab78d31f3638650800000000000000
+      internalID: 6233936196981471944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818927edcdbf44340800000000000000
+      internalID: 4847276025000925208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 298
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cee717d017ca2700800000000000000
+      internalID: 516443982429417156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277bfb2a30b4753d0800000000000000
+      internalID: -3218020929745471630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b36f31f10d2fd0800000000000000
+      internalID: -2365232093637397771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc4ae12c5d67da0800000000000000
+      internalID: -5947331228181672690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb77ea2f28d74530800000000000000
+      internalID: 3839274904451513339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7429042669e9a180800000000000000
+      internalID: -9103488546852232068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19edde58cb4ed4e0800000000000000
+      internalID: -1955041864275072739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c1c7c3b20073a10800000000000000
+      internalID: 1888978754403572831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_44
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c1735e00528de0800000000000000
+      internalID: -1332414517288517281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_45
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607acefff7a5510f0800000000000000
+      internalID: -1146911024294877434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec651ab3e92f42b0800000000000000
+      internalID: -5598209753741955858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf557257f3863a360800000000000000
+      internalID: 7179696852716443131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eddb381ea680760800000000000000
+      internalID: 7424301502530706998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_49
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fc76f5a7395b900800000000000000
+      internalID: 699627470921912081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_50
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de07befe7ff8590800000000000000
+      internalID: -7669639030569374319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b960a4e71e4740c50800000000000000
+      internalID: 6630553063231456923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_52
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ba2a940cb73cb20800000000000000
+      internalID: 3153500229888813978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_53
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee34a6566bf0a730800000000000000
+      internalID: 4008480085318581986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_54
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ad5916272c5c80800000000000000
+      internalID: -8332742165954451523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 227
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17fb7854d3ea5a0800000000000000
+      internalID: -6508197042664279644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_56
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11e8943d7fabea0800000000000000
+      internalID: -5856095878597701183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_idle_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 298
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc6a4482485e8bb0800000000000000
+      internalID: -4931907499213558597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_melee_idle_0: -4460137774008649674
+      future_melee_idle_1: -8742504762806480227
+      future_melee_idle_10: 4611435017348440143
+      future_melee_idle_11: 401515803857968617
+      future_melee_idle_12: 3160221378235655968
+      future_melee_idle_13: -6575849480107064136
+      future_melee_idle_14: -2899677177470171033
+      future_melee_idle_15: -231282947058450395
+      future_melee_idle_16: 6280802857321810992
+      future_melee_idle_17: -8449191520455718582
+      future_melee_idle_18: -8636267735640309718
+      future_melee_idle_19: 5452612864952165522
+      future_melee_idle_2: -2453136505057308448
+      future_melee_idle_20: 5551876583082949895
+      future_melee_idle_21: 6129243977097656395
+      future_melee_idle_22: 800584370928766292
+      future_melee_idle_23: 7442055088815714118
+      future_melee_idle_24: 880735946138885440
+      future_melee_idle_25: -2555042768433240708
+      future_melee_idle_26: -5479102618751991602
+      future_melee_idle_27: 3087501553628399551
+      future_melee_idle_28: 5839196303852144121
+      future_melee_idle_29: 4742701209912694958
+      future_melee_idle_3: -2324593534172532073
+      future_melee_idle_30: 488519675509712953
+      future_melee_idle_31: 2840956004424387725
+      future_melee_idle_32: -3290383674076185080
+      future_melee_idle_33: 5374701811730726063
+      future_melee_idle_34: 6233936196981471944
+      future_melee_idle_35: 4847276025000925208
+      future_melee_idle_36: 516443982429417156
+      future_melee_idle_37: -3218020929745471630
+      future_melee_idle_38: -2365232093637397771
+      future_melee_idle_39: -5947331228181672690
+      future_melee_idle_4: -7068423125477621997
+      future_melee_idle_40: 3839274904451513339
+      future_melee_idle_41: -9103488546852232068
+      future_melee_idle_42: -1955041864275072739
+      future_melee_idle_43: 1888978754403572831
+      future_melee_idle_44: -1332414517288517281
+      future_melee_idle_45: -1146911024294877434
+      future_melee_idle_46: -5598209753741955858
+      future_melee_idle_47: 7179696852716443131
+      future_melee_idle_48: 7424301502530706998
+      future_melee_idle_49: 699627470921912081
+      future_melee_idle_5: -5463429581498556276
+      future_melee_idle_50: -7669639030569374319
+      future_melee_idle_51: 6630553063231456923
+      future_melee_idle_52: 3153500229888813978
+      future_melee_idle_53: 4008480085318581986
+      future_melee_idle_54: -8332742165954451523
+      future_melee_idle_55: -6508197042664279644
+      future_melee_idle_56: -5856095878597701183
+      future_melee_idle_57: -4931907499213558597
+      future_melee_idle_6: 5142543618477119599
+      future_melee_idle_7: -1606887481312164239
+      future_melee_idle_8: 2646314085347449956
+      future_melee_idle_9: 1953744290245850509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

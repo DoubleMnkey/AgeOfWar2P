@@ -1,0 +1,151 @@
+[gd_scene load_steps=34 format=3 uid="uid://dxfruriqjqamd"]
+
+[ext_resource type="Script" path="res://projectile.gd" id="1_knte2"]
+[ext_resource type="Texture2D" uid="uid://drxwftp1ycjik" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0001.png" id="1_oy1c7"]
+[ext_resource type="Texture2D" uid="uid://bfkv6nlwdmxsk" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0002.png" id="2_tcgdd"]
+[ext_resource type="Texture2D" uid="uid://4lbrfhu1v4mw" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0003.png" id="3_sukhr"]
+[ext_resource type="Texture2D" uid="uid://xp7lkobwppu4" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0004.png" id="4_2wbs5"]
+[ext_resource type="Texture2D" uid="uid://biu37sm15rs4p" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0005.png" id="5_mexae"]
+[ext_resource type="Texture2D" uid="uid://8f27c5fofaqe" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0006.png" id="6_uclmo"]
+[ext_resource type="Texture2D" uid="uid://c3okqqt0aqkx1" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0007.png" id="7_rg66d"]
+[ext_resource type="Texture2D" uid="uid://nvcb2inmjg0w" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0008.png" id="8_tq6ib"]
+[ext_resource type="Texture2D" uid="uid://jv24spo8c2pe" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0009.png" id="9_6crbg"]
+[ext_resource type="Texture2D" uid="uid://dao8ioys6nevw" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0010.png" id="10_n64m7"]
+[ext_resource type="Texture2D" uid="uid://caakix5nivn88" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0011.png" id="11_tmbg5"]
+[ext_resource type="Texture2D" uid="uid://bxgmxrok2136n" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0012.png" id="12_7i5uj"]
+[ext_resource type="Texture2D" uid="uid://db6sivqlr5nut" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0013.png" id="13_yktuy"]
+[ext_resource type="Texture2D" uid="uid://h3fd4ias3wy3" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0014.png" id="14_30a87"]
+[ext_resource type="Texture2D" uid="uid://caibfvntyh5mp" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0015.png" id="15_2xhec"]
+[ext_resource type="Texture2D" uid="uid://bfldmdhnddt0t" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0016.png" id="16_opkah"]
+[ext_resource type="Texture2D" uid="uid://gtubdrlbippx" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0017.png" id="17_pe1v5"]
+[ext_resource type="Texture2D" uid="uid://b7du0a6iohxtx" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0018.png" id="18_as01j"]
+[ext_resource type="Texture2D" uid="uid://isl4cu3lul17" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0019.png" id="19_yhei1"]
+[ext_resource type="Texture2D" uid="uid://c044b0ysko7bt" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0020.png" id="20_3pcv5"]
+[ext_resource type="Texture2D" uid="uid://b5jtcpy5w4kjn" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0021.png" id="21_ra7re"]
+[ext_resource type="Texture2D" uid="uid://elhy1wi0karh" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0022.png" id="22_iolbq"]
+[ext_resource type="Texture2D" uid="uid://chx30w5c7um46" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0023.png" id="23_qm7sc"]
+[ext_resource type="Texture2D" uid="uid://cprpswns4dkfi" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0024.png" id="24_rhy4u"]
+[ext_resource type="Texture2D" uid="uid://dvpocc7bv3kdf" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0025.png" id="25_n15ji"]
+[ext_resource type="Texture2D" uid="uid://c0xokl0pa25ef" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0026.png" id="26_moxvy"]
+[ext_resource type="Texture2D" uid="uid://nw25bywcma0y" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0027.png" id="27_k4a6a"]
+[ext_resource type="Texture2D" uid="uid://dp8vhqq66ww6w" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0028.png" id="28_namnn"]
+[ext_resource type="Texture2D" uid="uid://bsy6qmbkb6qy3" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0029.png" id="29_ew7md"]
+[ext_resource type="Texture2D" uid="uid://ksbjmfudfvhq" path="res://age of war sprites/effects/knight_special_arrow/knight_special_arrow0030.png" id="30_f3dv2"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_a1men"]
+size = Vector2(8, 20)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_1eqqf"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_oy1c7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_tcgdd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_sukhr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_2wbs5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_mexae")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_uclmo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_rg66d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_tq6ib")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_6crbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_n64m7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_tmbg5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_7i5uj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_yktuy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_30a87")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_2xhec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_opkah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_pe1v5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_as01j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_yhei1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_3pcv5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ra7re")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_iolbq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_qm7sc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_rhy4u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_n15ji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_moxvy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_k4a6a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_namnn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_ew7md")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_f3dv2")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="arrow_special_projectile" type="Area2D"]
+script = ExtResource("1_knte2")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -10)
+shape = SubResource("RectangleShape2D_a1men")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -17)
+rotation = 1.57079
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_1eqqf")
+autoplay = "default"
+frame_progress = 0.196997

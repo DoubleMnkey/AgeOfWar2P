@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 622e0e5ed7fe7cc4c8bd4b7762c94d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5100912387837116862
+    second: medival_range_walk_0
+  - first:
+      213: -6658644314674883641
+    second: medival_range_walk_1
+  - first:
+      213: 7529191862777258912
+    second: medival_range_walk_2
+  - first:
+      213: -7097198074025274237
+    second: medival_range_walk_3
+  - first:
+      213: 9201754680394730616
+    second: medival_range_walk_4
+  - first:
+      213: 7241831043994435232
+    second: medival_range_walk_5
+  - first:
+      213: 5176549678806369869
+    second: medival_range_walk_6
+  - first:
+      213: -519691153625971578
+    second: medival_range_walk_7
+  - first:
+      213: 8231528673986242406
+    second: medival_range_walk_8
+  - first:
+      213: -6877229213341905487
+    second: medival_range_walk_9
+  - first:
+      213: -6588676963614630
+    second: medival_range_walk_10
+  - first:
+      213: -9131482893057062111
+    second: medival_range_walk_11
+  - first:
+      213: -7796679279074775183
+    second: medival_range_walk_12
+  - first:
+      213: 6120663579373232682
+    second: medival_range_walk_13
+  - first:
+      213: -3183976213266281730
+    second: medival_range_walk_14
+  - first:
+      213: -1099405957812460713
+    second: medival_range_walk_15
+  - first:
+      213: 334576470696048941
+    second: medival_range_walk_16
+  - first:
+      213: -7970561107700958403
+    second: medival_range_walk_17
+  - first:
+      213: 4490291418487378314
+    second: medival_range_walk_18
+  - first:
+      213: -2319197811246480053
+    second: medival_range_walk_19
+  - first:
+      213: -2011816049034190562
+    second: medival_range_walk_20
+  - first:
+      213: 2455621263827475470
+    second: medival_range_walk_21
+  - first:
+      213: -4115967961670951057
+    second: medival_range_walk_22
+  - first:
+      213: -5452718668966428997
+    second: medival_range_walk_23
+  - first:
+      213: -1351192444403655319
+    second: medival_range_walk_24
+  - first:
+      213: -7799628601184260653
+    second: medival_range_walk_25
+  - first:
+      213: 6383860977332637961
+    second: medival_range_walk_26
+  - first:
+      213: 8346622645857424028
+    second: medival_range_walk_27
+  - first:
+      213: 3252006222832927583
+    second: medival_range_walk_28
+  - first:
+      213: 2143199667499232601
+    second: medival_range_walk_29
+  - first:
+      213: -1252947213705174284
+    second: medival_range_walk_30
+  - first:
+      213: -1690509266953255674
+    second: medival_range_walk_31
+  - first:
+      213: -2151531544785502000
+    second: medival_range_walk_32
+  - first:
+      213: 3499730167486672569
+    second: medival_range_walk_33
+  - first:
+      213: -7683781565826006874
+    second: medival_range_walk_34
+  - first:
+      213: 5585719067159759116
+    second: medival_range_walk_35
+  - first:
+      213: -3842795643061031019
+    second: medival_range_walk_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_range_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e3494853be539b0800000000000000
+      internalID: -5100912387837116862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 53
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3112a564eb793a0800000000000000
+      internalID: -6658644314674883641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 445
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a99a9b101d7860800000000000000
+      internalID: 7529191862777258912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 314
+        width: 43
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384132944ffa18d90800000000000000
+      internalID: -7097198074025274237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 445
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c473bf02333bf70800000000000000
+      internalID: 9201754680394730616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 380
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae3fa437f6208460800000000000000
+      internalID: 7241831043994435232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 445
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d468a6f918cc6d740800000000000000
+      internalID: 5176549678806369869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 314
+        width: 51
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684063336afa9c8f0800000000000000
+      internalID: -519691153625971578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 446
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667646b67b34c3270800000000000000
+      internalID: 8231528673986242406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 314
+        width: 44
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd01d3b77c2f80a0800000000000000
+      internalID: -6877229213341905487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 314
+        width: 52
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504b0a12a798eff0800000000000000
+      internalID: -6588676963614630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 446
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b07ce70b4764180800000000000000
+      internalID: -9131482893057062111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 315
+        width: 46
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f69171181acc390800000000000000
+      internalID: -7796679279074775183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 315
+        width: 54
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226636c817f0f450800000000000000
+      internalID: 6120663579373232682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 249
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa48f2e08e30d3d0800000000000000
+      internalID: -3183976213266281730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 249
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e3a43b102eb0f0800000000000000
+      internalID: -1099405957812460713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 314
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29ba060787a4a400800000000000000
+      internalID: 334576470696048941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 249
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bb0f207e0e26190800000000000000
+      internalID: -7970561107700958403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 249
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81dce82148b05e30800000000000000
+      internalID: 4490291418487378314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 248
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b454ac8d0ed80dfd0800000000000000
+      internalID: -2319197811246480053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 248
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1123e366f79414e0800000000000000
+      internalID: -2011816049034190562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 248
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c155d678e141220800000000000000
+      internalID: 2455621263827475470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd6b932f421e6c0800000000000000
+      internalID: -4115967961670951057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7d14a24d0454b0800000000000000
+      internalID: -5452718668966428997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 182
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd02871a99f3de0800000000000000
+      internalID: -1351192444403655319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 115
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6f668c1722c390800000000000000
+      internalID: -7799628601184260653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 181
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901d3695cb7089850800000000000000
+      internalID: 6383860977332637961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 115
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c921098f21925d370800000000000000
+      internalID: 8346622645857424028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 181
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5301570e62712d20800000000000000
+      internalID: 3252006222832927583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 115
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95de6001ebc2ebd10800000000000000
+      internalID: 2143199667499232601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 115
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2a9c4c523ac9ee0800000000000000
+      internalID: -1252947213705174284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 181
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ceb547ca1a88e0800000000000000
+      internalID: -1690509266953255674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 115
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0430695793422e0800000000000000
+      internalID: -2151531544785502000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bee2c28b0a819030800000000000000
+      internalID: 3499730167486672569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 115
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a00f355069bd5590800000000000000
+      internalID: -7683781565826006874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 181
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c090f2da5e5748d40800000000000000
+      internalID: 5585719067159759116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_walk_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 181
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fadeef8b5abaac0800000000000000
+      internalID: -3842795643061031019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_range_walk_0: -5100912387837116862
+      medival_range_walk_1: -6658644314674883641
+      medival_range_walk_10: -6588676963614630
+      medival_range_walk_11: -9131482893057062111
+      medival_range_walk_12: -7796679279074775183
+      medival_range_walk_13: 6120663579373232682
+      medival_range_walk_14: -3183976213266281730
+      medival_range_walk_15: -1099405957812460713
+      medival_range_walk_16: 334576470696048941
+      medival_range_walk_17: -7970561107700958403
+      medival_range_walk_18: 4490291418487378314
+      medival_range_walk_19: -2319197811246480053
+      medival_range_walk_2: 7529191862777258912
+      medival_range_walk_20: -2011816049034190562
+      medival_range_walk_21: 2455621263827475470
+      medival_range_walk_22: -4115967961670951057
+      medival_range_walk_23: -5452718668966428997
+      medival_range_walk_24: -1351192444403655319
+      medival_range_walk_25: -7799628601184260653
+      medival_range_walk_26: 6383860977332637961
+      medival_range_walk_27: 8346622645857424028
+      medival_range_walk_28: 3252006222832927583
+      medival_range_walk_29: 2143199667499232601
+      medival_range_walk_3: -7097198074025274237
+      medival_range_walk_30: -1252947213705174284
+      medival_range_walk_31: -1690509266953255674
+      medival_range_walk_32: -2151531544785502000
+      medival_range_walk_33: 3499730167486672569
+      medival_range_walk_34: -7683781565826006874
+      medival_range_walk_35: 5585719067159759116
+      medival_range_walk_36: -3842795643061031019
+      medival_range_walk_4: 9201754680394730616
+      medival_range_walk_5: 7241831043994435232
+      medival_range_walk_6: 5176549678806369869
+      medival_range_walk_7: -519691153625971578
+      medival_range_walk_8: 8231528673986242406
+      medival_range_walk_9: -6877229213341905487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

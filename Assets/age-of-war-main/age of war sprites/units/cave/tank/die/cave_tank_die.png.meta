@@ -1,0 +1,2082 @@
+fileFormatVersion: 2
+guid: 965997c8fd5e6ee478316a8bd23473b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9166685455813629656
+    second: cave_tank_die_0
+  - first:
+      213: 4098310805148852936
+    second: cave_tank_die_1
+  - first:
+      213: -4926753715554333013
+    second: cave_tank_die_2
+  - first:
+      213: -8895695457296185734
+    second: cave_tank_die_3
+  - first:
+      213: 8267936275118318869
+    second: cave_tank_die_4
+  - first:
+      213: 3972406296206096127
+    second: cave_tank_die_5
+  - first:
+      213: 1522867410870247140
+    second: cave_tank_die_6
+  - first:
+      213: 6493036424084180483
+    second: cave_tank_die_7
+  - first:
+      213: 2631418237372097864
+    second: cave_tank_die_8
+  - first:
+      213: -1905116031893583182
+    second: cave_tank_die_9
+  - first:
+      213: 6376594337325944265
+    second: cave_tank_die_10
+  - first:
+      213: 5998798905699524127
+    second: cave_tank_die_11
+  - first:
+      213: -8519760745178046246
+    second: cave_tank_die_12
+  - first:
+      213: -2025559037559282073
+    second: cave_tank_die_13
+  - first:
+      213: 4210878271367539445
+    second: cave_tank_die_14
+  - first:
+      213: 7982023696045379551
+    second: cave_tank_die_15
+  - first:
+      213: -5190112129324370588
+    second: cave_tank_die_16
+  - first:
+      213: -1106085326163812585
+    second: cave_tank_die_17
+  - first:
+      213: 6713211377221599753
+    second: cave_tank_die_18
+  - first:
+      213: 8464071119156607460
+    second: cave_tank_die_19
+  - first:
+      213: 1449615801031183242
+    second: cave_tank_die_20
+  - first:
+      213: -2555006976091071953
+    second: cave_tank_die_21
+  - first:
+      213: -5031421586940318105
+    second: cave_tank_die_22
+  - first:
+      213: 2555928055026027650
+    second: cave_tank_die_23
+  - first:
+      213: 5772688966184331297
+    second: cave_tank_die_24
+  - first:
+      213: 1785789831222040626
+    second: cave_tank_die_25
+  - first:
+      213: -3082685811668512280
+    second: cave_tank_die_26
+  - first:
+      213: -5033423943091620210
+    second: cave_tank_die_27
+  - first:
+      213: 1441094752434050605
+    second: cave_tank_die_28
+  - first:
+      213: -6096542189850630483
+    second: cave_tank_die_29
+  - first:
+      213: -5579764339449747269
+    second: cave_tank_die_30
+  - first:
+      213: -6705292145302343550
+    second: cave_tank_die_31
+  - first:
+      213: -6841656787321677295
+    second: cave_tank_die_32
+  - first:
+      213: -1205539767101275742
+    second: cave_tank_die_33
+  - first:
+      213: -5634782027113840241
+    second: cave_tank_die_34
+  - first:
+      213: 4387596408159742665
+    second: cave_tank_die_35
+  - first:
+      213: -1586379724429973549
+    second: cave_tank_die_36
+  - first:
+      213: -6405188308109046488
+    second: cave_tank_die_37
+  - first:
+      213: 2991111924749082446
+    second: cave_tank_die_38
+  - first:
+      213: 5216858259439676462
+    second: cave_tank_die_39
+  - first:
+      213: -3332704252815618556
+    second: cave_tank_die_40
+  - first:
+      213: -9072760650943181078
+    second: cave_tank_die_41
+  - first:
+      213: 5122973011879286322
+    second: cave_tank_die_42
+  - first:
+      213: -7948990203491535767
+    second: cave_tank_die_43
+  - first:
+      213: 7485472985969849250
+    second: cave_tank_die_44
+  - first:
+      213: 6177441871752829934
+    second: cave_tank_die_45
+  - first:
+      213: -9150345382304060717
+    second: cave_tank_die_46
+  - first:
+      213: -4505437531487647307
+    second: cave_tank_die_47
+  - first:
+      213: -6186295564696235263
+    second: cave_tank_die_48
+  - first:
+      213: 5434155257965867976
+    second: cave_tank_die_49
+  - first:
+      213: 7685657722103968488
+    second: cave_tank_die_50
+  - first:
+      213: -1468576139593415486
+    second: cave_tank_die_51
+  - first:
+      213: 8614170049858025614
+    second: cave_tank_die_52
+  - first:
+      213: 7972430329424568778
+    second: cave_tank_die_53
+  - first:
+      213: 5344666977990228343
+    second: cave_tank_die_54
+  - first:
+      213: -8807379445335556793
+    second: cave_tank_die_55
+  - first:
+      213: -2427921487734649750
+    second: cave_tank_die_56
+  - first:
+      213: 3380952470456989648
+    second: cave_tank_die_57
+  - first:
+      213: -5635095423913244323
+    second: cave_tank_die_58
+  - first:
+      213: -4788480885143219652
+    second: cave_tank_die_59
+  - first:
+      213: 4956839405147251796
+    second: cave_tank_die_60
+  - first:
+      213: -1962970639807318941
+    second: cave_tank_die_61
+  - first:
+      213: 1143247308272975265
+    second: cave_tank_die_62
+  - first:
+      213: 9026724244728734793
+    second: cave_tank_die_63
+  - first:
+      213: -31975688343670618
+    second: cave_tank_die_64
+  - first:
+      213: 5565772998374323801
+    second: cave_tank_die_65
+  - first:
+      213: -5137524788017802982
+    second: cave_tank_die_66
+  - first:
+      213: 6587832046141135326
+    second: cave_tank_die_67
+  - first:
+      213: -1720152142380950567
+    second: cave_tank_die_68
+  - first:
+      213: 4800344578364492139
+    second: cave_tank_die_69
+  - first:
+      213: 836451367254106406
+    second: cave_tank_die_70
+  - first:
+      213: 2542811570715201954
+    second: cave_tank_die_71
+  - first:
+      213: 2930915301451183283
+    second: cave_tank_die_72
+  - first:
+      213: -8152647637457609629
+    second: cave_tank_die_73
+  - first:
+      213: -8006586382904192732
+    second: cave_tank_die_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_tank_die_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3836
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8292d76252469c080800000000000000
+      internalID: -9166685455813629656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3835
+        width: 358
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ea08a6ff10e830800000000000000
+      internalID: 4098310805148852936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_2
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3834
+        width: 359
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae4c884997a0abb0800000000000000
+      internalID: -4926753715554333013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_3
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 3833
+        width: 359
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a760ecdec142c8480800000000000000
+      internalID: -8895695457296185734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_4
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3832
+        width: 360
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5156eff9c3c9db270800000000000000
+      internalID: 8267936275118318869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_5
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3830
+        width: 359
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6b3ecca72d02730800000000000000
+      internalID: 3972406296206096127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_6
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3829
+        width: 360
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee90f877df422510800000000000000
+      internalID: 1522867410870247140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3555
+        width: 360
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ec533e936eb1a50800000000000000
+      internalID: 6493036424084180483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3556
+        width: 361
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456c0ee1fca48420800000000000000
+      internalID: 2631418237372097864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_9
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3559
+        width: 362
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac41f001baf85e0800000000000000
+      internalID: -1905116031893583182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_10
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 3562
+        width: 363
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd8411e3c63e7850800000000000000
+      internalID: 6376594337325944265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_11
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 3563
+        width: 362
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed83d52d3004350800000000000000
+      internalID: 5998798905699524127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_12
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 3563
+        width: 362
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0685cedbab3c980800000000000000
+      internalID: -8519760745178046246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_13
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3563
+        width: 359
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76662b689c4c3e3e0800000000000000
+      internalID: -2025559037559282073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3283
+        width: 356
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae5454a7b007a30800000000000000
+      internalID: 4210878271367539445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3270
+        width: 351
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf098fc248d5ce60800000000000000
+      internalID: 7982023696045379551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_16
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3278
+        width: 350
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465bc2b448409f7b0800000000000000
+      internalID: -5190112129324370588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_17
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3285
+        width: 361
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fdbb2914566a0f0800000000000000
+      internalID: -1106085326163812585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_18
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 3287
+        width: 367
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028761fd2e1a2d50800000000000000
+      internalID: 6713211377221599753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_19
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 3286
+        width: 373
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f8fa96db667570800000000000000
+      internalID: 8464071119156607460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_20
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 3287
+        width: 379
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bc14104e11e1410800000000000000
+      internalID: 1449615801031183242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3009
+        width: 386
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a527731baca8cd0800000000000000
+      internalID: -2555006976091071953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3002
+        width: 396
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ea03b69bccc2ab0800000000000000
+      internalID: -5031421586940318105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_23
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3004
+        width: 405
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c084f260b787320800000000000000
+      internalID: 2555928055026027650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_24
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 3006
+        width: 410
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128eb3c9706bc1050800000000000000
+      internalID: 5772688966184331297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_25
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3078
+        width: 131
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2389e75d36668c810800000000000000
+      internalID: 1785789831222040626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_26
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 3007
+        width: 325
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e19c5946991835d0800000000000000
+      internalID: -3082685811668512280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_27
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 3058
+        width: 94
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f31c879fa52ab0800000000000000
+      internalID: -5033423943091620210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_28
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 3007
+        width: 325
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d286ca0ccff310800000000000000
+      internalID: 1441094752434050605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_29
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 3044
+        width: 81
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da665cfdd2bb46ba0800000000000000
+      internalID: -6096542189850630483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_30
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 3007
+        width: 325
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a4b865e1b092b0800000000000000
+      internalID: -5579764339449747269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2760
+        width: 87
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280790ce15402f2a0800000000000000
+      internalID: -6705292145302343550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2732
+        width: 325
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a1d8c866d8d01a0800000000000000
+      internalID: -6841656787321677295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_33
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2753
+        width: 105
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1425318ff054fe0800000000000000
+      internalID: -1205539767101275742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2732
+        width: 325
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81cf17c99b3dc1b0800000000000000
+      internalID: -5634782027113840241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_35
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2750
+        width: 121
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca242ecfafd3ec30800000000000000
+      internalID: 4387596408159742665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_36
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 2732
+        width: 327
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7287eab0c0cf9e0800000000000000
+      internalID: -1586379724429973549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_37
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2741
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dccaf7b233c17a0800000000000000
+      internalID: -6405188308109046488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_38
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2731
+        width: 329
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f9a1ea270928920800000000000000
+      internalID: 2991111924749082446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_39
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2734
+        width: 167
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce67562f0066840800000000000000
+      internalID: 5216858259439676462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_40
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2729
+        width: 332
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ecd75b32bdfb1d0800000000000000
+      internalID: -3332704252815618556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_41
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2729
+        width: 185
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeec36ce144171280800000000000000
+      internalID: -9072760650943181078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_42
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 2727
+        width: 333
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2365af6cfc4781740800000000000000
+      internalID: 5122973011879286322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_43
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 2726
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b3d586838fa190800000000000000
+      internalID: -7948990203491535767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_44
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 2725
+        width: 336
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f380650eb1e760800000000000000
+      internalID: 7485472985969849250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2455
+        width: 204
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb937227aeaab550800000000000000
+      internalID: 6177441871752829934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2449
+        width: 337
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da61abfa51730180800000000000000
+      internalID: -9150345382304060717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_47
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2459
+        width: 208
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b947f99f687971c0800000000000000
+      internalID: -4505437531487647307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2449
+        width: 337
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103d4b6d5fcd52aa0800000000000000
+      internalID: -6186295564696235263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_49
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2455
+        width: 209
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3706d6a6ff96b40800000000000000
+      internalID: 5434155257965867976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_50
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2448
+        width: 335
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2be375af0f8aa60800000000000000
+      internalID: 7685657722103968488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_51
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2451
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48be928c19e9be0800000000000000
+      internalID: -1468576139593415486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_52
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2449
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b890450eab8770800000000000000
+      internalID: 8614170049858025614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_53
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2448
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e6e51523c3ae60800000000000000
+      internalID: 7972430329424568778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_54
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2449
+        width: 332
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793ed99c421c2a40800000000000000
+      internalID: 5344666977990228343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_55
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2448
+        width: 211
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d72b6de07e5c580800000000000000
+      internalID: -8807379445335556793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_56
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2449
+        width: 332
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc905454a4e4ed0800000000000000
+      internalID: -2427921487734649750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_57
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 2448
+        width: 212
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7711cdb5e8bee20800000000000000
+      internalID: 3380952470456989648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_58
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 2449
+        width: 332
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59c836619e1cc1b0800000000000000
+      internalID: -5635095423913244323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2173
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c325a436106eb8db0800000000000000
+      internalID: -4788480885143219652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2174
+        width: 332
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e5703d2b3ac440800000000000000
+      internalID: 4956839405147251796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_61
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2173
+        width: 211
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36473c57a9022c4e0800000000000000
+      internalID: -1962970639807318941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_62
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2174
+        width: 332
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3804ae51addf00800000000000000
+      internalID: 1143247308272975265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_63
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2173
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944667cffdd554d70800000000000000
+      internalID: 9026724244728734793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_64
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2174
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b3d6e7466e8ff0800000000000000
+      internalID: -31975688343670618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_65
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2173
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ff84ad099d3d40800000000000000
+      internalID: 5565772998374323801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_66
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2174
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a115f61dc68d3b8b0800000000000000
+      internalID: -5137524788017802982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_67
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2173
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95d26975eac6b50800000000000000
+      internalID: 6587832046141135326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_68
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2174
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db91c18dbac028e0800000000000000
+      internalID: -1720152142380950567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_69
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2173
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6943e0f5ff3e9240800000000000000
+      internalID: 4800344578364492139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_70
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2174
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6212219361cab9b00800000000000000
+      internalID: 836451367254106406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_71
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2173
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a19b33b6a1e94320800000000000000
+      internalID: 2542811570715201954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_72
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 2174
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b431c120f3bca820800000000000000
+      internalID: 2930915301451183283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898
+        width: 210
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c59661b2afbde80800000000000000
+      internalID: -8152647637457609629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_die_74
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1899
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421148ffa14e2e090800000000000000
+      internalID: -8006586382904192732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_tank_die_0: -9166685455813629656
+      cave_tank_die_1: 4098310805148852936
+      cave_tank_die_10: 6376594337325944265
+      cave_tank_die_11: 5998798905699524127
+      cave_tank_die_12: -8519760745178046246
+      cave_tank_die_13: -2025559037559282073
+      cave_tank_die_14: 4210878271367539445
+      cave_tank_die_15: 7982023696045379551
+      cave_tank_die_16: -5190112129324370588
+      cave_tank_die_17: -1106085326163812585
+      cave_tank_die_18: 6713211377221599753
+      cave_tank_die_19: 8464071119156607460
+      cave_tank_die_2: -4926753715554333013
+      cave_tank_die_20: 1449615801031183242
+      cave_tank_die_21: -2555006976091071953
+      cave_tank_die_22: -5031421586940318105
+      cave_tank_die_23: 2555928055026027650
+      cave_tank_die_24: 5772688966184331297
+      cave_tank_die_25: 1785789831222040626
+      cave_tank_die_26: -3082685811668512280
+      cave_tank_die_27: -5033423943091620210
+      cave_tank_die_28: 1441094752434050605
+      cave_tank_die_29: -6096542189850630483
+      cave_tank_die_3: -8895695457296185734
+      cave_tank_die_30: -5579764339449747269
+      cave_tank_die_31: -6705292145302343550
+      cave_tank_die_32: -6841656787321677295
+      cave_tank_die_33: -1205539767101275742
+      cave_tank_die_34: -5634782027113840241
+      cave_tank_die_35: 4387596408159742665
+      cave_tank_die_36: -1586379724429973549
+      cave_tank_die_37: -6405188308109046488
+      cave_tank_die_38: 2991111924749082446
+      cave_tank_die_39: 5216858259439676462
+      cave_tank_die_4: 8267936275118318869
+      cave_tank_die_40: -3332704252815618556
+      cave_tank_die_41: -9072760650943181078
+      cave_tank_die_42: 5122973011879286322
+      cave_tank_die_43: -7948990203491535767
+      cave_tank_die_44: 7485472985969849250
+      cave_tank_die_45: 6177441871752829934
+      cave_tank_die_46: -9150345382304060717
+      cave_tank_die_47: -4505437531487647307
+      cave_tank_die_48: -6186295564696235263
+      cave_tank_die_49: 5434155257965867976
+      cave_tank_die_5: 3972406296206096127
+      cave_tank_die_50: 7685657722103968488
+      cave_tank_die_51: -1468576139593415486
+      cave_tank_die_52: 8614170049858025614
+      cave_tank_die_53: 7972430329424568778
+      cave_tank_die_54: 5344666977990228343
+      cave_tank_die_55: -8807379445335556793
+      cave_tank_die_56: -2427921487734649750
+      cave_tank_die_57: 3380952470456989648
+      cave_tank_die_58: -5635095423913244323
+      cave_tank_die_59: -4788480885143219652
+      cave_tank_die_6: 1522867410870247140
+      cave_tank_die_60: 4956839405147251796
+      cave_tank_die_61: -1962970639807318941
+      cave_tank_die_62: 1143247308272975265
+      cave_tank_die_63: 9026724244728734793
+      cave_tank_die_64: -31975688343670618
+      cave_tank_die_65: 5565772998374323801
+      cave_tank_die_66: -5137524788017802982
+      cave_tank_die_67: 6587832046141135326
+      cave_tank_die_68: -1720152142380950567
+      cave_tank_die_69: 4800344578364492139
+      cave_tank_die_7: 6493036424084180483
+      cave_tank_die_70: 836451367254106406
+      cave_tank_die_71: 2542811570715201954
+      cave_tank_die_72: 2930915301451183283
+      cave_tank_die_73: -8152647637457609629
+      cave_tank_die_74: -8006586382904192732
+      cave_tank_die_8: 2631418237372097864
+      cave_tank_die_9: -1905116031893583182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

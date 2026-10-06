@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 00c0ebbc8ec7cc642a0f8bd8c8582134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6293210407847274345
+    second: knight_range_die_0
+  - first:
+      213: -7523267558075262336
+    second: knight_range_die_1
+  - first:
+      213: -9189860692987012763
+    second: knight_range_die_2
+  - first:
+      213: -8668911326824281240
+    second: knight_range_die_3
+  - first:
+      213: 1318788531508218867
+    second: knight_range_die_4
+  - first:
+      213: -9091552479572587993
+    second: knight_range_die_5
+  - first:
+      213: -4680904656928774746
+    second: knight_range_die_6
+  - first:
+      213: 6563261277335268608
+    second: knight_range_die_7
+  - first:
+      213: -1233295762304605424
+    second: knight_range_die_8
+  - first:
+      213: -2388596109235681477
+    second: knight_range_die_9
+  - first:
+      213: 1959149951282187641
+    second: knight_range_die_10
+  - first:
+      213: 8302959315806967531
+    second: knight_range_die_11
+  - first:
+      213: 8703638410562402166
+    second: knight_range_die_12
+  - first:
+      213: -7880817913548338934
+    second: knight_range_die_13
+  - first:
+      213: 5762235325306031168
+    second: knight_range_die_14
+  - first:
+      213: 4714701715706476699
+    second: knight_range_die_15
+  - first:
+      213: -2319898555373752544
+    second: knight_range_die_16
+  - first:
+      213: 4678458291415253434
+    second: knight_range_die_17
+  - first:
+      213: -8621273837380421163
+    second: knight_range_die_18
+  - first:
+      213: 2327392087237148907
+    second: knight_range_die_19
+  - first:
+      213: 8794236482190925818
+    second: knight_range_die_20
+  - first:
+      213: -6700231336384540976
+    second: knight_range_die_21
+  - first:
+      213: -2849734583747344951
+    second: knight_range_die_22
+  - first:
+      213: 1952927224431597174
+    second: knight_range_die_23
+  - first:
+      213: 3267417801809167614
+    second: knight_range_die_24
+  - first:
+      213: 3007810648468854655
+    second: knight_range_die_25
+  - first:
+      213: 3271596816422003237
+    second: knight_range_die_26
+  - first:
+      213: 5619636784225904886
+    second: knight_range_die_27
+  - first:
+      213: -3136224080635961937
+    second: knight_range_die_28
+  - first:
+      213: 8583306924217711499
+    second: knight_range_die_29
+  - first:
+      213: 7529853451721760755
+    second: knight_range_die_30
+  - first:
+      213: -115606948706553570
+    second: knight_range_die_31
+  - first:
+      213: 7294231312355587309
+    second: knight_range_die_32
+  - first:
+      213: -5223294670192904026
+    second: knight_range_die_33
+  - first:
+      213: 4777952434587580112
+    second: knight_range_die_34
+  - first:
+      213: 1026572609636817537
+    second: knight_range_die_35
+  - first:
+      213: -2836153860815302762
+    second: knight_range_die_36
+  - first:
+      213: 3020701169711247323
+    second: knight_range_die_37
+  - first:
+      213: 8833735694339873345
+    second: knight_range_die_38
+  - first:
+      213: -76126237180823227
+    second: knight_range_die_39
+  - first:
+      213: 5178587877620860377
+    second: knight_range_die_40
+  - first:
+      213: -847934908125442782
+    second: knight_range_die_41
+  - first:
+      213: -4447723328934095305
+    second: knight_range_die_42
+  - first:
+      213: 2724860225832547493
+    second: knight_range_die_43
+  - first:
+      213: -2632758251950866574
+    second: knight_range_die_44
+  - first:
+      213: 5523643542225622277
+    second: knight_range_die_45
+  - first:
+      213: -674883058323018480
+    second: knight_range_die_46
+  - first:
+      213: 5146749139191332021
+    second: knight_range_die_47
+  - first:
+      213: 2135017298205800523
+    second: knight_range_die_48
+  - first:
+      213: -3716947622142934571
+    second: knight_range_die_49
+  - first:
+      213: -7839392611970348519
+    second: knight_range_die_50
+  - first:
+      213: 4308492379615218211
+    second: knight_range_die_51
+  - first:
+      213: -2620644575417648420
+    second: knight_range_die_52
+  - first:
+      213: 6336286933032149412
+    second: knight_range_die_53
+  - first:
+      213: -5533910131226491098
+    second: knight_range_die_54
+  - first:
+      213: -1238464814530549251
+    second: knight_range_die_55
+  - first:
+      213: 3798383482228540200
+    second: knight_range_die_56
+  - first:
+      213: -767928920117345044
+    second: knight_range_die_57
+  - first:
+      213: 6209595349881404995
+    second: knight_range_die_58
+  - first:
+      213: 5637031661375774554
+    second: knight_range_die_59
+  - first:
+      213: 9058599566823269801
+    second: knight_range_die_60
+  - first:
+      213: -2590867490113989064
+    second: knight_range_die_61
+  - first:
+      213: 2620682556949895401
+    second: knight_range_die_62
+  - first:
+      213: -6614324866242784540
+    second: knight_range_die_63
+  - first:
+      213: 1884741677436025096
+    second: knight_range_die_64
+  - first:
+      213: -3043787115070063
+    second: knight_range_die_65
+  - first:
+      213: -1585753127866654192
+    second: knight_range_die_66
+  - first:
+      213: 7988627588335388085
+    second: knight_range_die_67
+  - first:
+      213: 7647623161387986047
+    second: knight_range_die_68
+  - first:
+      213: 7227781873675855235
+    second: knight_range_die_69
+  - first:
+      213: 7010108055416208438
+    second: knight_range_die_70
+  - first:
+      213: -7840289881121617899
+    second: knight_range_die_71
+  - first:
+      213: -3795052372719394251
+    second: knight_range_die_72
+  - first:
+      213: -2569581400617684180
+    second: knight_range_die_73
+  - first:
+      213: -1531542967411632387
+    second: knight_range_die_74
+  - first:
+      213: 3594342588067874770
+    second: knight_range_die_75
+  - first:
+      213: -2742129480817725760
+    second: knight_range_die_76
+  - first:
+      213: -2829103069140016628
+    second: knight_range_die_77
+  - first:
+      213: 6081043553072665849
+    second: knight_range_die_78
+  - first:
+      213: -2268296696207997754
+    second: knight_range_die_79
+  - first:
+      213: -4035700726640642419
+    second: knight_range_die_80
+  - first:
+      213: -2449640552217900324
+    second: knight_range_die_81
+  - first:
+      213: -30020313436030523
+    second: knight_range_die_82
+  - first:
+      213: 8942613655295760180
+    second: knight_range_die_83
+  - first:
+      213: 5766292994247524853
+    second: knight_range_die_84
+  - first:
+      213: 5850849418970219277
+    second: knight_range_die_85
+  - first:
+      213: -4116193799754174840
+    second: knight_range_die_86
+  - first:
+      213: 5730705538150189380
+    second: knight_range_die_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_range_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9672788e589f55750800000000000000
+      internalID: 6293210407847274345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 461
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a14b2140cf79790800000000000000
+      internalID: -7523267558075262336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 460
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691f23c36e077080800000000000000
+      internalID: -9189860692987012763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 460
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b474ff317d1b780800000000000000
+      internalID: -8668911326824281240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 459
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb0862ae274d4210800000000000000
+      internalID: 1318788531508218867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a014e503154d180800000000000000
+      internalID: -9091552479572587993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 457
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5e948d3061a0fb0800000000000000
+      internalID: -4680904656928774746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 457
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d25abab53651b50800000000000000
+      internalID: 6563261277335268608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 456
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013e6d8d90472eee0800000000000000
+      internalID: -1233295762304605424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 455
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3780257e700aded0800000000000000
+      internalID: -2388596109235681477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 455
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d06eb208c403b10800000000000000
+      internalID: 1959149951282187641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 455
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6d13bb1890a3370800000000000000
+      internalID: 8302959315806967531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_12
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 456
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6777403450989c870800000000000000
+      internalID: 8703638410562402166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 456
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a098a6bacd5b1a290800000000000000
+      internalID: -7880817913548338934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 456
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc21daf7297ff40800000000000000
+      internalID: 5762235325306031168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 456
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98fb9a1b3cfd6140800000000000000
+      internalID: 4714701715706476699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f61042e801ecfd0800000000000000
+      internalID: -2319898555373752544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1894c47093de040800000000000000
+      internalID: 4678458291415253434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d932935f151b5880800000000000000
+      internalID: -8621273837380421163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be043d4b5ce8c4020800000000000000
+      internalID: 2327392087237148907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff55c79c776b0a70800000000000000
+      internalID: 8794236482190925818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0decbd1591ff303a0800000000000000
+      internalID: -6700231336384540976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5089f9e75b378d0800000000000000
+      internalID: -2849734583747344951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6765f6ca6f03a1b10800000000000000
+      internalID: 1952927224431597174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef48f91ed23385d20800000000000000
+      internalID: 3267417801809167614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_25
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779f9549d3edb920800000000000000
+      internalID: 3007810648468854655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_26
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e12b88fb076d20800000000000000
+      internalID: 3271596816422003237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8e08291e5fcfd40800000000000000
+      internalID: 5619636784225904886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_28
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faddaa9a0d4e974d0800000000000000
+      internalID: -3136224080635961937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bb528db280e1770800000000000000
+      internalID: 8583306924217711499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_30
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffdf98c1d96f7860800000000000000
+      internalID: 7529853451721760755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_31
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 371
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1177c8b718456ef0800000000000000
+      internalID: -115606948706553570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47c7a6bb05a3560800000000000000
+      internalID: 7294231312355587309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 316
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8f5f1fb212387b0800000000000000
+      internalID: -5223294670192904026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 316
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63e41bc62be4240800000000000000
+      internalID: 4777952434587580112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 316
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a5c85795e1f3e00800000000000000
+      internalID: 1026572609636817537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 316
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f40c51715f3a8d0800000000000000
+      internalID: -2836153860815302762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 316
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfee31a5bfabe920800000000000000
+      internalID: 3020701169711247323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 316
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a11d49fcbb79a70800000000000000
+      internalID: 8833735694339873345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 316
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ffb2379b81fef0800000000000000
+      internalID: -76126237180823227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 316
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54cb3cc3a0ed740800000000000000
+      internalID: 5178587877620860377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_41
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 316
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d878091b78b34f0800000000000000
+      internalID: -847934908125442782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_42
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 316
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7365aa782338642c0800000000000000
+      internalID: -4447723328934095305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_43
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 316
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4f65f30f5a0d520800000000000000
+      internalID: 2724860225832547493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_44
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 316
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f7dfc9150967bd0800000000000000
+      internalID: -2632758251950866574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_45
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 316
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5051d30498ce7ac40800000000000000
+      internalID: 5523643542225622277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_46
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 316
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2ab32f6552a6f0800000000000000
+      internalID: -674883058323018480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_47
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 316
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcfb8dc21dec6740800000000000000
+      internalID: 5146749139191332021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48fed0cbea11ad10800000000000000
+      internalID: 2135017298205800523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d10075b4dfba6cc0800000000000000
+      internalID: -3716947622142934571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a8fac44f1e43390800000000000000
+      internalID: -7839392611970348519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_51
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a417cedf6dacb30800000000000000
+      internalID: 4308492379615218211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda3da7b4a991abd0800000000000000
+      internalID: -2620644575417648420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a45ef4630fe750800000000000000
+      internalID: 6336286933032149412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6274f493e0a9333b0800000000000000
+      internalID: -5533910131226491098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9261710d610dee0800000000000000
+      internalID: -1238464814530549251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_56
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82381f207a196b430800000000000000
+      internalID: 3798383482228540200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_57
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce408af37b4c755f0800000000000000
+      internalID: -767928920117345044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_58
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3994221aec2650800000000000000
+      internalID: 6209595349881404995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_59
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fdee30e62ca3e40800000000000000
+      internalID: 5637031661375774554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_60
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5220fbf4c96bd70800000000000000
+      internalID: 9058599566823269801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_61
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d5a7aeb36b0cd0800000000000000
+      internalID: -2590867490113989064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_62
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e89f0c86e88e5420800000000000000
+      internalID: 2620682556949895401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_63
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d09e04923534a0800000000000000
+      internalID: -6614324866242784540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b2f0e192f72a10800000000000000
+      internalID: 1884741677436025096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 176
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dfb3611bf25fff0800000000000000
+      internalID: -3043787115070063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 176
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0122b009ee54ef9e0800000000000000
+      internalID: -1585753127866654192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_67
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 176
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5cd9d477e4dde60800000000000000
+      internalID: 7988627588335388085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 176
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ca4961fb0d12a60800000000000000
+      internalID: 7647623161387986047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_69
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 176
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e476d15d3e4460800000000000000
+      internalID: 7227781873675855235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_70
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 176
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cff20a228e84160800000000000000
+      internalID: 7010108055416208438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_71
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 176
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51808ab84e1b13390800000000000000
+      internalID: -7840289881121617899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_72
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 176
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ae0c59f3455bc0800000000000000
+      internalID: -3795052372719394251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_73
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 176
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237bb29453075cd0800000000000000
+      internalID: -2569581400617684180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_74
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 176
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df69e2d19cddebae0800000000000000
+      internalID: -1531542967411632387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_75
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 176
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d708da4a8ba1e130800000000000000
+      internalID: 3594342588067874770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceabbff3cff1f9d0800000000000000
+      internalID: -2742129480817725760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0221f27fb10db8d0800000000000000
+      internalID: -2829103069140016628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_78
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4539c84e4346450800000000000000
+      internalID: 6081043553072665849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_79
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c484593c246580e0800000000000000
+      internalID: -2268296696207997754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_80
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867cc8329f4ef7c0800000000000000
+      internalID: -4035700726640642419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda09a185e0210ed0800000000000000
+      internalID: -2449640552217900324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_82
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c979991fa8559ff0800000000000000
+      internalID: -30020313436030523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_83
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437167f4dbb8a1c70800000000000000
+      internalID: 8942613655295760180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_84
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f182f85decf50050800000000000000
+      internalID: 5766292994247524853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_85
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0345042c84623150800000000000000
+      internalID: 5850849418970219277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_86
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eacf23c8750e6c0800000000000000
+      internalID: -4116193799754174840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_die_87
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 91
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494ec9035e878f40800000000000000
+      internalID: 5730705538150189380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_range_die_0: 6293210407847274345
+      knight_range_die_1: -7523267558075262336
+      knight_range_die_10: 1959149951282187641
+      knight_range_die_11: 8302959315806967531
+      knight_range_die_12: 8703638410562402166
+      knight_range_die_13: -7880817913548338934
+      knight_range_die_14: 5762235325306031168
+      knight_range_die_15: 4714701715706476699
+      knight_range_die_16: -2319898555373752544
+      knight_range_die_17: 4678458291415253434
+      knight_range_die_18: -8621273837380421163
+      knight_range_die_19: 2327392087237148907
+      knight_range_die_2: -9189860692987012763
+      knight_range_die_20: 8794236482190925818
+      knight_range_die_21: -6700231336384540976
+      knight_range_die_22: -2849734583747344951
+      knight_range_die_23: 1952927224431597174
+      knight_range_die_24: 3267417801809167614
+      knight_range_die_25: 3007810648468854655
+      knight_range_die_26: 3271596816422003237
+      knight_range_die_27: 5619636784225904886
+      knight_range_die_28: -3136224080635961937
+      knight_range_die_29: 8583306924217711499
+      knight_range_die_3: -8668911326824281240
+      knight_range_die_30: 7529853451721760755
+      knight_range_die_31: -115606948706553570
+      knight_range_die_32: 7294231312355587309
+      knight_range_die_33: -5223294670192904026
+      knight_range_die_34: 4777952434587580112
+      knight_range_die_35: 1026572609636817537
+      knight_range_die_36: -2836153860815302762
+      knight_range_die_37: 3020701169711247323
+      knight_range_die_38: 8833735694339873345
+      knight_range_die_39: -76126237180823227
+      knight_range_die_4: 1318788531508218867
+      knight_range_die_40: 5178587877620860377
+      knight_range_die_41: -847934908125442782
+      knight_range_die_42: -4447723328934095305
+      knight_range_die_43: 2724860225832547493
+      knight_range_die_44: -2632758251950866574
+      knight_range_die_45: 5523643542225622277
+      knight_range_die_46: -674883058323018480
+      knight_range_die_47: 5146749139191332021
+      knight_range_die_48: 2135017298205800523
+      knight_range_die_49: -3716947622142934571
+      knight_range_die_5: -9091552479572587993
+      knight_range_die_50: -7839392611970348519
+      knight_range_die_51: 4308492379615218211
+      knight_range_die_52: -2620644575417648420
+      knight_range_die_53: 6336286933032149412
+      knight_range_die_54: -5533910131226491098
+      knight_range_die_55: -1238464814530549251
+      knight_range_die_56: 3798383482228540200
+      knight_range_die_57: -767928920117345044
+      knight_range_die_58: 6209595349881404995
+      knight_range_die_59: 5637031661375774554
+      knight_range_die_6: -4680904656928774746
+      knight_range_die_60: 9058599566823269801
+      knight_range_die_61: -2590867490113989064
+      knight_range_die_62: 2620682556949895401
+      knight_range_die_63: -6614324866242784540
+      knight_range_die_64: 1884741677436025096
+      knight_range_die_65: -3043787115070063
+      knight_range_die_66: -1585753127866654192
+      knight_range_die_67: 7988627588335388085
+      knight_range_die_68: 7647623161387986047
+      knight_range_die_69: 7227781873675855235
+      knight_range_die_7: 6563261277335268608
+      knight_range_die_70: 7010108055416208438
+      knight_range_die_71: -7840289881121617899
+      knight_range_die_72: -3795052372719394251
+      knight_range_die_73: -2569581400617684180
+      knight_range_die_74: -1531542967411632387
+      knight_range_die_75: 3594342588067874770
+      knight_range_die_76: -2742129480817725760
+      knight_range_die_77: -2829103069140016628
+      knight_range_die_78: 6081043553072665849
+      knight_range_die_79: -2268296696207997754
+      knight_range_die_8: -1233295762304605424
+      knight_range_die_80: -4035700726640642419
+      knight_range_die_81: -2449640552217900324
+      knight_range_die_82: -30020313436030523
+      knight_range_die_83: 8942613655295760180
+      knight_range_die_84: 5766292994247524853
+      knight_range_die_85: 5850849418970219277
+      knight_range_die_86: -4116193799754174840
+      knight_range_die_87: 5730705538150189380
+      knight_range_die_9: -2388596109235681477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

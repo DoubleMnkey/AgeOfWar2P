@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: b73b2fb213c6ad04eac075caa8fe5d7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7491416000997516462
+    second: miltary_melee_die_0
+  - first:
+      213: -5226471209526056243
+    second: miltary_melee_die_1
+  - first:
+      213: -8022939753873563507
+    second: miltary_melee_die_2
+  - first:
+      213: 5843801117384123635
+    second: miltary_melee_die_3
+  - first:
+      213: 3285103292741344289
+    second: miltary_melee_die_4
+  - first:
+      213: 7755159493143596195
+    second: miltary_melee_die_5
+  - first:
+      213: 8540612332625392025
+    second: miltary_melee_die_6
+  - first:
+      213: 6226513665312543897
+    second: miltary_melee_die_7
+  - first:
+      213: 8318110419775096088
+    second: miltary_melee_die_8
+  - first:
+      213: 3138837448829752961
+    second: miltary_melee_die_9
+  - first:
+      213: 1228768844355487504
+    second: miltary_melee_die_10
+  - first:
+      213: 1229984830449578171
+    second: miltary_melee_die_11
+  - first:
+      213: -549204767168238709
+    second: miltary_melee_die_12
+  - first:
+      213: 2963009085417916608
+    second: miltary_melee_die_13
+  - first:
+      213: 8403046857917170682
+    second: miltary_melee_die_14
+  - first:
+      213: 7204952692883389803
+    second: miltary_melee_die_15
+  - first:
+      213: 4707322386226499040
+    second: miltary_melee_die_16
+  - first:
+      213: -979699378998065170
+    second: miltary_melee_die_17
+  - first:
+      213: 6684907718863860357
+    second: miltary_melee_die_18
+  - first:
+      213: 6960677148177476081
+    second: miltary_melee_die_19
+  - first:
+      213: -5166674727175403657
+    second: miltary_melee_die_20
+  - first:
+      213: 6208498651949746336
+    second: miltary_melee_die_21
+  - first:
+      213: 2912581152511998116
+    second: miltary_melee_die_22
+  - first:
+      213: 7675863989631564061
+    second: miltary_melee_die_23
+  - first:
+      213: 4042252348136765903
+    second: miltary_melee_die_24
+  - first:
+      213: -6778212358411032716
+    second: miltary_melee_die_25
+  - first:
+      213: 7222808673818187359
+    second: miltary_melee_die_26
+  - first:
+      213: -2629782788941207706
+    second: miltary_melee_die_27
+  - first:
+      213: 8467093409154494150
+    second: miltary_melee_die_28
+  - first:
+      213: 4632810635580700306
+    second: miltary_melee_die_29
+  - first:
+      213: 1885500941268229716
+    second: miltary_melee_die_30
+  - first:
+      213: -2041616235451399771
+    second: miltary_melee_die_31
+  - first:
+      213: -2114282070607273281
+    second: miltary_melee_die_32
+  - first:
+      213: -6253093446044702056
+    second: miltary_melee_die_33
+  - first:
+      213: 8614817092251511066
+    second: miltary_melee_die_34
+  - first:
+      213: 2950105698034479084
+    second: miltary_melee_die_35
+  - first:
+      213: -3683255141465362719
+    second: miltary_melee_die_36
+  - first:
+      213: 2376667480683925146
+    second: miltary_melee_die_37
+  - first:
+      213: 6316098951780631954
+    second: miltary_melee_die_38
+  - first:
+      213: -952715594417946380
+    second: miltary_melee_die_39
+  - first:
+      213: -3603060330380633989
+    second: miltary_melee_die_40
+  - first:
+      213: -7434307565760032724
+    second: miltary_melee_die_41
+  - first:
+      213: -758441066713845242
+    second: miltary_melee_die_42
+  - first:
+      213: -5148076712568191174
+    second: miltary_melee_die_43
+  - first:
+      213: -2537441158049227221
+    second: miltary_melee_die_44
+  - first:
+      213: 8274543408244031102
+    second: miltary_melee_die_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_melee_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46224692bd6f760800000000000000
+      internalID: 7491416000997516462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 964
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa46f3028d777b0800000000000000
+      internalID: -5226471209526056243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 964
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a10c1dcac8a090800000000000000
+      internalID: -8022939753873563507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 964
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f426bb872a591150800000000000000
+      internalID: 5843801117384123635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 964
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c505e1a08079d20800000000000000
+      internalID: 3285103292741344289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 964
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac825d687cdf9b60800000000000000
+      internalID: 7755159493143596195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 964
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f47a9aa9568670800000000000000
+      internalID: 8540612332625392025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 963
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d11a6035096650800000000000000
+      internalID: 6226513665312543897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 963
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8158b250b5ddf6370800000000000000
+      internalID: 8318110419775096088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 963
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d03987046f8b20800000000000000
+      internalID: 3138837448829752961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_10
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 963
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01740eee0c67d0110800000000000000
+      internalID: 1228768844355487504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 962
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f012cfa8c11110800000000000000
+      internalID: 1229984830449578171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 962
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6cff8c25d068f0800000000000000
+      internalID: -549204767168238709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_13
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 962
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c807928019be1920800000000000000
+      internalID: 2963009085417916608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 962
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38d15989e9d9470800000000000000
+      internalID: 8403046857917170682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 963
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dfecafc422df360800000000000000
+      internalID: 7204952692883389803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 964
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed464215c4c35140800000000000000
+      internalID: 4707322386226499040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 964
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee746200b986762f0800000000000000
+      internalID: -979699378998065170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_18
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 964
+        width: 963
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b523f62095cc50800000000000000
+      internalID: 6684907718863860357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92c4dacfa499060800000000000000
+      internalID: 6960677148177476081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c8b8b5b84c48b0800000000000000
+      internalID: -5166674727175403657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8c4f141a4092650800000000000000
+      internalID: 6208498651949746336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8b9fe60219b6820800000000000000
+      internalID: 2912581152511998116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b33e41a5268a60800000000000000
+      internalID: 7675863989631564061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93e270817f81830800000000000000
+      internalID: 4042252348136765903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4776fb4c5c3fee1a0800000000000000
+      internalID: -6778212358411032716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f561b8388329c3460800000000000000
+      internalID: 7222808673818187359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66729b49c72218bd0800000000000000
+      internalID: -2629782788941207706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce64b45898218570800000000000000
+      internalID: 8467093409154494150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29670753abc0b4040800000000000000
+      internalID: 4632810635580700306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_30
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e15f3cd15aa2a10800000000000000
+      internalID: 1885500941268229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1cf3ec9d8baa3e0800000000000000
+      internalID: -2041616235451399771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_32
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2e972a8af88a2e0800000000000000
+      internalID: -2114282070607273281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_33
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aae2124ac8839a0800000000000000
+      internalID: -6253093446044702056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_34
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a196d9c808afd8770800000000000000
+      internalID: 8614817092251511066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_35
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef63358081e0f820800000000000000
+      internalID: 2950105698034479084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_36
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee63dba6f272ecc0800000000000000
+      internalID: -3683255141465362719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_37
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e43674b7e9bf020800000000000000
+      internalID: 2376667480683925146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_38
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950a13588a47a750800000000000000
+      internalID: 6316098951780631954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_39
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f04ebee63647c2f0800000000000000
+      internalID: -952715594417946380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_40
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785c5728bb5ffdc0800000000000000
+      internalID: -3603060330380633989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_41
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20dfd758a804d890800000000000000
+      internalID: -7434307565760032724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_42
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f3734ed97975f0800000000000000
+      internalID: -758441066713845242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_43
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3789ee618b5e88b0800000000000000
+      internalID: -5148076712568191174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 2041
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e1500f5b239ccd0800000000000000
+      internalID: -2537441158049227221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_die_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 1321
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7feea36515d270800000000000000
+      internalID: 8274543408244031102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_melee_die_0: 7491416000997516462
+      miltary_melee_die_1: -5226471209526056243
+      miltary_melee_die_10: 1228768844355487504
+      miltary_melee_die_11: 1229984830449578171
+      miltary_melee_die_12: -549204767168238709
+      miltary_melee_die_13: 2963009085417916608
+      miltary_melee_die_14: 8403046857917170682
+      miltary_melee_die_15: 7204952692883389803
+      miltary_melee_die_16: 4707322386226499040
+      miltary_melee_die_17: -979699378998065170
+      miltary_melee_die_18: 6684907718863860357
+      miltary_melee_die_19: 6960677148177476081
+      miltary_melee_die_2: -8022939753873563507
+      miltary_melee_die_20: -5166674727175403657
+      miltary_melee_die_21: 6208498651949746336
+      miltary_melee_die_22: 2912581152511998116
+      miltary_melee_die_23: 7675863989631564061
+      miltary_melee_die_24: 4042252348136765903
+      miltary_melee_die_25: -6778212358411032716
+      miltary_melee_die_26: 7222808673818187359
+      miltary_melee_die_27: -2629782788941207706
+      miltary_melee_die_28: 8467093409154494150
+      miltary_melee_die_29: 4632810635580700306
+      miltary_melee_die_3: 5843801117384123635
+      miltary_melee_die_30: 1885500941268229716
+      miltary_melee_die_31: -2041616235451399771
+      miltary_melee_die_32: -2114282070607273281
+      miltary_melee_die_33: -6253093446044702056
+      miltary_melee_die_34: 8614817092251511066
+      miltary_melee_die_35: 2950105698034479084
+      miltary_melee_die_36: -3683255141465362719
+      miltary_melee_die_37: 2376667480683925146
+      miltary_melee_die_38: 6316098951780631954
+      miltary_melee_die_39: -952715594417946380
+      miltary_melee_die_4: 3285103292741344289
+      miltary_melee_die_40: -3603060330380633989
+      miltary_melee_die_41: -7434307565760032724
+      miltary_melee_die_42: -758441066713845242
+      miltary_melee_die_43: -5148076712568191174
+      miltary_melee_die_44: -2537441158049227221
+      miltary_melee_die_45: 8274543408244031102
+      miltary_melee_die_5: 7755159493143596195
+      miltary_melee_die_6: 8540612332625392025
+      miltary_melee_die_7: 6226513665312543897
+      miltary_melee_die_8: 8318110419775096088
+      miltary_melee_die_9: 3138837448829752961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

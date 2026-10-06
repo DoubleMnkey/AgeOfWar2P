@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 8527155d25ecb474496fdfab88a7f242
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2241293700282166274
+    second: cave_range_idle_attack_0
+  - first:
+      213: -2458124172338703218
+    second: cave_range_idle_attack_1
+  - first:
+      213: 8009817012998955308
+    second: cave_range_idle_attack_2
+  - first:
+      213: -3307286413775215161
+    second: cave_range_idle_attack_3
+  - first:
+      213: 6075561029979873574
+    second: cave_range_idle_attack_4
+  - first:
+      213: -5373249290417952381
+    second: cave_range_idle_attack_5
+  - first:
+      213: -3886913068333021560
+    second: cave_range_idle_attack_6
+  - first:
+      213: 1669739782676662329
+    second: cave_range_idle_attack_7
+  - first:
+      213: -4759778418337613422
+    second: cave_range_idle_attack_8
+  - first:
+      213: -1808229541495438935
+    second: cave_range_idle_attack_9
+  - first:
+      213: 1886184386762710343
+    second: cave_range_idle_attack_10
+  - first:
+      213: -2988981277622486669
+    second: cave_range_idle_attack_11
+  - first:
+      213: 270975056756247009
+    second: cave_range_idle_attack_12
+  - first:
+      213: 5186289739862373362
+    second: cave_range_idle_attack_13
+  - first:
+      213: -4765378883233187639
+    second: cave_range_idle_attack_14
+  - first:
+      213: -6373834408357546180
+    second: cave_range_idle_attack_15
+  - first:
+      213: 1320279657024834524
+    second: cave_range_idle_attack_16
+  - first:
+      213: 2827874367458614695
+    second: cave_range_idle_attack_17
+  - first:
+      213: 9005983624611196270
+    second: cave_range_idle_attack_18
+  - first:
+      213: -484130820552674268
+    second: cave_range_idle_attack_19
+  - first:
+      213: -8491331655413870591
+    second: cave_range_idle_attack_20
+  - first:
+      213: 4469196568353500873
+    second: cave_range_idle_attack_21
+  - first:
+      213: -5054372578954283366
+    second: cave_range_idle_attack_22
+  - first:
+      213: -7001559864219783284
+    second: cave_range_idle_attack_23
+  - first:
+      213: -8879827031635638514
+    second: cave_range_idle_attack_24
+  - first:
+      213: -6117517170565518162
+    second: cave_range_idle_attack_25
+  - first:
+      213: 5116424434946797701
+    second: cave_range_idle_attack_26
+  - first:
+      213: 6889906508755158631
+    second: cave_range_idle_attack_27
+  - first:
+      213: -7136234593338896318
+    second: cave_range_idle_attack_28
+  - first:
+      213: -3998938969818369430
+    second: cave_range_idle_attack_29
+  - first:
+      213: -5259543177710578693
+    second: cave_range_idle_attack_30
+  - first:
+      213: 7109679146702597434
+    second: cave_range_idle_attack_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_range_idle_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 115
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef35c55214355e0e0800000000000000
+      internalID: -2241293700282166274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8453f5c61df2edd0800000000000000
+      internalID: -2458124172338703218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 850
+        width: 117
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21eeafa226982f60800000000000000
+      internalID: 8009817012998955308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 676
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5e37887882a12d0800000000000000
+      internalID: -3307286413775215161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 850
+        width: 117
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621282b219ab05450800000000000000
+      internalID: 6075561029979873574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 676
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a4033d326e65b0800000000000000
+      internalID: -5373249290417952381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 850
+        width: 116
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886cf297829ee0ac0800000000000000
+      internalID: -3886913068333021560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 676
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c7c55c7b1c2710800000000000000
+      internalID: 1669739782676662329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 850
+        width: 116
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997a653fbed1fdb0800000000000000
+      internalID: -4759778418337613422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 676
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a10ccaffc0e7e6e0800000000000000
+      internalID: -1808229541495438935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_10
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 850
+        width: 116
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d11e1d4b21d2a10800000000000000
+      internalID: 1886184386762710343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 676
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b4034d510586d0800000000000000
+      internalID: -2988981277622486669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_12
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 850
+        width: 115
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e982f0e062b2c300800000000000000
+      internalID: 270975056756247009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 676
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ffbe4a0769f740800000000000000
+      internalID: 5186289739862373362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 850
+        width: 115
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8fcbc5729fdddb0800000000000000
+      internalID: -4765378883233187639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_15
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 676
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37bfa820679b87a0800000000000000
+      internalID: -6373834408357546180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 850
+        width: 115
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbc3295a53925210800000000000000
+      internalID: 1320279657024834524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 676
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad9dc521c0ae3720800000000000000
+      internalID: 2827874367458614695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_18
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 850
+        width: 115
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d6fed046eabfc70800000000000000
+      internalID: 9005983624611196270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 676
+        width: 118
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424b32075950849f0800000000000000
+      internalID: -484130820552674268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_20
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 850
+        width: 114
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100d60139dab82a80800000000000000
+      internalID: -8491331655413870591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_21
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 676
+        width: 124
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceea10a996c50e30800000000000000
+      internalID: 4469196568353500873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 850
+        width: 114
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9674fc2be24bd9b0800000000000000
+      internalID: -5054372578954283366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 676
+        width: 162
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f2c8b366675de90800000000000000
+      internalID: -7001559864219783284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074270bc5484c480800000000000000
+      internalID: -8879827031635638514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 503
+        width: 127
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace61d9b863a1ba0800000000000000
+      internalID: -6117517170565518162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 503
+        width: 125
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580f1256ae0310740800000000000000
+      internalID: 5116424434946797701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_27
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 503
+        width: 124
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c006277ddd9f50800000000000000
+      internalID: 6889906508755158631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_28
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 503
+        width: 123
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2405e2e527007fc90800000000000000
+      internalID: -7136234593338896318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 503
+        width: 121
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a627289b13ae088c0800000000000000
+      internalID: -3998938969818369430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_30
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 503
+        width: 119
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf35bbb98595207b0800000000000000
+      internalID: -5259543177710578693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_attack_31
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 502
+        width: 118
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3de536e387aaa260800000000000000
+      internalID: 7109679146702597434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_range_idle_attack_0: -2241293700282166274
+      cave_range_idle_attack_1: -2458124172338703218
+      cave_range_idle_attack_10: 1886184386762710343
+      cave_range_idle_attack_11: -2988981277622486669
+      cave_range_idle_attack_12: 270975056756247009
+      cave_range_idle_attack_13: 5186289739862373362
+      cave_range_idle_attack_14: -4765378883233187639
+      cave_range_idle_attack_15: -6373834408357546180
+      cave_range_idle_attack_16: 1320279657024834524
+      cave_range_idle_attack_17: 2827874367458614695
+      cave_range_idle_attack_18: 9005983624611196270
+      cave_range_idle_attack_19: -484130820552674268
+      cave_range_idle_attack_2: 8009817012998955308
+      cave_range_idle_attack_20: -8491331655413870591
+      cave_range_idle_attack_21: 4469196568353500873
+      cave_range_idle_attack_22: -5054372578954283366
+      cave_range_idle_attack_23: -7001559864219783284
+      cave_range_idle_attack_24: -8879827031635638514
+      cave_range_idle_attack_25: -6117517170565518162
+      cave_range_idle_attack_26: 5116424434946797701
+      cave_range_idle_attack_27: 6889906508755158631
+      cave_range_idle_attack_28: -7136234593338896318
+      cave_range_idle_attack_29: -3998938969818369430
+      cave_range_idle_attack_3: -3307286413775215161
+      cave_range_idle_attack_30: -5259543177710578693
+      cave_range_idle_attack_31: 7109679146702597434
+      cave_range_idle_attack_4: 6075561029979873574
+      cave_range_idle_attack_5: -5373249290417952381
+      cave_range_idle_attack_6: -3886913068333021560
+      cave_range_idle_attack_7: 1669739782676662329
+      cave_range_idle_attack_8: -4759778418337613422
+      cave_range_idle_attack_9: -1808229541495438935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

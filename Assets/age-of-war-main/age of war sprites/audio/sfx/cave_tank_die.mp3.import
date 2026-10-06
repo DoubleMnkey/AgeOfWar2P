@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://oqageoxma8v6"
+path="res://.godot/imported/cave_tank_die.mp3-5cb756523b0e68f8186672be03a11c93.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/cave_tank_die.mp3"
+dest_files=["res://.godot/imported/cave_tank_die.mp3-5cb756523b0e68f8186672be03a11c93.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,30 @@
+[gd_resource type="Theme" load_steps=8 format=3 uid="uid://cmj82rsd2tadk"]
+
+[ext_resource type="Texture2D" uid="uid://br0inva6038bh" path="res://age of war sprites/ui/checkbutton_on.png" id="1_hrexh"]
+[ext_resource type="Texture2D" uid="uid://cxa74rg3s2v14" path="res://age of war sprites/ui/slider_knob1.png" id="1_it7mu"]
+[ext_resource type="Texture2D" uid="uid://c0iuv8w4a6jlr" path="res://age of war sprites/ui/checkbutton_off.png" id="2_krpmc"]
+[ext_resource type="Texture2D" uid="uid://cweuu024y8e8r" path="res://age of war sprites/ui/slider_knob2.png" id="2_slftw"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kxuu2"]
+bg_color = Color(0.830335, 0.830335, 0.830335, 1)
+expand_margin_top = 8.0
+expand_margin_bottom = 8.0
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_rxq4m"]
+bg_color = Color(0.830335, 0.830335, 0.830335, 1)
+expand_margin_top = 8.0
+expand_margin_bottom = 8.0
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yq1ck"]
+bg_color = Color(0.666569, 0.666569, 0.666569, 1)
+expand_margin_top = 8.0
+expand_margin_bottom = 8.0
+
+[resource]
+CheckButton/icons/checked = ExtResource("1_hrexh")
+CheckButton/icons/unchecked = ExtResource("2_krpmc")
+HSlider/icons/grabber = ExtResource("1_it7mu")
+HSlider/icons/grabber_highlight = ExtResource("2_slftw")
+HSlider/styles/grabber_area = SubResource("StyleBoxFlat_kxuu2")
+HSlider/styles/grabber_area_highlight = SubResource("StyleBoxFlat_rxq4m")
+HSlider/styles/slider = SubResource("StyleBoxFlat_yq1ck")

@@ -1,0 +1,1968 @@
+fileFormatVersion: 2
+guid: 6fe959e2add9c4008830e2d458e96ace
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3616535986466299193
+    second: future_supersoldier_meleeattack_0
+  - first:
+      213: 8253569965125510412
+    second: future_supersoldier_meleeattack_1
+  - first:
+      213: 6636790456133037384
+    second: future_supersoldier_meleeattack_2
+  - first:
+      213: -3507945140648123569
+    second: future_supersoldier_meleeattack_3
+  - first:
+      213: 1892180390889260213
+    second: future_supersoldier_meleeattack_4
+  - first:
+      213: 9140423144537718972
+    second: future_supersoldier_meleeattack_5
+  - first:
+      213: -650674439406194522
+    second: future_supersoldier_meleeattack_6
+  - first:
+      213: 7207427347617342237
+    second: future_supersoldier_meleeattack_7
+  - first:
+      213: -1219573379451329303
+    second: future_supersoldier_meleeattack_8
+  - first:
+      213: 464118154675581290
+    second: future_supersoldier_meleeattack_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9db68154803230800000000000000
+      internalID: 3616535986466299193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57fc538aad2465cb8d0aa71f00dfae
+      internalID: 194681504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d719581aad4db88e484c35ead4e5f
+      internalID: 2095603998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c983a3345340ae9880de88ea972a9
+      internalID: -651178331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3479735ca6aa4fa7ae786a9d22831c3
+      internalID: -1647369549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ac6e494b4d48c08d26840bacf50a6
+      internalID: 1252227857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66393c748f3c94d4e913e0f2883f9b98
+      internalID: 1115416776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2dce56c0ad489baa8e7b289c0ebbe
+      internalID: -1861938925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2bc810f79d248dca3dd16b99f3ca6f
+      internalID: -375654946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be26aad81df9342eb8c09e910e3f4f22
+      internalID: -2100522199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736232ddfa1f4c468e24f2c38e095b1
+      internalID: 1331275782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538edfb5549ce4feb8efa869005bae22
+      internalID: 1618281763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_12
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15241f4c023de4fbcbfbcf85ba8874a3
+      internalID: -1826216630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_13
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9fecc5b1c74eceba7837b3991a852
+      internalID: -1655867337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_14
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a8d61f4b0e4910ab75f05d9dcbd29
+      internalID: 1451206760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_15
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad07b95364b1b4a6ea784dae5f9cd87f
+      internalID: 1534780183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_16
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75bb688f54049b3a87a26d5e2e4930
+      internalID: -1617777901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_17
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 749
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f43611f9d664654b6245cfdc52e661
+      internalID: 264712090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782ffe8868a84873bc1aa67f5b6e1cc
+      internalID: -1882434518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ce36e9c6d745d693c2366ad2858fe
+      internalID: 1235139463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3295a869caf34b1eb0048061bd31fcd
+      internalID: -1475306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc051f946e7db455d88d1be00aae82a4
+      internalID: -440439597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe5472975acf4922b5f9e40e98110b7
+      internalID: 1741502484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238cf492fa96f47d28e9df822c5f5854
+      internalID: -1222300987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef583ccae0cfc45fab00f1b368daa5c8
+      internalID: -1884767156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_25
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b142d06b6b4e5788b18a738681ffa
+      internalID: 462604650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_26
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42f453e788046e89994d2d87147e04
+      internalID: -1909703490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_27
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf529e80b01041c3887360455155288
+      internalID: -1173213355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_28
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23215bcb18eb4b24a28ae4e0ad1f77a
+      internalID: 1281589485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_29
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102db12219a824ad1812ccbb9ac4a30c
+      internalID: 792483872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_30
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21870e2927a3941fa9ef51a17dcf28b5
+      internalID: 71059053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_31
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff814864cb884c2885bc526d51ec95d
+      internalID: 1920491924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_32
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48572969e5e1e4968ab33d1eaf5a95a8
+      internalID: -1408904904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_33
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0643aa26b2408425f9460cf22bb9a449
+      internalID: -437998174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_34
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 611
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0e521645ba4539bd2d260de014e4f
+      internalID: 1006769316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89700678a76084fb29169d287d798e93
+      internalID: 940281727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa63795dd4311479193b4f205e8a8173
+      internalID: -761004945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73df30787132746d8aab649e72673888
+      internalID: -638002925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ef5cd224254f24b62db5bb62546e8
+      internalID: 1397673752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada41a480c204ce8971839459b87a6b
+      internalID: 784611633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_40
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22012691a7f547d2aabd5b61125c5f8
+      internalID: -640666288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719d951f5d594442850ef568d39c2c5
+      internalID: 1716865442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_42
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0ad3976e2ba4f2b825d2f2a055fcd7
+      internalID: -2106632242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_43
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00c014a7fbe4476bddbc71793602ee
+      internalID: 277889974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_44
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eff5fe71f464e0a86c65abfbd997b3
+      internalID: -343208038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_45
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739e5abefb84c433b80c10e44a898ff4
+      internalID: 1911983623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_46
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09764ab6983bf4b44b25d85250d9af0b
+      internalID: 1994165240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_47
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aab2efc19044d49945e26557607c0b
+      internalID: -1630542373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_48
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb627ac9b0034542ae232429ed55d53
+      internalID: 1531699672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_49
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a160dbfd54c3340cda7317536fa8466a
+      internalID: -2004928072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_50
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef219ed4c200432c8356b5927696340
+      internalID: -1554698442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_51
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2e0959ce3e4308bf89a00c43105e8
+      internalID: 1800574752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_52
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 473
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26f8aba538e45c996600cb3ff792a2
+      internalID: -1012992526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c721a0f73d844f284dd5e7c28d0e99
+      internalID: 1514850705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff0946a8bee4d52b7f326a67983449
+      internalID: -463367570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_55
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2761a302eeb42fbb829b4d6bf9f690
+      internalID: 1876908276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be67580bdddd47b2ad59363216ca4ac
+      internalID: -1644146222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e649fafbb3e14aa2bb62852955cb82f
+      internalID: -2010370416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_58
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1457d6893e04229a4156af4707d156
+      internalID: 1247342684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8006e82d3d34257acc7d1f7e8e7790
+      internalID: -894448428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_60
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddaefdf6b2074adebd06a2961e4bfc8
+      internalID: 392333911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_61
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483cb946b6e64480b0148b1287a0d48
+      internalID: 1579446465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_62
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9533e1a048fe47f2b4efa11759fb70d
+      internalID: 807879259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_63
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466a80bb317604d14a20dfb1548f4815
+      internalID: -595851594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_64
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5675e250dfc4518a712cad35f0c09e
+      internalID: 1721225102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_65
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b9311827c54c9d9b480b84c3e100a
+      internalID: 164936190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_66
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b4ace239c6344eab048707ca7c2232
+      internalID: 714757978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_67
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088d6cb3e3f84c6aa3cbe795c8c17b2
+      internalID: -1925929848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_68
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6cfaa8a83a24695bea78e18bcd2521
+      internalID: 1923472991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_69
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 335
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca5a97ceeffa45428454417a0a0b801
+      internalID: -307141148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1b5e2b289a4a23b45858144aeedf9
+      internalID: -1749321609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37276b21ec364a8ebb4c6a375bf930f
+      internalID: -1664157982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_72
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c5c730d480499d9396744aeb26116
+      internalID: 1567912911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_73
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c11329610f4886a0f980625309e9f
+      internalID: -1300227885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_74
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d12700404f0437198feff04aef8647
+      internalID: 584983602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_75
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8d5e97f5844521ad194c3cffd7cee
+      internalID: -996670232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_76
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61253857d1d3f4d918a2b569c859e20a
+      internalID: 14138466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_77
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 197
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f1955dc05c47ffbf52c5fe2e9f2a6
+      internalID: -1735050745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_supersoldier_meleeattack_78
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 59
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12142023387a42d4ac837d7eafa8051
+      internalID: 1520479898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c19630cdb48a44f89491e5cc76ebd20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":98.0,"y":138.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      future_supersoldier_meleeattack_0: 3616535986466299193
+      future_supersoldier_meleeattack_1: 194681504
+      future_supersoldier_meleeattack_10: 1331275782
+      future_supersoldier_meleeattack_11: 1618281763
+      future_supersoldier_meleeattack_12: -1826216630
+      future_supersoldier_meleeattack_13: -1655867337
+      future_supersoldier_meleeattack_14: 1451206760
+      future_supersoldier_meleeattack_15: 1534780183
+      future_supersoldier_meleeattack_16: -1617777901
+      future_supersoldier_meleeattack_17: 264712090
+      future_supersoldier_meleeattack_18: -1882434518
+      future_supersoldier_meleeattack_19: 1235139463
+      future_supersoldier_meleeattack_2: 2095603998
+      future_supersoldier_meleeattack_20: -1475306680
+      future_supersoldier_meleeattack_21: -440439597
+      future_supersoldier_meleeattack_22: 1741502484
+      future_supersoldier_meleeattack_23: -1222300987
+      future_supersoldier_meleeattack_24: -1884767156
+      future_supersoldier_meleeattack_25: 462604650
+      future_supersoldier_meleeattack_26: -1909703490
+      future_supersoldier_meleeattack_27: -1173213355
+      future_supersoldier_meleeattack_28: 1281589485
+      future_supersoldier_meleeattack_29: 792483872
+      future_supersoldier_meleeattack_3: -651178331
+      future_supersoldier_meleeattack_30: 71059053
+      future_supersoldier_meleeattack_31: 1920491924
+      future_supersoldier_meleeattack_32: -1408904904
+      future_supersoldier_meleeattack_33: -437998174
+      future_supersoldier_meleeattack_34: 1006769316
+      future_supersoldier_meleeattack_35: 940281727
+      future_supersoldier_meleeattack_36: -761004945
+      future_supersoldier_meleeattack_37: -638002925
+      future_supersoldier_meleeattack_38: 1397673752
+      future_supersoldier_meleeattack_39: 784611633
+      future_supersoldier_meleeattack_4: -1647369549
+      future_supersoldier_meleeattack_40: -640666288
+      future_supersoldier_meleeattack_41: 1716865442
+      future_supersoldier_meleeattack_42: -2106632242
+      future_supersoldier_meleeattack_43: 277889974
+      future_supersoldier_meleeattack_44: -343208038
+      future_supersoldier_meleeattack_45: 1911983623
+      future_supersoldier_meleeattack_46: 1994165240
+      future_supersoldier_meleeattack_47: -1630542373
+      future_supersoldier_meleeattack_48: 1531699672
+      future_supersoldier_meleeattack_49: -2004928072
+      future_supersoldier_meleeattack_5: 1252227857
+      future_supersoldier_meleeattack_50: -1554698442
+      future_supersoldier_meleeattack_51: 1800574752
+      future_supersoldier_meleeattack_52: -1012992526
+      future_supersoldier_meleeattack_53: 1514850705
+      future_supersoldier_meleeattack_54: -463367570
+      future_supersoldier_meleeattack_55: 1876908276
+      future_supersoldier_meleeattack_56: -1644146222
+      future_supersoldier_meleeattack_57: -2010370416
+      future_supersoldier_meleeattack_58: 1247342684
+      future_supersoldier_meleeattack_59: -894448428
+      future_supersoldier_meleeattack_6: 1115416776
+      future_supersoldier_meleeattack_60: 392333911
+      future_supersoldier_meleeattack_61: 1579446465
+      future_supersoldier_meleeattack_62: 807879259
+      future_supersoldier_meleeattack_63: -595851594
+      future_supersoldier_meleeattack_64: 1721225102
+      future_supersoldier_meleeattack_65: 164936190
+      future_supersoldier_meleeattack_66: 714757978
+      future_supersoldier_meleeattack_67: -1925929848
+      future_supersoldier_meleeattack_68: 1923472991
+      future_supersoldier_meleeattack_69: -307141148
+      future_supersoldier_meleeattack_7: -1861938925
+      future_supersoldier_meleeattack_70: -1749321609
+      future_supersoldier_meleeattack_71: -1664157982
+      future_supersoldier_meleeattack_72: 1567912911
+      future_supersoldier_meleeattack_73: -1300227885
+      future_supersoldier_meleeattack_74: 584983602
+      future_supersoldier_meleeattack_75: -996670232
+      future_supersoldier_meleeattack_76: 14138466
+      future_supersoldier_meleeattack_77: -1735050745
+      future_supersoldier_meleeattack_78: 1520479898
+      future_supersoldier_meleeattack_8: -375654946
+      future_supersoldier_meleeattack_9: -2100522199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

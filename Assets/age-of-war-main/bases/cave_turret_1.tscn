@@ -1,0 +1,180 @@
+[gd_scene load_steps=37 format=3 uid="uid://cl0tng1fpjt7k"]
+
+[ext_resource type="Script" path="res://bases/cave_turret_1.gd" id="1_wndwy"]
+[ext_resource type="Texture2D" uid="uid://dnffq2xte87ho" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0001.png" id="2_yayh0"]
+[ext_resource type="Texture2D" uid="uid://ce0gkgnm47wj3" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0002.png" id="3_uu813"]
+[ext_resource type="Texture2D" uid="uid://dycvh7h5j7xxy" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0003.png" id="4_fegvq"]
+[ext_resource type="Texture2D" uid="uid://cekbnxxiuhw4m" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0004.png" id="5_y8drt"]
+[ext_resource type="Texture2D" uid="uid://bmie1ov1xto5a" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0005.png" id="6_gasol"]
+[ext_resource type="Texture2D" uid="uid://bdbnspeusj4bt" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0006.png" id="7_0s0ne"]
+[ext_resource type="Texture2D" uid="uid://cpmyvdknp6hx6" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0007.png" id="8_sv0ip"]
+[ext_resource type="Texture2D" uid="uid://b6hji0sh3ftxb" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0008.png" id="9_ywhsu"]
+[ext_resource type="Texture2D" uid="uid://qelhp4vu00po" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0009.png" id="10_a0cq0"]
+[ext_resource type="Texture2D" uid="uid://bns6lhsj44eb7" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0010.png" id="11_nksg3"]
+[ext_resource type="Texture2D" uid="uid://c0mx48j6sox2c" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0011.png" id="12_iorpl"]
+[ext_resource type="Texture2D" uid="uid://codq4virlooes" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0012.png" id="13_qgfqs"]
+[ext_resource type="Texture2D" uid="uid://cy2djrm2yqchj" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0013.png" id="14_tr43n"]
+[ext_resource type="Texture2D" uid="uid://btnb8ovopawof" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0014.png" id="15_k1wcn"]
+[ext_resource type="Texture2D" uid="uid://bgg5jbl707pa5" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0015.png" id="16_eyrik"]
+[ext_resource type="Texture2D" uid="uid://bes63ytn4ii0a" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0016.png" id="17_lmes4"]
+[ext_resource type="Texture2D" uid="uid://bd2eu7sxq7t1w" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0017.png" id="18_835y2"]
+[ext_resource type="Texture2D" uid="uid://dw35f1dmvyhlh" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0018.png" id="19_ardyu"]
+[ext_resource type="Texture2D" uid="uid://v1nqgwldyyd6" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0019.png" id="20_f2se0"]
+[ext_resource type="Texture2D" uid="uid://oxm8riicgold" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0020.png" id="21_1bvf8"]
+[ext_resource type="Texture2D" uid="uid://bs5j3aj2nbica" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0021.png" id="22_0qg24"]
+[ext_resource type="Texture2D" uid="uid://dpa4gylbcb65" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0022.png" id="23_hluyv"]
+[ext_resource type="Texture2D" uid="uid://dqx4iri2bvxv5" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0023.png" id="24_l36nw"]
+[ext_resource type="Texture2D" uid="uid://suhebjcpxub" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0024.png" id="25_okv1k"]
+[ext_resource type="Texture2D" uid="uid://kq6puqidsln4" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0025.png" id="26_1hp1f"]
+[ext_resource type="Texture2D" uid="uid://c4dsn02cxgkr3" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0026.png" id="27_d63dd"]
+[ext_resource type="Texture2D" uid="uid://cra2d213kc6u6" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0027.png" id="28_ftrrp"]
+[ext_resource type="Texture2D" uid="uid://b3ibcjf63vnhq" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0028.png" id="29_d4gnk"]
+[ext_resource type="Texture2D" uid="uid://docrao50huhwk" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0029.png" id="30_5xf0x"]
+[ext_resource type="Texture2D" uid="uid://b34kaq61nglqu" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0030.png" id="31_kw55o"]
+[ext_resource type="Texture2D" uid="uid://bstgamydfhmnr" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0031.png" id="32_2e0nr"]
+[ext_resource type="Texture2D" uid="uid://cyr5qjhcmna0o" path="res://age of war sprites/bases/cave/turret_1/cave_turret_1_attack0032.png" id="33_nmhg0"]
+[ext_resource type="AudioStream" uid="uid://cn4bod5lea5h3" path="res://age of war sprites/audio/sfx/knight_range_attack.mp3" id="34_t2c3i"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_l54wp"]
+radius = 350.0
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ta31k"]
+animations = [{
+"frames": [{
+"duration": 15.0,
+"texture": ExtResource("2_yayh0")
+}, {
+"duration": 10.0,
+"texture": ExtResource("2_yayh0")
+}, {
+"duration": 10.0,
+"texture": ExtResource("2_yayh0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_uu813")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_fegvq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_y8drt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_gasol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_0s0ne")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_sv0ip")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_ywhsu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_a0cq0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_nksg3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_iorpl")
+}, {
+"duration": 2.0,
+"texture": ExtResource("13_qgfqs")
+}, {
+"duration": 2.0,
+"texture": ExtResource("14_tr43n")
+}, {
+"duration": 2.0,
+"texture": ExtResource("15_k1wcn")
+}, {
+"duration": 2.0,
+"texture": ExtResource("16_eyrik")
+}, {
+"duration": 2.0,
+"texture": ExtResource("17_lmes4")
+}, {
+"duration": 2.0,
+"texture": ExtResource("18_835y2")
+}, {
+"duration": 2.0,
+"texture": ExtResource("19_ardyu")
+}, {
+"duration": 2.0,
+"texture": ExtResource("20_f2se0")
+}, {
+"duration": 2.0,
+"texture": ExtResource("21_1bvf8")
+}, {
+"duration": 2.0,
+"texture": ExtResource("22_0qg24")
+}, {
+"duration": 2.0,
+"texture": ExtResource("23_hluyv")
+}, {
+"duration": 2.0,
+"texture": ExtResource("24_l36nw")
+}, {
+"duration": 2.0,
+"texture": ExtResource("25_okv1k")
+}, {
+"duration": 2.0,
+"texture": ExtResource("26_1hp1f")
+}, {
+"duration": 2.0,
+"texture": ExtResource("27_d63dd")
+}, {
+"duration": 2.0,
+"texture": ExtResource("28_ftrrp")
+}, {
+"duration": 2.0,
+"texture": ExtResource("29_d4gnk")
+}, {
+"duration": 2.0,
+"texture": ExtResource("30_5xf0x")
+}, {
+"duration": 2.0,
+"texture": ExtResource("31_kw55o")
+}, {
+"duration": 2.0,
+"texture": ExtResource("32_2e0nr")
+}, {
+"duration": 2.0,
+"texture": ExtResource("33_nmhg0")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_yayh0")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[node name="cave_turret_1" type="Node2D"]
+script = ExtResource("1_wndwy")
+
+[node name="range" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="range"]
+shape = SubResource("CircleShape2D_l54wp")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_ta31k")
+animation = &"attack"
+autoplay = "idle"
+frame = 1
+frame_progress = 0.298598
+offset = Vector2(32, 0)
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("34_t2c3i")
+volume_db = 15.0

@@ -1,0 +1,4708 @@
+fileFormatVersion: 2
+guid: ad55cf371de5d0046b607a0ecc9606ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5838011234712447318
+    second: medival_range_die_0
+  - first:
+      213: -833809648310363491
+    second: medival_range_die_1
+  - first:
+      213: 6225904173005712450
+    second: medival_range_die_2
+  - first:
+      213: 3190667265186664735
+    second: medival_range_die_3
+  - first:
+      213: 5517341888313747313
+    second: medival_range_die_4
+  - first:
+      213: 7286806205090556160
+    second: medival_range_die_5
+  - first:
+      213: 583868721013186026
+    second: medival_range_die_6
+  - first:
+      213: -5589801658254164373
+    second: medival_range_die_7
+  - first:
+      213: -3459933776504130759
+    second: medival_range_die_8
+  - first:
+      213: 7878644748759494754
+    second: medival_range_die_9
+  - first:
+      213: 639534424677822275
+    second: medival_range_die_10
+  - first:
+      213: -84522581999728474
+    second: medival_range_die_11
+  - first:
+      213: 4341238648751851662
+    second: medival_range_die_12
+  - first:
+      213: -8933270517268588025
+    second: medival_range_die_13
+  - first:
+      213: 3526778864440036758
+    second: medival_range_die_14
+  - first:
+      213: -2153449715154781324
+    second: medival_range_die_15
+  - first:
+      213: -4147969797602459131
+    second: medival_range_die_16
+  - first:
+      213: -3942469126058706176
+    second: medival_range_die_17
+  - first:
+      213: -6244627306932342926
+    second: medival_range_die_18
+  - first:
+      213: -7249486525044661411
+    second: medival_range_die_19
+  - first:
+      213: 3888089369871275084
+    second: medival_range_die_20
+  - first:
+      213: 9058702895643157718
+    second: medival_range_die_21
+  - first:
+      213: -827389257548782863
+    second: medival_range_die_22
+  - first:
+      213: -3644238584827422625
+    second: medival_range_die_23
+  - first:
+      213: -2299659160953368345
+    second: medival_range_die_24
+  - first:
+      213: -1222918459647201497
+    second: medival_range_die_25
+  - first:
+      213: -6059759001096181323
+    second: medival_range_die_26
+  - first:
+      213: -7072805546683130132
+    second: medival_range_die_27
+  - first:
+      213: -9011124784098911048
+    second: medival_range_die_28
+  - first:
+      213: -4047868786705403475
+    second: medival_range_die_29
+  - first:
+      213: 4635631050141866100
+    second: medival_range_die_30
+  - first:
+      213: -4762150952431618213
+    second: medival_range_die_31
+  - first:
+      213: -3387672738710889884
+    second: medival_range_die_32
+  - first:
+      213: -6753097219712885048
+    second: medival_range_die_33
+  - first:
+      213: 4584329064185758290
+    second: medival_range_die_34
+  - first:
+      213: -6847063132789581191
+    second: medival_range_die_35
+  - first:
+      213: 4646925692035392399
+    second: medival_range_die_36
+  - first:
+      213: -8117596719216044596
+    second: medival_range_die_37
+  - first:
+      213: 1151490136051681528
+    second: medival_range_die_38
+  - first:
+      213: -5096127304416660890
+    second: medival_range_die_39
+  - first:
+      213: 8140091396560155769
+    second: medival_range_die_40
+  - first:
+      213: -5387606283705529193
+    second: medival_range_die_41
+  - first:
+      213: 2886855861278295872
+    second: medival_range_die_42
+  - first:
+      213: -6978442273941019859
+    second: medival_range_die_43
+  - first:
+      213: 5912906616128052544
+    second: medival_range_die_44
+  - first:
+      213: 8111596530238499932
+    second: medival_range_die_45
+  - first:
+      213: -5131799071220599831
+    second: medival_range_die_46
+  - first:
+      213: -2915438305512425174
+    second: medival_range_die_47
+  - first:
+      213: 7488709251093474823
+    second: medival_range_die_48
+  - first:
+      213: 7821937934811016635
+    second: medival_range_die_49
+  - first:
+      213: 7341819894243701238
+    second: medival_range_die_50
+  - first:
+      213: -8427097212488254774
+    second: medival_range_die_51
+  - first:
+      213: -854785516947616967
+    second: medival_range_die_52
+  - first:
+      213: 5548696889628234472
+    second: medival_range_die_53
+  - first:
+      213: -96068198952134126
+    second: medival_range_die_54
+  - first:
+      213: -5274022239424540764
+    second: medival_range_die_55
+  - first:
+      213: -536122286045224836
+    second: medival_range_die_56
+  - first:
+      213: -943429153073066338
+    second: medival_range_die_57
+  - first:
+      213: 5251810905353636980
+    second: medival_range_die_58
+  - first:
+      213: 7748071242550217559
+    second: medival_range_die_59
+  - first:
+      213: -1401320315533655293
+    second: medival_range_die_60
+  - first:
+      213: 1506117325412444184
+    second: medival_range_die_61
+  - first:
+      213: -7632421902964429668
+    second: medival_range_die_62
+  - first:
+      213: -750510253941639325
+    second: medival_range_die_63
+  - first:
+      213: -5902861666476562406
+    second: medival_range_die_64
+  - first:
+      213: 5985956989291444413
+    second: medival_range_die_65
+  - first:
+      213: 7804649484222633129
+    second: medival_range_die_66
+  - first:
+      213: 3789143546166737056
+    second: medival_range_die_67
+  - first:
+      213: 3698873823220726474
+    second: medival_range_die_68
+  - first:
+      213: 5711113117127298324
+    second: medival_range_die_69
+  - first:
+      213: 2710086393211212939
+    second: medival_range_die_70
+  - first:
+      213: -3999526809837292997
+    second: medival_range_die_71
+  - first:
+      213: 372100271003321293
+    second: medival_range_die_72
+  - first:
+      213: 191783148259422736
+    second: medival_range_die_73
+  - first:
+      213: -7597154082113243718
+    second: medival_range_die_74
+  - first:
+      213: -5597086104411874894
+    second: medival_range_die_75
+  - first:
+      213: -6370179178204106048
+    second: medival_range_die_76
+  - first:
+      213: -6291557891471846321
+    second: medival_range_die_77
+  - first:
+      213: -9104619172649099546
+    second: medival_range_die_78
+  - first:
+      213: -7843763527348329691
+    second: medival_range_die_79
+  - first:
+      213: -6079137485347869062
+    second: medival_range_die_80
+  - first:
+      213: -6552196249325374518
+    second: medival_range_die_81
+  - first:
+      213: -6853257706989055234
+    second: medival_range_die_82
+  - first:
+      213: 827158394003194667
+    second: medival_range_die_83
+  - first:
+      213: 860625012681758948
+    second: medival_range_die_84
+  - first:
+      213: -426921367176235553
+    second: medival_range_die_85
+  - first:
+      213: -1451738445181220071
+    second: medival_range_die_86
+  - first:
+      213: -1894339235910102970
+    second: medival_range_die_87
+  - first:
+      213: -5899253036275298565
+    second: medival_range_die_88
+  - first:
+      213: -1411494583784923696
+    second: medival_range_die_89
+  - first:
+      213: -7882161770205891190
+    second: medival_range_die_90
+  - first:
+      213: 1034489895998268414
+    second: medival_range_die_91
+  - first:
+      213: 6656109679093606801
+    second: medival_range_die_92
+  - first:
+      213: -3625093879245593739
+    second: medival_range_die_93
+  - first:
+      213: 4071440870540159003
+    second: medival_range_die_94
+  - first:
+      213: 4309875893110249376
+    second: medival_range_die_95
+  - first:
+      213: 4241254749956966145
+    second: medival_range_die_96
+  - first:
+      213: -5901015374983969345
+    second: medival_range_die_97
+  - first:
+      213: -2770684316722921639
+    second: medival_range_die_98
+  - first:
+      213: 5067448817325264155
+    second: medival_range_die_99
+  - first:
+      213: 1211472551485876911
+    second: medival_range_die_100
+  - first:
+      213: 1576561901249777008
+    second: medival_range_die_101
+  - first:
+      213: -7893647622153227288
+    second: medival_range_die_102
+  - first:
+      213: -8309767008139718511
+    second: medival_range_die_103
+  - first:
+      213: 2195365625284151817
+    second: medival_range_die_104
+  - first:
+      213: 2712183917744752764
+    second: medival_range_die_105
+  - first:
+      213: 2573394848297749483
+    second: medival_range_die_106
+  - first:
+      213: 2679251708605011566
+    second: medival_range_die_107
+  - first:
+      213: 4790888425078092999
+    second: medival_range_die_108
+  - first:
+      213: -7902568332806612862
+    second: medival_range_die_109
+  - first:
+      213: 6892674331706071918
+    second: medival_range_die_110
+  - first:
+      213: -4724081947951913806
+    second: medival_range_die_111
+  - first:
+      213: 2569538312137765182
+    second: medival_range_die_112
+  - first:
+      213: 7605491577335009698
+    second: medival_range_die_113
+  - first:
+      213: -6541934684580898199
+    second: medival_range_die_114
+  - first:
+      213: -2695041705814818007
+    second: medival_range_die_115
+  - first:
+      213: 4164161255058206955
+    second: medival_range_die_116
+  - first:
+      213: -257735837168482571
+    second: medival_range_die_117
+  - first:
+      213: 5631045593776619478
+    second: medival_range_die_118
+  - first:
+      213: 277707347478493687
+    second: medival_range_die_119
+  - first:
+      213: 8138463882303940418
+    second: medival_range_die_120
+  - first:
+      213: 7975232386040237036
+    second: medival_range_die_121
+  - first:
+      213: -300929788049063869
+    second: medival_range_die_122
+  - first:
+      213: 3565025620431679155
+    second: medival_range_die_123
+  - first:
+      213: 4433161198489108582
+    second: medival_range_die_124
+  - first:
+      213: 2731052733813307422
+    second: medival_range_die_125
+  - first:
+      213: -9098329877549029290
+    second: medival_range_die_126
+  - first:
+      213: 5619068256039812012
+    second: medival_range_die_127
+  - first:
+      213: 1033607453538095003
+    second: medival_range_die_128
+  - first:
+      213: 1882204260522687273
+    second: medival_range_die_129
+  - first:
+      213: 5770011499264317600
+    second: medival_range_die_130
+  - first:
+      213: 6586126509664712787
+    second: medival_range_die_131
+  - first:
+      213: -8172710188933825511
+    second: medival_range_die_132
+  - first:
+      213: 5764187615600893171
+    second: medival_range_die_133
+  - first:
+      213: 1447076171970332893
+    second: medival_range_die_134
+  - first:
+      213: -7489293402099972993
+    second: medival_range_die_135
+  - first:
+      213: -8260365076407730860
+    second: medival_range_die_136
+  - first:
+      213: 2731076602017077268
+    second: medival_range_die_137
+  - first:
+      213: -8450278165368664220
+    second: medival_range_die_138
+  - first:
+      213: -7763128226804764714
+    second: medival_range_die_139
+  - first:
+      213: 6726708770942954908
+    second: medival_range_die_140
+  - first:
+      213: 4796513976086258462
+    second: medival_range_die_141
+  - first:
+      213: -433621359973339568
+    second: medival_range_die_142
+  - first:
+      213: -5795180330518222562
+    second: medival_range_die_143
+  - first:
+      213: 6408973987273099623
+    second: medival_range_die_144
+  - first:
+      213: -302548745120673819
+    second: medival_range_die_145
+  - first:
+      213: -402390639974555171
+    second: medival_range_die_146
+  - first:
+      213: 5824424950167722809
+    second: medival_range_die_147
+  - first:
+      213: -4151238969414911382
+    second: medival_range_die_148
+  - first:
+      213: -2697332429495947650
+    second: medival_range_die_149
+  - first:
+      213: 2214489713808019533
+    second: medival_range_die_150
+  - first:
+      213: 2093703351720445049
+    second: medival_range_die_151
+  - first:
+      213: 6335144853761643237
+    second: medival_range_die_152
+  - first:
+      213: 5219195490180499690
+    second: medival_range_die_153
+  - first:
+      213: -2222356124962689728
+    second: medival_range_die_154
+  - first:
+      213: -742062114250219332
+    second: medival_range_die_155
+  - first:
+      213: 5665433270876454587
+    second: medival_range_die_156
+  - first:
+      213: 5481168139284432743
+    second: medival_range_die_157
+  - first:
+      213: 3169709356270534734
+    second: medival_range_die_158
+  - first:
+      213: -2687036495965499557
+    second: medival_range_die_159
+  - first:
+      213: -6404137319687950094
+    second: medival_range_die_160
+  - first:
+      213: -3051942788556272061
+    second: medival_range_die_161
+  - first:
+      213: 7085088353446047011
+    second: medival_range_die_162
+  - first:
+      213: -3377455857852293879
+    second: medival_range_die_163
+  - first:
+      213: -5835934693065748543
+    second: medival_range_die_164
+  - first:
+      213: 5698313806959736777
+    second: medival_range_die_165
+  - first:
+      213: -6223811611448150332
+    second: medival_range_die_166
+  - first:
+      213: -525289612749866154
+    second: medival_range_die_167
+  - first:
+      213: -1851040342821581678
+    second: medival_range_die_168
+  - first:
+      213: -7139931097537092646
+    second: medival_range_die_169
+  - first:
+      213: 4497755857363275338
+    second: medival_range_die_170
+  - first:
+      213: 1063289161779234763
+    second: medival_range_die_171
+  - first:
+      213: 1673640893551121087
+    second: medival_range_die_172
+  - first:
+      213: -9048339579745519675
+    second: medival_range_die_173
+  - first:
+      213: -8205601930830678452
+    second: medival_range_die_174
+  - first:
+      213: -5427967177708634933
+    second: medival_range_die_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_range_die_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 958
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65966cf6948c40150800000000000000
+      internalID: 5838011234712447318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 958
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ada26ea86bd64f0800000000000000
+      internalID: -833809648310363491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 958
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ca0adebdad66650800000000000000
+      internalID: 6225904173005712450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 957
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f111be909f6874c20800000000000000
+      internalID: 3190667265186664735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 957
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177e25d1739819c40800000000000000
+      internalID: 5517341888313747313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 957
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009e889e2afef1560800000000000000
+      internalID: 7286806205090556160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 956
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd37f12815a1800800000000000000
+      internalID: 583868721013186026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1009
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6efed202090d62b0800000000000000
+      internalID: -5589801658254164373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 956
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9337811df88dbffc0800000000000000
+      internalID: -3459933776504130759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1008
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607e49f7a1965d60800000000000000
+      internalID: 7878644748759494754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 956
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2e8cbb2510e800800000000000000
+      internalID: 639534424677822275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1003
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a84864d827b3def0800000000000000
+      internalID: -84522581999728474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 956
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880d08dc8d2f3c30800000000000000
+      internalID: 4341238648751851662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1006
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a5cb78bc5a60480800000000000000
+      internalID: -8933270517268588025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_14
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 955
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dcd4801b2a1f030800000000000000
+      internalID: 3526778864440036758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1005
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b788eb4e86d12e0800000000000000
+      internalID: -2153449715154781324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_16
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1004
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5024bda22737f66c0800000000000000
+      internalID: -4147969797602459131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_17
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1002
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b735bc7398949c0800000000000000
+      internalID: -3942469126058706176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_18
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 955
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fe79fbc80a659a0800000000000000
+      internalID: -6244627306932342926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_19
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1001
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536bb63a66a46b90800000000000000
+      internalID: -7249486525044661411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_20
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1000
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4456229ea445f530800000000000000
+      internalID: 3888089369871275084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_21
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 999
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4ec9cd94af6bd70800000000000000
+      internalID: 9058702895643157718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_22
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 998
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a4dc9ad58484f0800000000000000
+      internalID: -827389257548782863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_23
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 997
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d69aa0501d6dc0800000000000000
+      internalID: -3644238584827422625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_24
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 996
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0d6ee5d28f510e0800000000000000
+      internalID: -2299659160953368345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_25
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 955
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe577e322570fe0800000000000000
+      internalID: -1222918459647201497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_26
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 955
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9af236b4967eba0800000000000000
+      internalID: -6059759001096181323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_27
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 955
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1a8024d858dd90800000000000000
+      internalID: -7072805546683130132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_28
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 956
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd01970cd02f280800000000000000
+      internalID: -9011124784098911048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_29
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 957
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da17807f8c413d7c0800000000000000
+      internalID: -4047868786705403475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_30
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 957
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4781a7521e1155040800000000000000
+      internalID: 4635631050141866100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_31
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 958
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57768190f079edb0800000000000000
+      internalID: -4762150952431618213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_32
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 995
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46adcd1c7919cf0d0800000000000000
+      internalID: -3387672738710889884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_33
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 994
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced55dabdd2842a0800000000000000
+      internalID: -6753097219712885048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_34
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 993
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2528a4cbefece9f30800000000000000
+      internalID: 4584329064185758290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_35
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 991
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a5767ab585af0a0800000000000000
+      internalID: -6847063132789581191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_36
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 990
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83e763eb423d7040800000000000000
+      internalID: 4646925692035392399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_37
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 958
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55041fac0885f80800000000000000
+      internalID: -8117596719216044596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_38
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 958
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f80ab98d2aeaff00800000000000000
+      internalID: 1151490136051681528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_39
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 958
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627312973be649b0800000000000000
+      internalID: -5096127304416660890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_40
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 958
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747e234ff967f070800000000000000
+      internalID: 8140091396560155769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_41
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 957
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc11631a06b35b0800000000000000
+      internalID: -5387606283705529193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474f315c1c201820800000000000000
+      internalID: 2886855861278295872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d232d28a9b7972f90800000000000000
+      internalID: -6978442273941019859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d9e5c4d3dde0250800000000000000
+      internalID: 5912906616128052544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2822311e229070800000000000000
+      internalID: 8111596530238499932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e377352fef28c8b0800000000000000
+      internalID: -5131799071220599831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_47
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a297d5bce484a87d0800000000000000
+      internalID: -2915438305512425174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_48
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eab91136d3de760800000000000000
+      internalID: 7488709251093474823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_49
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd209bfb1b1d8c60800000000000000
+      internalID: 7821937934811016635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ba419b4263e560800000000000000
+      internalID: 7341819894243701238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaf3f1ebbfec0b80800000000000000
+      internalID: -8427097212488254774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_52
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4037e9113324f0800000000000000
+      internalID: -854785516947616967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_53
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21b904c6ee00d40800000000000000
+      internalID: 5548696889628234472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_54
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a1f376b72baaef0800000000000000
+      internalID: -96068198952134126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_55
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af079957b8eec6b0800000000000000
+      internalID: -5274022239424540764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_56
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70aa101f9f4f88f0800000000000000
+      internalID: -536122286045224836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_57
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e055c0f2448e2f0800000000000000
+      internalID: -943429153073066338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_58
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c4021713e22e840800000000000000
+      internalID: 5251810905353636980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_59
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b00aa7ebda68b60800000000000000
+      internalID: 7748071242550217559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_60
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3030418f8928d8ce0800000000000000
+      internalID: -1401320315533655293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_61
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818254b4abdc6e410800000000000000
+      internalID: 1506117325412444184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_62
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ce4e1b7b0341690800000000000000
+      internalID: -7632421902964429668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_63
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367358186e6a595f0800000000000000
+      internalID: -750510253941639325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_64
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18e46bc692d41ea0800000000000000
+      internalID: -5902861666476562406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_65
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 830
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8bb73ba24621350800000000000000
+      internalID: 5985956989291444413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 795
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a49687ea5faf4c60800000000000000
+      internalID: 7804649484222633129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_67
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 795
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a87b30cafdb59430800000000000000
+      internalID: 3789143546166737056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 794
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaff0e052a055330800000000000000
+      internalID: 3698873823220726474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 793
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d427a0f13f14f40800000000000000
+      internalID: 5711113117127298324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_70
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 792
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8459f947392c9520800000000000000
+      internalID: 2710086393211212939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 792
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b323ffd8e83de78c0800000000000000
+      internalID: -3999526809837292997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_72
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 791
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3caf99937f92500800000000000000
+      internalID: 372100271003321293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_73
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 790
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012b8e9d1c959a200800000000000000
+      internalID: 191783148259422736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_74
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 790
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53bbf1d9c719690800000000000000
+      internalID: -7597154082113243718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_75
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 789
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b95149b7d72352b0800000000000000
+      internalID: -5597086104411874894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_76
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 788
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fd8fb9c39897a0800000000000000
+      internalID: -6370179178204106048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_77
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 787
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44d30b8e65efa8a0800000000000000
+      internalID: -6291557891471846321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_78
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 787
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1a0fc915e5a180800000000000000
+      internalID: -9104619172649099546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_79
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 786
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ec3241aa552390800000000000000
+      internalID: -7843763527348329691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_80
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 785
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e241d6aa092aba0800000000000000
+      internalID: -6079137485347869062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_81
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 785
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3705ce93ce115a0800000000000000
+      internalID: -6552196249325374518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_82
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 784
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef295b4fc6654e0a0800000000000000
+      internalID: -6853257706989055234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_83
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 783
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b230b874d28aa7b00800000000000000
+      internalID: 827158394003194667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_84
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 782
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e856b5a3ed81fb00800000000000000
+      internalID: 860625012681758948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5bf6a4745431af0800000000000000
+      internalID: -426921367176235553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_86
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 763
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b023463936adbe0800000000000000
+      internalID: -1451738445181220071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6405e776084f5b5e0800000000000000
+      internalID: -1894339235910102970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe8aac7e94a12ea0800000000000000
+      internalID: -5899253036275298565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd9c1b872d596ce0800000000000000
+      internalID: -1411494583784923696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_90
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85b6b8a1afec9290800000000000000
+      internalID: -7882161770205891190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_91
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef325b6541f3b5e00800000000000000
+      internalID: 1034489895998268414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_92
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199e960dc704f5c50800000000000000
+      internalID: 6656109679093606801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_93
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573af1ac25411bdc0800000000000000
+      internalID: -3625093879245593739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_94
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ad8c76e9a08830800000000000000
+      internalID: 4071440870540159003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_95
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a71bd24a41cfcb30800000000000000
+      internalID: 4309875893110249376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_96
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078f1559b6fbda30800000000000000
+      internalID: 4241254749956966145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_97
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb546f708c16b1ea0800000000000000
+      internalID: -5901015374983969345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_98
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ffbfc2b4d8c89d0800000000000000
+      internalID: -2770684316722921639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_99
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4522d9d1335640800000000000000
+      internalID: 5067448817325264155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_100
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaa37eedd300d010800000000000000
+      internalID: 1211472551485876911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_101
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d486a32b211e510800000000000000
+      internalID: 1576561901249777008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_102
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3337b5f41247290800000000000000
+      internalID: -7893647622153227288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_103
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 763
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905291eee6cdac80800000000000000
+      internalID: -8309767008139718511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_104
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 763
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a4a279761877e10800000000000000
+      internalID: 2195365625284151817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_105
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 763
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7804b647ec93a520800000000000000
+      internalID: 2712183917744752764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_106
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 763
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8b97eaf886b320800000000000000
+      internalID: 2573394848297749483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_107
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 763
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669243db3d9e2520800000000000000
+      internalID: 2679251708605011566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_108
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 763
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47f4fa3a7ac7240800000000000000
+      internalID: 4790888425078092999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2889fcd88ff645290800000000000000
+      internalID: -7902568332806612862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1bc529c2b7af50800000000000000
+      internalID: 6892674331706071918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ad726f70b07eb0800000000000000
+      internalID: -4724081947951913806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e317abb1b75d8a320800000000000000
+      internalID: 2569538312137765182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a157414b422c8960800000000000000
+      internalID: 7605491577335009698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_114
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a9fb5a0116635a0800000000000000
+      internalID: -6541934684580898199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_115
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9238b06f8d9499ad0800000000000000
+      internalID: -2695041705814818007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_116
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0703b49921ac930800000000000000
+      internalID: 4164161255058206955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_117
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f64fa32f965c6cf0800000000000000
+      internalID: -257735837168482571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_118
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df751b022e752e40800000000000000
+      internalID: 5631045593776619478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_119
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b8f57c5d9ad300800000000000000
+      internalID: 277707347478493687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_120
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a21218c1a1f070800000000000000
+      internalID: 8138463882303940418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_121
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8e1bb997bdae60800000000000000
+      internalID: 7975232386040237036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_122
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408001c3f1e2dbf0800000000000000
+      internalID: -300929788049063869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_123
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be2ff8d9e3897130800000000000000
+      internalID: 3565025620431679155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_124
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600df34f90c58d30800000000000000
+      internalID: 4433161198489108582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_125
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e183dcdddf5a6e520800000000000000
+      internalID: 2731052733813307422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_126
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ed5f6e2d3cb180800000000000000
+      internalID: -9098329877549029290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_127
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab3de9cec0fafd40800000000000000
+      internalID: 5619068256039812012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_128
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f8551b08c185e00800000000000000
+      internalID: 1033607453538095003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_129
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b7e277dceee1a10800000000000000
+      internalID: 1882204260522687273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_130
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8919343e2331050800000000000000
+      internalID: 5770011499264317600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_131
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358395e6a2f966b50800000000000000
+      internalID: 6586126509664712787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_132
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 636
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c32605263b49e80800000000000000
+      internalID: -8172710188933825511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_133
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd89ea8128eff40800000000000000
+      internalID: 5764187615600893171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_134
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd849398c1c051410800000000000000
+      internalID: 1447076171970332893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_135
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74872da45fa01890800000000000000
+      internalID: -7489293402099972993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dbca17ab94d5d80800000000000000
+      internalID: -8260365076407730860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_137
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418db9d13bbb6e520800000000000000
+      internalID: 2731076602017077268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_138
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f06f3b7c49aba80800000000000000
+      internalID: -8450278165368664220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_139
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6e7f2204d34490800000000000000
+      internalID: -7763128226804764714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_140
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2f8fccf11a5d50800000000000000
+      internalID: 6726708770942954908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_141
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1361d85c04a09240800000000000000
+      internalID: 4796513976086258462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_142
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e64c7aba77bf9f0800000000000000
+      internalID: -433621359973339568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_143
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19612e8132639fa0800000000000000
+      internalID: -5795180330518222562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_144
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769c12e92ef31f850800000000000000
+      internalID: 6408973987273099623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_145
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef87dfe4812dcbf0800000000000000
+      internalID: -302548745120673819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_146
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ef5b48db6a6af0800000000000000
+      internalID: -402390639974555171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_147
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b5baf02a384d050800000000000000
+      internalID: 5824424950167722809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_148
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6af34ac626d366c0800000000000000
+      internalID: -4151238969414911382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_149
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea0ca4276219ad0800000000000000
+      internalID: -2697332429495947650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_150
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40984e69a27bbe10800000000000000
+      internalID: 2214489713808019533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_151
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97487500b145e0d10800000000000000
+      internalID: 2093703351720445049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_152
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25b11fda4fae750800000000000000
+      internalID: 6335144853761643237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_153
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8878555ae4e6840800000000000000
+      internalID: 5219195490180499690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_154
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 569
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d6f2ff0ea9821e0800000000000000
+      internalID: -2222356124962689728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb027de407aa3b5f0800000000000000
+      internalID: -742062114250219332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_156
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe35490b89af9e40800000000000000
+      internalID: 5665433270876454587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_157
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767cc38d165011c40800000000000000
+      internalID: 5481168139284432743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_158
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40ccbd9dd11dfb20800000000000000
+      internalID: 3169709356270534734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_159
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f477f1b8ab5bad0800000000000000
+      internalID: -2687036495965499557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_160
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f07d2fc90fef17a0800000000000000
+      internalID: -6404137319687950094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_161
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec945243255a5d0800000000000000
+      internalID: -3051942788556272061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_162
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da86da15a435260800000000000000
+      internalID: 7085088353446047011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_163
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd624bacdd021d0800000000000000
+      internalID: -3377455857852293879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_164
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf00771158920fa0800000000000000
+      internalID: -5835934693065748543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_165
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f98a673a741f40800000000000000
+      internalID: 5698313806959736777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_166
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c67ea6805490a9a0800000000000000
+      internalID: -6223811611448150332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_167
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b77db51ebc5b8f0800000000000000
+      internalID: -525289612749866154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_168
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc33d8d98cf46e0800000000000000
+      internalID: -1851040342821581678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_169
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3698aee7ed9ec90800000000000000
+      internalID: -7139931097537092646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_170
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e02944f1d3b6e30800000000000000
+      internalID: 4497755857363275338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_171
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7cf5debdf81ce00800000000000000
+      internalID: 1063289161779234763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_172
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29ead7687f93710800000000000000
+      internalID: 1673640893551121087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_173
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c73926a717dd6280800000000000000
+      internalID: -9048339579745519675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_174
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46f390e488df1e80800000000000000
+      internalID: -8205601930830678452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_die_175
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 442
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc72384c9cfba4b0800000000000000
+      internalID: -5427967177708634933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_range_die_0: 5838011234712447318
+      medival_range_die_1: -833809648310363491
+      medival_range_die_10: 639534424677822275
+      medival_range_die_100: 1211472551485876911
+      medival_range_die_101: 1576561901249777008
+      medival_range_die_102: -7893647622153227288
+      medival_range_die_103: -8309767008139718511
+      medival_range_die_104: 2195365625284151817
+      medival_range_die_105: 2712183917744752764
+      medival_range_die_106: 2573394848297749483
+      medival_range_die_107: 2679251708605011566
+      medival_range_die_108: 4790888425078092999
+      medival_range_die_109: -7902568332806612862
+      medival_range_die_11: -84522581999728474
+      medival_range_die_110: 6892674331706071918
+      medival_range_die_111: -4724081947951913806
+      medival_range_die_112: 2569538312137765182
+      medival_range_die_113: 7605491577335009698
+      medival_range_die_114: -6541934684580898199
+      medival_range_die_115: -2695041705814818007
+      medival_range_die_116: 4164161255058206955
+      medival_range_die_117: -257735837168482571
+      medival_range_die_118: 5631045593776619478
+      medival_range_die_119: 277707347478493687
+      medival_range_die_12: 4341238648751851662
+      medival_range_die_120: 8138463882303940418
+      medival_range_die_121: 7975232386040237036
+      medival_range_die_122: -300929788049063869
+      medival_range_die_123: 3565025620431679155
+      medival_range_die_124: 4433161198489108582
+      medival_range_die_125: 2731052733813307422
+      medival_range_die_126: -9098329877549029290
+      medival_range_die_127: 5619068256039812012
+      medival_range_die_128: 1033607453538095003
+      medival_range_die_129: 1882204260522687273
+      medival_range_die_13: -8933270517268588025
+      medival_range_die_130: 5770011499264317600
+      medival_range_die_131: 6586126509664712787
+      medival_range_die_132: -8172710188933825511
+      medival_range_die_133: 5764187615600893171
+      medival_range_die_134: 1447076171970332893
+      medival_range_die_135: -7489293402099972993
+      medival_range_die_136: -8260365076407730860
+      medival_range_die_137: 2731076602017077268
+      medival_range_die_138: -8450278165368664220
+      medival_range_die_139: -7763128226804764714
+      medival_range_die_14: 3526778864440036758
+      medival_range_die_140: 6726708770942954908
+      medival_range_die_141: 4796513976086258462
+      medival_range_die_142: -433621359973339568
+      medival_range_die_143: -5795180330518222562
+      medival_range_die_144: 6408973987273099623
+      medival_range_die_145: -302548745120673819
+      medival_range_die_146: -402390639974555171
+      medival_range_die_147: 5824424950167722809
+      medival_range_die_148: -4151238969414911382
+      medival_range_die_149: -2697332429495947650
+      medival_range_die_15: -2153449715154781324
+      medival_range_die_150: 2214489713808019533
+      medival_range_die_151: 2093703351720445049
+      medival_range_die_152: 6335144853761643237
+      medival_range_die_153: 5219195490180499690
+      medival_range_die_154: -2222356124962689728
+      medival_range_die_155: -742062114250219332
+      medival_range_die_156: 5665433270876454587
+      medival_range_die_157: 5481168139284432743
+      medival_range_die_158: 3169709356270534734
+      medival_range_die_159: -2687036495965499557
+      medival_range_die_16: -4147969797602459131
+      medival_range_die_160: -6404137319687950094
+      medival_range_die_161: -3051942788556272061
+      medival_range_die_162: 7085088353446047011
+      medival_range_die_163: -3377455857852293879
+      medival_range_die_164: -5835934693065748543
+      medival_range_die_165: 5698313806959736777
+      medival_range_die_166: -6223811611448150332
+      medival_range_die_167: -525289612749866154
+      medival_range_die_168: -1851040342821581678
+      medival_range_die_169: -7139931097537092646
+      medival_range_die_17: -3942469126058706176
+      medival_range_die_170: 4497755857363275338
+      medival_range_die_171: 1063289161779234763
+      medival_range_die_172: 1673640893551121087
+      medival_range_die_173: -9048339579745519675
+      medival_range_die_174: -8205601930830678452
+      medival_range_die_175: -5427967177708634933
+      medival_range_die_18: -6244627306932342926
+      medival_range_die_19: -7249486525044661411
+      medival_range_die_2: 6225904173005712450
+      medival_range_die_20: 3888089369871275084
+      medival_range_die_21: 9058702895643157718
+      medival_range_die_22: -827389257548782863
+      medival_range_die_23: -3644238584827422625
+      medival_range_die_24: -2299659160953368345
+      medival_range_die_25: -1222918459647201497
+      medival_range_die_26: -6059759001096181323
+      medival_range_die_27: -7072805546683130132
+      medival_range_die_28: -9011124784098911048
+      medival_range_die_29: -4047868786705403475
+      medival_range_die_3: 3190667265186664735
+      medival_range_die_30: 4635631050141866100
+      medival_range_die_31: -4762150952431618213
+      medival_range_die_32: -3387672738710889884
+      medival_range_die_33: -6753097219712885048
+      medival_range_die_34: 4584329064185758290
+      medival_range_die_35: -6847063132789581191
+      medival_range_die_36: 4646925692035392399
+      medival_range_die_37: -8117596719216044596
+      medival_range_die_38: 1151490136051681528
+      medival_range_die_39: -5096127304416660890
+      medival_range_die_4: 5517341888313747313
+      medival_range_die_40: 8140091396560155769
+      medival_range_die_41: -5387606283705529193
+      medival_range_die_42: 2886855861278295872
+      medival_range_die_43: -6978442273941019859
+      medival_range_die_44: 5912906616128052544
+      medival_range_die_45: 8111596530238499932
+      medival_range_die_46: -5131799071220599831
+      medival_range_die_47: -2915438305512425174
+      medival_range_die_48: 7488709251093474823
+      medival_range_die_49: 7821937934811016635
+      medival_range_die_5: 7286806205090556160
+      medival_range_die_50: 7341819894243701238
+      medival_range_die_51: -8427097212488254774
+      medival_range_die_52: -854785516947616967
+      medival_range_die_53: 5548696889628234472
+      medival_range_die_54: -96068198952134126
+      medival_range_die_55: -5274022239424540764
+      medival_range_die_56: -536122286045224836
+      medival_range_die_57: -943429153073066338
+      medival_range_die_58: 5251810905353636980
+      medival_range_die_59: 7748071242550217559
+      medival_range_die_6: 583868721013186026
+      medival_range_die_60: -1401320315533655293
+      medival_range_die_61: 1506117325412444184
+      medival_range_die_62: -7632421902964429668
+      medival_range_die_63: -750510253941639325
+      medival_range_die_64: -5902861666476562406
+      medival_range_die_65: 5985956989291444413
+      medival_range_die_66: 7804649484222633129
+      medival_range_die_67: 3789143546166737056
+      medival_range_die_68: 3698873823220726474
+      medival_range_die_69: 5711113117127298324
+      medival_range_die_7: -5589801658254164373
+      medival_range_die_70: 2710086393211212939
+      medival_range_die_71: -3999526809837292997
+      medival_range_die_72: 372100271003321293
+      medival_range_die_73: 191783148259422736
+      medival_range_die_74: -7597154082113243718
+      medival_range_die_75: -5597086104411874894
+      medival_range_die_76: -6370179178204106048
+      medival_range_die_77: -6291557891471846321
+      medival_range_die_78: -9104619172649099546
+      medival_range_die_79: -7843763527348329691
+      medival_range_die_8: -3459933776504130759
+      medival_range_die_80: -6079137485347869062
+      medival_range_die_81: -6552196249325374518
+      medival_range_die_82: -6853257706989055234
+      medival_range_die_83: 827158394003194667
+      medival_range_die_84: 860625012681758948
+      medival_range_die_85: -426921367176235553
+      medival_range_die_86: -1451738445181220071
+      medival_range_die_87: -1894339235910102970
+      medival_range_die_88: -5899253036275298565
+      medival_range_die_89: -1411494583784923696
+      medival_range_die_9: 7878644748759494754
+      medival_range_die_90: -7882161770205891190
+      medival_range_die_91: 1034489895998268414
+      medival_range_die_92: 6656109679093606801
+      medival_range_die_93: -3625093879245593739
+      medival_range_die_94: 4071440870540159003
+      medival_range_die_95: 4309875893110249376
+      medival_range_die_96: 4241254749956966145
+      medival_range_die_97: -5901015374983969345
+      medival_range_die_98: -2770684316722921639
+      medival_range_die_99: 5067448817325264155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

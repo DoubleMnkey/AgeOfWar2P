@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: e8af04c890159924e95b0e4432ba0be2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7812483287020113437
+    second: miltary_range_walk_0
+  - first:
+      213: -6270809737642351132
+    second: miltary_range_walk_1
+  - first:
+      213: -9209742102330170556
+    second: miltary_range_walk_2
+  - first:
+      213: -7168681004612907550
+    second: miltary_range_walk_3
+  - first:
+      213: -2824184234587208373
+    second: miltary_range_walk_4
+  - first:
+      213: -8004847376659059773
+    second: miltary_range_walk_5
+  - first:
+      213: -7951314879343145105
+    second: miltary_range_walk_6
+  - first:
+      213: -5452126736436676351
+    second: miltary_range_walk_7
+  - first:
+      213: -5557650834573771737
+    second: miltary_range_walk_8
+  - first:
+      213: 8703595333736386333
+    second: miltary_range_walk_9
+  - first:
+      213: 3516365181045577515
+    second: miltary_range_walk_10
+  - first:
+      213: -2200263420985301001
+    second: miltary_range_walk_11
+  - first:
+      213: -4241792292208838912
+    second: miltary_range_walk_12
+  - first:
+      213: -7430937880861115977
+    second: miltary_range_walk_13
+  - first:
+      213: -1748030063480672316
+    second: miltary_range_walk_14
+  - first:
+      213: -6162222421538623719
+    second: miltary_range_walk_15
+  - first:
+      213: -5756430635360626677
+    second: miltary_range_walk_16
+  - first:
+      213: 8384253727473904392
+    second: miltary_range_walk_17
+  - first:
+      213: 4530079546255237881
+    second: miltary_range_walk_18
+  - first:
+      213: 4975863931330143600
+    second: miltary_range_walk_19
+  - first:
+      213: 6090501843650050125
+    second: miltary_range_walk_20
+  - first:
+      213: 8810739422033852548
+    second: miltary_range_walk_21
+  - first:
+      213: -7935048174220421900
+    second: miltary_range_walk_22
+  - first:
+      213: -3809002152023924211
+    second: miltary_range_walk_23
+  - first:
+      213: -8041370067550246385
+    second: miltary_range_walk_24
+  - first:
+      213: -3862649055347418749
+    second: miltary_range_walk_25
+  - first:
+      213: -908582026951607631
+    second: miltary_range_walk_26
+  - first:
+      213: 4172894081283850088
+    second: miltary_range_walk_27
+  - first:
+      213: -2977005498570628807
+    second: miltary_range_walk_28
+  - first:
+      213: 1315194648951140270
+    second: miltary_range_walk_29
+  - first:
+      213: -2528030079868221702
+    second: miltary_range_walk_30
+  - first:
+      213: -8565269835642718185
+    second: miltary_range_walk_31
+  - first:
+      213: 755723258602469055
+    second: miltary_range_walk_32
+  - first:
+      213: 7571078286874225618
+    second: miltary_range_walk_33
+  - first:
+      213: 430778753833573997
+    second: miltary_range_walk_34
+  - first:
+      213: -2643990017064484867
+    second: miltary_range_walk_35
+  - first:
+      213: 6708665322439442117
+    second: miltary_range_walk_36
+  - first:
+      213: -2945026929383255733
+    second: miltary_range_walk_37
+  - first:
+      213: -5653836443874033152
+    second: miltary_range_walk_38
+  - first:
+      213: -1213755850062293578
+    second: miltary_range_walk_39
+  - first:
+      213: -1768904253234279337
+    second: miltary_range_walk_40
+  - first:
+      213: -4433037892338882752
+    second: miltary_range_walk_41
+  - first:
+      213: 8617372236253977964
+    second: miltary_range_walk_42
+  - first:
+      213: -2306973628894529161
+    second: miltary_range_walk_43
+  - first:
+      213: -1505164813197698484
+    second: miltary_range_walk_44
+  - first:
+      213: -6861594083405497467
+    second: miltary_range_walk_45
+  - first:
+      213: -2862799676611476661
+    second: miltary_range_walk_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_range_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e828048248b6c60800000000000000
+      internalID: 7812483287020113437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e564cd84cb99f8a0800000000000000
+      internalID: -6270809737642351132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 448
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443a6ad6a5c603080800000000000000
+      internalID: -9209742102330170556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 383
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed05fb8b9ab38c90800000000000000
+      internalID: -7168681004612907550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 448
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45cb2dd66b7ec8d0800000000000000
+      internalID: -2824184234587208373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 383
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe401f8b119e090800000000000000
+      internalID: -8004847376659059773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 448
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f497fbe3147a190800000000000000
+      internalID: -7951314879343145105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 383
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109384cae972654b0800000000000000
+      internalID: -5452126736436676351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 448
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb39bf2024fd2b0800000000000000
+      internalID: -5557650834573771737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fca18a7d169c870800000000000000
+      internalID: 8703595333736386333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 447
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2716cc6083acc030800000000000000
+      internalID: 3516365181045577515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a2eb73181771e0800000000000000
+      internalID: -2200263420985301001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f6eb52602225c0800000000000000
+      internalID: -4241792292208838912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 384
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9774f3e5100e890800000000000000
+      internalID: -7430937880861115977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 385
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfe7813befbdb7e0800000000000000
+      internalID: -1748030063480672316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 447
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f2e314b536b7aa0800000000000000
+      internalID: -6162222421538623719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 447
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08572506dc0d10b0800000000000000
+      internalID: -5756430635360626677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 447
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ba3dce75ada5470800000000000000
+      internalID: 8384253727473904392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 385
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f26ece88531ede30800000000000000
+      internalID: 4530079546255237881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 385
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ac9dd1e1dd0540800000000000000
+      internalID: 4975863931330143600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487f9e682fc58450800000000000000
+      internalID: 6090501843650050125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 322
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488bbd2b2d8064a70800000000000000
+      internalID: 8810739422033852548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 322
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4dafb2abb01e190800000000000000
+      internalID: -7935048174220421900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 322
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d026ae349b4b32bc0800000000000000
+      internalID: -3809002152023924211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 322
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a65305780576090800000000000000
+      internalID: -8041370067550246385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 322
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d40c362d156ac0800000000000000
+      internalID: -3862649055347418749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 322
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1babe3ad5711463f0800000000000000
+      internalID: -908582026951607631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 321
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ff048de0919e930800000000000000
+      internalID: 4172894081283850088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 321
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931205b954d8fa6d0800000000000000
+      internalID: -2977005498570628807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 321
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf2a35a092804210800000000000000
+      internalID: 1315194648951140270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6c3f35902aaecd0800000000000000
+      internalID: -2528030079868221702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b529177c022980800000000000000
+      internalID: -8565269835642718185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 257
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb63089bc4edc7a00800000000000000
+      internalID: 755723258602469055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbafcfa69fd11960800000000000000
+      internalID: 7571078286874225618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e19078efe6af500800000000000000
+      internalID: 430778753833573997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff31338619ae4bd0800000000000000
+      internalID: -2643990017064484867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cefbf41197f91d50800000000000000
+      internalID: 6708665322439442117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 257
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41d6247c992127d0800000000000000
+      internalID: -2945026929383255733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 257
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020bb8a5b98981b0800000000000000
+      internalID: -5653836443874033152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 257
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b51cf03c7fd72fe0800000000000000
+      internalID: -1213755850062293578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 257
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c0b4824f69377e0800000000000000
+      internalID: -1768904253234279337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476b4f268faa72c0800000000000000
+      internalID: -4433037892338882752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5b3f546e079770800000000000000
+      internalID: 8617372236253977964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793c8715bbfbffd0800000000000000
+      internalID: -2306973628894529161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a1fecb3949c1be0800000000000000
+      internalID: -1505164813197698484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b71b11988b6c0a0800000000000000
+      internalID: -6861594083405497467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_walk_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434874acda4548d0800000000000000
+      internalID: -2862799676611476661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_range_walk_0: 7812483287020113437
+      miltary_range_walk_1: -6270809737642351132
+      miltary_range_walk_10: 3516365181045577515
+      miltary_range_walk_11: -2200263420985301001
+      miltary_range_walk_12: -4241792292208838912
+      miltary_range_walk_13: -7430937880861115977
+      miltary_range_walk_14: -1748030063480672316
+      miltary_range_walk_15: -6162222421538623719
+      miltary_range_walk_16: -5756430635360626677
+      miltary_range_walk_17: 8384253727473904392
+      miltary_range_walk_18: 4530079546255237881
+      miltary_range_walk_19: 4975863931330143600
+      miltary_range_walk_2: -9209742102330170556
+      miltary_range_walk_20: 6090501843650050125
+      miltary_range_walk_21: 8810739422033852548
+      miltary_range_walk_22: -7935048174220421900
+      miltary_range_walk_23: -3809002152023924211
+      miltary_range_walk_24: -8041370067550246385
+      miltary_range_walk_25: -3862649055347418749
+      miltary_range_walk_26: -908582026951607631
+      miltary_range_walk_27: 4172894081283850088
+      miltary_range_walk_28: -2977005498570628807
+      miltary_range_walk_29: 1315194648951140270
+      miltary_range_walk_3: -7168681004612907550
+      miltary_range_walk_30: -2528030079868221702
+      miltary_range_walk_31: -8565269835642718185
+      miltary_range_walk_32: 755723258602469055
+      miltary_range_walk_33: 7571078286874225618
+      miltary_range_walk_34: 430778753833573997
+      miltary_range_walk_35: -2643990017064484867
+      miltary_range_walk_36: 6708665322439442117
+      miltary_range_walk_37: -2945026929383255733
+      miltary_range_walk_38: -5653836443874033152
+      miltary_range_walk_39: -1213755850062293578
+      miltary_range_walk_4: -2824184234587208373
+      miltary_range_walk_40: -1768904253234279337
+      miltary_range_walk_41: -4433037892338882752
+      miltary_range_walk_42: 8617372236253977964
+      miltary_range_walk_43: -2306973628894529161
+      miltary_range_walk_44: -1505164813197698484
+      miltary_range_walk_45: -6861594083405497467
+      miltary_range_walk_46: -2862799676611476661
+      miltary_range_walk_5: -8004847376659059773
+      miltary_range_walk_6: -7951314879343145105
+      miltary_range_walk_7: -5452126736436676351
+      miltary_range_walk_8: -5557650834573771737
+      miltary_range_walk_9: 8703595333736386333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

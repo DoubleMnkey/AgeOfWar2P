@@ -1,0 +1,1588 @@
+fileFormatVersion: 2
+guid: 9a5979297f8996d4d85fd3c1f6d0a2d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2376868283900911111
+    second: future_range_melee_attack_0
+  - first:
+      213: -5450115965888450993
+    second: future_range_melee_attack_1
+  - first:
+      213: -2075122073999293816
+    second: future_range_melee_attack_2
+  - first:
+      213: -1708850205649933961
+    second: future_range_melee_attack_3
+  - first:
+      213: -4901536612439769901
+    second: future_range_melee_attack_4
+  - first:
+      213: -8674852672360237830
+    second: future_range_melee_attack_5
+  - first:
+      213: -826472028724053742
+    second: future_range_melee_attack_6
+  - first:
+      213: -5919441742954174632
+    second: future_range_melee_attack_7
+  - first:
+      213: -4397492026372592545
+    second: future_range_melee_attack_8
+  - first:
+      213: -3399281257196148181
+    second: future_range_melee_attack_9
+  - first:
+      213: -1815711360232692949
+    second: future_range_melee_attack_10
+  - first:
+      213: -8010407572588843019
+    second: future_range_melee_attack_11
+  - first:
+      213: -8179665329419069503
+    second: future_range_melee_attack_12
+  - first:
+      213: 3777510674843904883
+    second: future_range_melee_attack_13
+  - first:
+      213: -4521820357209053634
+    second: future_range_melee_attack_14
+  - first:
+      213: 1260312935583289468
+    second: future_range_melee_attack_15
+  - first:
+      213: 1170442849046804568
+    second: future_range_melee_attack_16
+  - first:
+      213: 6516134685777967881
+    second: future_range_melee_attack_17
+  - first:
+      213: 381367354944271593
+    second: future_range_melee_attack_18
+  - first:
+      213: 4215703802784598442
+    second: future_range_melee_attack_19
+  - first:
+      213: -8644046227190797854
+    second: future_range_melee_attack_20
+  - first:
+      213: -2378267114795172565
+    second: future_range_melee_attack_21
+  - first:
+      213: -665590145485055916
+    second: future_range_melee_attack_22
+  - first:
+      213: -5076012777774555796
+    second: future_range_melee_attack_23
+  - first:
+      213: 1781834986906467938
+    second: future_range_melee_attack_24
+  - first:
+      213: -428008506185262144
+    second: future_range_melee_attack_25
+  - first:
+      213: 3691854976107199085
+    second: future_range_melee_attack_26
+  - first:
+      213: 8738157238132851128
+    second: future_range_melee_attack_27
+  - first:
+      213: 1871475437925489209
+    second: future_range_melee_attack_28
+  - first:
+      213: 4589637789215936636
+    second: future_range_melee_attack_29
+  - first:
+      213: 8473719280697422913
+    second: future_range_melee_attack_30
+  - first:
+      213: 5280873014401372853
+    second: future_range_melee_attack_31
+  - first:
+      213: 3322594210412122925
+    second: future_range_melee_attack_32
+  - first:
+      213: 2362980485342427102
+    second: future_range_melee_attack_33
+  - first:
+      213: -2042564464525706600
+    second: future_range_melee_attack_34
+  - first:
+      213: 8408578193708235352
+    second: future_range_melee_attack_35
+  - first:
+      213: -2508583616032759555
+    second: future_range_melee_attack_36
+  - first:
+      213: -1257022630981549722
+    second: future_range_melee_attack_37
+  - first:
+      213: 455378598802735072
+    second: future_range_melee_attack_38
+  - first:
+      213: -7819466242010974204
+    second: future_range_melee_attack_39
+  - first:
+      213: -2267572715735621346
+    second: future_range_melee_attack_40
+  - first:
+      213: 5179183356020404884
+    second: future_range_melee_attack_41
+  - first:
+      213: 2497405515904471295
+    second: future_range_melee_attack_42
+  - first:
+      213: 522431091325787127
+    second: future_range_melee_attack_43
+  - first:
+      213: -7283312985041363985
+    second: future_range_melee_attack_44
+  - first:
+      213: 2606854949490976143
+    second: future_range_melee_attack_45
+  - first:
+      213: -2010098031222761747
+    second: future_range_melee_attack_46
+  - first:
+      213: 7148110328032426287
+    second: future_range_melee_attack_47
+  - first:
+      213: -8830392440165651662
+    second: future_range_melee_attack_48
+  - first:
+      213: -136278064920008853
+    second: future_range_melee_attack_49
+  - first:
+      213: 5569160997163198211
+    second: future_range_melee_attack_50
+  - first:
+      213: -8651011830270344544
+    second: future_range_melee_attack_51
+  - first:
+      213: -8813370050130260738
+    second: future_range_melee_attack_52
+  - first:
+      213: 5980608904605389005
+    second: future_range_melee_attack_53
+  - first:
+      213: 1074021588262810265
+    second: future_range_melee_attack_54
+  - first:
+      213: 985905440142394623
+    second: future_range_melee_attack_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_range_melee_attack_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 438
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a13493eaa30fd0800000000000000
+      internalID: -2376868283900911111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 437
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea88ca76c4d54b0800000000000000
+      internalID: -5450115965888450993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 436
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88243b9d77fa333e0800000000000000
+      internalID: -2075122073999293816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 435
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779e1e5bac1f848e0800000000000000
+      internalID: -1708850205649933961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 435
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb4f1ab6e3afbb0800000000000000
+      internalID: -4901536612439769901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 434
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4be11b47bbc9780800000000000000
+      internalID: -8674852672360237830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 434
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193b179118c784f0800000000000000
+      internalID: -826472028724053742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 434
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e89ae81be9dda0800000000000000
+      internalID: -5919441742954174632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 359
+        width: 40
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ce2790d48f8f2c0800000000000000
+      internalID: -4397492026372592545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 434
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2e2de4b353d0d0800000000000000
+      internalID: -3399281257196148181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 434
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2360be432c4dc6e0800000000000000
+      internalID: -1815711360232692949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 434
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff2eb1f0c055d090800000000000000
+      internalID: -8010407572588843019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 434
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d56a78bdfb7e80800000000000000
+      internalID: -8179665329419069503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_13
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 435
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b2155d1f96c6430800000000000000
+      internalID: 3777510674843904883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 435
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ac6eb7544f31c0800000000000000
+      internalID: -4521820357209053634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 435
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70954fffe78d7110800000000000000
+      internalID: 1260312935583289468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 359
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858b457e19f3e3010800000000000000
+      internalID: 1170442849046804568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 359
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb56609f5fd6a50800000000000000
+      internalID: 6516134685777967881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 359
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e43268b693ea4500800000000000000
+      internalID: 381367354944271593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 359
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94d3bd540318a30800000000000000
+      internalID: 4215703802784598442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 406
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ac3621cd2a0880800000000000000
+      internalID: -8644046227190797854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 359
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2df3a1e8a2befed0800000000000000
+      internalID: -2378267114795172565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 424
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458dc540a4953c6f0800000000000000
+      internalID: -665590145485055916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 359
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5761c5416e89b0800000000000000
+      internalID: -5076012777774555796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 359
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e3ce2ea795ab810800000000000000
+      internalID: 1781834986906467938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 359
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5bf308886f0af0800000000000000
+      internalID: -428008506185262144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 359
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ab02d5a8a1c3330800000000000000
+      internalID: 3691854976107199085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 359
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1ca6a16bb244970800000000000000
+      internalID: 8738157238132851128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 360
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ada6bcef0d8f910800000000000000
+      internalID: 1871475437925489209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 360
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70dce9904ba1bf30800000000000000
+      internalID: 4589637789215936636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 360
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14439544ac2b89570800000000000000
+      internalID: 8473719280697422913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_31
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 361
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2175ff60e694940800000000000000
+      internalID: 5280873014401372853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 361
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23526c94d93c1e20800000000000000
+      internalID: 3322594210412122925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f3085b3efac020800000000000000
+      internalID: 2362980485342427102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89afb15017a57a3e0800000000000000
+      internalID: -2042564464525706600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 284
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a331e015541b470800000000000000
+      internalID: 8408578193708235352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 284
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a0050e78bf2dd0800000000000000
+      internalID: -2508583616032759555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 284
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661c7bdb3982e8ee0800000000000000
+      internalID: -1257022630981549722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_38
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 284
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb3f34c64d15600800000000000000
+      internalID: 455378598802735072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 284
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408f6c7d1ecab7390800000000000000
+      internalID: -7819466242010974204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 284
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11e53011a6f780e0800000000000000
+      internalID: -2267572715735621346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 284
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492363262d720e740800000000000000
+      internalID: 5179183356020404884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 284
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0569bb51198a220800000000000000
+      internalID: 2497405515904471295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 284
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbd7124f4c004700800000000000000
+      internalID: 522431091325787127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 284
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb9e92cd697cea90800000000000000
+      internalID: -7283312985041363985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 284
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e06dc3c86d2420800000000000000
+      internalID: 2606854949490976143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_46
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 284
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de651459d72ba14e0800000000000000
+      internalID: -2010098031222761747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_47
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 284
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f297ca59870333360800000000000000
+      internalID: 7148110328032426287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_48
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 284
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba1a07cd4247580800000000000000
+      internalID: -8830392440165651662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_49
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 284
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e3cd62d7db1ef0800000000000000
+      internalID: -136278064920008853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_50
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 284
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076fd49b62a94d40800000000000000
+      internalID: 5569160997163198211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2c80d439e61f780800000000000000
+      internalID: -8651011830270344544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 207
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc4be772ae90b580800000000000000
+      internalID: -8813370050130260738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_53
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 207
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0da83bc146ff250800000000000000
+      internalID: 5980608904605389005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 207
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9927181b1f0b7ee00800000000000000
+      internalID: 1074021588262810265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_melee_attack_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff400d536c3aead00800000000000000
+      internalID: 985905440142394623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_range_melee_attack_0: -2376868283900911111
+      future_range_melee_attack_1: -5450115965888450993
+      future_range_melee_attack_10: -1815711360232692949
+      future_range_melee_attack_11: -8010407572588843019
+      future_range_melee_attack_12: -8179665329419069503
+      future_range_melee_attack_13: 3777510674843904883
+      future_range_melee_attack_14: -4521820357209053634
+      future_range_melee_attack_15: 1260312935583289468
+      future_range_melee_attack_16: 1170442849046804568
+      future_range_melee_attack_17: 6516134685777967881
+      future_range_melee_attack_18: 381367354944271593
+      future_range_melee_attack_19: 4215703802784598442
+      future_range_melee_attack_2: -2075122073999293816
+      future_range_melee_attack_20: -8644046227190797854
+      future_range_melee_attack_21: -2378267114795172565
+      future_range_melee_attack_22: -665590145485055916
+      future_range_melee_attack_23: -5076012777774555796
+      future_range_melee_attack_24: 1781834986906467938
+      future_range_melee_attack_25: -428008506185262144
+      future_range_melee_attack_26: 3691854976107199085
+      future_range_melee_attack_27: 8738157238132851128
+      future_range_melee_attack_28: 1871475437925489209
+      future_range_melee_attack_29: 4589637789215936636
+      future_range_melee_attack_3: -1708850205649933961
+      future_range_melee_attack_30: 8473719280697422913
+      future_range_melee_attack_31: 5280873014401372853
+      future_range_melee_attack_32: 3322594210412122925
+      future_range_melee_attack_33: 2362980485342427102
+      future_range_melee_attack_34: -2042564464525706600
+      future_range_melee_attack_35: 8408578193708235352
+      future_range_melee_attack_36: -2508583616032759555
+      future_range_melee_attack_37: -1257022630981549722
+      future_range_melee_attack_38: 455378598802735072
+      future_range_melee_attack_39: -7819466242010974204
+      future_range_melee_attack_4: -4901536612439769901
+      future_range_melee_attack_40: -2267572715735621346
+      future_range_melee_attack_41: 5179183356020404884
+      future_range_melee_attack_42: 2497405515904471295
+      future_range_melee_attack_43: 522431091325787127
+      future_range_melee_attack_44: -7283312985041363985
+      future_range_melee_attack_45: 2606854949490976143
+      future_range_melee_attack_46: -2010098031222761747
+      future_range_melee_attack_47: 7148110328032426287
+      future_range_melee_attack_48: -8830392440165651662
+      future_range_melee_attack_49: -136278064920008853
+      future_range_melee_attack_5: -8674852672360237830
+      future_range_melee_attack_50: 5569160997163198211
+      future_range_melee_attack_51: -8651011830270344544
+      future_range_melee_attack_52: -8813370050130260738
+      future_range_melee_attack_53: 5980608904605389005
+      future_range_melee_attack_54: 1074021588262810265
+      future_range_melee_attack_55: 985905440142394623
+      future_range_melee_attack_6: -826472028724053742
+      future_range_melee_attack_7: -5919441742954174632
+      future_range_melee_attack_8: -4397492026372592545
+      future_range_melee_attack_9: -3399281257196148181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

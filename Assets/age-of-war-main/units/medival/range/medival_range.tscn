@@ -1,0 +1,1431 @@
+[gd_scene load_steps=302 format=3 uid="uid://3mxmgboq06ah"]
+
+[ext_resource type="Texture2D" uid="uid://db8h51i1f2kwt" path="res://age of war sprites/units/medival/range/die/medival_range_die0001.png" id="1_8ago0"]
+[ext_resource type="Script" path="res://units/medival/range/medival_range.gd" id="1_a8ttx"]
+[ext_resource type="Texture2D" uid="uid://bqygj06kfwp7d" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0001.png" id="1_utw7g"]
+[ext_resource type="Texture2D" uid="uid://b5pbscrp6m002" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0002.png" id="2_4x1tv"]
+[ext_resource type="Texture2D" uid="uid://bryg507s8adli" path="res://age of war sprites/units/medival/range/die/medival_range_die0002.png" id="2_uq34p"]
+[ext_resource type="Texture2D" uid="uid://cu003y3igoa2v" path="res://age of war sprites/units/medival/range/die/medival_range_die0003.png" id="3_lgk50"]
+[ext_resource type="Texture2D" uid="uid://34jg417rk8wh" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0003.png" id="3_tvbxn"]
+[ext_resource type="Texture2D" uid="uid://csc1er2ms08hw" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0004.png" id="4_ngpyp"]
+[ext_resource type="Texture2D" uid="uid://clo1u4ps46rpm" path="res://age of war sprites/units/medival/range/die/medival_range_die0004.png" id="4_nuaqw"]
+[ext_resource type="Texture2D" uid="uid://d2by2xebagviw" path="res://age of war sprites/units/medival/range/die/medival_range_die0005.png" id="5_jf0am"]
+[ext_resource type="Texture2D" uid="uid://dgsuxr74kleiw" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0005.png" id="5_varqk"]
+[ext_resource type="Texture2D" uid="uid://cdwth045jk1fg" path="res://age of war sprites/units/medival/range/die/medival_range_die0006.png" id="6_1l2s0"]
+[ext_resource type="Texture2D" uid="uid://fkm4637akrt" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0006.png" id="6_my6n0"]
+[ext_resource type="Texture2D" uid="uid://d1yg14q20f1ad" path="res://age of war sprites/units/medival/range/die/medival_range_die0007.png" id="7_om2fx"]
+[ext_resource type="Texture2D" uid="uid://cvnh3620d5ikp" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0007.png" id="7_yncpo"]
+[ext_resource type="Texture2D" uid="uid://b21v3ng53w7eq" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0008.png" id="8_qy4xh"]
+[ext_resource type="Texture2D" uid="uid://dggotl0858hyx" path="res://age of war sprites/units/medival/range/die/medival_range_die0008.png" id="8_s0qo0"]
+[ext_resource type="Texture2D" uid="uid://d4okbh28em24" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0009.png" id="9_luqfo"]
+[ext_resource type="Texture2D" uid="uid://m723i5sef105" path="res://age of war sprites/units/medival/range/die/medival_range_die0009.png" id="9_u4y8v"]
+[ext_resource type="Texture2D" uid="uid://bdo4h4ux62csg" path="res://age of war sprites/units/medival/range/die/medival_range_die0010.png" id="10_1e8s8"]
+[ext_resource type="Texture2D" uid="uid://dirlcp1l08fbp" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0010.png" id="10_5146v"]
+[ext_resource type="Texture2D" uid="uid://dxyidlxrar6y7" path="res://age of war sprites/units/medival/range/die/medival_range_die0011.png" id="11_c43kj"]
+[ext_resource type="Texture2D" uid="uid://bh1p0gss0g4wk" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0011.png" id="11_daj8y"]
+[ext_resource type="Texture2D" uid="uid://fpq63euctcxj" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0012.png" id="12_3c8ky"]
+[ext_resource type="Texture2D" uid="uid://ctlypyfch4b4s" path="res://age of war sprites/units/medival/range/die/medival_range_die0012.png" id="12_3l3kw"]
+[ext_resource type="Texture2D" uid="uid://df5nilqh00o0b" path="res://age of war sprites/units/medival/range/die/medival_range_die0013.png" id="13_07o6a"]
+[ext_resource type="Texture2D" uid="uid://bce2s4ij42vhi" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0013.png" id="13_m84kh"]
+[ext_resource type="Texture2D" uid="uid://dkvvhb2rdiypd" path="res://age of war sprites/units/medival/range/die/medival_range_die0014.png" id="14_aq11d"]
+[ext_resource type="Texture2D" uid="uid://ct1vb5mckllfl" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0014.png" id="14_pfk1u"]
+[ext_resource type="Texture2D" uid="uid://da04jsrtebpat" path="res://age of war sprites/units/medival/range/die/medival_range_die0015.png" id="15_4p4ri"]
+[ext_resource type="Texture2D" uid="uid://2vmrtb6eat06" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0015.png" id="15_006x5"]
+[ext_resource type="Texture2D" uid="uid://bawi5nljrmxay" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0016.png" id="16_0tio4"]
+[ext_resource type="Texture2D" uid="uid://1xr8pit4gm0o" path="res://age of war sprites/units/medival/range/die/medival_range_die0016.png" id="16_aw7pi"]
+[ext_resource type="Texture2D" uid="uid://do8hsuaejx320" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0017.png" id="17_k8bqm"]
+[ext_resource type="Texture2D" uid="uid://bfpdqjofsha27" path="res://age of war sprites/units/medival/range/die/medival_range_die0017.png" id="17_mr6lg"]
+[ext_resource type="Texture2D" uid="uid://bys12tihyabeo" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0018.png" id="18_uiqcn"]
+[ext_resource type="Texture2D" uid="uid://c8g56spyalcc6" path="res://age of war sprites/units/medival/range/die/medival_range_die0018.png" id="18_ysmbn"]
+[ext_resource type="Texture2D" uid="uid://bss15og7gcvgu" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0019.png" id="19_j544n"]
+[ext_resource type="Texture2D" uid="uid://brra88vf013su" path="res://age of war sprites/units/medival/range/die/medival_range_die0019.png" id="19_nnvqs"]
+[ext_resource type="Texture2D" uid="uid://bgrx61vhwt1ee" path="res://age of war sprites/units/medival/range/die/medival_range_die0020.png" id="20_4gfxq"]
+[ext_resource type="Texture2D" uid="uid://cx6slvm5xx4kr" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0020.png" id="20_l8fbx"]
+[ext_resource type="Texture2D" uid="uid://d0fumqbxdqy3v" path="res://age of war sprites/units/medival/range/die/medival_range_die0021.png" id="21_ey4oe"]
+[ext_resource type="Texture2D" uid="uid://cpingbnxa5qxm" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0021.png" id="21_sypst"]
+[ext_resource type="Texture2D" uid="uid://dxuamdbfgdcas" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0022.png" id="22_sgbp2"]
+[ext_resource type="Texture2D" uid="uid://86v5s2iatyrb" path="res://age of war sprites/units/medival/range/die/medival_range_die0022.png" id="22_tqq22"]
+[ext_resource type="Texture2D" uid="uid://cs2ynk5wgb3jr" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0023.png" id="23_qy2wr"]
+[ext_resource type="Texture2D" uid="uid://cmuxtso2wftv6" path="res://age of war sprites/units/medival/range/die/medival_range_die0023.png" id="23_redm8"]
+[ext_resource type="Texture2D" uid="uid://1w20ji5g5asv" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0024.png" id="24_58f8f"]
+[ext_resource type="Texture2D" uid="uid://dwn2iu41rp8qb" path="res://age of war sprites/units/medival/range/die/medival_range_die0024.png" id="24_yfjkt"]
+[ext_resource type="Texture2D" uid="uid://2wjmf8tqhjrc" path="res://age of war sprites/units/medival/range/die/medival_range_die0025.png" id="25_g3dvq"]
+[ext_resource type="Texture2D" uid="uid://b33lvuvbdyyff" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0025.png" id="25_m82wh"]
+[ext_resource type="Texture2D" uid="uid://d2pgh87t2gvtt" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0026.png" id="26_035bg"]
+[ext_resource type="Texture2D" uid="uid://5xp53jdoceka" path="res://age of war sprites/units/medival/range/die/medival_range_die0026.png" id="26_ac5wv"]
+[ext_resource type="Texture2D" uid="uid://del4tt8c58yy5" path="res://age of war sprites/units/medival/range/die/medival_range_die0027.png" id="27_50gfx"]
+[ext_resource type="Texture2D" uid="uid://cwuuv3cpjb28l" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0027.png" id="27_cm6q8"]
+[ext_resource type="Texture2D" uid="uid://cc7puytm67mb4" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0028.png" id="28_07jhh"]
+[ext_resource type="Texture2D" uid="uid://b8htg8k0fehrm" path="res://age of war sprites/units/medival/range/die/medival_range_die0028.png" id="28_nmlhp"]
+[ext_resource type="Texture2D" uid="uid://d1584ty4c84ek" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0029.png" id="29_1nd85"]
+[ext_resource type="Texture2D" uid="uid://b2hyy4kwox068" path="res://age of war sprites/units/medival/range/die/medival_range_die0029.png" id="29_qj611"]
+[ext_resource type="Texture2D" uid="uid://csb8lf3sdf8as" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0030.png" id="30_51oyn"]
+[ext_resource type="Texture2D" uid="uid://ba20tv5exf5gu" path="res://age of war sprites/units/medival/range/die/medival_range_die0030.png" id="30_fq75s"]
+[ext_resource type="Texture2D" uid="uid://cgkidc3bd1382" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0031.png" id="31_1hccy"]
+[ext_resource type="Texture2D" uid="uid://k14q4po0l1tb" path="res://age of war sprites/units/medival/range/die/medival_range_die0031.png" id="31_eo2gj"]
+[ext_resource type="Texture2D" uid="uid://bq4870mvnnjx6" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0032.png" id="32_7eit0"]
+[ext_resource type="Texture2D" uid="uid://cl2vb5y6oaw0s" path="res://age of war sprites/units/medival/range/die/medival_range_die0032.png" id="32_onhld"]
+[ext_resource type="Texture2D" uid="uid://dp3gb13w3jmif" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0033.png" id="33_u4ikv"]
+[ext_resource type="Texture2D" uid="uid://ccqaayxkfse64" path="res://age of war sprites/units/medival/range/die/medival_range_die0033.png" id="33_xd6py"]
+[ext_resource type="Texture2D" uid="uid://csthuyjrgmrr" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0034.png" id="34_6q3vm"]
+[ext_resource type="Texture2D" uid="uid://bjy3t6dgaqp68" path="res://age of war sprites/units/medival/range/die/medival_range_die0034.png" id="34_eshi2"]
+[ext_resource type="Texture2D" uid="uid://bsdlccoofjt5u" path="res://age of war sprites/units/medival/range/die/medival_range_die0035.png" id="35_07qag"]
+[ext_resource type="Texture2D" uid="uid://bvgipoknfk85" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0035.png" id="35_f41le"]
+[ext_resource type="Texture2D" uid="uid://bjld1hdlde8dl" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0036.png" id="36_1gfnd"]
+[ext_resource type="Texture2D" uid="uid://u8x206bss6cr" path="res://age of war sprites/units/medival/range/die/medival_range_die0036.png" id="36_7wsvj"]
+[ext_resource type="Texture2D" uid="uid://duq80s1hsk7ao" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0037.png" id="37_0gud2"]
+[ext_resource type="Texture2D" uid="uid://dse0guhoanxp3" path="res://age of war sprites/units/medival/range/die/medival_range_die0037.png" id="37_6c4g6"]
+[ext_resource type="Texture2D" uid="uid://l1mgah4x7ynx" path="res://age of war sprites/units/medival/range/die/medival_range_die0038.png" id="38_ecroy"]
+[ext_resource type="Texture2D" uid="uid://dwovly4um3a0g" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0038.png" id="38_pi4lj"]
+[ext_resource type="Texture2D" uid="uid://b0lywrjubjt7a" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0039.png" id="39_gkbr7"]
+[ext_resource type="Texture2D" uid="uid://cnal2celp5hgu" path="res://age of war sprites/units/medival/range/die/medival_range_die0039.png" id="39_yni06"]
+[ext_resource type="Texture2D" uid="uid://cm1eo1cd36cka" path="res://age of war sprites/units/medival/range/die/medival_range_die0040.png" id="40_4n3qw"]
+[ext_resource type="Texture2D" uid="uid://cms43k60j7fns" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0040.png" id="40_7f33u"]
+[ext_resource type="Texture2D" uid="uid://cnurlb4n6ookw" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0041.png" id="41_c45ha"]
+[ext_resource type="Texture2D" uid="uid://dpfgfm1bu4sxx" path="res://age of war sprites/units/medival/range/die/medival_range_die0041.png" id="41_jyn1r"]
+[ext_resource type="Texture2D" uid="uid://dt5nkq5gixamf" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0042.png" id="42_3pnsh"]
+[ext_resource type="Texture2D" uid="uid://c7kkhg4g3qdl1" path="res://age of war sprites/units/medival/range/die/medival_range_die0042.png" id="42_d0dnn"]
+[ext_resource type="Texture2D" uid="uid://c7tpdpd4ysw7o" path="res://age of war sprites/units/medival/range/die/medival_range_die0043.png" id="43_b1kc8"]
+[ext_resource type="Texture2D" uid="uid://bk20yk6o6tcff" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0043.png" id="43_l2tdb"]
+[ext_resource type="Texture2D" uid="uid://h5rmqrabbnb2" path="res://age of war sprites/units/medival/range/die/medival_range_die0044.png" id="44_7vn1v"]
+[ext_resource type="Texture2D" uid="uid://cw680x3ne32f8" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0044.png" id="44_30yhm"]
+[ext_resource type="Texture2D" uid="uid://dndc0ml33irf8" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0045.png" id="45_rqnyj"]
+[ext_resource type="Texture2D" uid="uid://bss3jl2las6c8" path="res://age of war sprites/units/medival/range/die/medival_range_die0045.png" id="45_wsdin"]
+[ext_resource type="Texture2D" uid="uid://cdiihm76gaj1e" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0046.png" id="46_57oeo"]
+[ext_resource type="Texture2D" uid="uid://br087bmhuxd7o" path="res://age of war sprites/units/medival/range/die/medival_range_die0046.png" id="46_wbd2y"]
+[ext_resource type="Texture2D" uid="uid://cuchy8ecvbcr3" path="res://age of war sprites/units/medival/range/die/medival_range_die0047.png" id="47_dxb0f"]
+[ext_resource type="Texture2D" uid="uid://dj436hsmu5ksd" path="res://age of war sprites/units/medival/range/walk/medival_range_walk0047.png" id="47_weyaf"]
+[ext_resource type="Texture2D" uid="uid://bh4po34o1sd0" path="res://age of war sprites/units/medival/range/die/medival_range_die0048.png" id="48_dju31"]
+[ext_resource type="Texture2D" uid="uid://vihupljak2qw" path="res://age of war sprites/units/medival/range/die/medival_range_die0049.png" id="49_xyl1t"]
+[ext_resource type="Texture2D" uid="uid://cx3cvd28gioy0" path="res://age of war sprites/units/medival/range/die/medival_range_die0050.png" id="50_bhtkr"]
+[ext_resource type="Texture2D" uid="uid://csduhtjtrrs3k" path="res://age of war sprites/units/medival/range/die/medival_range_die0051.png" id="51_ejltm"]
+[ext_resource type="Texture2D" uid="uid://p71jxs7ytx3b" path="res://age of war sprites/units/medival/range/die/medival_range_die0052.png" id="52_pmoam"]
+[ext_resource type="Texture2D" uid="uid://cxti44umc310v" path="res://age of war sprites/units/medival/range/die/medival_range_die0053.png" id="53_a81l7"]
+[ext_resource type="Texture2D" uid="uid://bohprgt6tn3rm" path="res://age of war sprites/units/medival/range/die/medival_range_die0054.png" id="54_h078o"]
+[ext_resource type="Texture2D" uid="uid://c1xuc2n85ordi" path="res://age of war sprites/units/medival/range/die/medival_range_die0055.png" id="55_673w6"]
+[ext_resource type="Texture2D" uid="uid://bbvgcu0svp6yi" path="res://age of war sprites/units/medival/range/die/medival_range_die0056.png" id="56_4p88g"]
+[ext_resource type="Texture2D" uid="uid://dqmwlb7ge74p5" path="res://age of war sprites/units/medival/range/die/medival_range_die0057.png" id="57_m5h8d"]
+[ext_resource type="Texture2D" uid="uid://dt867hrwihxyi" path="res://age of war sprites/units/medival/range/die/medival_range_die0058.png" id="58_6fyd4"]
+[ext_resource type="Texture2D" uid="uid://bikjh3whq0bd" path="res://age of war sprites/units/medival/range/die/medival_range_die0059.png" id="59_bqt26"]
+[ext_resource type="Texture2D" uid="uid://cj0biar8s778v" path="res://age of war sprites/units/medival/range/die/medival_range_die0060.png" id="60_xl38v"]
+[ext_resource type="Texture2D" uid="uid://drdno485vtknx" path="res://age of war sprites/units/medival/range/die/medival_range_die0061.png" id="61_rry5m"]
+[ext_resource type="Texture2D" uid="uid://d4hk8j85yf8lp" path="res://age of war sprites/units/medival/range/die/medival_range_die0062.png" id="62_isilx"]
+[ext_resource type="Texture2D" uid="uid://cbh2k052ilqsd" path="res://age of war sprites/units/medival/range/die/medival_range_die0063.png" id="63_q1j8a"]
+[ext_resource type="Texture2D" uid="uid://de2mjn7a8wpo8" path="res://age of war sprites/units/medival/range/die/medival_range_die0064.png" id="64_m1k6x"]
+[ext_resource type="Texture2D" uid="uid://blagox1uabd60" path="res://age of war sprites/units/medival/range/die/medival_range_die0065.png" id="65_toq2l"]
+[ext_resource type="Texture2D" uid="uid://cffp83y7tna4j" path="res://age of war sprites/units/medival/range/die/medival_range_die0066.png" id="66_c3uen"]
+[ext_resource type="Texture2D" uid="uid://bmjbfha3gn02h" path="res://age of war sprites/units/medival/range/die/medival_range_die0067.png" id="67_h2hcm"]
+[ext_resource type="Texture2D" uid="uid://yku062ka52py" path="res://age of war sprites/units/medival/range/die/medival_range_die0068.png" id="68_7x87o"]
+[ext_resource type="Texture2D" uid="uid://d0dt5e6s8s364" path="res://age of war sprites/units/medival/range/die/medival_range_die0069.png" id="69_3vfvl"]
+[ext_resource type="Texture2D" uid="uid://bjlmtiyxqoknk" path="res://age of war sprites/units/medival/range/die/medival_range_die0070.png" id="70_nrfc2"]
+[ext_resource type="Texture2D" uid="uid://bun4ohl6voaxm" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0001.png" id="71_sw31x"]
+[ext_resource type="Texture2D" uid="uid://bcg446w7i2ga6" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0002.png" id="72_52slh"]
+[ext_resource type="Texture2D" uid="uid://de26gbawdm1o3" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0003.png" id="73_h24sv"]
+[ext_resource type="Texture2D" uid="uid://343f2u3rr42i" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0004.png" id="74_yhb4k"]
+[ext_resource type="Texture2D" uid="uid://d01c7loyqbcr" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0005.png" id="75_ui0w1"]
+[ext_resource type="Texture2D" uid="uid://iu1ogarxvfat" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0006.png" id="76_7nx8j"]
+[ext_resource type="Texture2D" uid="uid://chydvvyhsatjq" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0007.png" id="77_ip3vi"]
+[ext_resource type="Texture2D" uid="uid://iqnxjirijsfr" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0008.png" id="78_mkxua"]
+[ext_resource type="Texture2D" uid="uid://dexwsw5v5cqa7" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0009.png" id="79_pg6hk"]
+[ext_resource type="Texture2D" uid="uid://dknbedw4r1v5a" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0010.png" id="80_u5hp7"]
+[ext_resource type="Texture2D" uid="uid://gg4t68v3tmrp" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0011.png" id="81_ruqap"]
+[ext_resource type="Texture2D" uid="uid://ktdwlr5h7s11" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0012.png" id="82_qi0md"]
+[ext_resource type="Texture2D" uid="uid://cowbplpitve4s" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0013.png" id="83_hu6mk"]
+[ext_resource type="Texture2D" uid="uid://cjcqtd5ruo75l" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0014.png" id="84_pdsdu"]
+[ext_resource type="Texture2D" uid="uid://cb8heeaxc1p1j" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0015.png" id="85_rpacw"]
+[ext_resource type="Texture2D" uid="uid://brljmpetn5mg2" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0016.png" id="86_eibps"]
+[ext_resource type="Texture2D" uid="uid://c7r8503y7tqdl" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0017.png" id="87_y60o0"]
+[ext_resource type="Texture2D" uid="uid://n5qvaado7ngc" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0018.png" id="88_kvi7b"]
+[ext_resource type="Texture2D" uid="uid://dgn6ui11wmwtb" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0019.png" id="89_y1fux"]
+[ext_resource type="Texture2D" uid="uid://difx6k4aiabq4" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0020.png" id="90_dmude"]
+[ext_resource type="Texture2D" uid="uid://cw8he7xp87jlg" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0021.png" id="91_3vmoe"]
+[ext_resource type="Texture2D" uid="uid://7gruagf4ahei" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0022.png" id="92_ogtnp"]
+[ext_resource type="Texture2D" uid="uid://dk5mj075ogm6e" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0023.png" id="93_lotp5"]
+[ext_resource type="Texture2D" uid="uid://cyq68h63jx8jt" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0024.png" id="94_cbar2"]
+[ext_resource type="Texture2D" uid="uid://cwc4slqne2g0a" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0025.png" id="95_itvik"]
+[ext_resource type="Texture2D" uid="uid://x24laiik87fo" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0026.png" id="96_qwi0l"]
+[ext_resource type="Texture2D" uid="uid://b0dix2t0orumx" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0027.png" id="97_1qeo8"]
+[ext_resource type="Texture2D" uid="uid://bu5ode252wf7p" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0028.png" id="98_5fcpv"]
+[ext_resource type="Texture2D" uid="uid://dye4mtsmyityh" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0029.png" id="99_lq7bq"]
+[ext_resource type="Texture2D" uid="uid://bvcx0l5qehedk" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0030.png" id="100_k2b2f"]
+[ext_resource type="Texture2D" uid="uid://barinvnryyqg5" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0031.png" id="101_lyai5"]
+[ext_resource type="Texture2D" uid="uid://td41avby5rny" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0032.png" id="102_nv27t"]
+[ext_resource type="Texture2D" uid="uid://clatavvn3ga8r" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0033.png" id="103_rvbgh"]
+[ext_resource type="Texture2D" uid="uid://b42ecnpiyjynn" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0034.png" id="104_5s7b4"]
+[ext_resource type="Texture2D" uid="uid://d12gd2fomoshx" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0035.png" id="105_01v64"]
+[ext_resource type="Texture2D" uid="uid://dbc3r3oqdxd04" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0036.png" id="106_haxep"]
+[ext_resource type="Texture2D" uid="uid://daq46lkmomlnm" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0037.png" id="107_3dlqk"]
+[ext_resource type="Texture2D" uid="uid://b3v5uowrq1dho" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0038.png" id="108_nquah"]
+[ext_resource type="Texture2D" uid="uid://b1tx6malcwcyt" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0039.png" id="109_5exrr"]
+[ext_resource type="Texture2D" uid="uid://1io1h3spuho" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0040.png" id="110_jpbjl"]
+[ext_resource type="Texture2D" uid="uid://dfgf5prxoan2s" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0041.png" id="111_roi7p"]
+[ext_resource type="Texture2D" uid="uid://g4b7gtm6b6c3" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0042.png" id="112_q02e6"]
+[ext_resource type="Texture2D" uid="uid://dhl14lc8ia0vi" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0043.png" id="113_vhoh3"]
+[ext_resource type="Texture2D" uid="uid://bjqmd7w057cho" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0044.png" id="114_vxpt2"]
+[ext_resource type="Texture2D" uid="uid://bklkorgrymevv" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0045.png" id="115_l26ey"]
+[ext_resource type="Texture2D" uid="uid://bjroetnkqjmrb" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0046.png" id="116_2oohc"]
+[ext_resource type="Texture2D" uid="uid://cqrkjxfycsxcy" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0047.png" id="117_eh523"]
+[ext_resource type="Texture2D" uid="uid://b6dq8r14rh518" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0048.png" id="118_71hon"]
+[ext_resource type="Texture2D" uid="uid://dr41khr4qeftp" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0049.png" id="119_7ih3s"]
+[ext_resource type="Texture2D" uid="uid://cktet3qis1qgh" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0050.png" id="120_e516k"]
+[ext_resource type="Texture2D" uid="uid://bx462eyk0567x" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0051.png" id="121_b1i1b"]
+[ext_resource type="Texture2D" uid="uid://dc2fcuhba70m5" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0052.png" id="122_3pgog"]
+[ext_resource type="Texture2D" uid="uid://dlauj5xkna0l2" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0053.png" id="123_uqrqy"]
+[ext_resource type="Texture2D" uid="uid://c70ffv683kdss" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0054.png" id="124_gyit3"]
+[ext_resource type="Texture2D" uid="uid://dk3bgpcig6o0g" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0055.png" id="125_71cnu"]
+[ext_resource type="Texture2D" uid="uid://c68cod3gjk3hn" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0056.png" id="126_c8udg"]
+[ext_resource type="Texture2D" uid="uid://dtmmjnkocqf26" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0057.png" id="127_nqfyp"]
+[ext_resource type="Texture2D" uid="uid://c2wkglvj15v4j" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0058.png" id="128_qfoum"]
+[ext_resource type="Texture2D" uid="uid://d3wqepip5nuwk" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0059.png" id="129_jpj5w"]
+[ext_resource type="Texture2D" uid="uid://car0l5fitnjpq" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0060.png" id="130_fvkq4"]
+[ext_resource type="Texture2D" uid="uid://cywmkktx8hu8p" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0061.png" id="131_glwfq"]
+[ext_resource type="Texture2D" uid="uid://b56gh4d4opbop" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0062.png" id="132_hflta"]
+[ext_resource type="Texture2D" uid="uid://dwmaxuvcflbt6" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0063.png" id="133_dp4cn"]
+[ext_resource type="Texture2D" uid="uid://bmaxbiwl0cg7x" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0064.png" id="134_5jxua"]
+[ext_resource type="Texture2D" uid="uid://ctabk17ho8ih" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0065.png" id="135_e7fhk"]
+[ext_resource type="Texture2D" uid="uid://brtalnsygtmnl" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0066.png" id="136_84hep"]
+[ext_resource type="Texture2D" uid="uid://msfjw4cyl3y0" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0067.png" id="137_3mh0d"]
+[ext_resource type="Texture2D" uid="uid://bwk21n7yt2tq8" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0068.png" id="138_23x07"]
+[ext_resource type="Texture2D" uid="uid://cjihrmrcghqwg" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0069.png" id="139_4q47m"]
+[ext_resource type="Texture2D" uid="uid://ck5g7psd4id8" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0070.png" id="140_fkwiu"]
+[ext_resource type="Texture2D" uid="uid://ili4hmym4ktl" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0071.png" id="141_niwgq"]
+[ext_resource type="Texture2D" uid="uid://djfj7src4li51" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0072.png" id="142_h2ulj"]
+[ext_resource type="Texture2D" uid="uid://crk38ppyx4lhi" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0073.png" id="143_ud6lb"]
+[ext_resource type="Texture2D" uid="uid://dh3wqbfl4mehq" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0074.png" id="144_uc7sj"]
+[ext_resource type="Texture2D" uid="uid://bob63t4ettqgi" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0075.png" id="145_1ljbo"]
+[ext_resource type="Texture2D" uid="uid://2qgigl3bgydy" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0076.png" id="146_6y4qe"]
+[ext_resource type="Texture2D" uid="uid://cjbgi1rgl8e77" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0077.png" id="147_ykpxq"]
+[ext_resource type="Texture2D" uid="uid://dc6nid2hmfoon" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0078.png" id="148_mt2er"]
+[ext_resource type="Texture2D" uid="uid://mxwvr5jtcri8" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0079.png" id="149_t7hum"]
+[ext_resource type="Texture2D" uid="uid://dfr6ir7nwidi1" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0080.png" id="150_nqccp"]
+[ext_resource type="Texture2D" uid="uid://ccwvy52bif51l" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0081.png" id="151_1l5di"]
+[ext_resource type="Texture2D" uid="uid://p45ikmxljp5o" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0082.png" id="152_k0fwh"]
+[ext_resource type="Texture2D" uid="uid://cmwiymsm4l5cp" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0083.png" id="153_owpdy"]
+[ext_resource type="Texture2D" uid="uid://cagyxhbirchqo" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0084.png" id="154_di8ru"]
+[ext_resource type="Texture2D" uid="uid://cxausvikkvofe" path="res://age of war sprites/units/medival/range/idle/medival_range_idle0085.png" id="155_wwtyp"]
+[ext_resource type="Texture2D" uid="uid://ddchro5o1f322" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0001.png" id="156_onirm"]
+[ext_resource type="Texture2D" uid="uid://c0h16t06v0tvf" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0002.png" id="157_o5c0d"]
+[ext_resource type="Texture2D" uid="uid://4v1my24ro4nj" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0003.png" id="158_ss4xp"]
+[ext_resource type="Texture2D" uid="uid://dfcdgcj3m4f56" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0004.png" id="159_ek2vf"]
+[ext_resource type="Texture2D" uid="uid://dqyb2vntwkpoq" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0005.png" id="160_1qu23"]
+[ext_resource type="Texture2D" uid="uid://dj1ajevhca6ex" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0006.png" id="161_y72ih"]
+[ext_resource type="Texture2D" uid="uid://cyrrxtx388bpf" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0007.png" id="162_rs5lg"]
+[ext_resource type="Texture2D" uid="uid://jm6fdkmhcn45" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0008.png" id="163_3umfv"]
+[ext_resource type="Texture2D" uid="uid://cq3d35xv26fos" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0009.png" id="164_3f2uc"]
+[ext_resource type="Texture2D" uid="uid://qcy7cr72uirr" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0010.png" id="165_gy41n"]
+[ext_resource type="Texture2D" uid="uid://omvorwc7dnyh" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0011.png" id="166_gfi25"]
+[ext_resource type="Texture2D" uid="uid://cyji3v7rcs4ed" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0012.png" id="167_uvdh3"]
+[ext_resource type="Texture2D" uid="uid://7n0phbsh4das" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0013.png" id="168_cwt3x"]
+[ext_resource type="Texture2D" uid="uid://dpprqagy0rjgj" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0014.png" id="169_2f3h7"]
+[ext_resource type="Texture2D" uid="uid://bowprsf1m5qui" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0015.png" id="170_g2lij"]
+[ext_resource type="Texture2D" uid="uid://coy20x1lhvjq7" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0016.png" id="171_hempn"]
+[ext_resource type="Texture2D" uid="uid://chofnveyihabf" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0017.png" id="172_s48fm"]
+[ext_resource type="Texture2D" uid="uid://4sjvxydrtub4" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0018.png" id="173_n6c7s"]
+[ext_resource type="Texture2D" uid="uid://prfsriayk60k" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0019.png" id="174_5r140"]
+[ext_resource type="Texture2D" uid="uid://dqxlclnyxvuwa" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0020.png" id="175_ujdkq"]
+[ext_resource type="Texture2D" uid="uid://dp4w8xfl0e3c" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0021.png" id="176_ow1ps"]
+[ext_resource type="Texture2D" uid="uid://dw2egjfaketyd" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0022.png" id="177_vttcr"]
+[ext_resource type="Texture2D" uid="uid://dyhjhchpx3ca2" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0023.png" id="178_d3kk2"]
+[ext_resource type="Texture2D" uid="uid://b4tq8wq4tn760" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0024.png" id="179_qby1p"]
+[ext_resource type="Texture2D" uid="uid://ck3lgjx3ipqav" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0025.png" id="180_iekw8"]
+[ext_resource type="Texture2D" uid="uid://sir0pjre4qae" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0026.png" id="181_xgxfx"]
+[ext_resource type="Texture2D" uid="uid://bpw1q0q6rnp3o" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0027.png" id="182_62gcl"]
+[ext_resource type="Texture2D" uid="uid://dlk70kv1kg14l" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0028.png" id="183_yg56x"]
+[ext_resource type="Texture2D" uid="uid://cubk3i2s8f1rh" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0029.png" id="184_lls6v"]
+[ext_resource type="Texture2D" uid="uid://cnx2upkyggres" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0030.png" id="185_0vl8w"]
+[ext_resource type="Texture2D" uid="uid://bnv2xi2cea0h5" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0031.png" id="186_vecnw"]
+[ext_resource type="Texture2D" uid="uid://bsr6tghudn8xc" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0032.png" id="187_r003w"]
+[ext_resource type="Texture2D" uid="uid://cjqfnlhjqf3fu" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0033.png" id="188_upfp4"]
+[ext_resource type="Texture2D" uid="uid://mf774vyfjkt3" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0034.png" id="189_7o64h"]
+[ext_resource type="Texture2D" uid="uid://m3gux17d6xor" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0035.png" id="190_5pyej"]
+[ext_resource type="Texture2D" uid="uid://brvdp8ufsl2d7" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0036.png" id="191_8lt2i"]
+[ext_resource type="Texture2D" uid="uid://b67wrs5r42rkt" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0037.png" id="192_dra6w"]
+[ext_resource type="Texture2D" uid="uid://cvomxr3lf2mfu" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0038.png" id="193_4rcd7"]
+[ext_resource type="Texture2D" uid="uid://dltgct7qxb5s" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0039.png" id="194_orsli"]
+[ext_resource type="Texture2D" uid="uid://csmxmp8cf5k63" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0040.png" id="195_ar8nf"]
+[ext_resource type="Texture2D" uid="uid://d2e7erqijnhd3" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0041.png" id="196_318kk"]
+[ext_resource type="Texture2D" uid="uid://bqblhf8o8qkbb" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0042.png" id="197_a335f"]
+[ext_resource type="Texture2D" uid="uid://dvcidhh4am2g4" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0043.png" id="198_kyr68"]
+[ext_resource type="Texture2D" uid="uid://0tbxfxga8k1q" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0044.png" id="199_7ktmm"]
+[ext_resource type="Texture2D" uid="uid://chnrl5eb53mlq" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0045.png" id="200_mumfx"]
+[ext_resource type="Texture2D" uid="uid://bs5xjw8171blv" path="res://age of war sprites/units/medival/range/idle_attack/medival_range_idle_attack0046.png" id="201_abiaa"]
+[ext_resource type="Texture2D" uid="uid://dx65kp8nt27jf" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0001.png" id="249_3baii"]
+[ext_resource type="Texture2D" uid="uid://cm1vuehmqlgyp" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0002.png" id="250_p5weu"]
+[ext_resource type="Texture2D" uid="uid://wu8i1xeqytnt" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0003.png" id="251_jqk0t"]
+[ext_resource type="Texture2D" uid="uid://danmt5vlap53i" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0004.png" id="252_kg6i1"]
+[ext_resource type="Texture2D" uid="uid://cxuyxmqv0cpu1" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0005.png" id="253_ataa0"]
+[ext_resource type="Texture2D" uid="uid://c5fdv4i2a0oal" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0006.png" id="254_l71xs"]
+[ext_resource type="Texture2D" uid="uid://cyi8wxit4kyeg" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0007.png" id="255_pyikw"]
+[ext_resource type="Texture2D" uid="uid://dt66myui83bsj" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0008.png" id="256_ahu7h"]
+[ext_resource type="Texture2D" uid="uid://bnh5fxrix8vjv" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0009.png" id="257_mt7r3"]
+[ext_resource type="Texture2D" uid="uid://bgshoe6b8xgkp" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0010.png" id="258_pt51m"]
+[ext_resource type="Texture2D" uid="uid://gvkc0ygym5pc" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0011.png" id="259_kfv3e"]
+[ext_resource type="Texture2D" uid="uid://cslq7pst3oip8" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0012.png" id="260_6i3o3"]
+[ext_resource type="Texture2D" uid="uid://bd5be6j7yu3s3" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0013.png" id="261_mm5bl"]
+[ext_resource type="Texture2D" uid="uid://cy16ps0dc2xt8" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0014.png" id="262_8labr"]
+[ext_resource type="Texture2D" uid="uid://p5h3jb8ihdcv" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0015.png" id="263_nwif5"]
+[ext_resource type="Texture2D" uid="uid://bukwoyq3j8m44" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0016.png" id="264_lenh2"]
+[ext_resource type="Texture2D" uid="uid://qicimg6g082s" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0017.png" id="265_a5e2g"]
+[ext_resource type="Texture2D" uid="uid://bk1x2fd05li2i" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0018.png" id="266_asftu"]
+[ext_resource type="Texture2D" uid="uid://q84xih1rspas" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0019.png" id="267_7f4ns"]
+[ext_resource type="Texture2D" uid="uid://g7ad15x4w5ee" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0020.png" id="268_eb4lb"]
+[ext_resource type="Texture2D" uid="uid://dql4b72nfwi1" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0021.png" id="269_k2mud"]
+[ext_resource type="Texture2D" uid="uid://bllacpnfbsg1s" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0022.png" id="270_w83pt"]
+[ext_resource type="Texture2D" uid="uid://d2xkthaqen15x" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0023.png" id="271_qef4c"]
+[ext_resource type="Texture2D" uid="uid://b1jahhpqrs23f" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0024.png" id="272_2piaw"]
+[ext_resource type="Texture2D" uid="uid://u68rcii687tw" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0025.png" id="273_6kqen"]
+[ext_resource type="Texture2D" uid="uid://bknt3hk1toryv" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0026.png" id="274_ror5i"]
+[ext_resource type="Texture2D" uid="uid://c46w4habqmraf" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0027.png" id="275_2orjl"]
+[ext_resource type="Texture2D" uid="uid://v1v8yy608gv5" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0028.png" id="276_odyt3"]
+[ext_resource type="Texture2D" uid="uid://c2tt7sqgxgh6p" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0029.png" id="277_rmo4d"]
+[ext_resource type="Texture2D" uid="uid://c8sfvbeqhytbc" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0030.png" id="278_vmtc3"]
+[ext_resource type="Texture2D" uid="uid://c2ta61geqlxkm" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0031.png" id="279_pgye6"]
+[ext_resource type="Texture2D" uid="uid://ksnaj7g6acym" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0032.png" id="280_nyyka"]
+[ext_resource type="Texture2D" uid="uid://b7j7ufde8j27g" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0033.png" id="281_osty8"]
+[ext_resource type="Texture2D" uid="uid://b53jne5v1uol1" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0034.png" id="282_g1jj3"]
+[ext_resource type="Texture2D" uid="uid://d4c8wo4ots13p" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0035.png" id="283_pieqt"]
+[ext_resource type="Texture2D" uid="uid://yobvu6rqv0yp" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0036.png" id="284_7brdq"]
+[ext_resource type="Texture2D" uid="uid://enkbhovlj8fa" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0037.png" id="285_sem7m"]
+[ext_resource type="Texture2D" uid="uid://dic7tqoyt6p2c" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0038.png" id="286_0xdxa"]
+[ext_resource type="Texture2D" uid="uid://cxhcmu2eh8vtq" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0039.png" id="287_j5jwy"]
+[ext_resource type="Texture2D" uid="uid://bco0hjx3218bt" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0040.png" id="288_nhbj6"]
+[ext_resource type="Texture2D" uid="uid://bla4ag6hrgveg" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0041.png" id="289_n5x22"]
+[ext_resource type="Texture2D" uid="uid://dh33c03vgognc" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0042.png" id="290_wx7xx"]
+[ext_resource type="Texture2D" uid="uid://be26feyxtt1wg" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0043.png" id="291_njd7o"]
+[ext_resource type="Texture2D" uid="uid://bvngdjnwjrlui" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0044.png" id="292_qkn27"]
+[ext_resource type="Texture2D" uid="uid://dumt8atnvd0p7" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0045.png" id="293_rllhq"]
+[ext_resource type="Texture2D" uid="uid://dnsod7bmcau2" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0046.png" id="294_qxems"]
+[ext_resource type="Texture2D" uid="uid://dgxqk5d2gxqew" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0047.png" id="295_46tbt"]
+[ext_resource type="Texture2D" uid="uid://bvdf3u1xvuh7g" path="res://age of war sprites/units/medival/range/walk_attack/medival_range_walk_attack0048.png" id="296_yugoe"]
+[ext_resource type="AudioStream" uid="uid://dww27llb253di" path="res://age of war sprites/audio/sfx/medival_range_attack.mp3" id="298_b0fay"]
+[ext_resource type="Texture2D" uid="uid://cr1r5c47lxi16" path="res://age of war sprites/effects/shadow.png" id="299_mkk7i"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_dm7mp"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8ago0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_uq34p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_lgk50")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_nuaqw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_jf0am")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_1l2s0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_om2fx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_s0qo0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_u4y8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_1e8s8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_c43kj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_3l3kw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_07o6a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_aq11d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_4p4ri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_aw7pi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_mr6lg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_ysmbn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_nnvqs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_4gfxq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ey4oe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_tqq22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_redm8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_yfjkt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_g3dvq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ac5wv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_50gfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_nmlhp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_qj611")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_fq75s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_eo2gj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_onhld")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_xd6py")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_eshi2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_07qag")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_7wsvj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_6c4g6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_ecroy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_yni06")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_4n3qw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_jyn1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_d0dnn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_b1kc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_7vn1v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_wsdin")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_wbd2y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_dxb0f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_dju31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_xyl1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_bhtkr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_ejltm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_pmoam")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_a81l7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_h078o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_673w6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_4p88g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_m5h8d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_6fyd4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_bqt26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_xl38v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_rry5m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_isilx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_q1j8a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_m1k6x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_toq2l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_c3uen")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_h2hcm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_7x87o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_3vfvl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_nrfc2")
+}],
+"loop": false,
+"name": &"die",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("71_sw31x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_52slh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_h24sv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_yhb4k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_ui0w1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_7nx8j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_ip3vi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_mkxua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_pg6hk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_u5hp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_ruqap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_qi0md")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_hu6mk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_pdsdu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_rpacw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_eibps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_y60o0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_kvi7b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_y1fux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_dmude")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_3vmoe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_ogtnp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_lotp5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_cbar2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_itvik")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_qwi0l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_1qeo8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_5fcpv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_lq7bq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_k2b2f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_lyai5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_nv27t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_rvbgh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_5s7b4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_01v64")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_haxep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_3dlqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_nquah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_5exrr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_jpbjl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_roi7p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_q02e6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_vhoh3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_vxpt2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_l26ey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_2oohc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_eh523")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_71hon")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_7ih3s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_e516k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_b1i1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_3pgog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_uqrqy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_gyit3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_71cnu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_c8udg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_nqfyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_qfoum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_jpj5w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_fvkq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_glwfq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_hflta")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_dp4cn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_5jxua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_e7fhk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_84hep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_3mh0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_23x07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_4q47m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_fkwiu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_niwgq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_h2ulj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_ud6lb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_uc7sj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_1ljbo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_6y4qe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_ykpxq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_mt2er")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_t7hum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_nqccp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_1l5di")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_k0fwh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_owpdy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_di8ru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_wwtyp")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("156_onirm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_o5c0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_ss4xp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_ek2vf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_1qu23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_y72ih")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_rs5lg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_3umfv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_3f2uc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_gy41n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_gfi25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_uvdh3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_cwt3x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_2f3h7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_g2lij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_hempn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_s48fm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_n6c7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_5r140")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_ujdkq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_ow1ps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_vttcr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_d3kk2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_qby1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_iekw8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_xgxfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_62gcl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_yg56x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_lls6v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_0vl8w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_vecnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_r003w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_upfp4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_7o64h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_5pyej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_8lt2i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_dra6w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_4rcd7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_orsli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_ar8nf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_318kk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_a335f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_kyr68")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_7ktmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_mumfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_abiaa")
+}],
+"loop": true,
+"name": &"idle_attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("156_onirm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_o5c0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_ss4xp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_ek2vf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_1qu23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_y72ih")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_rs5lg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_3umfv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_3f2uc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_gy41n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_gfi25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_uvdh3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_cwt3x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_2f3h7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_g2lij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_hempn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_s48fm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_n6c7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_5r140")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_ujdkq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_ow1ps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_vttcr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_d3kk2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_qby1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_iekw8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_xgxfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_62gcl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_yg56x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_lls6v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_0vl8w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_vecnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_r003w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_upfp4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_7o64h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_5pyej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_8lt2i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_dra6w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_4rcd7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_orsli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_ar8nf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_318kk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_a335f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_kyr68")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_7ktmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_mumfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_abiaa")
+}],
+"loop": true,
+"name": &"melee_attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_utw7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_4x1tv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_tvbxn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ngpyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_varqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_my6n0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_yncpo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_qy4xh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_luqfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_5146v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_daj8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_3c8ky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_m84kh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_pfk1u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_006x5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_0tio4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_k8bqm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_uiqcn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_j544n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_l8fbx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_sypst")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_sgbp2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_qy2wr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_58f8f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_m82wh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_035bg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_cm6q8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_07jhh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_1nd85")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_51oyn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_1hccy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_7eit0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_u4ikv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_6q3vm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_f41le")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_1gfnd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_0gud2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_pi4lj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_gkbr7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_7f33u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_c45ha")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_3pnsh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_l2tdb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_30yhm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_rqnyj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_57oeo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_weyaf")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("249_3baii")
+}, {
+"duration": 1.0,
+"texture": ExtResource("250_p5weu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_jqk0t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_kg6i1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_ataa0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_l71xs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_pyikw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_ahu7h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_mt7r3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_pt51m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_kfv3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_6i3o3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_mm5bl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_8labr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_nwif5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_lenh2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_a5e2g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("266_asftu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_7f4ns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_eb4lb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_k2mud")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_w83pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_qef4c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_2piaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_6kqen")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_ror5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_2orjl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_odyt3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_rmo4d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_vmtc3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_pgye6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_nyyka")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_osty8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_g1jj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_pieqt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_7brdq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_sem7m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_0xdxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_j5jwy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_nhbj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_n5x22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_wx7xx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_njd7o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_qkn27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_rllhq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_qxems")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_46tbt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_yugoe")
+}],
+"loop": true,
+"name": &"walk_attack",
+"speed": 30.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jdsmo"]
+size = Vector2(68, 128)
+
+[node name="medival_range" type="RigidBody2D"]
+gravity_scale = 0.0
+script = ExtResource("1_a8ttx")
+
+[node name="Shadow" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("299_mkk7i")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(-16, -63)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_dm7mp")
+animation = &"die"
+autoplay = "walk"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -64)
+shape = SubResource("RectangleShape2D_jdsmo")
+
+[node name="RayCast2D_melee" type="RayCast2D" parent="."]
+position = Vector2(0, -64)
+target_position = Vector2(41, 0)
+
+[node name="RayCast2D_range" type="RayCast2D" parent="."]
+position = Vector2(0, -64)
+target_position = Vector2(270, 0)
+
+[node name="death_timer" type="Timer" parent="."]
+
+[node name="Label" type="Label" parent="."]
+offset_left = -22.0
+offset_top = -128.0
+offset_right = 18.0
+offset_bottom = -105.0
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="range_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("298_b0fay")
+
+[node name="die_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -23.0
+offset_top = -139.0
+offset_right = 25.0
+offset_bottom = -134.0
+
+[node name="health_bg" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.588235, 0.588235, 0.588235, 0.588235)
+
+[node name="health_bar" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 0, 0, 1)

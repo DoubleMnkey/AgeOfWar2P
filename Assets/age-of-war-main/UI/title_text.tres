@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://chnsy2dt5a4rw"]
+
+[ext_resource type="FontFile" uid="uid://bi67eh3ngbnui" path="res://fonts/Lora/static/Lora-Bold.ttf" id="1_kvxie"]
+
+[resource]
+font = ExtResource("1_kvxie")
+font_size = 60
+font_color = Color(0, 0, 0, 1)

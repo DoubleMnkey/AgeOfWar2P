@@ -1,0 +1,1288 @@
+[gd_scene load_steps=304 format=3 uid="uid://x0vxi7mfo5r0"]
+
+[ext_resource type="Texture2D" uid="uid://dsdc0bf0rjant" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0001.png" id="1_1r42s"]
+[ext_resource type="Script" path="res://units/miltary/melee/miltary_melee.gd" id="1_q4xbq"]
+[ext_resource type="Texture2D" uid="uid://bqjwx2y88dpt7" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0002.png" id="2_5dtcw"]
+[ext_resource type="Texture2D" uid="uid://cr1r5c47lxi16" path="res://age of war sprites/effects/shadow.png" id="2_tt6h6"]
+[ext_resource type="Texture2D" uid="uid://yom2mqkcws2o" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0003.png" id="3_jiks0"]
+[ext_resource type="Texture2D" uid="uid://cq3m8sx4ao568" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0004.png" id="4_ga7lw"]
+[ext_resource type="Texture2D" uid="uid://dm72jprkus8yq" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0005.png" id="5_3eiol"]
+[ext_resource type="Texture2D" uid="uid://thfsiwli5yc" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0006.png" id="6_kpmkd"]
+[ext_resource type="Texture2D" uid="uid://cg5gx26fn6caf" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0007.png" id="7_8pw4h"]
+[ext_resource type="Texture2D" uid="uid://qu8xc2bt24m1" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0008.png" id="8_ns61o"]
+[ext_resource type="Texture2D" uid="uid://sui3kpjvm0eb" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0009.png" id="9_crm67"]
+[ext_resource type="Texture2D" uid="uid://bb480l00cl3eq" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0010.png" id="10_p30gq"]
+[ext_resource type="Texture2D" uid="uid://c360leqno1eqp" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0011.png" id="11_wqj5p"]
+[ext_resource type="Texture2D" uid="uid://c5jfmuyy1ahpq" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0012.png" id="12_ygxlh"]
+[ext_resource type="Texture2D" uid="uid://dxyl046tvov85" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0013.png" id="13_30gm6"]
+[ext_resource type="Texture2D" uid="uid://btfd2yp8paboc" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0014.png" id="14_wupju"]
+[ext_resource type="Texture2D" uid="uid://b2bw41ncpxoc2" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0015.png" id="15_lejaw"]
+[ext_resource type="Texture2D" uid="uid://cn7ai1nngxsmc" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0016.png" id="16_1nn03"]
+[ext_resource type="Texture2D" uid="uid://dahf8vyeqx01b" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0017.png" id="17_oke7p"]
+[ext_resource type="Texture2D" uid="uid://dg20s8w4uq30d" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0018.png" id="18_t17lc"]
+[ext_resource type="Texture2D" uid="uid://5jakkk58edmu" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0019.png" id="19_rbnm5"]
+[ext_resource type="Texture2D" uid="uid://vvhf8wqgrmyk" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0020.png" id="20_w48p6"]
+[ext_resource type="Texture2D" uid="uid://doeehhyv211wv" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0021.png" id="21_xk6q3"]
+[ext_resource type="Texture2D" uid="uid://2pak5q44ftsl" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0022.png" id="22_i7uxt"]
+[ext_resource type="Texture2D" uid="uid://csmehvendxpas" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0023.png" id="23_78sij"]
+[ext_resource type="Texture2D" uid="uid://3grwxvk23xb8" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0024.png" id="24_8i4dh"]
+[ext_resource type="Texture2D" uid="uid://8rrqrcrdn7of" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0025.png" id="25_dyatw"]
+[ext_resource type="Texture2D" uid="uid://ce4hp5eavqh7u" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0026.png" id="26_ge2qk"]
+[ext_resource type="Texture2D" uid="uid://cxkmij0cpedjq" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0027.png" id="27_clqtr"]
+[ext_resource type="Texture2D" uid="uid://dqcbqgtyk6t8a" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0028.png" id="28_bsngf"]
+[ext_resource type="Texture2D" uid="uid://bdoknw0ew7x0i" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0029.png" id="29_dh0ca"]
+[ext_resource type="Texture2D" uid="uid://dopvhmrtkuult" path="res://age of war sprites/units/miltary/melee/attack/miltary_melee_attack0030.png" id="30_mrcnt"]
+[ext_resource type="Texture2D" uid="uid://c0xq72yblrmvw" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0001.png" id="31_s4lh4"]
+[ext_resource type="Texture2D" uid="uid://brxfcdcpjqkfe" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0002.png" id="32_eb4ji"]
+[ext_resource type="Texture2D" uid="uid://dfr0bbo5f2u7x" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0003.png" id="33_6ri10"]
+[ext_resource type="Texture2D" uid="uid://b4rvm4guxvavs" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0004.png" id="34_smcn4"]
+[ext_resource type="Texture2D" uid="uid://0ecmwkkmpq2s" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0005.png" id="35_cjdmx"]
+[ext_resource type="Texture2D" uid="uid://hxyympl4ypy4" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0006.png" id="36_x4pr0"]
+[ext_resource type="Texture2D" uid="uid://b06brvvnp8jp" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0007.png" id="37_tisjf"]
+[ext_resource type="Texture2D" uid="uid://c1ryalv6gbbgl" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0008.png" id="38_4g0nk"]
+[ext_resource type="Texture2D" uid="uid://dnwjydjdvncnq" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0009.png" id="39_8wmd2"]
+[ext_resource type="Texture2D" uid="uid://cxec77pqv5d15" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0010.png" id="40_ch4as"]
+[ext_resource type="Texture2D" uid="uid://dmwop5b6m8syf" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0011.png" id="41_i3s55"]
+[ext_resource type="Texture2D" uid="uid://lekps6wi5ill" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0012.png" id="42_1d0e1"]
+[ext_resource type="Texture2D" uid="uid://m2nylbba3ty3" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0013.png" id="43_13nh0"]
+[ext_resource type="Texture2D" uid="uid://8i0fa3frcov5" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0014.png" id="44_cwa2y"]
+[ext_resource type="Texture2D" uid="uid://b2p3u0a1xsfbx" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0015.png" id="45_28ec1"]
+[ext_resource type="Texture2D" uid="uid://b4k0ib4tt0lfj" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0016.png" id="46_k464c"]
+[ext_resource type="Texture2D" uid="uid://dut4xl5r2gdsp" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0017.png" id="47_jl22r"]
+[ext_resource type="Texture2D" uid="uid://dtgpokvmbpqnt" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0018.png" id="48_6r723"]
+[ext_resource type="Texture2D" uid="uid://b45foq5vbrh6e" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0019.png" id="49_ldbx3"]
+[ext_resource type="Texture2D" uid="uid://bobohtnpqx8p1" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0020.png" id="50_wvgr7"]
+[ext_resource type="Texture2D" uid="uid://bc4f52ni0i2j1" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0021.png" id="51_0ugin"]
+[ext_resource type="Texture2D" uid="uid://biwa818s0knp2" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0022.png" id="52_vj1rg"]
+[ext_resource type="Texture2D" uid="uid://d1ehieco5uc5n" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0023.png" id="53_sra3y"]
+[ext_resource type="Texture2D" uid="uid://hu52p45ncsp6" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0024.png" id="54_jjcnx"]
+[ext_resource type="Texture2D" uid="uid://cqs7wi1w4sgap" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0025.png" id="55_uu0nk"]
+[ext_resource type="Texture2D" uid="uid://dqwpdntmvr7xt" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0026.png" id="56_4vmvf"]
+[ext_resource type="Texture2D" uid="uid://dpjx4mgjrmw5r" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0027.png" id="57_psdpl"]
+[ext_resource type="Texture2D" uid="uid://dmoiojjggx4lg" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0028.png" id="58_ryjpf"]
+[ext_resource type="Texture2D" uid="uid://d3pnnexj1b0b5" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0029.png" id="59_0bv7h"]
+[ext_resource type="Texture2D" uid="uid://bg7ejaec41fqd" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0030.png" id="60_f8eo1"]
+[ext_resource type="Texture2D" uid="uid://01ayoku8nyf2" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0031.png" id="61_xwoi3"]
+[ext_resource type="Texture2D" uid="uid://n4rrh52xttk" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0032.png" id="62_3xmyt"]
+[ext_resource type="Texture2D" uid="uid://cfuiihfjjqgob" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0033.png" id="63_co7fm"]
+[ext_resource type="Texture2D" uid="uid://ds06w3dhr00i1" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0034.png" id="64_t6x5p"]
+[ext_resource type="Texture2D" uid="uid://dj81jjl41m88t" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0035.png" id="65_wts4g"]
+[ext_resource type="Texture2D" uid="uid://dlls7f6x72mq3" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0036.png" id="66_w4o8u"]
+[ext_resource type="Texture2D" uid="uid://dt40xjfdvkn00" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0037.png" id="67_lawum"]
+[ext_resource type="Texture2D" uid="uid://dp2m8358u50ah" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0038.png" id="68_elcuw"]
+[ext_resource type="Texture2D" uid="uid://4432jrcgs52f" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0039.png" id="69_ckgha"]
+[ext_resource type="Texture2D" uid="uid://dntt103ag6yvo" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0040.png" id="70_y5lqh"]
+[ext_resource type="Texture2D" uid="uid://bc8nae6y0gska" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0041.png" id="71_cditv"]
+[ext_resource type="Texture2D" uid="uid://b3tucuhko5fjy" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0042.png" id="72_jmu6i"]
+[ext_resource type="Texture2D" uid="uid://c5vn3fx8g3u8r" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0043.png" id="73_p801m"]
+[ext_resource type="Texture2D" uid="uid://dnt0av22x0tm3" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0044.png" id="74_e57iy"]
+[ext_resource type="Texture2D" uid="uid://nv62neg7n3sr" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0045.png" id="75_m1vhx"]
+[ext_resource type="Texture2D" uid="uid://cxt5f2ey6jrki" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0046.png" id="76_0gjh3"]
+[ext_resource type="Texture2D" uid="uid://b3yaqn6138tf2" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0047.png" id="77_xqw7n"]
+[ext_resource type="Texture2D" uid="uid://ctf2fkhdv6le4" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0048.png" id="78_xamcl"]
+[ext_resource type="Texture2D" uid="uid://uckcwpxxgpkb" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0049.png" id="79_hfy6o"]
+[ext_resource type="Texture2D" uid="uid://vx14bhwewhmr" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0050.png" id="80_nbwx0"]
+[ext_resource type="Texture2D" uid="uid://crfxl8x6oewpu" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0051.png" id="81_rj0yg"]
+[ext_resource type="Texture2D" uid="uid://bqjxlxd5tg0yt" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0052.png" id="82_l3ggt"]
+[ext_resource type="Texture2D" uid="uid://dj6rlknenqunp" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0053.png" id="83_pm460"]
+[ext_resource type="Texture2D" uid="uid://c03qsjg710ljg" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0054.png" id="84_3hbqu"]
+[ext_resource type="Texture2D" uid="uid://bb7i3ib622mor" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0055.png" id="85_idt46"]
+[ext_resource type="Texture2D" uid="uid://py1fsvev8f4q" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0056.png" id="86_x5o6t"]
+[ext_resource type="Texture2D" uid="uid://dbj2lgn71pkm5" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0057.png" id="87_xf103"]
+[ext_resource type="Texture2D" uid="uid://blf3vtslo2l7v" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0058.png" id="88_4a6c4"]
+[ext_resource type="Texture2D" uid="uid://d3j5c6c8n4ede" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0059.png" id="89_2ljlt"]
+[ext_resource type="Texture2D" uid="uid://drujr8pvaw2li" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0060.png" id="90_3jde1"]
+[ext_resource type="Texture2D" uid="uid://cof36f87s1wo8" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0061.png" id="91_n3qum"]
+[ext_resource type="Texture2D" uid="uid://nn5e4e47t834" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0062.png" id="92_pmlgk"]
+[ext_resource type="Texture2D" uid="uid://cqy4xdd3khlvx" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0063.png" id="93_tkrtx"]
+[ext_resource type="Texture2D" uid="uid://cg7311hhsod4a" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0064.png" id="94_ksgc0"]
+[ext_resource type="Texture2D" uid="uid://cbahruv68kooy" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0065.png" id="95_husi8"]
+[ext_resource type="Texture2D" uid="uid://bbicgogkw6hmw" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0066.png" id="96_yf7hb"]
+[ext_resource type="Texture2D" uid="uid://bhmrygiixxflj" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0067.png" id="97_ddldv"]
+[ext_resource type="Texture2D" uid="uid://c54j71om5hwyi" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0068.png" id="98_3su8u"]
+[ext_resource type="Texture2D" uid="uid://dq4th0kbmvv68" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0069.png" id="99_v6fwr"]
+[ext_resource type="Texture2D" uid="uid://b7yek6ppxj36w" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0070.png" id="100_7qys5"]
+[ext_resource type="Texture2D" uid="uid://bfwdd882m6oxh" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0071.png" id="101_kdi03"]
+[ext_resource type="Texture2D" uid="uid://idsohkslpvb0" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0072.png" id="102_kf2wl"]
+[ext_resource type="Texture2D" uid="uid://d1b5da8ea1gt3" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0073.png" id="103_wflf5"]
+[ext_resource type="Texture2D" uid="uid://bkddxyaujfp4g" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0074.png" id="104_momur"]
+[ext_resource type="Texture2D" uid="uid://cyg2iggc52cyf" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0075.png" id="105_sc0j5"]
+[ext_resource type="Texture2D" uid="uid://bj72dejvrfcv2" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0076.png" id="106_6vico"]
+[ext_resource type="Texture2D" uid="uid://dqk0xt0jtty82" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0077.png" id="107_u5ch1"]
+[ext_resource type="Texture2D" uid="uid://c4n80kmt5t05v" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0078.png" id="108_qkm4w"]
+[ext_resource type="Texture2D" uid="uid://bm0leek6m4yia" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0079.png" id="109_6lfxk"]
+[ext_resource type="Texture2D" uid="uid://ve4n8ylnap2v" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0080.png" id="110_3if7l"]
+[ext_resource type="Texture2D" uid="uid://xsn8hsfyif1a" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0081.png" id="111_varq7"]
+[ext_resource type="Texture2D" uid="uid://j5pobi8kvwgh" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0082.png" id="112_asaov"]
+[ext_resource type="Texture2D" uid="uid://b4u7anefc4gdi" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0083.png" id="113_vuqj2"]
+[ext_resource type="Texture2D" uid="uid://bc2twukyjq0bi" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0084.png" id="114_poogc"]
+[ext_resource type="Texture2D" uid="uid://c7goi65pax1bo" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0085.png" id="115_sa23x"]
+[ext_resource type="Texture2D" uid="uid://u3ksxsgug4s4" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0086.png" id="116_8oep4"]
+[ext_resource type="Texture2D" uid="uid://brw2ckdenmuu1" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0087.png" id="117_8kepu"]
+[ext_resource type="Texture2D" uid="uid://cuq1snaitb5qy" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0088.png" id="118_af2ag"]
+[ext_resource type="Texture2D" uid="uid://ceghbekol421q" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0089.png" id="119_w17qn"]
+[ext_resource type="Texture2D" uid="uid://brtnhntuit3pd" path="res://age of war sprites/units/miltary/melee/die/miltary_melee_die0090.png" id="120_vr6ba"]
+[ext_resource type="Texture2D" uid="uid://dnexlasec856q" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0001.png" id="121_ooywk"]
+[ext_resource type="Texture2D" uid="uid://b0gfphl4mwgcj" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0002.png" id="122_20i0r"]
+[ext_resource type="Texture2D" uid="uid://csktetbni2ms0" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0003.png" id="123_4alox"]
+[ext_resource type="Texture2D" uid="uid://bwsyy8b5e4alk" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0004.png" id="124_4tt0u"]
+[ext_resource type="Texture2D" uid="uid://cejje0fmdugse" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0005.png" id="125_otrei"]
+[ext_resource type="Texture2D" uid="uid://dn4hjmfq14gjo" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0006.png" id="126_librm"]
+[ext_resource type="Texture2D" uid="uid://hfh0yxoobyc2" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0007.png" id="127_xj7vk"]
+[ext_resource type="Texture2D" uid="uid://cvseaw7mpv7pi" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0008.png" id="128_rr5sg"]
+[ext_resource type="Texture2D" uid="uid://bifpuv0whvypg" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0009.png" id="129_876b6"]
+[ext_resource type="Texture2D" uid="uid://db1cnaygn2etr" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0010.png" id="130_m5akd"]
+[ext_resource type="Texture2D" uid="uid://d2p2clylp3nv6" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0011.png" id="131_6b7wn"]
+[ext_resource type="Texture2D" uid="uid://6cnu0yp7t1yr" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0012.png" id="132_3kohc"]
+[ext_resource type="Texture2D" uid="uid://dbtwy54bvfwui" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0013.png" id="133_6ci7f"]
+[ext_resource type="Texture2D" uid="uid://ct06kggaue0xj" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0014.png" id="134_tu8ka"]
+[ext_resource type="Texture2D" uid="uid://wqwubh7qhy82" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0015.png" id="135_b7mou"]
+[ext_resource type="Texture2D" uid="uid://c7w85a7qx7cbx" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0016.png" id="136_nhel3"]
+[ext_resource type="Texture2D" uid="uid://cohb6nhhybytr" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0017.png" id="137_6ahqa"]
+[ext_resource type="Texture2D" uid="uid://bq3kmdqssw36w" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0018.png" id="138_do7ex"]
+[ext_resource type="Texture2D" uid="uid://crg80bkmbinn7" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0019.png" id="139_uqxd8"]
+[ext_resource type="Texture2D" uid="uid://002gi7q5osap" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0020.png" id="140_yhj8p"]
+[ext_resource type="Texture2D" uid="uid://gki5viql2e5v" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0021.png" id="141_ilwwb"]
+[ext_resource type="Texture2D" uid="uid://o38dw3gvlrv6" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0022.png" id="142_aay5h"]
+[ext_resource type="Texture2D" uid="uid://0egts53fv8p1" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0023.png" id="143_0od4w"]
+[ext_resource type="Texture2D" uid="uid://btadask0787xj" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0024.png" id="144_ptywu"]
+[ext_resource type="Texture2D" uid="uid://caqptmrwcgcbw" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0025.png" id="145_y5ef8"]
+[ext_resource type="Texture2D" uid="uid://l706alpw82gu" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0026.png" id="146_xfg7o"]
+[ext_resource type="Texture2D" uid="uid://bck6cxo7pv31u" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0027.png" id="147_ak4fp"]
+[ext_resource type="Texture2D" uid="uid://dqsrjjto2qbcj" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0028.png" id="148_n3oq5"]
+[ext_resource type="Texture2D" uid="uid://rsdlaeodxt0m" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0029.png" id="149_ut5fq"]
+[ext_resource type="Texture2D" uid="uid://xagir2tte8hi" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0030.png" id="150_p1p0t"]
+[ext_resource type="Texture2D" uid="uid://dl2lwby2s3oax" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0031.png" id="151_ea3jy"]
+[ext_resource type="Texture2D" uid="uid://c05fwtxk5111w" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0032.png" id="152_337ua"]
+[ext_resource type="Texture2D" uid="uid://ck64xitme7u5i" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0033.png" id="153_qn1kf"]
+[ext_resource type="Texture2D" uid="uid://700nryc3vm7e" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0034.png" id="154_ckq8h"]
+[ext_resource type="Texture2D" uid="uid://blm7lm88im7t7" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0035.png" id="155_5gf5v"]
+[ext_resource type="Texture2D" uid="uid://b3bcjvwr4vd3r" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0036.png" id="156_n6v7v"]
+[ext_resource type="Texture2D" uid="uid://b2lq101npvr7j" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0037.png" id="157_7uyh8"]
+[ext_resource type="Texture2D" uid="uid://hbafj2jugvii" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0038.png" id="158_678ph"]
+[ext_resource type="Texture2D" uid="uid://bm05gdyqj43uw" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0039.png" id="159_wbgby"]
+[ext_resource type="Texture2D" uid="uid://cfv636qjjjlqm" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0040.png" id="160_wlc6u"]
+[ext_resource type="Texture2D" uid="uid://16vxblc54t02" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0041.png" id="161_y2b3w"]
+[ext_resource type="Texture2D" uid="uid://nqkcmq3krstf" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0042.png" id="162_ru0r4"]
+[ext_resource type="Texture2D" uid="uid://d32t0lcmvemhs" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0043.png" id="163_v3ixk"]
+[ext_resource type="Texture2D" uid="uid://btnr3lxuf32wc" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0044.png" id="164_ddd3u"]
+[ext_resource type="Texture2D" uid="uid://cv16qe2nmegya" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0045.png" id="165_ac5rx"]
+[ext_resource type="Texture2D" uid="uid://dybd0xm6tt3jy" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0046.png" id="166_famjf"]
+[ext_resource type="Texture2D" uid="uid://15o07pg1w5ri" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0047.png" id="167_ljr0u"]
+[ext_resource type="Texture2D" uid="uid://s0ft3eao4b5k" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0048.png" id="168_312ji"]
+[ext_resource type="Texture2D" uid="uid://cql8bmb26axpa" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0049.png" id="169_o6b61"]
+[ext_resource type="Texture2D" uid="uid://mbewd78bgxbn" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0050.png" id="170_i6fi2"]
+[ext_resource type="Texture2D" uid="uid://dpb4b42vxl85t" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0051.png" id="171_0jeqx"]
+[ext_resource type="Texture2D" uid="uid://csk2ra4scwent" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0052.png" id="172_da6g2"]
+[ext_resource type="Texture2D" uid="uid://bb5jsc5028sdm" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0053.png" id="173_ih1k8"]
+[ext_resource type="Texture2D" uid="uid://bifpp55q1pywf" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0054.png" id="174_4lnnq"]
+[ext_resource type="Texture2D" uid="uid://c5xxa0t1sc2iu" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0055.png" id="175_jl401"]
+[ext_resource type="Texture2D" uid="uid://cdvojek40ydlg" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0056.png" id="176_dfskf"]
+[ext_resource type="Texture2D" uid="uid://ralvk0ha2y31" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0057.png" id="177_g5qva"]
+[ext_resource type="Texture2D" uid="uid://cyi246e3vtf0i" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0058.png" id="178_d6unt"]
+[ext_resource type="Texture2D" uid="uid://bensl3308oerv" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0059.png" id="179_1oryj"]
+[ext_resource type="Texture2D" uid="uid://c7suvb1yxicu1" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0060.png" id="180_qp1ll"]
+[ext_resource type="Texture2D" uid="uid://c84y74gga7sqc" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0061.png" id="181_f7r18"]
+[ext_resource type="Texture2D" uid="uid://cvi6umt581uxj" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0062.png" id="182_d44i8"]
+[ext_resource type="Texture2D" uid="uid://yowjor1yimkl" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0063.png" id="183_nsxbu"]
+[ext_resource type="Texture2D" uid="uid://cxmebl1oq5tlq" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0064.png" id="184_bfvh6"]
+[ext_resource type="Texture2D" uid="uid://b8q8vkl8biwcc" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0065.png" id="185_46peg"]
+[ext_resource type="Texture2D" uid="uid://dn2m00tes0fwh" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0066.png" id="186_twcof"]
+[ext_resource type="Texture2D" uid="uid://d16kqyo7gykcx" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0067.png" id="187_n2qwo"]
+[ext_resource type="Texture2D" uid="uid://bu1xyj8edwsq" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0068.png" id="188_mtmn1"]
+[ext_resource type="Texture2D" uid="uid://3226phf0g8ix" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0069.png" id="189_c5jga"]
+[ext_resource type="Texture2D" uid="uid://cg6ift33wu8co" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0070.png" id="190_g6n77"]
+[ext_resource type="Texture2D" uid="uid://d24kms0ci7s2q" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0071.png" id="191_ciwm6"]
+[ext_resource type="Texture2D" uid="uid://bmrfgwv6p2ret" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0072.png" id="192_r3nkr"]
+[ext_resource type="Texture2D" uid="uid://cnqx775firpt7" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0073.png" id="193_5iy75"]
+[ext_resource type="Texture2D" uid="uid://bmt5ipnfo5qib" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0074.png" id="194_d2mkg"]
+[ext_resource type="Texture2D" uid="uid://bif60jvfaltsp" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0075.png" id="195_w8qjw"]
+[ext_resource type="Texture2D" uid="uid://btynh0cguks7" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0076.png" id="196_fw5in"]
+[ext_resource type="Texture2D" uid="uid://e45qkg07s1yr" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0077.png" id="197_pwv6e"]
+[ext_resource type="Texture2D" uid="uid://ca88ajkys3eke" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0078.png" id="198_4dy8p"]
+[ext_resource type="Texture2D" uid="uid://d0264fehr3pgi" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0079.png" id="199_0mndl"]
+[ext_resource type="Texture2D" uid="uid://cm053ny52j3b6" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0080.png" id="200_85u1d"]
+[ext_resource type="Texture2D" uid="uid://c7qjq601mdouv" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0081.png" id="201_a5oee"]
+[ext_resource type="Texture2D" uid="uid://drtgm1ibkat1v" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0082.png" id="202_keqt7"]
+[ext_resource type="Texture2D" uid="uid://ci56sy65eucbf" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0083.png" id="203_667rc"]
+[ext_resource type="Texture2D" uid="uid://owi5clbmoywe" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0084.png" id="204_trodt"]
+[ext_resource type="Texture2D" uid="uid://dxj14akurj8tg" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0085.png" id="205_0i8sy"]
+[ext_resource type="Texture2D" uid="uid://cfh3c4xdjkpxl" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0086.png" id="206_e2ch3"]
+[ext_resource type="Texture2D" uid="uid://nky33k1hmcv8" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0087.png" id="207_xbyc0"]
+[ext_resource type="Texture2D" uid="uid://dghkx72m4a7su" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0088.png" id="208_itc63"]
+[ext_resource type="Texture2D" uid="uid://b0pf5vn1q0o67" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0089.png" id="209_qgmj5"]
+[ext_resource type="Texture2D" uid="uid://cejcclp1218nb" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0090.png" id="210_yekp0"]
+[ext_resource type="Texture2D" uid="uid://w38im0wbbd2w" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0091.png" id="211_qppp6"]
+[ext_resource type="Texture2D" uid="uid://dcukuc37lurd0" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0092.png" id="212_dlc53"]
+[ext_resource type="Texture2D" uid="uid://dhguuoku3pgxm" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0093.png" id="213_p7rjr"]
+[ext_resource type="Texture2D" uid="uid://1t4w54hrqt2f" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0094.png" id="214_qoa0y"]
+[ext_resource type="Texture2D" uid="uid://dy18utdno3lvt" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0095.png" id="215_v450q"]
+[ext_resource type="Texture2D" uid="uid://mhm51s7s5j2v" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0096.png" id="216_0b1xt"]
+[ext_resource type="Texture2D" uid="uid://cmootymg13hru" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0097.png" id="217_vhjf8"]
+[ext_resource type="Texture2D" uid="uid://451sfv4hcu2e" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0098.png" id="218_x6g3q"]
+[ext_resource type="Texture2D" uid="uid://jgdupwpbhapo" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0099.png" id="219_8blvw"]
+[ext_resource type="Texture2D" uid="uid://bta7aawctxbjb" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0100.png" id="220_kg1ft"]
+[ext_resource type="Texture2D" uid="uid://dabn55g1fcjue" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0101.png" id="221_dbqno"]
+[ext_resource type="Texture2D" uid="uid://baf6tkh1vj34l" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0102.png" id="222_xj12s"]
+[ext_resource type="Texture2D" uid="uid://cyq5co8sxgji1" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0103.png" id="223_2rjs6"]
+[ext_resource type="Texture2D" uid="uid://c5lhy154r26pc" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0104.png" id="224_sc6ad"]
+[ext_resource type="Texture2D" uid="uid://oci77obc11lr" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0105.png" id="225_70nnv"]
+[ext_resource type="Texture2D" uid="uid://cmcg7uias6fpg" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0106.png" id="226_pir7d"]
+[ext_resource type="Texture2D" uid="uid://cf8tsfta85ek8" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0107.png" id="227_j1s23"]
+[ext_resource type="Texture2D" uid="uid://d4ng7cwyb40ef" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0108.png" id="228_n61r5"]
+[ext_resource type="Texture2D" uid="uid://dyjemfd3qwa75" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0109.png" id="229_w3o3v"]
+[ext_resource type="Texture2D" uid="uid://ckdjb7aoh1ntv" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0110.png" id="230_dh2sy"]
+[ext_resource type="Texture2D" uid="uid://bxia5tsvbn6iw" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0111.png" id="231_sq7q0"]
+[ext_resource type="Texture2D" uid="uid://cg8sly6lupbsy" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0112.png" id="232_fla27"]
+[ext_resource type="Texture2D" uid="uid://b607iwxrrweg3" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0113.png" id="233_0ahvk"]
+[ext_resource type="Texture2D" uid="uid://8rvs7ok5ktha" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0114.png" id="234_eshxa"]
+[ext_resource type="Texture2D" uid="uid://bd3imfmvcexkt" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0115.png" id="235_cy41k"]
+[ext_resource type="Texture2D" uid="uid://c7nmu02a5r6h0" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0116.png" id="236_8ampn"]
+[ext_resource type="Texture2D" uid="uid://cb20lwpv4426r" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0117.png" id="237_tepbg"]
+[ext_resource type="Texture2D" uid="uid://bv8rfd6lds1p8" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0118.png" id="238_beaeq"]
+[ext_resource type="Texture2D" uid="uid://crd4xyjtw7ebt" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0119.png" id="239_4qjxu"]
+[ext_resource type="Texture2D" uid="uid://bg03l0scle2vd" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0120.png" id="240_n751i"]
+[ext_resource type="Texture2D" uid="uid://bssu0gpiekow0" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0121.png" id="241_0tegu"]
+[ext_resource type="Texture2D" uid="uid://7x0hcw4i67tj" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0122.png" id="242_ikvuw"]
+[ext_resource type="Texture2D" uid="uid://b7u6he3usrhp4" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0123.png" id="243_4n7rb"]
+[ext_resource type="Texture2D" uid="uid://dm0wwh48dwryo" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0124.png" id="244_plnmh"]
+[ext_resource type="Texture2D" uid="uid://bfokd5euj10n3" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0125.png" id="245_1h5sx"]
+[ext_resource type="Texture2D" uid="uid://cv7l4bf3dfe3i" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0126.png" id="246_cxr3m"]
+[ext_resource type="Texture2D" uid="uid://dhye2864d5xm0" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0127.png" id="247_lqfwl"]
+[ext_resource type="Texture2D" uid="uid://npwouwfwtqdt" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0128.png" id="248_toupo"]
+[ext_resource type="Texture2D" uid="uid://cbrfl4uocpbow" path="res://age of war sprites/units/miltary/melee/idle/miltary_melee_idle0129.png" id="249_jsv4w"]
+[ext_resource type="Texture2D" uid="uid://18tyt03sqa5k" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0001.png" id="250_si7kw"]
+[ext_resource type="Texture2D" uid="uid://djxknqpy1k5c6" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0002.png" id="251_cm30p"]
+[ext_resource type="Texture2D" uid="uid://ce3nfd3vxb78k" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0003.png" id="252_81hyo"]
+[ext_resource type="Texture2D" uid="uid://ddyh04alyi1xj" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0004.png" id="253_v75cn"]
+[ext_resource type="Texture2D" uid="uid://dmll7eq3q4yxq" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0005.png" id="254_r7ihg"]
+[ext_resource type="Texture2D" uid="uid://cvintvohcokqj" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0006.png" id="255_p51jt"]
+[ext_resource type="Texture2D" uid="uid://bibee6vu1o0c0" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0007.png" id="256_w2o7s"]
+[ext_resource type="Texture2D" uid="uid://dcprifqwelolr" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0008.png" id="257_hlo87"]
+[ext_resource type="Texture2D" uid="uid://cm28wmp4iu2d7" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0009.png" id="258_gbbqs"]
+[ext_resource type="Texture2D" uid="uid://dmq6y8asrjvjj" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0010.png" id="259_nrq3l"]
+[ext_resource type="Texture2D" uid="uid://c7w8uthjlyku1" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0011.png" id="260_korqe"]
+[ext_resource type="Texture2D" uid="uid://cw2i7jfnyviar" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0012.png" id="261_ysbxm"]
+[ext_resource type="Texture2D" uid="uid://ctjlxocss1hkt" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0013.png" id="262_fq3tl"]
+[ext_resource type="Texture2D" uid="uid://c2je1l0mm0yhr" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0014.png" id="263_8mv1t"]
+[ext_resource type="Texture2D" uid="uid://8ec7di7lo6i3" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0015.png" id="264_e6w6f"]
+[ext_resource type="Texture2D" uid="uid://bpijvkfo5mksd" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0016.png" id="265_wc5fj"]
+[ext_resource type="Texture2D" uid="uid://ckv17shp0myl5" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0017.png" id="266_x4wnr"]
+[ext_resource type="Texture2D" uid="uid://0j03xfofnus3" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0018.png" id="267_gh0o8"]
+[ext_resource type="Texture2D" uid="uid://dg0k563pld6eh" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0019.png" id="268_jklk3"]
+[ext_resource type="Texture2D" uid="uid://bagl3wtdeam88" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0020.png" id="269_4bkpg"]
+[ext_resource type="Texture2D" uid="uid://nmcf05xotl5k" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0021.png" id="270_ierlv"]
+[ext_resource type="Texture2D" uid="uid://chw08xw24v4v" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0022.png" id="271_5dbpp"]
+[ext_resource type="Texture2D" uid="uid://dtap2vypm8xqd" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0023.png" id="272_22gub"]
+[ext_resource type="Texture2D" uid="uid://bx3pmendd5icb" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0024.png" id="273_tx61c"]
+[ext_resource type="Texture2D" uid="uid://cxq1bjkesrb34" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0025.png" id="274_emxcp"]
+[ext_resource type="Texture2D" uid="uid://drtv2t0sw4rld" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0026.png" id="275_a5w1t"]
+[ext_resource type="Texture2D" uid="uid://qdw1jn62okou" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0027.png" id="276_s8e2p"]
+[ext_resource type="Texture2D" uid="uid://b542nrchik3ws" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0028.png" id="277_wsq8y"]
+[ext_resource type="Texture2D" uid="uid://csyaeww580c01" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0029.png" id="278_s1nel"]
+[ext_resource type="Texture2D" uid="uid://ywxgp3bjucpo" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0030.png" id="279_desjk"]
+[ext_resource type="Texture2D" uid="uid://cxtdognojvgix" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0031.png" id="280_4ott7"]
+[ext_resource type="Texture2D" uid="uid://pbdxabw1xmnj" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0032.png" id="281_tqgp4"]
+[ext_resource type="Texture2D" uid="uid://dyqutk1l6nlk7" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0033.png" id="282_ajh1s"]
+[ext_resource type="Texture2D" uid="uid://bixv6dv2u33iq" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0034.png" id="283_ywkx1"]
+[ext_resource type="Texture2D" uid="uid://bh7x15rvk4r3m" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0035.png" id="284_5j3lb"]
+[ext_resource type="Texture2D" uid="uid://1h0yysfdi5sb" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0036.png" id="285_dhatu"]
+[ext_resource type="Texture2D" uid="uid://d5i6qcqecjxx" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0037.png" id="286_1sbwe"]
+[ext_resource type="Texture2D" uid="uid://dmrg0jxm2dnx7" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0038.png" id="287_dtjmb"]
+[ext_resource type="Texture2D" uid="uid://cfsmktba11hj7" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0039.png" id="288_36bri"]
+[ext_resource type="Texture2D" uid="uid://dkmqo6b4fmlnf" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0040.png" id="289_vkaix"]
+[ext_resource type="Texture2D" uid="uid://dpor2drpxd2bo" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0041.png" id="290_l0tho"]
+[ext_resource type="Texture2D" uid="uid://bwn1u7cvp42xj" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0042.png" id="291_ceui4"]
+[ext_resource type="Texture2D" uid="uid://do4thltdmholh" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0043.png" id="292_jsw1x"]
+[ext_resource type="Texture2D" uid="uid://dqusln0xjmgai" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0044.png" id="293_wolrl"]
+[ext_resource type="Texture2D" uid="uid://b7jq88nttwein" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0045.png" id="294_5maiq"]
+[ext_resource type="Texture2D" uid="uid://chf3eqgqday1k" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0046.png" id="295_yg4ev"]
+[ext_resource type="Texture2D" uid="uid://blgygk1nxqcpw" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0047.png" id="296_qmt5f"]
+[ext_resource type="Texture2D" uid="uid://xupfd00ne8hk" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0048.png" id="297_082tw"]
+[ext_resource type="Texture2D" uid="uid://uujiijwpv628" path="res://age of war sprites/units/miltary/melee/walk/miltary_melee_walk0049.png" id="298_xl8fl"]
+[ext_resource type="AudioStream" uid="uid://bojyh5xe5fhh8" path="res://age of war sprites/audio/sfx/stab_02.mp3" id="300_p2q3l"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_mb16u"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_1r42s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_5dtcw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_jiks0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ga7lw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_3eiol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_kpmkd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_8pw4h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ns61o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_crm67")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_p30gq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_wqj5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ygxlh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_30gm6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_wupju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_lejaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_1nn03")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_oke7p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_t17lc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_rbnm5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_w48p6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_xk6q3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_i7uxt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_78sij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_8i4dh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_dyatw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ge2qk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_clqtr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_bsngf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_dh0ca")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_mrcnt")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("31_s4lh4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_eb4ji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_6ri10")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_smcn4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_cjdmx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_x4pr0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_tisjf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_4g0nk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_8wmd2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_ch4as")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_i3s55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_1d0e1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_13nh0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_cwa2y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_28ec1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_k464c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_jl22r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_6r723")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_ldbx3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_wvgr7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_0ugin")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_vj1rg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_sra3y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_jjcnx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_uu0nk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_4vmvf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_psdpl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_ryjpf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_0bv7h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_f8eo1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_xwoi3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_3xmyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_co7fm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_t6x5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_wts4g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_w4o8u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_lawum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_elcuw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_ckgha")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_y5lqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_cditv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_jmu6i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_p801m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_e57iy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_m1vhx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_0gjh3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_xqw7n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_xamcl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_hfy6o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_nbwx0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_rj0yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_l3ggt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_pm460")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_3hbqu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_idt46")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_x5o6t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_xf103")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_4a6c4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_2ljlt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_3jde1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_n3qum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_pmlgk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_tkrtx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_ksgc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_husi8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_yf7hb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_ddldv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_3su8u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_v6fwr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_7qys5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_kdi03")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_kf2wl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_wflf5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_momur")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_sc0j5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_6vico")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_u5ch1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_qkm4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_6lfxk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_3if7l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_varq7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_asaov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_vuqj2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_poogc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_sa23x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_8oep4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_8kepu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_af2ag")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_w17qn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_vr6ba")
+}],
+"loop": false,
+"name": &"die",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("121_ooywk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_20i0r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_4alox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_4tt0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_otrei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_librm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_xj7vk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_rr5sg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_876b6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_m5akd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_6b7wn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_3kohc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_6ci7f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_tu8ka")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_b7mou")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_nhel3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_6ahqa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_do7ex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_uqxd8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_yhj8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_ilwwb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_aay5h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_0od4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_ptywu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_y5ef8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_xfg7o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_ak4fp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_n3oq5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_ut5fq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_p1p0t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_ea3jy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_337ua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_qn1kf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_ckq8h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_5gf5v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_n6v7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_7uyh8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_678ph")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_wbgby")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_wlc6u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_y2b3w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_ru0r4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_v3ixk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_ddd3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_ac5rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_famjf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_ljr0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_312ji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_o6b61")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_i6fi2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_0jeqx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_da6g2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_ih1k8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_4lnnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_jl401")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_dfskf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_g5qva")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_d6unt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_1oryj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_qp1ll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_f7r18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_d44i8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("183_nsxbu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("184_bfvh6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("185_46peg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("186_twcof")
+}, {
+"duration": 1.0,
+"texture": ExtResource("187_n2qwo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("188_mtmn1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("189_c5jga")
+}, {
+"duration": 1.0,
+"texture": ExtResource("190_g6n77")
+}, {
+"duration": 1.0,
+"texture": ExtResource("191_ciwm6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("192_r3nkr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("193_5iy75")
+}, {
+"duration": 1.0,
+"texture": ExtResource("194_d2mkg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("195_w8qjw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("196_fw5in")
+}, {
+"duration": 1.0,
+"texture": ExtResource("197_pwv6e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("198_4dy8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("199_0mndl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("200_85u1d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("201_a5oee")
+}, {
+"duration": 1.0,
+"texture": ExtResource("202_keqt7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("203_667rc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("204_trodt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("205_0i8sy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("206_e2ch3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("207_xbyc0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("208_itc63")
+}, {
+"duration": 1.0,
+"texture": ExtResource("209_qgmj5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("210_yekp0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("211_qppp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("212_dlc53")
+}, {
+"duration": 1.0,
+"texture": ExtResource("213_p7rjr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("214_qoa0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("215_v450q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("216_0b1xt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("217_vhjf8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("218_x6g3q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("219_8blvw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("220_kg1ft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("221_dbqno")
+}, {
+"duration": 1.0,
+"texture": ExtResource("222_xj12s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("223_2rjs6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("224_sc6ad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("225_70nnv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("226_pir7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("227_j1s23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("228_n61r5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("229_w3o3v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("230_dh2sy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("231_sq7q0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("232_fla27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("233_0ahvk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("234_eshxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("235_cy41k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("236_8ampn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("237_tepbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("238_beaeq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("239_4qjxu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("240_n751i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("241_0tegu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("242_ikvuw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("243_4n7rb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("244_plnmh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("245_1h5sx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("246_cxr3m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("247_lqfwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("248_toupo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("249_jsv4w")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("250_si7kw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("251_cm30p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("252_81hyo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("253_v75cn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("254_r7ihg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("255_p51jt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("256_w2o7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("257_hlo87")
+}, {
+"duration": 1.0,
+"texture": ExtResource("258_gbbqs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("259_nrq3l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("260_korqe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("261_ysbxm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("262_fq3tl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("263_8mv1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("264_e6w6f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("265_wc5fj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("266_x4wnr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("267_gh0o8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("268_jklk3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("269_4bkpg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("270_ierlv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("271_5dbpp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("272_22gub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("273_tx61c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("274_emxcp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("275_a5w1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("276_s8e2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("277_wsq8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("278_s1nel")
+}, {
+"duration": 1.0,
+"texture": ExtResource("279_desjk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("280_4ott7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("281_tqgp4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("282_ajh1s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("283_ywkx1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("284_5j3lb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("285_dhatu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("286_1sbwe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("287_dtjmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("288_36bri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("289_vkaix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("290_l0tho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("291_ceui4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("292_jsw1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("293_wolrl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("294_5maiq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("295_yg4ev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("296_qmt5f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("297_082tw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("298_xl8fl")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 30.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ccnl8"]
+size = Vector2(78, 125)
+
+[node name="miltary_melee" type="RigidBody2D"]
+gravity_scale = 0.0
+script = ExtResource("1_q4xbq")
+
+[node name="Shadow" type="Sprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("2_tt6h6")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(9, -59)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_mb16u")
+animation = &"attack"
+frame = 5
+frame_progress = 0.401948
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -62.5)
+shape = SubResource("RectangleShape2D_ccnl8")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+position = Vector2(0, -62)
+target_position = Vector2(46, 0)
+
+[node name="Label" type="Label" parent="."]
+offset_left = -38.0
+offset_top = -148.0
+offset_right = 2.0
+offset_bottom = -125.0
+
+[node name="death_timer" type="Timer" parent="."]
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="stab_02" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("300_p2q3l")
+
+[node name="die_sfx" type="AudioStreamPlayer2D" parent="sfx"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -22.0
+offset_top = -136.0
+offset_right = 26.0
+offset_bottom = -131.0
+
+[node name="health_bg" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.588235, 0.588235, 0.588235, 0.588235)
+
+[node name="health_bar" type="ColorRect" parent="Control"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 0, 0, 1)

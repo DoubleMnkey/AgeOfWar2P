@@ -1,0 +1,126 @@
+[gd_scene load_steps=29 format=3 uid="uid://d1xbu2hci5f4j"]
+
+[ext_resource type="Texture2D" uid="uid://bd61l1c8cjyen" path="res://age of war sprites/effects/explosion/explosion0001.png" id="1_7y7i8"]
+[ext_resource type="Texture2D" uid="uid://bdy4cq71roagw" path="res://age of war sprites/effects/explosion/explosion0002.png" id="2_plf5p"]
+[ext_resource type="Texture2D" uid="uid://caf7p623bieki" path="res://age of war sprites/effects/explosion/explosion0003.png" id="3_kk1t0"]
+[ext_resource type="Texture2D" uid="uid://4ihxtwq4giux" path="res://age of war sprites/effects/explosion/explosion0004.png" id="4_8g5jb"]
+[ext_resource type="Texture2D" uid="uid://bikrj1alrys86" path="res://age of war sprites/effects/explosion/explosion0005.png" id="5_ckg2o"]
+[ext_resource type="Texture2D" uid="uid://bi508inejbky5" path="res://age of war sprites/effects/explosion/explosion0006.png" id="6_1uuyr"]
+[ext_resource type="Texture2D" uid="uid://d5kma0ldv1w5" path="res://age of war sprites/effects/explosion/explosion0007.png" id="7_c7huj"]
+[ext_resource type="Texture2D" uid="uid://d286yqus2ecp4" path="res://age of war sprites/effects/explosion/explosion0008.png" id="8_wdkf3"]
+[ext_resource type="Texture2D" uid="uid://cak3emeei2wcr" path="res://age of war sprites/effects/explosion/explosion0009.png" id="9_arlmq"]
+[ext_resource type="Texture2D" uid="uid://dpvn21nkv72bv" path="res://age of war sprites/effects/explosion/explosion0010.png" id="10_hujyc"]
+[ext_resource type="Texture2D" uid="uid://djgibv636u173" path="res://age of war sprites/effects/explosion/explosion0011.png" id="11_cev4g"]
+[ext_resource type="Texture2D" uid="uid://dec5vcvlc42ke" path="res://age of war sprites/effects/explosion/explosion0012.png" id="12_1dwrn"]
+[ext_resource type="Texture2D" uid="uid://b83efvkho0a5a" path="res://age of war sprites/effects/explosion/explosion0013.png" id="13_3d8al"]
+[ext_resource type="Texture2D" uid="uid://bqese8m5pkwa5" path="res://age of war sprites/effects/explosion/explosion0014.png" id="14_0yvhw"]
+[ext_resource type="Texture2D" uid="uid://ccb56qadnkmvf" path="res://age of war sprites/effects/explosion/explosion0015.png" id="15_jnt2t"]
+[ext_resource type="Texture2D" uid="uid://c15dfel4f4187" path="res://age of war sprites/effects/explosion/explosion0016.png" id="16_j5trm"]
+[ext_resource type="Texture2D" uid="uid://2kc4n60ihkvo" path="res://age of war sprites/effects/explosion/explosion0017.png" id="17_vtvs4"]
+[ext_resource type="Texture2D" uid="uid://bxor10xy2xji3" path="res://age of war sprites/effects/explosion/explosion0018.png" id="18_2mdth"]
+[ext_resource type="Texture2D" uid="uid://442473pqx0a2" path="res://age of war sprites/effects/explosion/explosion0019.png" id="19_tbqe0"]
+[ext_resource type="Texture2D" uid="uid://vrt8vehylfqn" path="res://age of war sprites/effects/explosion/explosion0020.png" id="20_2qakx"]
+[ext_resource type="Texture2D" uid="uid://bmjw3ofklysgi" path="res://age of war sprites/effects/explosion/explosion0021.png" id="21_3lx7r"]
+[ext_resource type="Texture2D" uid="uid://cs3hbkmlf858w" path="res://age of war sprites/effects/explosion/explosion0022.png" id="22_1qlii"]
+[ext_resource type="Texture2D" uid="uid://bo4etvlfiurvu" path="res://age of war sprites/effects/explosion/explosion0023.png" id="23_jnodr"]
+[ext_resource type="Texture2D" uid="uid://bn5qkyk8sl8sc" path="res://age of war sprites/effects/explosion/explosion0024.png" id="24_5mkuy"]
+[ext_resource type="Texture2D" uid="uid://kqmbencaegav" path="res://age of war sprites/effects/explosion/explosion0025.png" id="25_8vwjf"]
+[ext_resource type="Script" path="res://effects/explosion_effect.gd" id="26_k365f"]
+[ext_resource type="AudioStream" uid="uid://dg3hdpkeu5egi" path="res://age of war sprites/audio/sfx/explosion_01.mp3" id="27_bbgwk"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_tm5w2"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_7y7i8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_plf5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_kk1t0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_8g5jb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_ckg2o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_1uuyr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_c7huj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_wdkf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_arlmq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_hujyc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_cev4g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_1dwrn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_3d8al")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_0yvhw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_jnt2t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_j5trm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_vtvs4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_2mdth")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_tbqe0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_2qakx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_3lx7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_1qlii")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_jnodr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_5mkuy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_8vwjf")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="explosion_effect" type="AnimatedSprite2D"]
+position = Vector2(0, -96)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_tm5w2")
+autoplay = "default"
+frame = 24
+frame_progress = 1.0
+script = ExtResource("26_k365f")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("27_bbgwk")
+volume_db = -5.0
+bus = &"sfx"

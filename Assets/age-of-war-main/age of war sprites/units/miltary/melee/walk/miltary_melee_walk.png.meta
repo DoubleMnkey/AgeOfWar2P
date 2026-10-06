@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: d55143e2837ec90439a02155b6bfb24e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6546310659392144416
+    second: miltary_melee_walk_0
+  - first:
+      213: 2949704585259250108
+    second: miltary_melee_walk_1
+  - first:
+      213: -5506286278197956326
+    second: miltary_melee_walk_2
+  - first:
+      213: -3785657597231663993
+    second: miltary_melee_walk_3
+  - first:
+      213: 6014227386566506776
+    second: miltary_melee_walk_4
+  - first:
+      213: 2733872062865992133
+    second: miltary_melee_walk_5
+  - first:
+      213: 6902875107645559125
+    second: miltary_melee_walk_6
+  - first:
+      213: 7944154100889669405
+    second: miltary_melee_walk_7
+  - first:
+      213: -5074429752202059529
+    second: miltary_melee_walk_8
+  - first:
+      213: -6387858993157153217
+    second: miltary_melee_walk_9
+  - first:
+      213: -256980486273533828
+    second: miltary_melee_walk_10
+  - first:
+      213: 5337333371496172123
+    second: miltary_melee_walk_11
+  - first:
+      213: 2719787000994272304
+    second: miltary_melee_walk_12
+  - first:
+      213: -1979441545646976766
+    second: miltary_melee_walk_13
+  - first:
+      213: -3231802202276213614
+    second: miltary_melee_walk_14
+  - first:
+      213: 5596395165081196971
+    second: miltary_melee_walk_15
+  - first:
+      213: -882339102553594943
+    second: miltary_melee_walk_16
+  - first:
+      213: 4055858625958378880
+    second: miltary_melee_walk_17
+  - first:
+      213: -6707920399751477426
+    second: miltary_melee_walk_18
+  - first:
+      213: -3302468741237764298
+    second: miltary_melee_walk_19
+  - first:
+      213: -878418834198897387
+    second: miltary_melee_walk_20
+  - first:
+      213: -7119981085144800548
+    second: miltary_melee_walk_21
+  - first:
+      213: 1694865683899843034
+    second: miltary_melee_walk_22
+  - first:
+      213: 2765049726242512874
+    second: miltary_melee_walk_23
+  - first:
+      213: 6924984031947464797
+    second: miltary_melee_walk_24
+  - first:
+      213: -2708140575180875313
+    second: miltary_melee_walk_25
+  - first:
+      213: 2314353508247326175
+    second: miltary_melee_walk_26
+  - first:
+      213: 4407655097767906629
+    second: miltary_melee_walk_27
+  - first:
+      213: 8069844196669377415
+    second: miltary_melee_walk_28
+  - first:
+      213: 7906275380694783696
+    second: miltary_melee_walk_29
+  - first:
+      213: 1476786020311721020
+    second: miltary_melee_walk_30
+  - first:
+      213: -5030362389909314955
+    second: miltary_melee_walk_31
+  - first:
+      213: 2041903160496198057
+    second: miltary_melee_walk_32
+  - first:
+      213: -2945641253179279477
+    second: miltary_melee_walk_33
+  - first:
+      213: -9109159784591350465
+    second: miltary_melee_walk_34
+  - first:
+      213: -3347348712248956108
+    second: miltary_melee_walk_35
+  - first:
+      213: 1849880128570260365
+    second: miltary_melee_walk_36
+  - first:
+      213: -9009745536875160062
+    second: miltary_melee_walk_37
+  - first:
+      213: 7050585361521305702
+    second: miltary_melee_walk_38
+  - first:
+      213: -7425224763722913834
+    second: miltary_melee_walk_39
+  - first:
+      213: -7714100286017640754
+    second: miltary_melee_walk_40
+  - first:
+      213: 4147932462112140798
+    second: miltary_melee_walk_41
+  - first:
+      213: -8338220063834210544
+    second: miltary_melee_walk_42
+  - first:
+      213: 3860286677991261072
+    second: miltary_melee_walk_43
+  - first:
+      213: 6079557428581252433
+    second: miltary_melee_walk_44
+  - first:
+      213: 1046693092057714227
+    second: miltary_melee_walk_45
+  - first:
+      213: 9017164639068402198
+    second: miltary_melee_walk_46
+  - first:
+      213: 5731779927110169055
+    second: miltary_melee_walk_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_melee_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebf39d9325d625a0800000000000000
+      internalID: -6546310659392144416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f7bc21b47fe820800000000000000
+      internalID: 2949704585259250108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 448
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a113764bdcdb593b0800000000000000
+      internalID: -5506286278197956326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 383
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7847fbbf874a67bc0800000000000000
+      internalID: -3785657597231663993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 448
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f8be71f3d67350800000000000000
+      internalID: 6014227386566506776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 383
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ed70182aa0f520800000000000000
+      internalID: 2733872062865992133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 448
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55199106650fbcf50800000000000000
+      internalID: 6902875107645559125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 383
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fcd78901e4f3e60800000000000000
+      internalID: 7944154100889669405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 383
+        width: 46
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a25e96010499b0800000000000000
+      internalID: -5074429752202059529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 448
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e559d0714c957a0800000000000000
+      internalID: -6387858993157153217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 384
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787579fb950f6cf0800000000000000
+      internalID: -256980486273533828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 447
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0ed74c64021a40800000000000000
+      internalID: 5337333371496172123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 384
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0341dfa0edf9eb520800000000000000
+      internalID: 2719787000994272304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 384
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201df0ad66c9784e0800000000000000
+      internalID: -1979441545646976766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c400515055623d0800000000000000
+      internalID: -3231802202276213614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 385
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9d06d60c36aad40800000000000000
+      internalID: 5596395165081196971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 447
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c32bd4d24d41c3f0800000000000000
+      internalID: -882339102553594943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 447
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df3737eed494830800000000000000
+      internalID: 4055858625958378880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 385
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47873fbfeda8e2a0800000000000000
+      internalID: -6707920399751477426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f01b45d264b22d0800000000000000
+      internalID: -3302468741237764298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 322
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ddf8f69ba3fc3f0800000000000000
+      internalID: -878418834198897387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 322
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a1742deeb03d90800000000000000
+      internalID: -7119981085144800548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 322
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad189d61c5f558710800000000000000
+      internalID: 1694865683899843034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 322
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd9fe731e6f5620800000000000000
+      internalID: 2765049726242512874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 322
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d502b73794c7a1060800000000000000
+      internalID: 6924984031947464797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 322
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99586ce70ca6ad0800000000000000
+      internalID: -2708140575180875313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 322
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddc2c7f04c3e1020800000000000000
+      internalID: 2314353508247326175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 321
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d45ea65f22b2d30800000000000000
+      internalID: 4407655097767906629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 321
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc93f7a88ddff60800000000000000
+      internalID: 8069844196669377415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 257
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69abac19bb8bd60800000000000000
+      internalID: 7906275380694783696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3461f5af099e7410800000000000000
+      internalID: 1476786020311721020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 257
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57268f1fe00903ab0800000000000000
+      internalID: -5030362389909314955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 193
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19f132b1c465c10800000000000000
+      internalID: 2041903160496198057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87338c03eafe17d0800000000000000
+      internalID: -2945641253179279477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 257
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35a8253073c59180800000000000000
+      internalID: -9109159784591350465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 257
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b2a0bc414db81d0800000000000000
+      internalID: -3347348712248956108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bfb740d281ca910800000000000000
+      internalID: 1849880128570260365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 256
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e15ed7b24f6f280800000000000000
+      internalID: -9009745536875160062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668eb0cd706b8d160800000000000000
+      internalID: 7050585361521305702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 257
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7acdcfa6d44f890800000000000000
+      internalID: -7425224763722913834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 257
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ed2239a202f490800000000000000
+      internalID: -7714100286017640754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 257
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd618cf89a609930800000000000000
+      internalID: 4147932462112140798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f702c9701b84c80800000000000000
+      internalID: -8338220063834210544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_43
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 193
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09387dce74e729530800000000000000
+      internalID: 3860286677991261072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 193
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d3c2a354dee5450800000000000000
+      internalID: 6079557428581252433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 192
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e84f452d9968e00800000000000000
+      internalID: 1046693092057714227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b2e8d677632d70800000000000000
+      internalID: 9017164639068402198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_melee_walk_47
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 192
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1bd16b97f5b8f40800000000000000
+      internalID: 5731779927110169055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_melee_walk_0: -6546310659392144416
+      miltary_melee_walk_1: 2949704585259250108
+      miltary_melee_walk_10: -256980486273533828
+      miltary_melee_walk_11: 5337333371496172123
+      miltary_melee_walk_12: 2719787000994272304
+      miltary_melee_walk_13: -1979441545646976766
+      miltary_melee_walk_14: -3231802202276213614
+      miltary_melee_walk_15: 5596395165081196971
+      miltary_melee_walk_16: -882339102553594943
+      miltary_melee_walk_17: 4055858625958378880
+      miltary_melee_walk_18: -6707920399751477426
+      miltary_melee_walk_19: -3302468741237764298
+      miltary_melee_walk_2: -5506286278197956326
+      miltary_melee_walk_20: -878418834198897387
+      miltary_melee_walk_21: -7119981085144800548
+      miltary_melee_walk_22: 1694865683899843034
+      miltary_melee_walk_23: 2765049726242512874
+      miltary_melee_walk_24: 6924984031947464797
+      miltary_melee_walk_25: -2708140575180875313
+      miltary_melee_walk_26: 2314353508247326175
+      miltary_melee_walk_27: 4407655097767906629
+      miltary_melee_walk_28: 8069844196669377415
+      miltary_melee_walk_29: 7906275380694783696
+      miltary_melee_walk_3: -3785657597231663993
+      miltary_melee_walk_30: 1476786020311721020
+      miltary_melee_walk_31: -5030362389909314955
+      miltary_melee_walk_32: 2041903160496198057
+      miltary_melee_walk_33: -2945641253179279477
+      miltary_melee_walk_34: -9109159784591350465
+      miltary_melee_walk_35: -3347348712248956108
+      miltary_melee_walk_36: 1849880128570260365
+      miltary_melee_walk_37: -9009745536875160062
+      miltary_melee_walk_38: 7050585361521305702
+      miltary_melee_walk_39: -7425224763722913834
+      miltary_melee_walk_4: 6014227386566506776
+      miltary_melee_walk_40: -7714100286017640754
+      miltary_melee_walk_41: 4147932462112140798
+      miltary_melee_walk_42: -8338220063834210544
+      miltary_melee_walk_43: 3860286677991261072
+      miltary_melee_walk_44: 6079557428581252433
+      miltary_melee_walk_45: 1046693092057714227
+      miltary_melee_walk_46: 9017164639068402198
+      miltary_melee_walk_47: 5731779927110169055
+      miltary_melee_walk_5: 2733872062865992133
+      miltary_melee_walk_6: 6902875107645559125
+      miltary_melee_walk_7: 7944154100889669405
+      miltary_melee_walk_8: -5074429752202059529
+      miltary_melee_walk_9: -6387858993157153217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Future Melee
+  m_Controller: {fileID: 9100000, guid: 749f153c09d354c57a68a6fa6df07926, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5d2a23df03c824d8c850c637fcbd0359, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 06e54b33ffd19d440a3da9d5720964ab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 368abff9b0fce49148f0a10edd284cb5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 712e1f1656351764ca2f655926c46d1e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b9ad4866fabc44d92a5f7933bafab21b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b580945c4e578ba4fa80559afd439bcd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5d4adb43e880d4e5cb8a9e7429daf957, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a8e0b34816be4cd4084280af3caa54dd, type: 2}

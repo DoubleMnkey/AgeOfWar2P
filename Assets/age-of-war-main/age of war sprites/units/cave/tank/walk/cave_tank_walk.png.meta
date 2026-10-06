@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: dcc86bae77696a9439779041eecc3df8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4938120578437931968
+    second: cave_tank_walk_0
+  - first:
+      213: 1582601811862157164
+    second: cave_tank_walk_1
+  - first:
+      213: -7675988567243156583
+    second: cave_tank_walk_2
+  - first:
+      213: -5935230583005680930
+    second: cave_tank_walk_3
+  - first:
+      213: 3809847601970627542
+    second: cave_tank_walk_4
+  - first:
+      213: -219403042657589381
+    second: cave_tank_walk_5
+  - first:
+      213: 4502251895892212924
+    second: cave_tank_walk_6
+  - first:
+      213: 3091041086115945498
+    second: cave_tank_walk_7
+  - first:
+      213: -3182337512872855949
+    second: cave_tank_walk_8
+  - first:
+      213: 7830619267422665464
+    second: cave_tank_walk_9
+  - first:
+      213: 678473486105524539
+    second: cave_tank_walk_10
+  - first:
+      213: 4489133227243100558
+    second: cave_tank_walk_11
+  - first:
+      213: -3599768014572902456
+    second: cave_tank_walk_12
+  - first:
+      213: -3894899488038337780
+    second: cave_tank_walk_13
+  - first:
+      213: -1852312147737928450
+    second: cave_tank_walk_14
+  - first:
+      213: -6876665631020578602
+    second: cave_tank_walk_15
+  - first:
+      213: 4476593777401191575
+    second: cave_tank_walk_16
+  - first:
+      213: 7131882716531055471
+    second: cave_tank_walk_17
+  - first:
+      213: 6247191138598141416
+    second: cave_tank_walk_18
+  - first:
+      213: 8568248619197117909
+    second: cave_tank_walk_19
+  - first:
+      213: -5389176257873755310
+    second: cave_tank_walk_20
+  - first:
+      213: -1104680968351254929
+    second: cave_tank_walk_21
+  - first:
+      213: 8566532076661391820
+    second: cave_tank_walk_22
+  - first:
+      213: -6030469743458969121
+    second: cave_tank_walk_23
+  - first:
+      213: 762697339546246958
+    second: cave_tank_walk_24
+  - first:
+      213: 8755527904454200625
+    second: cave_tank_walk_25
+  - first:
+      213: -2324495845730681632
+    second: cave_tank_walk_26
+  - first:
+      213: 1222370603277799424
+    second: cave_tank_walk_27
+  - first:
+      213: -3619042487382435053
+    second: cave_tank_walk_28
+  - first:
+      213: -5606397655045273137
+    second: cave_tank_walk_29
+  - first:
+      213: -6886862988703400432
+    second: cave_tank_walk_30
+  - first:
+      213: -379877979963637979
+    second: cave_tank_walk_31
+  - first:
+      213: 8914455461174197855
+    second: cave_tank_walk_32
+  - first:
+      213: -2527040097517063260
+    second: cave_tank_walk_33
+  - first:
+      213: -2484820165970194287
+    second: cave_tank_walk_34
+  - first:
+      213: -2783762047678726501
+    second: cave_tank_walk_35
+  - first:
+      213: -2091702957367095503
+    second: cave_tank_walk_36
+  - first:
+      213: 7124141766641848567
+    second: cave_tank_walk_37
+  - first:
+      213: 3600525719021241526
+    second: cave_tank_walk_38
+  - first:
+      213: 4453042241216071250
+    second: cave_tank_walk_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_tank_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1787
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c19284f75487bb0800000000000000
+      internalID: -4938120578437931968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1529
+        width: 359
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67fee086f786f510800000000000000
+      internalID: 1582601811862157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1787
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99313853119697590800000000000000
+      internalID: -7675988567243156583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1529
+        width: 360
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda69ef1b33d1ada0800000000000000
+      internalID: -5935230583005680930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_4
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1787
+        width: 358
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d345d3653c4fd430800000000000000
+      internalID: 3809847601970627542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1527
+        width: 359
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7721cb581684fcf0800000000000000
+      internalID: -219403042657589381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1787
+        width: 358
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcfbffce363b7e30800000000000000
+      internalID: 4502251895892212924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1527
+        width: 359
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1414ad7595ea20800000000000000
+      internalID: 3091041086115945498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1788
+        width: 359
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37630dd84e016d3d0800000000000000
+      internalID: -3182337512872855949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1527
+        width: 358
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fabe0e3cb2fbac60800000000000000
+      internalID: 7830619267422665464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1788
+        width: 360
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3937d87a0c6a6900800000000000000
+      internalID: 678473486105524539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_11
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1788
+        width: 360
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895a3fb2ea9c4e30800000000000000
+      internalID: 4489133227243100558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_12
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1787
+        width: 360
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7a199201e0b0ec0800000000000000
+      internalID: -3599768014572902456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_13
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1787
+        width: 361
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03cf9b3d8982f9c0800000000000000
+      internalID: -3894899488038337780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_14
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1788
+        width: 361
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc90f46ae34b46e0800000000000000
+      internalID: -1852312147737928450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_15
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1789
+        width: 360
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d881efea0d2190a0800000000000000
+      internalID: -6876665631020578602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cd8b1925e002e30800000000000000
+      internalID: 4476593777401191575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1268
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd49a5b8989f260800000000000000
+      internalID: 7131882716531055471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_18
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1268
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3c14dd3b72b650800000000000000
+      internalID: 6247191138598141416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_19
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1268
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5b97ef8b888e670800000000000000
+      internalID: 8568248619197117909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_20
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1267
+        width: 355
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253477d1fbcc535b0800000000000000
+      internalID: -5389176257873755310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_21
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1527
+        width: 359
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f94b13826ba0f0800000000000000
+      internalID: -1104680968351254929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1267
+        width: 355
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1446a498f62e670800000000000000
+      internalID: 8566532076661391820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_23
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1527
+        width: 358
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9136818b77f4ca0800000000000000
+      internalID: -6030469743458969121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_24
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1268
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f1aca7035a59a00800000000000000
+      internalID: 762697339546246958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_25
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1527
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d43068d32e18970800000000000000
+      internalID: 8755527904454200625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_26
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1269
+        width: 354
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf951185bbdbfd0800000000000000
+      internalID: -2324495845730681632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_27
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1527
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d048569bb6f010800000000000000
+      internalID: 1222370603277799424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_28
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1269
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b1680480496cdc0800000000000000
+      internalID: -3619042487382435053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_29
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1527
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9817569031232b0800000000000000
+      internalID: -5606397655045273137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_30
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1269
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e7c859992fc60a0800000000000000
+      internalID: -6886862988703400432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_31
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1527
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f364a6df66abaf0800000000000000
+      internalID: -379877979963637979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_32
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1269
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e3459d20286bb70800000000000000
+      internalID: 8914455461174197855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1007
+        width: 354
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3b35e8b662eecd0800000000000000
+      internalID: -2527040097517063260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_34
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1007
+        width: 355
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1909e946935248dd0800000000000000
+      internalID: -2484820165970194287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_35
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1007
+        width: 356
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e35e8aa271e59d0800000000000000
+      internalID: -2783762047678726501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_36
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1007
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f008a1e37c8f2e0800000000000000
+      internalID: -2091702957367095503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_37
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1007
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0163201390ed260800000000000000
+      internalID: 7124141766641848567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_38
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1007
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44be6a013a7f130800000000000000
+      internalID: 3600525719021241526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_walk_39
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1007
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2564e7d33526ccd30800000000000000
+      internalID: 4453042241216071250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_tank_walk_0: -4938120578437931968
+      cave_tank_walk_1: 1582601811862157164
+      cave_tank_walk_10: 678473486105524539
+      cave_tank_walk_11: 4489133227243100558
+      cave_tank_walk_12: -3599768014572902456
+      cave_tank_walk_13: -3894899488038337780
+      cave_tank_walk_14: -1852312147737928450
+      cave_tank_walk_15: -6876665631020578602
+      cave_tank_walk_16: 4476593777401191575
+      cave_tank_walk_17: 7131882716531055471
+      cave_tank_walk_18: 6247191138598141416
+      cave_tank_walk_19: 8568248619197117909
+      cave_tank_walk_2: -7675988567243156583
+      cave_tank_walk_20: -5389176257873755310
+      cave_tank_walk_21: -1104680968351254929
+      cave_tank_walk_22: 8566532076661391820
+      cave_tank_walk_23: -6030469743458969121
+      cave_tank_walk_24: 762697339546246958
+      cave_tank_walk_25: 8755527904454200625
+      cave_tank_walk_26: -2324495845730681632
+      cave_tank_walk_27: 1222370603277799424
+      cave_tank_walk_28: -3619042487382435053
+      cave_tank_walk_29: -5606397655045273137
+      cave_tank_walk_3: -5935230583005680930
+      cave_tank_walk_30: -6886862988703400432
+      cave_tank_walk_31: -379877979963637979
+      cave_tank_walk_32: 8914455461174197855
+      cave_tank_walk_33: -2527040097517063260
+      cave_tank_walk_34: -2484820165970194287
+      cave_tank_walk_35: -2783762047678726501
+      cave_tank_walk_36: -2091702957367095503
+      cave_tank_walk_37: 7124141766641848567
+      cave_tank_walk_38: 3600525719021241526
+      cave_tank_walk_39: 4453042241216071250
+      cave_tank_walk_4: 3809847601970627542
+      cave_tank_walk_5: -219403042657589381
+      cave_tank_walk_6: 4502251895892212924
+      cave_tank_walk_7: 3091041086115945498
+      cave_tank_walk_8: -3182337512872855949
+      cave_tank_walk_9: 7830619267422665464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: fd16f43fbee65c24ea540df5aff79241
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6059525673382846746
+    second: medival_range_idle_0
+  - first:
+      213: 2855323669540758657
+    second: medival_range_idle_1
+  - first:
+      213: 3390135699819444120
+    second: medival_range_idle_2
+  - first:
+      213: 2542980752249961328
+    second: medival_range_idle_3
+  - first:
+      213: 991811813961718224
+    second: medival_range_idle_4
+  - first:
+      213: -3902190359137105176
+    second: medival_range_idle_5
+  - first:
+      213: -3884409029561302899
+    second: medival_range_idle_6
+  - first:
+      213: -5924440046623336135
+    second: medival_range_idle_7
+  - first:
+      213: -7841973410977546674
+    second: medival_range_idle_8
+  - first:
+      213: -4606824790354234196
+    second: medival_range_idle_9
+  - first:
+      213: 5416573041431106988
+    second: medival_range_idle_10
+  - first:
+      213: 6665519277290520974
+    second: medival_range_idle_11
+  - first:
+      213: -345976130846481544
+    second: medival_range_idle_12
+  - first:
+      213: -7278726542980877082
+    second: medival_range_idle_13
+  - first:
+      213: 3905406238174952838
+    second: medival_range_idle_14
+  - first:
+      213: 4055506792156434300
+    second: medival_range_idle_15
+  - first:
+      213: 8934375053534409812
+    second: medival_range_idle_16
+  - first:
+      213: -3545846401340832901
+    second: medival_range_idle_17
+  - first:
+      213: 4421660098360011239
+    second: medival_range_idle_18
+  - first:
+      213: 8815489414199592003
+    second: medival_range_idle_19
+  - first:
+      213: -6137478398405935818
+    second: medival_range_idle_20
+  - first:
+      213: -6740122304032466137
+    second: medival_range_idle_21
+  - first:
+      213: 4861330786592373723
+    second: medival_range_idle_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_range_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 43
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112855ce72c71450800000000000000
+      internalID: 6059525673382846746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 380
+        width: 50
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184edb1dfb520a720800000000000000
+      internalID: 2855323669540758657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 380
+        width: 50
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897bb10157e2c0f20800000000000000
+      internalID: 3390135699819444120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bb388558b7a4320800000000000000
+      internalID: 2542980752249961328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d95937079f93cd00800000000000000
+      internalID: 991811813961718224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eacda50b82a8d9c0800000000000000
+      internalID: -3902190359137105176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80cdae619ec71ac0800000000000000
+      internalID: -3884409029561302899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939dae7aa2928cda0800000000000000
+      internalID: -5924440046623336135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eff943bb6bb2390800000000000000
+      internalID: -7841973410977546674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4f87cd2454110c0800000000000000
+      internalID: -4606824790354234196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55572ab788b2b40800000000000000
+      internalID: 5416573041431106988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818b6e977ea08c50800000000000000
+      internalID: 6665519277290520974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 182
+        width: 50
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a124ca88d23bf0800000000000000
+      internalID: -345976130846481544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_13
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 248
+        width: 50
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4fa6406c4ccfa90800000000000000
+      internalID: -7278726542980877082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_14
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 248
+        width: 50
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d330a284ac23630800000000000000
+      internalID: 3905406238174952838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_15
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 248
+        width: 50
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0ba2c0fd084830800000000000000
+      internalID: 4055506792156434300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_16
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 446
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454b70c56c64dfb70800000000000000
+      internalID: 8934375053534409812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 248
+        width: 50
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b738bf31c7f9acec0800000000000000
+      internalID: -3545846401340832901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 446
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e96448be64ec5d30800000000000000
+      internalID: 4421660098360011239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 248
+        width: 57
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344459e6ae8e65a70800000000000000
+      internalID: 8815489414199592003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 43
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d71661aeb43daa0800000000000000
+      internalID: -6137478398405935818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 49
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b1575a9764672a0800000000000000
+      internalID: -6740122304032466137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 182
+        width: 50
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb328e089ae67340800000000000000
+      internalID: 4861330786592373723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_range_idle_0: 6059525673382846746
+      medival_range_idle_1: 2855323669540758657
+      medival_range_idle_10: 5416573041431106988
+      medival_range_idle_11: 6665519277290520974
+      medival_range_idle_12: -345976130846481544
+      medival_range_idle_13: -7278726542980877082
+      medival_range_idle_14: 3905406238174952838
+      medival_range_idle_15: 4055506792156434300
+      medival_range_idle_16: 8934375053534409812
+      medival_range_idle_17: -3545846401340832901
+      medival_range_idle_18: 4421660098360011239
+      medival_range_idle_19: 8815489414199592003
+      medival_range_idle_2: 3390135699819444120
+      medival_range_idle_20: -6137478398405935818
+      medival_range_idle_21: -6740122304032466137
+      medival_range_idle_22: 4861330786592373723
+      medival_range_idle_3: 2542980752249961328
+      medival_range_idle_4: 991811813961718224
+      medival_range_idle_5: -3902190359137105176
+      medival_range_idle_6: -3884409029561302899
+      medival_range_idle_7: -5924440046623336135
+      medival_range_idle_8: -7841973410977546674
+      medival_range_idle_9: -4606824790354234196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 766cf6896664fcb4bbb2ce673acdce8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6740078985564160497
+    second: future_melee_walk_0
+  - first:
+      213: -8741870572186144834
+    second: future_melee_walk_1
+  - first:
+      213: 2496848480026134639
+    second: future_melee_walk_2
+  - first:
+      213: 8120861180244081488
+    second: future_melee_walk_3
+  - first:
+      213: -2071309871759818982
+    second: future_melee_walk_4
+  - first:
+      213: -2598818117939451597
+    second: future_melee_walk_5
+  - first:
+      213: -5185669874167480910
+    second: future_melee_walk_6
+  - first:
+      213: -1369071787073794022
+    second: future_melee_walk_7
+  - first:
+      213: 2318755353188091181
+    second: future_melee_walk_8
+  - first:
+      213: -1201002465551532495
+    second: future_melee_walk_9
+  - first:
+      213: 5345353819398297334
+    second: future_melee_walk_10
+  - first:
+      213: -7520312726622633218
+    second: future_melee_walk_11
+  - first:
+      213: 1124047945271508528
+    second: future_melee_walk_12
+  - first:
+      213: 7688927468000454322
+    second: future_melee_walk_13
+  - first:
+      213: -1307233071848532095
+    second: future_melee_walk_14
+  - first:
+      213: 5419921626865306099
+    second: future_melee_walk_15
+  - first:
+      213: -7078419497195494065
+    second: future_melee_walk_16
+  - first:
+      213: 3706934776374249684
+    second: future_melee_walk_17
+  - first:
+      213: -8374359587336640494
+    second: future_melee_walk_18
+  - first:
+      213: 3186476761628322105
+    second: future_melee_walk_19
+  - first:
+      213: -7132401325792078645
+    second: future_melee_walk_20
+  - first:
+      213: 3429577754876641158
+    second: future_melee_walk_21
+  - first:
+      213: 6766803439151011249
+    second: future_melee_walk_22
+  - first:
+      213: -3024014851216075868
+    second: future_melee_walk_23
+  - first:
+      213: 8667891028016598230
+    second: future_melee_walk_24
+  - first:
+      213: -5526337732010096766
+    second: future_melee_walk_25
+  - first:
+      213: -6900879572776464063
+    second: future_melee_walk_26
+  - first:
+      213: -5735584183995028686
+    second: future_melee_walk_27
+  - first:
+      213: -3964854671005019054
+    second: future_melee_walk_28
+  - first:
+      213: 5321307575336313491
+    second: future_melee_walk_29
+  - first:
+      213: -8766359256392040454
+    second: future_melee_walk_30
+  - first:
+      213: 4058352749062446475
+    second: future_melee_walk_31
+  - first:
+      213: 1489161155166015412
+    second: future_melee_walk_32
+  - first:
+      213: 2808462310665383171
+    second: future_melee_walk_33
+  - first:
+      213: 2260839893111263218
+    second: future_melee_walk_34
+  - first:
+      213: -6663828333695264249
+    second: future_melee_walk_35
+  - first:
+      213: -2793262913689957814
+    second: future_melee_walk_36
+  - first:
+      213: -3667355701917426065
+    second: future_melee_walk_37
+  - first:
+      213: -2247531923463613311
+    second: future_melee_walk_38
+  - first:
+      213: -3716257322180951295
+    second: future_melee_walk_39
+  - first:
+      213: 7907909649863660182
+    second: future_melee_walk_40
+  - first:
+      213: -2173176284944553610
+    second: future_melee_walk_41
+  - first:
+      213: 6978411895169998537
+    second: future_melee_walk_42
+  - first:
+      213: -4294308076041016694
+    second: future_melee_walk_43
+  - first:
+      213: 6889044449480287601
+    second: future_melee_walk_44
+  - first:
+      213: -4129323925887667373
+    second: future_melee_walk_45
+  - first:
+      213: 1635654218654773189
+    second: future_melee_walk_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_melee_walk_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 441
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f180ac7022998d50800000000000000
+      internalID: 6740078985564160497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 441
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf6760f703aea680800000000000000
+      internalID: -8741870572186144834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 441
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688ee5b67696a220800000000000000
+      internalID: 2496848480026134639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 441
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b35be973813b070800000000000000
+      internalID: 8120861180244081488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 441
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ffef955aa3143e0800000000000000
+      internalID: -2071309871759818982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 440
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339ae5cd0b42febd0800000000000000
+      internalID: -2598818117939451597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 440
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7dcb69bcc808b0800000000000000
+      internalID: -5185669874167480910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 441
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10157b9674100de0800000000000000
+      internalID: -1369071787073794022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_8
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 441
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25cfcb55bfdd2020800000000000000
+      internalID: 2318755353188091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_9
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 441
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebe6aee9e255fe0800000000000000
+      internalID: -1201002465551532495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 441
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f653045af28e2a40800000000000000
+      internalID: 5345353819398297334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 441
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20fc16b6b72a790800000000000000
+      internalID: -7520312726622633218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 441
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e7a6896ab699f00800000000000000
+      internalID: 1124047945271508528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b629e16bce84ba60800000000000000
+      internalID: 7688927468000454322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 370
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18753d97276cbdde0800000000000000
+      internalID: -1307233071848532095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 369
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f983cfe00e673b40800000000000000
+      internalID: 5419921626865306099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 370
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a67a68f664cd90800000000000000
+      internalID: -7078419497195494065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 369
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84457f98da17330800000000000000
+      internalID: 3706934776374249684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 369
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a967135c48cb80800000000000000
+      internalID: -8374359587336640494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 369
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939a4e56bb3a83c20800000000000000
+      internalID: 3186476761628322105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 369
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc453a488ce940d90800000000000000
+      internalID: -7132401325792078645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 370
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ff0012cce489f20800000000000000
+      internalID: 3429577754876641158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 371
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5dc7730e388ed50800000000000000
+      internalID: 6766803439151011249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 371
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a392c5c38a8806d0800000000000000
+      internalID: -3024014851216075868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 371
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc89bc27f88a4870800000000000000
+      internalID: 8667891028016598230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_25
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 371
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28743becc118e43b0800000000000000
+      internalID: -5526337732010096766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d8ea47962b30a0800000000000000
+      internalID: -6900879572776464063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 300
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba0a5b29c1760b0800000000000000
+      internalID: -5735584183995028686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 300
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25492b4fea10af8c0800000000000000
+      internalID: -3964854671005019054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 300
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3922488db0519d940800000000000000
+      internalID: 5321307575336313491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 300
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7b45d3b2a75680800000000000000
+      internalID: -8766359256392040454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 300
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dd81db25a225830800000000000000
+      internalID: 4058352749062446475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 300
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0bf24e209aa410800000000000000
+      internalID: 1489161155166015412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_33
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 299
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d68487799a9f620800000000000000
+      internalID: 2808462310665383171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 228
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffcde287ed106f10800000000000000
+      internalID: 2260839893111263218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 299
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a19eddf635583a0800000000000000
+      internalID: -6663828333695264249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_36
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 299
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4acc39ed265c39d0800000000000000
+      internalID: -2793262913689957814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 299
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e553a6b6fea1dc0800000000000000
+      internalID: -3667355701917426065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_38
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 299
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d990af992fc0e0800000000000000
+      internalID: -2247531923463613311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_39
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 299
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103c571b7a33d6cc0800000000000000
+      internalID: -3716257322180951295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d10cbde98ebd60800000000000000
+      internalID: 7907909649863660182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 228
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a39dcea357d1e0800000000000000
+      internalID: -2173176284944553610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 228
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ced7fb35ac48d060800000000000000
+      internalID: 6978411895169998537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 228
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aeb7b9e8d8764c0800000000000000
+      internalID: -4294308076041016694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_44
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 228
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17526255d6dca9f50800000000000000
+      internalID: 6889044449480287601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 228
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353b1fa74c1b1b6c0800000000000000
+      internalID: -4129323925887667373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_melee_walk_46
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 228
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf694688d203b610800000000000000
+      internalID: 1635654218654773189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_melee_walk_0: 6740078985564160497
+      future_melee_walk_1: -8741870572186144834
+      future_melee_walk_10: 5345353819398297334
+      future_melee_walk_11: -7520312726622633218
+      future_melee_walk_12: 1124047945271508528
+      future_melee_walk_13: 7688927468000454322
+      future_melee_walk_14: -1307233071848532095
+      future_melee_walk_15: 5419921626865306099
+      future_melee_walk_16: -7078419497195494065
+      future_melee_walk_17: 3706934776374249684
+      future_melee_walk_18: -8374359587336640494
+      future_melee_walk_19: 3186476761628322105
+      future_melee_walk_2: 2496848480026134639
+      future_melee_walk_20: -7132401325792078645
+      future_melee_walk_21: 3429577754876641158
+      future_melee_walk_22: 6766803439151011249
+      future_melee_walk_23: -3024014851216075868
+      future_melee_walk_24: 8667891028016598230
+      future_melee_walk_25: -5526337732010096766
+      future_melee_walk_26: -6900879572776464063
+      future_melee_walk_27: -5735584183995028686
+      future_melee_walk_28: -3964854671005019054
+      future_melee_walk_29: 5321307575336313491
+      future_melee_walk_3: 8120861180244081488
+      future_melee_walk_30: -8766359256392040454
+      future_melee_walk_31: 4058352749062446475
+      future_melee_walk_32: 1489161155166015412
+      future_melee_walk_33: 2808462310665383171
+      future_melee_walk_34: 2260839893111263218
+      future_melee_walk_35: -6663828333695264249
+      future_melee_walk_36: -2793262913689957814
+      future_melee_walk_37: -3667355701917426065
+      future_melee_walk_38: -2247531923463613311
+      future_melee_walk_39: -3716257322180951295
+      future_melee_walk_4: -2071309871759818982
+      future_melee_walk_40: 7907909649863660182
+      future_melee_walk_41: -2173176284944553610
+      future_melee_walk_42: 6978411895169998537
+      future_melee_walk_43: -4294308076041016694
+      future_melee_walk_44: 6889044449480287601
+      future_melee_walk_45: -4129323925887667373
+      future_melee_walk_46: 1635654218654773189
+      future_melee_walk_5: -2598818117939451597
+      future_melee_walk_6: -5185669874167480910
+      future_melee_walk_7: -1369071787073794022
+      future_melee_walk_8: 2318755353188091181
+      future_melee_walk_9: -1201002465551532495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

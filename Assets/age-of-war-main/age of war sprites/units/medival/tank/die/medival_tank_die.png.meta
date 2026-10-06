@@ -1,0 +1,4084 @@
+fileFormatVersion: 2
+guid: ab7b108a04f278d4fa032d1444380717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 289075858131181088
+    second: medival_tank_die_0
+  - first:
+      213: 4547442297790088468
+    second: medival_tank_die_1
+  - first:
+      213: 8171616154874807301
+    second: medival_tank_die_2
+  - first:
+      213: -2115694768694773477
+    second: medival_tank_die_3
+  - first:
+      213: 479685931284203938
+    second: medival_tank_die_4
+  - first:
+      213: -2647258721160195337
+    second: medival_tank_die_5
+  - first:
+      213: 5940845436512314498
+    second: medival_tank_die_6
+  - first:
+      213: 9037239136016182652
+    second: medival_tank_die_7
+  - first:
+      213: 8062165806498721210
+    second: medival_tank_die_8
+  - first:
+      213: -814285068279974729
+    second: medival_tank_die_9
+  - first:
+      213: -1969173492766922184
+    second: medival_tank_die_10
+  - first:
+      213: 8323353603142925981
+    second: medival_tank_die_11
+  - first:
+      213: 6831893141634382324
+    second: medival_tank_die_12
+  - first:
+      213: -1563705874419238443
+    second: medival_tank_die_13
+  - first:
+      213: 5771167006973265681
+    second: medival_tank_die_14
+  - first:
+      213: -1501673423698201193
+    second: medival_tank_die_15
+  - first:
+      213: 1285509115584699917
+    second: medival_tank_die_16
+  - first:
+      213: 4068085104768874101
+    second: medival_tank_die_17
+  - first:
+      213: -6833942736767375390
+    second: medival_tank_die_18
+  - first:
+      213: 5148885079709491398
+    second: medival_tank_die_19
+  - first:
+      213: 7869770673954149937
+    second: medival_tank_die_20
+  - first:
+      213: -4169004340766546015
+    second: medival_tank_die_21
+  - first:
+      213: -6410560594672368500
+    second: medival_tank_die_22
+  - first:
+      213: -2722973002133943186
+    second: medival_tank_die_23
+  - first:
+      213: 1436070708125731387
+    second: medival_tank_die_24
+  - first:
+      213: 3571703999552318741
+    second: medival_tank_die_25
+  - first:
+      213: -618951177361746799
+    second: medival_tank_die_26
+  - first:
+      213: 2324361972020563286
+    second: medival_tank_die_27
+  - first:
+      213: 1310538674139285457
+    second: medival_tank_die_28
+  - first:
+      213: 7280871310323353419
+    second: medival_tank_die_29
+  - first:
+      213: -5257539581351772707
+    second: medival_tank_die_30
+  - first:
+      213: -2243559421083271228
+    second: medival_tank_die_31
+  - first:
+      213: 4597844327875642083
+    second: medival_tank_die_32
+  - first:
+      213: 8706975530059359337
+    second: medival_tank_die_33
+  - first:
+      213: 3404994599438266986
+    second: medival_tank_die_34
+  - first:
+      213: -5203615057737713391
+    second: medival_tank_die_35
+  - first:
+      213: -6288217416517590715
+    second: medival_tank_die_36
+  - first:
+      213: -7489564742049069009
+    second: medival_tank_die_37
+  - first:
+      213: 20796613413667000
+    second: medival_tank_die_38
+  - first:
+      213: -2208006865459292106
+    second: medival_tank_die_39
+  - first:
+      213: 7609100854135991862
+    second: medival_tank_die_40
+  - first:
+      213: 2428217809564840022
+    second: medival_tank_die_41
+  - first:
+      213: -8209551243501578145
+    second: medival_tank_die_42
+  - first:
+      213: -2625788649981850620
+    second: medival_tank_die_43
+  - first:
+      213: -2223566409475112379
+    second: medival_tank_die_44
+  - first:
+      213: -3788141918144252298
+    second: medival_tank_die_45
+  - first:
+      213: 4951568572360359790
+    second: medival_tank_die_46
+  - first:
+      213: 6737619406824816236
+    second: medival_tank_die_47
+  - first:
+      213: -2340054372161640379
+    second: medival_tank_die_48
+  - first:
+      213: 5833677939271894520
+    second: medival_tank_die_49
+  - first:
+      213: 7970731132479745768
+    second: medival_tank_die_50
+  - first:
+      213: 2814979037540675443
+    second: medival_tank_die_51
+  - first:
+      213: 773741042602455080
+    second: medival_tank_die_52
+  - first:
+      213: -8557710638491429830
+    second: medival_tank_die_53
+  - first:
+      213: 8483978737435536803
+    second: medival_tank_die_54
+  - first:
+      213: 4883039165294890460
+    second: medival_tank_die_55
+  - first:
+      213: -3707697920938148834
+    second: medival_tank_die_56
+  - first:
+      213: -3363813018585918486
+    second: medival_tank_die_57
+  - first:
+      213: -8306680687869299322
+    second: medival_tank_die_58
+  - first:
+      213: -1695181340982317172
+    second: medival_tank_die_59
+  - first:
+      213: -8884509256629425065
+    second: medival_tank_die_60
+  - first:
+      213: -6922609848766544841
+    second: medival_tank_die_61
+  - first:
+      213: -1760964929410606362
+    second: medival_tank_die_62
+  - first:
+      213: 6965023044237834366
+    second: medival_tank_die_63
+  - first:
+      213: 8480786991068361631
+    second: medival_tank_die_64
+  - first:
+      213: 6423386360168146035
+    second: medival_tank_die_65
+  - first:
+      213: 5673639418151557676
+    second: medival_tank_die_66
+  - first:
+      213: -5204504891200380123
+    second: medival_tank_die_67
+  - first:
+      213: 2077404188619329723
+    second: medival_tank_die_68
+  - first:
+      213: -1024632802935126738
+    second: medival_tank_die_69
+  - first:
+      213: 6587472725033490827
+    second: medival_tank_die_70
+  - first:
+      213: -3345473145889153331
+    second: medival_tank_die_71
+  - first:
+      213: -5673377311645101500
+    second: medival_tank_die_72
+  - first:
+      213: 6418892817861711790
+    second: medival_tank_die_73
+  - first:
+      213: -7009512033398019204
+    second: medival_tank_die_74
+  - first:
+      213: -7471854623751345723
+    second: medival_tank_die_75
+  - first:
+      213: 5773524296216759161
+    second: medival_tank_die_76
+  - first:
+      213: -1738363952983088534
+    second: medival_tank_die_77
+  - first:
+      213: -486521340846085615
+    second: medival_tank_die_78
+  - first:
+      213: -6677011606671222202
+    second: medival_tank_die_79
+  - first:
+      213: 194653503714415547
+    second: medival_tank_die_80
+  - first:
+      213: 7395386576240079328
+    second: medival_tank_die_81
+  - first:
+      213: -8857033319535667085
+    second: medival_tank_die_82
+  - first:
+      213: 3144149945122982229
+    second: medival_tank_die_83
+  - first:
+      213: 3706626701920220650
+    second: medival_tank_die_84
+  - first:
+      213: 4054526622241002073
+    second: medival_tank_die_85
+  - first:
+      213: 185959688700921543
+    second: medival_tank_die_86
+  - first:
+      213: 7572591252396885710
+    second: medival_tank_die_87
+  - first:
+      213: 589606612872940486
+    second: medival_tank_die_88
+  - first:
+      213: -9023627205668378593
+    second: medival_tank_die_89
+  - first:
+      213: -2827659981522501854
+    second: medival_tank_die_90
+  - first:
+      213: 8543157794459606161
+    second: medival_tank_die_91
+  - first:
+      213: -3155223789435799710
+    second: medival_tank_die_92
+  - first:
+      213: -805532475683709610
+    second: medival_tank_die_93
+  - first:
+      213: 3699686329577035413
+    second: medival_tank_die_94
+  - first:
+      213: 4258205137375835123
+    second: medival_tank_die_95
+  - first:
+      213: 2596977278629517464
+    second: medival_tank_die_96
+  - first:
+      213: 6056945555488057012
+    second: medival_tank_die_97
+  - first:
+      213: -2571125554699008643
+    second: medival_tank_die_98
+  - first:
+      213: -6174107386771068686
+    second: medival_tank_die_99
+  - first:
+      213: 2918168462329661899
+    second: medival_tank_die_100
+  - first:
+      213: -5513162868772833953
+    second: medival_tank_die_101
+  - first:
+      213: -4603250411833361427
+    second: medival_tank_die_102
+  - first:
+      213: 4208375560480375253
+    second: medival_tank_die_103
+  - first:
+      213: 1376547715017790279
+    second: medival_tank_die_104
+  - first:
+      213: -4269927225035653812
+    second: medival_tank_die_105
+  - first:
+      213: -8094083260177571851
+    second: medival_tank_die_106
+  - first:
+      213: 5939310002408320621
+    second: medival_tank_die_107
+  - first:
+      213: -4060411798955412986
+    second: medival_tank_die_108
+  - first:
+      213: 2947139411809822166
+    second: medival_tank_die_109
+  - first:
+      213: -607089892996073170
+    second: medival_tank_die_110
+  - first:
+      213: -6524992872627846936
+    second: medival_tank_die_111
+  - first:
+      213: 3742598477032733853
+    second: medival_tank_die_112
+  - first:
+      213: -3703123899620793922
+    second: medival_tank_die_113
+  - first:
+      213: -459474263121792110
+    second: medival_tank_die_114
+  - first:
+      213: -303035464467627845
+    second: medival_tank_die_115
+  - first:
+      213: 8611560213170052701
+    second: medival_tank_die_116
+  - first:
+      213: -6295686371397895622
+    second: medival_tank_die_117
+  - first:
+      213: 3478577661950976893
+    second: medival_tank_die_118
+  - first:
+      213: -8252582753768514568
+    second: medival_tank_die_119
+  - first:
+      213: -5101728272552392034
+    second: medival_tank_die_120
+  - first:
+      213: -13699862224194638
+    second: medival_tank_die_121
+  - first:
+      213: 8894056347483902592
+    second: medival_tank_die_122
+  - first:
+      213: -8693548998236214997
+    second: medival_tank_die_123
+  - first:
+      213: 6610742212089159072
+    second: medival_tank_die_124
+  - first:
+      213: 2538600519101838172
+    second: medival_tank_die_125
+  - first:
+      213: 4401295651216361774
+    second: medival_tank_die_126
+  - first:
+      213: -6555812239561397724
+    second: medival_tank_die_127
+  - first:
+      213: 3463569823713080337
+    second: medival_tank_die_128
+  - first:
+      213: -5444557815550446892
+    second: medival_tank_die_129
+  - first:
+      213: 4462627102104830295
+    second: medival_tank_die_130
+  - first:
+      213: 968837300962745922
+    second: medival_tank_die_131
+  - first:
+      213: 3565007535384209951
+    second: medival_tank_die_132
+  - first:
+      213: -4067663409218671234
+    second: medival_tank_die_133
+  - first:
+      213: 9005540001041983252
+    second: medival_tank_die_134
+  - first:
+      213: 343872690780784192
+    second: medival_tank_die_135
+  - first:
+      213: -7944343304475368249
+    second: medival_tank_die_136
+  - first:
+      213: 8157020456714048786
+    second: medival_tank_die_137
+  - first:
+      213: 13940262757130486
+    second: medival_tank_die_138
+  - first:
+      213: -1759594708708868752
+    second: medival_tank_die_139
+  - first:
+      213: -1886054909811152378
+    second: medival_tank_die_140
+  - first:
+      213: 6736171659136468560
+    second: medival_tank_die_141
+  - first:
+      213: -6679503146883513655
+    second: medival_tank_die_142
+  - first:
+      213: 3154527048152297784
+    second: medival_tank_die_143
+  - first:
+      213: -5895551630709314153
+    second: medival_tank_die_144
+  - first:
+      213: -6525062667718072217
+    second: medival_tank_die_145
+  - first:
+      213: -2927232218661835529
+    second: medival_tank_die_146
+  - first:
+      213: 7185775085450199775
+    second: medival_tank_die_147
+  - first:
+      213: -8843904599194367382
+    second: medival_tank_die_148
+  - first:
+      213: 4002874185050591414
+    second: medival_tank_die_149
+  - first:
+      213: -2673214928376139020
+    second: medival_tank_die_150
+  - first:
+      213: -6639580635136802451
+    second: medival_tank_die_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_tank_die_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 960
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02edc0d16f0030400800000000000000
+      internalID: 289075858131181088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 960
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4154d5c2da2cb1f30800000000000000
+      internalID: 4547442297790088468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 960
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50408280999676170800000000000000
+      internalID: 8171616154874807301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 960
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19bbca31da83a2e0800000000000000
+      internalID: -2115694768694773477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 975
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a982f120df28a600800000000000000
+      internalID: 479685931284203938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 960
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f211b8083c034bd0800000000000000
+      internalID: -2647258721160195337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 973
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28421d4d27f127250800000000000000
+      internalID: 5940845436512314498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 960
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da084ec19ba6d70800000000000000
+      internalID: 9037239136016182652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 971
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd28a8f51192ef60800000000000000
+      internalID: 8062165806498721210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 960
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4744f6b0413b4f0800000000000000
+      internalID: -814285068279974729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 969
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a238634271ca4e0800000000000000
+      internalID: -1969173492766922184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 960
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3d47c00e728370800000000000000
+      internalID: 8323353603142925981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 967
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f97b8a8d92cfce50800000000000000
+      internalID: 6831893141634382324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_13
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 960
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9bc06cac99c4ae0800000000000000
+      internalID: -1563705874419238443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 965
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117881ed0dd471050800000000000000
+      internalID: 5771167006973265681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 960
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f2d33afbf82be0800000000000000
+      internalID: -1501673423698201193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 963
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed3fdcabb07d110800000000000000
+      internalID: 1285509115584699917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_17
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 960
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5767ec169ddb47830800000000000000
+      internalID: 4068085104768874101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_18
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 961
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ae97e945f821a0800000000000000
+      internalID: -6833942736767375390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a46533b3847740800000000000000
+      internalID: 5148885079709491398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136d2dc6bba073d60800000000000000
+      internalID: 7869770673954149937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a76c81f3a8b426c0800000000000000
+      internalID: -4169004340766546015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84cf6f8a1d1907a0800000000000000
+      internalID: -6410560594672368500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc3d24b7e063ad0800000000000000
+      internalID: -2722973002133943186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a8d2e43b2fde310800000000000000
+      internalID: 1436070708125731387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_25
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d68282ddd319130800000000000000
+      internalID: 3571703999552318741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1941b0cfe2b0967f0800000000000000
+      internalID: -618951177361746799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_27
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d46b706eac14020800000000000000
+      internalID: 2324361972020563286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7cb780bf7ff2210800000000000000
+      internalID: 1310538674139285457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_29
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 856
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47082b81e9da0560800000000000000
+      internalID: 7280871310323353419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 793
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb8fc3b977907b0800000000000000
+      internalID: -5257539581351772707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 792
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfb9d9e7964dd0e0800000000000000
+      internalID: -2243559421083271228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 793
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e282974e03decf30800000000000000
+      internalID: 4597844327875642083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 790
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964e431fc1465d870800000000000000
+      internalID: 8706975530059359337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 793
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6234a93c88f04f20800000000000000
+      internalID: 3404994599438266986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 789
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1197ba7ccab09c7b0800000000000000
+      internalID: -5203615057737713391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 793
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416b0a7393cbb8a0800000000000000
+      internalID: -6288217416517590715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 789
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2800eb6c88bf0890800000000000000
+      internalID: -7489564742049069009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 793
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b08d03e862e94000800000000000000
+      internalID: 20796613413667000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 789
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638dca254759b51e0800000000000000
+      internalID: -2208006865459292106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_40
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 793
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ea5ee79e4f89960800000000000000
+      internalID: 7609100854135991862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_41
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 789
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b3688b33c2b120800000000000000
+      internalID: 2428217809564840022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 793
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d8bdd3a0d11e80800000000000000
+      internalID: -8209551243501578145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_43
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 790
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c449682235f8bd0800000000000000
+      internalID: -2625788649981850620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_44
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 792
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542cebca12e4421e0800000000000000
+      internalID: -2223566409475112379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_45
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 790
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676be32fef0dd6bc0800000000000000
+      internalID: -3788141918144252298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_46
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 792
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff68cc16187b440800000000000000
+      internalID: 4951568572360359790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_47
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 790
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e329f2725d08d50800000000000000
+      internalID: 6737619406824816236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_48
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 792
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a43852f4768fd0800000000000000
+      internalID: -2340054372161640379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_49
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 790
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f585587d2365f050800000000000000
+      internalID: 5833677939271894520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_50
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 792
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2a97fbb9bd9e60800000000000000
+      internalID: 7970731132479745768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_51
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 790
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f68ce2580d01720800000000000000
+      internalID: 2814979037540675443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820b578f061ecba00800000000000000
+      internalID: 773741042602455080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a341326d387ec3980800000000000000
+      internalID: -8557710638491429830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adefce26b52db570800000000000000
+      internalID: 8483978737435536803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_55
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc8b7df3a04c340800000000000000
+      internalID: 4883039165294890460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_56
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cf608926c9b8cc0800000000000000
+      internalID: -3707697920938148834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae31a50c1e55151d0800000000000000
+      internalID: -3363813018585918486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_58
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685f3f0dcedb8bc80800000000000000
+      internalID: -8306680687869299322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_59
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe0e44d818978e0800000000000000
+      internalID: -1695181340982317172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_60
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ceeea37e1e3b480800000000000000
+      internalID: -8884509256629425065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_61
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73446a52503fdef90800000000000000
+      internalID: -6922609848766544841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_62
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 689
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea5f880abbcf87e0800000000000000
+      internalID: -1760964929410606362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 626
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b4347e8bb8a060800000000000000
+      internalID: 6965023044237834366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_64
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 623
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f933262d5dec1b570800000000000000
+      internalID: 8480786991068361631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_65
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 626
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37469ecacd3742950800000000000000
+      internalID: 6423386360168146035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 623
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ad3969df0dcbe40800000000000000
+      internalID: 5673639418151557676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 627
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e7384062e5c7b0800000000000000
+      internalID: -5204504891200380123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_68
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 623
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0509d5a1c64dc10800000000000000
+      internalID: 2077404188619329723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 623
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c6dbf4e5c7c1f0800000000000000
+      internalID: -1024632802935126738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 623
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89123f9a876b6b50800000000000000
+      internalID: 6587472725033490827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_71
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 623
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1bad16ed7291d0800000000000000
+      internalID: -3345473145889153331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 623
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44212a6d46d1441b0800000000000000
+      internalID: -5673377311645101500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_73
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 623
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea714f3520d741950800000000000000
+      internalID: 6418892817861711790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_74
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 623
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b2c7091f539be90800000000000000
+      internalID: -7009512033398019204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_75
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 623
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9e0f9aec3ae4890800000000000000
+      internalID: -7471854623751345723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_76
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 623
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b461a02cdaf1050800000000000000
+      internalID: 5773524296216759161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62691ce13710e7e0800000000000000
+      internalID: -1738363952983088534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae83f0b678f39f0800000000000000
+      internalID: -486521340846085615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a933fe15d7653a0800000000000000
+      internalID: -6677011606671222202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_80
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3de2f845c83b200800000000000000
+      internalID: 194653503714415547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_81
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17b7d98e0b1a660800000000000000
+      internalID: 7395386576240079328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37817495f1f751580800000000000000
+      internalID: -8857033319535667085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_83
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5598e9777b342ab20800000000000000
+      internalID: 3144149945122982229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_84
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5beeac855907330800000000000000
+      internalID: 3706626701920220650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_85
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521a0b2b72944830800000000000000
+      internalID: 4054526622241002073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_86
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68f830a59a49200800000000000000
+      internalID: 185959688700921543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_87
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 522
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c85c6f9f371960800000000000000
+      internalID: 7572591252396885710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_88
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 455
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb438d2714be2800800000000000000
+      internalID: 589606612872940486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 456
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e59c9dd2a5c280800000000000000
+      internalID: -9023627205668378593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 456
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f73c77a3222c8d0800000000000000
+      internalID: -2827659981522501854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 456
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdfde10c46f8670800000000000000
+      internalID: 8543157794459606161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_92
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26731db3ea46634d0800000000000000
+      internalID: -3155223789435799710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_93
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dd4d33b7c22d4f0800000000000000
+      internalID: -805532475683709610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_94
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596dece6d1de75330800000000000000
+      internalID: 3699686329577035413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_95
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3b702f20f281b30800000000000000
+      internalID: 4258205137375835123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_96
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898197653115a0420800000000000000
+      internalID: 2596977278629517464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_97
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62fb244e79e0450800000000000000
+      internalID: 6056945555488057012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_98
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 456
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d758c3f2ee6815cd0800000000000000
+      internalID: -2571125554699008643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f825662b0a215aa0800000000000000
+      internalID: -6174107386771068686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_100
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc948ef51ca6f7820800000000000000
+      internalID: 2918168462329661899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_101
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55fbe1b49f4d73b0800000000000000
+      internalID: -5513162868772833953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_102
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb7086b328fd10c0800000000000000
+      internalID: -4603250411833361427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_103
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d14edb7647276a30800000000000000
+      internalID: 4208375560480375253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743d2028ada7a1310800000000000000
+      internalID: 1376547715017790279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_105
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dfaf6dfcb2eb4c0800000000000000
+      internalID: -4269927225035653812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_106
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff1eaeb82a0caf80800000000000000
+      internalID: -8094083260177571851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_107
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ee878bafaac6250800000000000000
+      internalID: 5939310002408320621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_108
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60235795bf486a7c0800000000000000
+      internalID: -4060411798955412986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_109
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 355
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d56a703ea756e820800000000000000
+      internalID: 2947139411809822166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293d3575fe2397f0800000000000000
+      internalID: -607089892996073170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_111
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0cf01ad819275a0800000000000000
+      internalID: -6524992872627846936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_112
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c34785c7160f330800000000000000
+      internalID: 3742598477032733853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e7dbee6cdb9cc0800000000000000
+      internalID: -3703123899620793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_114
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f033979e9f99f0800000000000000
+      internalID: -459474263121792110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_115
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0cf02c9d66bcbf0800000000000000
+      internalID: -303035464467627845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_116
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e53eb4368628770800000000000000
+      internalID: 8611560213170052701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_117
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a7f87e99a31a8a0800000000000000
+      internalID: -6295686371397895622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_118
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73623804f3664030800000000000000
+      internalID: 3478577661950976893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_119
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbdc12a5bfe87d80800000000000000
+      internalID: -8252582753768514568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_120
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 289
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a82fd8a250339b0800000000000000
+      internalID: -5101728272552392034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3b7a24c045fcff0800000000000000
+      internalID: -13699862224194638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082161410290e6b70800000000000000
+      internalID: 8894056347483902592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b296daa1f3f4a5780800000000000000
+      internalID: -8693548998236214997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_124
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad114544031ebb50800000000000000
+      internalID: 6610742212089159072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_125
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ffa7d8bbea3320800000000000000
+      internalID: 2538600519101838172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e290932631b841d30800000000000000
+      internalID: 4401295651216361774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_127
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ae8c690831505a0800000000000000
+      internalID: -6555812239561397724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_128
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1143e256762111030800000000000000
+      internalID: 3463569823713080337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_129
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f905638b0174b0800000000000000
+      internalID: -5444557815550446892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_130
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514df194bf6eed30800000000000000
+      internalID: 4462627102104830295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_131
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 188
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e58016460027d00800000000000000
+      internalID: 968837300962745922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_132
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aaa281773797130800000000000000
+      internalID: 3565007535384209951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_133
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7daaa34ea1cc87c0800000000000000
+      internalID: -4067663409218671234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_134
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417ada4eaea1afc70800000000000000
+      internalID: 9005540001041983252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_135
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04642fde36ea5c400800000000000000
+      internalID: 343872690780784192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_136
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42ef20bd500c190800000000000000
+      internalID: -7944343304475368249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_137
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215190c33ee833170800000000000000
+      internalID: 8157020456714048786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_138
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e6b95896813000800000000000000
+      internalID: 13940262757130486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_139
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d30c66fe9a497e0800000000000000
+      internalID: -1759594708708868752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_140
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a23d16d0363d5e0800000000000000
+      internalID: -1886054909811152378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_141
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 122
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05602e82f60bb7d50800000000000000
+      internalID: 6736171659136468560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c287e50743ad43a0800000000000000
+      internalID: -6679503146883513655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_143
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831ba7b03a127cb20800000000000000
+      internalID: 3154527048152297784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_144
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79da890270bce2ea0800000000000000
+      internalID: -5895551630709314153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_145
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768608133125275a0800000000000000
+      internalID: -6525062667718072217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_146
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc25976ec16067d0800000000000000
+      internalID: -2927232218661835529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd28c1c4e5009b360800000000000000
+      internalID: 7185775085450199775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_148
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a8391cf93244580800000000000000
+      internalID: -8843904599194367382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_149
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b09588fcd01d8730800000000000000
+      internalID: 4002874185050591414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_150
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f27ed99f25d6ead0800000000000000
+      internalID: -2673214928376139020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_die_151
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 21
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61cb1127987bd3a0800000000000000
+      internalID: -6639580635136802451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_tank_die_0: 289075858131181088
+      medival_tank_die_1: 4547442297790088468
+      medival_tank_die_10: -1969173492766922184
+      medival_tank_die_100: 2918168462329661899
+      medival_tank_die_101: -5513162868772833953
+      medival_tank_die_102: -4603250411833361427
+      medival_tank_die_103: 4208375560480375253
+      medival_tank_die_104: 1376547715017790279
+      medival_tank_die_105: -4269927225035653812
+      medival_tank_die_106: -8094083260177571851
+      medival_tank_die_107: 5939310002408320621
+      medival_tank_die_108: -4060411798955412986
+      medival_tank_die_109: 2947139411809822166
+      medival_tank_die_11: 8323353603142925981
+      medival_tank_die_110: -607089892996073170
+      medival_tank_die_111: -6524992872627846936
+      medival_tank_die_112: 3742598477032733853
+      medival_tank_die_113: -3703123899620793922
+      medival_tank_die_114: -459474263121792110
+      medival_tank_die_115: -303035464467627845
+      medival_tank_die_116: 8611560213170052701
+      medival_tank_die_117: -6295686371397895622
+      medival_tank_die_118: 3478577661950976893
+      medival_tank_die_119: -8252582753768514568
+      medival_tank_die_12: 6831893141634382324
+      medival_tank_die_120: -5101728272552392034
+      medival_tank_die_121: -13699862224194638
+      medival_tank_die_122: 8894056347483902592
+      medival_tank_die_123: -8693548998236214997
+      medival_tank_die_124: 6610742212089159072
+      medival_tank_die_125: 2538600519101838172
+      medival_tank_die_126: 4401295651216361774
+      medival_tank_die_127: -6555812239561397724
+      medival_tank_die_128: 3463569823713080337
+      medival_tank_die_129: -5444557815550446892
+      medival_tank_die_13: -1563705874419238443
+      medival_tank_die_130: 4462627102104830295
+      medival_tank_die_131: 968837300962745922
+      medival_tank_die_132: 3565007535384209951
+      medival_tank_die_133: -4067663409218671234
+      medival_tank_die_134: 9005540001041983252
+      medival_tank_die_135: 343872690780784192
+      medival_tank_die_136: -7944343304475368249
+      medival_tank_die_137: 8157020456714048786
+      medival_tank_die_138: 13940262757130486
+      medival_tank_die_139: -1759594708708868752
+      medival_tank_die_14: 5771167006973265681
+      medival_tank_die_140: -1886054909811152378
+      medival_tank_die_141: 6736171659136468560
+      medival_tank_die_142: -6679503146883513655
+      medival_tank_die_143: 3154527048152297784
+      medival_tank_die_144: -5895551630709314153
+      medival_tank_die_145: -6525062667718072217
+      medival_tank_die_146: -2927232218661835529
+      medival_tank_die_147: 7185775085450199775
+      medival_tank_die_148: -8843904599194367382
+      medival_tank_die_149: 4002874185050591414
+      medival_tank_die_15: -1501673423698201193
+      medival_tank_die_150: -2673214928376139020
+      medival_tank_die_151: -6639580635136802451
+      medival_tank_die_16: 1285509115584699917
+      medival_tank_die_17: 4068085104768874101
+      medival_tank_die_18: -6833942736767375390
+      medival_tank_die_19: 5148885079709491398
+      medival_tank_die_2: 8171616154874807301
+      medival_tank_die_20: 7869770673954149937
+      medival_tank_die_21: -4169004340766546015
+      medival_tank_die_22: -6410560594672368500
+      medival_tank_die_23: -2722973002133943186
+      medival_tank_die_24: 1436070708125731387
+      medival_tank_die_25: 3571703999552318741
+      medival_tank_die_26: -618951177361746799
+      medival_tank_die_27: 2324361972020563286
+      medival_tank_die_28: 1310538674139285457
+      medival_tank_die_29: 7280871310323353419
+      medival_tank_die_3: -2115694768694773477
+      medival_tank_die_30: -5257539581351772707
+      medival_tank_die_31: -2243559421083271228
+      medival_tank_die_32: 4597844327875642083
+      medival_tank_die_33: 8706975530059359337
+      medival_tank_die_34: 3404994599438266986
+      medival_tank_die_35: -5203615057737713391
+      medival_tank_die_36: -6288217416517590715
+      medival_tank_die_37: -7489564742049069009
+      medival_tank_die_38: 20796613413667000
+      medival_tank_die_39: -2208006865459292106
+      medival_tank_die_4: 479685931284203938
+      medival_tank_die_40: 7609100854135991862
+      medival_tank_die_41: 2428217809564840022
+      medival_tank_die_42: -8209551243501578145
+      medival_tank_die_43: -2625788649981850620
+      medival_tank_die_44: -2223566409475112379
+      medival_tank_die_45: -3788141918144252298
+      medival_tank_die_46: 4951568572360359790
+      medival_tank_die_47: 6737619406824816236
+      medival_tank_die_48: -2340054372161640379
+      medival_tank_die_49: 5833677939271894520
+      medival_tank_die_5: -2647258721160195337
+      medival_tank_die_50: 7970731132479745768
+      medival_tank_die_51: 2814979037540675443
+      medival_tank_die_52: 773741042602455080
+      medival_tank_die_53: -8557710638491429830
+      medival_tank_die_54: 8483978737435536803
+      medival_tank_die_55: 4883039165294890460
+      medival_tank_die_56: -3707697920938148834
+      medival_tank_die_57: -3363813018585918486
+      medival_tank_die_58: -8306680687869299322
+      medival_tank_die_59: -1695181340982317172
+      medival_tank_die_6: 5940845436512314498
+      medival_tank_die_60: -8884509256629425065
+      medival_tank_die_61: -6922609848766544841
+      medival_tank_die_62: -1760964929410606362
+      medival_tank_die_63: 6965023044237834366
+      medival_tank_die_64: 8480786991068361631
+      medival_tank_die_65: 6423386360168146035
+      medival_tank_die_66: 5673639418151557676
+      medival_tank_die_67: -5204504891200380123
+      medival_tank_die_68: 2077404188619329723
+      medival_tank_die_69: -1024632802935126738
+      medival_tank_die_7: 9037239136016182652
+      medival_tank_die_70: 6587472725033490827
+      medival_tank_die_71: -3345473145889153331
+      medival_tank_die_72: -5673377311645101500
+      medival_tank_die_73: 6418892817861711790
+      medival_tank_die_74: -7009512033398019204
+      medival_tank_die_75: -7471854623751345723
+      medival_tank_die_76: 5773524296216759161
+      medival_tank_die_77: -1738363952983088534
+      medival_tank_die_78: -486521340846085615
+      medival_tank_die_79: -6677011606671222202
+      medival_tank_die_8: 8062165806498721210
+      medival_tank_die_80: 194653503714415547
+      medival_tank_die_81: 7395386576240079328
+      medival_tank_die_82: -8857033319535667085
+      medival_tank_die_83: 3144149945122982229
+      medival_tank_die_84: 3706626701920220650
+      medival_tank_die_85: 4054526622241002073
+      medival_tank_die_86: 185959688700921543
+      medival_tank_die_87: 7572591252396885710
+      medival_tank_die_88: 589606612872940486
+      medival_tank_die_89: -9023627205668378593
+      medival_tank_die_9: -814285068279974729
+      medival_tank_die_90: -2827659981522501854
+      medival_tank_die_91: 8543157794459606161
+      medival_tank_die_92: -3155223789435799710
+      medival_tank_die_93: -805532475683709610
+      medival_tank_die_94: 3699686329577035413
+      medival_tank_die_95: 4258205137375835123
+      medival_tank_die_96: 2596977278629517464
+      medival_tank_die_97: 6056945555488057012
+      medival_tank_die_98: -2571125554699008643
+      medival_tank_die_99: -6174107386771068686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 3c39c8c4abcdce349b52f7c32a973899
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4294252912406393829
+    second: medival_range_idle_attack_0
+  - first:
+      213: -196151321483062891
+    second: medival_range_idle_attack_1
+  - first:
+      213: 7789148775271494014
+    second: medival_range_idle_attack_2
+  - first:
+      213: 7907245246579281622
+    second: medival_range_idle_attack_3
+  - first:
+      213: -4714485141073182846
+    second: medival_range_idle_attack_4
+  - first:
+      213: 3957386589954774275
+    second: medival_range_idle_attack_5
+  - first:
+      213: -1674304412693355065
+    second: medival_range_idle_attack_6
+  - first:
+      213: -2843397609258543110
+    second: medival_range_idle_attack_7
+  - first:
+      213: 8434846712432857807
+    second: medival_range_idle_attack_8
+  - first:
+      213: -3618834846583534852
+    second: medival_range_idle_attack_9
+  - first:
+      213: 4877290909650416527
+    second: medival_range_idle_attack_10
+  - first:
+      213: 4513132669227134431
+    second: medival_range_idle_attack_11
+  - first:
+      213: -460756695869793095
+    second: medival_range_idle_attack_12
+  - first:
+      213: -5719704548922106364
+    second: medival_range_idle_attack_13
+  - first:
+      213: -5353775339316786752
+    second: medival_range_idle_attack_14
+  - first:
+      213: 6443132709036151649
+    second: medival_range_idle_attack_15
+  - first:
+      213: 6067440436591974496
+    second: medival_range_idle_attack_16
+  - first:
+      213: 2438687202151310503
+    second: medival_range_idle_attack_17
+  - first:
+      213: -2526499437292985951
+    second: medival_range_idle_attack_18
+  - first:
+      213: -2800044144304261209
+    second: medival_range_idle_attack_19
+  - first:
+      213: -941989493328741955
+    second: medival_range_idle_attack_20
+  - first:
+      213: -9143232286680710116
+    second: medival_range_idle_attack_21
+  - first:
+      213: 782121256202404961
+    second: medival_range_idle_attack_22
+  - first:
+      213: 2412640155121011974
+    second: medival_range_idle_attack_23
+  - first:
+      213: 1948807240754794381
+    second: medival_range_idle_attack_24
+  - first:
+      213: -8700817175530608295
+    second: medival_range_idle_attack_25
+  - first:
+      213: -1790954836212174248
+    second: medival_range_idle_attack_26
+  - first:
+      213: -1122900420616371961
+    second: medival_range_idle_attack_27
+  - first:
+      213: -6297447219674779409
+    second: medival_range_idle_attack_28
+  - first:
+      213: 6430714147413539118
+    second: medival_range_idle_attack_29
+  - first:
+      213: 6801751524428382883
+    second: medival_range_idle_attack_30
+  - first:
+      213: -6769718009115301189
+    second: medival_range_idle_attack_31
+  - first:
+      213: -2379732865973261039
+    second: medival_range_idle_attack_32
+  - first:
+      213: 6864036088571520435
+    second: medival_range_idle_attack_33
+  - first:
+      213: 50144727350835342
+    second: medival_range_idle_attack_34
+  - first:
+      213: 2167620510115943815
+    second: medival_range_idle_attack_35
+  - first:
+      213: 7038632980960476275
+    second: medival_range_idle_attack_36
+  - first:
+      213: 4264836464680965988
+    second: medival_range_idle_attack_37
+  - first:
+      213: 7819296383485012342
+    second: medival_range_idle_attack_38
+  - first:
+      213: -8016576839337120963
+    second: medival_range_idle_attack_39
+  - first:
+      213: -6094829944150630682
+    second: medival_range_idle_attack_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_range_idle_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 63
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e37bab9540489b30800000000000000
+      internalID: 4294252912406393829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 192
+        width: 86
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59157c09961274df0800000000000000
+      internalID: -196151321483062891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71f9bcda8d981c60800000000000000
+      internalID: 7789148775271494014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 256
+        width: 55
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de014a48ad2cbd60800000000000000
+      internalID: 7907245246579281622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 427
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fb97b1eb8c29eb0800000000000000
+      internalID: -4714485141073182846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305162de2267be630800000000000000
+      internalID: 3957386589954774275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 55
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c52b8be10da3c8e0800000000000000
+      internalID: -1674304412693355065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af713f870f83a88d0800000000000000
+      internalID: -2843397609258543110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 256
+        width: 55
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc29e6d25689e0570800000000000000
+      internalID: 8434846712432857807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa459461e057cdc0800000000000000
+      internalID: -3618834846583534852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 256
+        width: 59
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8374f7cd3e9fa340800000000000000
+      internalID: 4877290909650416527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6e75404ed1ae30800000000000000
+      internalID: 4513132669227134431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 256
+        width: 59
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5ccee9301b99f0800000000000000
+      internalID: -460756695869793095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 256
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40edf4d54078f90b0800000000000000
+      internalID: -5719704548922106364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9c6c4c1b193b5b0800000000000000
+      internalID: -5353775339316786752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 256
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163dccacf0b9a6950800000000000000
+      internalID: 6443132709036151649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 256
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068d7ee2ee0e33450800000000000000
+      internalID: 6067440436591974496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 427
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a42582f615f7d120800000000000000
+      internalID: 2438687202151310503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 427
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16de2d52210fcd0800000000000000
+      internalID: -2526499437292985951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 427
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7f45f9fae3429d0800000000000000
+      internalID: -2800044144304261209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_20
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 427
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db97df3fb816de2f0800000000000000
+      internalID: -941989493328741955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 426
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14838d9da6bc1180800000000000000
+      internalID: -9143232286680710116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 426
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1640a3f7327aada00800000000000000
+      internalID: 782121256202404961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_23
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 426
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc4d8307b6b7120800000000000000
+      internalID: 2412640155121011974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_24
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 426
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f06e83cdd8b0b10800000000000000
+      internalID: 1948807240754794381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 362
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95961e4b0ec704780800000000000000
+      internalID: -8700817175530608295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 362
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8523ecab0104527e0800000000000000
+      internalID: -1790954836212174248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 362
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701460f4408aa60f0800000000000000
+      internalID: -1122900420616371961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 361
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe073877e19fa98a0800000000000000
+      internalID: -6297447219674779409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 361
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b9a8127c7e3950800000000000000
+      internalID: 6430714147413539118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_30
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 361
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2860869fca46e50800000000000000
+      internalID: 6801751524428382883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 361
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba2e1596512d02a0800000000000000
+      internalID: -6769718009115301189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 361
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d6757119d79fed0800000000000000
+      internalID: -2379732865973261039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_33
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 361
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b564c09474f14f50800000000000000
+      internalID: 6864036088571520435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_34
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 360
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88fa152d5622b000800000000000000
+      internalID: 50144727350835342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_35
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 360
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785df419e5fe41e10800000000000000
+      internalID: 2167620510115943815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 296
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c7f76676f3ea160800000000000000
+      internalID: 7038632980960476275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 296
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46711762b2ebf2b30800000000000000
+      internalID: 4264836464680965988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 296
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ee13e1a8b38c60800000000000000
+      internalID: 7819296383485012342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 296
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3befa896d56fb090800000000000000
+      internalID: -8016576839337120963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_range_idle_attack_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eedc742570da6ba0800000000000000
+      internalID: -6094829944150630682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_range_idle_attack_0: 4294252912406393829
+      medival_range_idle_attack_1: -196151321483062891
+      medival_range_idle_attack_10: 4877290909650416527
+      medival_range_idle_attack_11: 4513132669227134431
+      medival_range_idle_attack_12: -460756695869793095
+      medival_range_idle_attack_13: -5719704548922106364
+      medival_range_idle_attack_14: -5353775339316786752
+      medival_range_idle_attack_15: 6443132709036151649
+      medival_range_idle_attack_16: 6067440436591974496
+      medival_range_idle_attack_17: 2438687202151310503
+      medival_range_idle_attack_18: -2526499437292985951
+      medival_range_idle_attack_19: -2800044144304261209
+      medival_range_idle_attack_2: 7789148775271494014
+      medival_range_idle_attack_20: -941989493328741955
+      medival_range_idle_attack_21: -9143232286680710116
+      medival_range_idle_attack_22: 782121256202404961
+      medival_range_idle_attack_23: 2412640155121011974
+      medival_range_idle_attack_24: 1948807240754794381
+      medival_range_idle_attack_25: -8700817175530608295
+      medival_range_idle_attack_26: -1790954836212174248
+      medival_range_idle_attack_27: -1122900420616371961
+      medival_range_idle_attack_28: -6297447219674779409
+      medival_range_idle_attack_29: 6430714147413539118
+      medival_range_idle_attack_3: 7907245246579281622
+      medival_range_idle_attack_30: 6801751524428382883
+      medival_range_idle_attack_31: -6769718009115301189
+      medival_range_idle_attack_32: -2379732865973261039
+      medival_range_idle_attack_33: 6864036088571520435
+      medival_range_idle_attack_34: 50144727350835342
+      medival_range_idle_attack_35: 2167620510115943815
+      medival_range_idle_attack_36: 7038632980960476275
+      medival_range_idle_attack_37: 4264836464680965988
+      medival_range_idle_attack_38: 7819296383485012342
+      medival_range_idle_attack_39: -8016576839337120963
+      medival_range_idle_attack_4: -4714485141073182846
+      medival_range_idle_attack_40: -6094829944150630682
+      medival_range_idle_attack_5: 3957386589954774275
+      medival_range_idle_attack_6: -1674304412693355065
+      medival_range_idle_attack_7: -2843397609258543110
+      medival_range_idle_attack_8: 8434846712432857807
+      medival_range_idle_attack_9: -3618834846583534852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

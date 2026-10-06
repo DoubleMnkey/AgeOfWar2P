@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: 1943f61b97a222146b25deed928179b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7916491019691725549
+    second: cave_range_idle_0
+  - first:
+      213: 5755295607607066307
+    second: cave_range_idle_1
+  - first:
+      213: -341035361483568314
+    second: cave_range_idle_2
+  - first:
+      213: 3881410259335992087
+    second: cave_range_idle_3
+  - first:
+      213: 1302181403123292924
+    second: cave_range_idle_4
+  - first:
+      213: -7607474917613244332
+    second: cave_range_idle_5
+  - first:
+      213: 4644597743589564522
+    second: cave_range_idle_6
+  - first:
+      213: -3538220363430256488
+    second: cave_range_idle_7
+  - first:
+      213: 1355043773857015266
+    second: cave_range_idle_8
+  - first:
+      213: -95068103633721180
+    second: cave_range_idle_9
+  - first:
+      213: -9096476572467897395
+    second: cave_range_idle_10
+  - first:
+      213: -4929566396894363308
+    second: cave_range_idle_11
+  - first:
+      213: -7278227358520349722
+    second: cave_range_idle_12
+  - first:
+      213: 1181246282342701428
+    second: cave_range_idle_13
+  - first:
+      213: 2611033020337410772
+    second: cave_range_idle_14
+  - first:
+      213: 1492059240959628025
+    second: cave_range_idle_15
+  - first:
+      213: 243918052959789688
+    second: cave_range_idle_16
+  - first:
+      213: -7001405400215809083
+    second: cave_range_idle_17
+  - first:
+      213: -6413968728965466864
+    second: cave_range_idle_18
+  - first:
+      213: -6283906111734572828
+    second: cave_range_idle_19
+  - first:
+      213: -4860282346509857844
+    second: cave_range_idle_20
+  - first:
+      213: -793610307042320840
+    second: cave_range_idle_21
+  - first:
+      213: -4385407650273020836
+    second: cave_range_idle_22
+  - first:
+      213: 1379384259644149129
+    second: cave_range_idle_23
+  - first:
+      213: -2214777162948626101
+    second: cave_range_idle_24
+  - first:
+      213: 1341346399276682458
+    second: cave_range_idle_25
+  - first:
+      213: -2198780538201924222
+    second: cave_range_idle_26
+  - first:
+      213: -4440942402089482333
+    second: cave_range_idle_27
+  - first:
+      213: 5760503348940686355
+    second: cave_range_idle_28
+  - first:
+      213: -4869373511457415334
+    second: cave_range_idle_29
+  - first:
+      213: -4117802754099069830
+    second: cave_range_idle_30
+  - first:
+      213: -8739019925165177016
+    second: cave_range_idle_31
+  - first:
+      213: -5275164403224214132
+    second: cave_range_idle_32
+  - first:
+      213: -1263371803547731808
+    second: cave_range_idle_33
+  - first:
+      213: -5995101793955173886
+    second: cave_range_idle_34
+  - first:
+      213: -2681412928533664459
+    second: cave_range_idle_35
+  - first:
+      213: 4373903628807885261
+    second: cave_range_idle_36
+  - first:
+      213: 7021179770601794515
+    second: cave_range_idle_37
+  - first:
+      213: -5747477193737767973
+    second: cave_range_idle_38
+  - first:
+      213: -7949542667235793781
+    second: cave_range_idle_39
+  - first:
+      213: -5427876107758829495
+    second: cave_range_idle_40
+  - first:
+      213: 6306412272362689270
+    second: cave_range_idle_41
+  - first:
+      213: -2934812187164643828
+    second: cave_range_idle_42
+  - first:
+      213: -5280899501803087507
+    second: cave_range_idle_43
+  - first:
+      213: -518386394787874475
+    second: cave_range_idle_44
+  - first:
+      213: -8195289227263015118
+    second: cave_range_idle_45
+  - first:
+      213: 8319509023676968880
+    second: cave_range_idle_46
+  - first:
+      213: 8674972792935194122
+    second: cave_range_idle_47
+  - first:
+      213: -4184951890819887089
+    second: cave_range_idle_48
+  - first:
+      213: -4526454434361493022
+    second: cave_range_idle_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_range_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 58
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de29b4893a60ddd60800000000000000
+      internalID: 7916491019691725549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 58
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef8ccbcdaeedf40800000000000000
+      internalID: 5755295607607066307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bcce64526644bf0800000000000000
+      internalID: -341035361483568314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7135747f01a8dd530800000000000000
+      internalID: 3881410259335992087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa984e3617421210800000000000000
+      internalID: 1302181403123292924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f7f95ed1dc6690800000000000000
+      internalID: -7607474917613244332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ac372a0de47040800000000000000
+      internalID: 4644597743589564522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890afa46357b5eec0800000000000000
+      internalID: -3538220363430256488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52adb02251ec210800000000000000
+      internalID: 1355043773857015266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8217d30104eaef0800000000000000
+      internalID: -95068103633721180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5366a0c2d2c180800000000000000
+      internalID: -9096476572467897395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c860ea79a69bb0800000000000000
+      internalID: -4929566396894363308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb6dd477ca8efa90800000000000000
+      internalID: -7278227358520349722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 677
+        width: 60
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479994b3c31a46010800000000000000
+      internalID: 1181246282342701428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d60ab2b04c3420800000000000000
+      internalID: 2611033020337410772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 677
+        width: 60
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2dc3179fbd4b410800000000000000
+      internalID: 1492059240959628025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87229f44d22926300800000000000000
+      internalID: 243918052959789688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 677
+        width: 60
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c392af22e206de90800000000000000
+      internalID: -7001405400215809083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015bc857c610df6a0800000000000000
+      internalID: -6413968728965466864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e897285fa41bc8a0800000000000000
+      internalID: -6283906111734572828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8d2ce4fecc8cb0800000000000000
+      internalID: -4860282346509857844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e57a661a78cf4f0800000000000000
+      internalID: -793610307042320840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54323a1af6e323c0800000000000000
+      internalID: -4385407650273020836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dcad40dae842310800000000000000
+      internalID: 1379384259644149129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49bcc997e78341e0800000000000000
+      internalID: -2214777162948626101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc2a1817b6d9210800000000000000
+      internalID: 1341346399276682458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d9e6900cc5c71e0800000000000000
+      internalID: -2198780538201924222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a78c771a6a9e52c0800000000000000
+      internalID: -4440942402089482333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314ce01864b61ff40800000000000000
+      internalID: 5760503348940686355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_29
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f52e227928c6cb0800000000000000
+      internalID: -4869373511457415334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_30
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cbcc25630aad6c0800000000000000
+      internalID: -4117802754099069830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847087beda3c8b680800000000000000
+      internalID: -8739019925165177016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_32
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85090e9ce9dac6b0800000000000000
+      internalID: -5275164403224214132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_33
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 677
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8fa4ec90a977ee0800000000000000
+      internalID: -1263371803547731808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 58
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aaefa8eae1dcca0800000000000000
+      internalID: -5995101793955173886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d6c92f525b9cad0800000000000000
+      internalID: -2681412928533664459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1d2ec2d2a33bc30800000000000000
+      internalID: 4373903628807885261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe0e23dcd307160800000000000000
+      internalID: 7021179770601794515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f99891fbdc30b0800000000000000
+      internalID: -5747477193737767973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b846998001d8da190800000000000000
+      internalID: -7949542667235793781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9408438207f4ca4b0800000000000000
+      internalID: -5427876107758829495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 504
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f297558c80e48750800000000000000
+      internalID: 6306412272362689270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 504
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e60957dd37547d0800000000000000
+      internalID: -2934812187164643828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_43
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 504
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695d7ce1e976b6b0800000000000000
+      internalID: -5280899501803087507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 505
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f54a02525ec8f0800000000000000
+      internalID: -518386394787874475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 505
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23707694edb744e80800000000000000
+      internalID: -8195289227263015118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_46
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 505
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2cedd065d47370800000000000000
+      internalID: 8319509023676968880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_47
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 505
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e941f0bc1b36870800000000000000
+      internalID: 8674972792935194122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 505
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d4999d601ce5c0800000000000000
+      internalID: -4184951890819887089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_idle_49
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 504
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e934e39cadce21c0800000000000000
+      internalID: -4526454434361493022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_range_idle_0: 7916491019691725549
+      cave_range_idle_1: 5755295607607066307
+      cave_range_idle_10: -9096476572467897395
+      cave_range_idle_11: -4929566396894363308
+      cave_range_idle_12: -7278227358520349722
+      cave_range_idle_13: 1181246282342701428
+      cave_range_idle_14: 2611033020337410772
+      cave_range_idle_15: 1492059240959628025
+      cave_range_idle_16: 243918052959789688
+      cave_range_idle_17: -7001405400215809083
+      cave_range_idle_18: -6413968728965466864
+      cave_range_idle_19: -6283906111734572828
+      cave_range_idle_2: -341035361483568314
+      cave_range_idle_20: -4860282346509857844
+      cave_range_idle_21: -793610307042320840
+      cave_range_idle_22: -4385407650273020836
+      cave_range_idle_23: 1379384259644149129
+      cave_range_idle_24: -2214777162948626101
+      cave_range_idle_25: 1341346399276682458
+      cave_range_idle_26: -2198780538201924222
+      cave_range_idle_27: -4440942402089482333
+      cave_range_idle_28: 5760503348940686355
+      cave_range_idle_29: -4869373511457415334
+      cave_range_idle_3: 3881410259335992087
+      cave_range_idle_30: -4117802754099069830
+      cave_range_idle_31: -8739019925165177016
+      cave_range_idle_32: -5275164403224214132
+      cave_range_idle_33: -1263371803547731808
+      cave_range_idle_34: -5995101793955173886
+      cave_range_idle_35: -2681412928533664459
+      cave_range_idle_36: 4373903628807885261
+      cave_range_idle_37: 7021179770601794515
+      cave_range_idle_38: -5747477193737767973
+      cave_range_idle_39: -7949542667235793781
+      cave_range_idle_4: 1302181403123292924
+      cave_range_idle_40: -5427876107758829495
+      cave_range_idle_41: 6306412272362689270
+      cave_range_idle_42: -2934812187164643828
+      cave_range_idle_43: -5280899501803087507
+      cave_range_idle_44: -518386394787874475
+      cave_range_idle_45: -8195289227263015118
+      cave_range_idle_46: 8319509023676968880
+      cave_range_idle_47: 8674972792935194122
+      cave_range_idle_48: -4184951890819887089
+      cave_range_idle_49: -4526454434361493022
+      cave_range_idle_5: -7607474917613244332
+      cave_range_idle_6: 4644597743589564522
+      cave_range_idle_7: -3538220363430256488
+      cave_range_idle_8: 1355043773857015266
+      cave_range_idle_9: -95068103633721180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://yqag6mhrt4bt"
+path="res://.godot/imported/knight_tank_die.mp3-4daa906b18dd61e1824a4e72784fc20b.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/knight_tank_die.mp3"
+dest_files=["res://.godot/imported/knight_tank_die.mp3-4daa906b18dd61e1824a4e72784fc20b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,1250 @@
+fileFormatVersion: 2
+guid: 6ff7bd83bba4aa34daf573ba20856d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1695475435569081968
+    second: cave_range_walk_0
+  - first:
+      213: 7684993286975201515
+    second: cave_range_walk_1
+  - first:
+      213: -7774726056928451933
+    second: cave_range_walk_2
+  - first:
+      213: 8729504573209100720
+    second: cave_range_walk_3
+  - first:
+      213: -7219212006264721701
+    second: cave_range_walk_4
+  - first:
+      213: 4723608518885361746
+    second: cave_range_walk_5
+  - first:
+      213: -2927850151876233678
+    second: cave_range_walk_6
+  - first:
+      213: -2530578621139763671
+    second: cave_range_walk_7
+  - first:
+      213: -6553105400563355595
+    second: cave_range_walk_8
+  - first:
+      213: 4763787895517499060
+    second: cave_range_walk_9
+  - first:
+      213: 4203260770141042836
+    second: cave_range_walk_10
+  - first:
+      213: -53716437795100579
+    second: cave_range_walk_11
+  - first:
+      213: -8274622446444988794
+    second: cave_range_walk_12
+  - first:
+      213: 2416887466416003692
+    second: cave_range_walk_13
+  - first:
+      213: 7175613528468724165
+    second: cave_range_walk_14
+  - first:
+      213: 2154836055626816835
+    second: cave_range_walk_15
+  - first:
+      213: -5608192144071572091
+    second: cave_range_walk_16
+  - first:
+      213: 4471550749383187612
+    second: cave_range_walk_17
+  - first:
+      213: 2634951028661408045
+    second: cave_range_walk_18
+  - first:
+      213: 8993460075951119677
+    second: cave_range_walk_19
+  - first:
+      213: 8309453443453640454
+    second: cave_range_walk_20
+  - first:
+      213: -4107494568073565605
+    second: cave_range_walk_21
+  - first:
+      213: 5943783941468953662
+    second: cave_range_walk_22
+  - first:
+      213: -6222466813543537510
+    second: cave_range_walk_23
+  - first:
+      213: 9047708210468412193
+    second: cave_range_walk_24
+  - first:
+      213: -2733208035968328834
+    second: cave_range_walk_25
+  - first:
+      213: 1725016578591480289
+    second: cave_range_walk_26
+  - first:
+      213: 4635339771720677444
+    second: cave_range_walk_27
+  - first:
+      213: 2954038904740706476
+    second: cave_range_walk_28
+  - first:
+      213: -665891119136100061
+    second: cave_range_walk_29
+  - first:
+      213: -8588578234061034025
+    second: cave_range_walk_30
+  - first:
+      213: -5309403815871512778
+    second: cave_range_walk_31
+  - first:
+      213: 8669476727652655118
+    second: cave_range_walk_32
+  - first:
+      213: 6677013295554103905
+    second: cave_range_walk_33
+  - first:
+      213: 5341928876796607551
+    second: cave_range_walk_34
+  - first:
+      213: 8112169966018299917
+    second: cave_range_walk_35
+  - first:
+      213: -1393978189786163812
+    second: cave_range_walk_36
+  - first:
+      213: 3068315908307381770
+    second: cave_range_walk_37
+  - first:
+      213: 5638582379169629103
+    second: cave_range_walk_38
+  - first:
+      213: -8349140390008223000
+    second: cave_range_walk_39
+  - first:
+      213: -3039468734514896568
+    second: cave_range_walk_40
+  - first:
+      213: 2901480252657525073
+    second: cave_range_walk_41
+  - first:
+      213: -7391140354851392539
+    second: cave_range_walk_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_range_walk_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 850
+        width: 94
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eee76fce9878710800000000000000
+      internalID: 1695475435569081968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 676
+        width: 62
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be02b6b7da496aa60800000000000000
+      internalID: 7684993286975201515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 850
+        width: 89
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a26ecee7df9a1490800000000000000
+      internalID: -7774726056928451933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 676
+        width: 63
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1c64f882e652970800000000000000
+      internalID: 8729504573209100720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 850
+        width: 83
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2b58ede430db90800000000000000
+      internalID: -7219212006264721701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 676
+        width: 64
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258cb22dbe0ad8140800000000000000
+      internalID: 4723608518885361746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 850
+        width: 78
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f7dd9ccf2e57d0800000000000000
+      internalID: -2927850151876233678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 675
+        width: 70
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e34c2d62491ecd0800000000000000
+      internalID: -2530578621139763671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 850
+        width: 72
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5303ab7ab51be05a0800000000000000
+      internalID: -6553105400563355595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 850
+        width: 71
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be40a1f9df5c1240800000000000000
+      internalID: 4763787895517499060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 851
+        width: 69
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498779e866bf45a30800000000000000
+      internalID: 4203260770141042836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 851
+        width: 66
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58af963f29214ff0800000000000000
+      internalID: -53716437795100579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_12
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 850
+        width: 61
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6863c2dc9b2aa2d80800000000000000
+      internalID: -8274622446444988794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 675
+        width: 80
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad1d178528a8120800000000000000
+      internalID: 2416887466416003692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 675
+        width: 91
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c99dd17c76e49360800000000000000
+      internalID: 7175613528468724165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 676
+        width: 94
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d17dcc9f387ed10800000000000000
+      internalID: 2154836055626816835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 677
+        width: 95
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5854a7c55f2bb22b0800000000000000
+      internalID: -5608192144071572091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_17
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 679
+        width: 97
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cdd1c17b32e0e30800000000000000
+      internalID: 4471550749383187612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 507
+        width: 98
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d9effff9319420800000000000000
+      internalID: 2634951028661408045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 506
+        width: 99
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d59b82a403fcc70800000000000000
+      internalID: 8993460075951119677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 504
+        width: 99
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f53b6a1eb115370800000000000000
+      internalID: 8309453443453640454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 502
+        width: 99
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae029e37f3ff6c0800000000000000
+      internalID: -4107494568073565605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 502
+        width: 93
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9de4d0009c7250800000000000000
+      internalID: 5943783941468953662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 502
+        width: 89
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a410b66b55a9a0800000000000000
+      internalID: -6222466813543537510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_24
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 502
+        width: 86
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bda5c3eaaef8d70800000000000000
+      internalID: 9047708210468412193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_25
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 502
+        width: 83
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b5ddeb5c1b11ad0800000000000000
+      internalID: -2733208035968328834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_26
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 503
+        width: 80
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9da9e407d70f710800000000000000
+      internalID: 1725016578591480289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 328
+        width: 76
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b6aa96f8045040800000000000000
+      internalID: 4635339771720677444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 329
+        width: 72
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f0c19bbadef820800000000000000
+      internalID: 2954038904740706476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 328
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3213ec02e8742c6f0800000000000000
+      internalID: -665891119136100061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 328
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde321b99d3fc880800000000000000
+      internalID: -8588578234061034025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_31
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 328
+        width: 64
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fffd12c553156b0800000000000000
+      internalID: -5309403815871512778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 328
+        width: 63
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a044a62b205870800000000000000
+      internalID: 8669476727652655118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 328
+        width: 72
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a001a473489ac50800000000000000
+      internalID: 6677013295554103905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 327
+        width: 83
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cfcdcb208522a40800000000000000
+      internalID: 5341928876796607551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 327
+        width: 94
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d080d1e9a97349070800000000000000
+      internalID: 8112169966018299917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 154
+        width: 94
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955725d83897ace0800000000000000
+      internalID: -1393978189786163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 155
+        width: 95
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e675ddf09d49a20800000000000000
+      internalID: 3068315908307381770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 156
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ce23acc4404e40800000000000000
+      internalID: 5638582379169629103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_39
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 95
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea81b90d05e12c80800000000000000
+      internalID: -8349140390008223000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 96
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841655d2a43a1d5d0800000000000000
+      internalID: -3039468734514896568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 156
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1516676cae0244820800000000000000
+      internalID: 2901480252657525073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_walk_42
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 154
+        width: 94
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33708d1056d6990800000000000000
+      internalID: -7391140354851392539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_range_walk_0: 1695475435569081968
+      cave_range_walk_1: 7684993286975201515
+      cave_range_walk_10: 4203260770141042836
+      cave_range_walk_11: -53716437795100579
+      cave_range_walk_12: -8274622446444988794
+      cave_range_walk_13: 2416887466416003692
+      cave_range_walk_14: 7175613528468724165
+      cave_range_walk_15: 2154836055626816835
+      cave_range_walk_16: -5608192144071572091
+      cave_range_walk_17: 4471550749383187612
+      cave_range_walk_18: 2634951028661408045
+      cave_range_walk_19: 8993460075951119677
+      cave_range_walk_2: -7774726056928451933
+      cave_range_walk_20: 8309453443453640454
+      cave_range_walk_21: -4107494568073565605
+      cave_range_walk_22: 5943783941468953662
+      cave_range_walk_23: -6222466813543537510
+      cave_range_walk_24: 9047708210468412193
+      cave_range_walk_25: -2733208035968328834
+      cave_range_walk_26: 1725016578591480289
+      cave_range_walk_27: 4635339771720677444
+      cave_range_walk_28: 2954038904740706476
+      cave_range_walk_29: -665891119136100061
+      cave_range_walk_3: 8729504573209100720
+      cave_range_walk_30: -8588578234061034025
+      cave_range_walk_31: -5309403815871512778
+      cave_range_walk_32: 8669476727652655118
+      cave_range_walk_33: 6677013295554103905
+      cave_range_walk_34: 5341928876796607551
+      cave_range_walk_35: 8112169966018299917
+      cave_range_walk_36: -1393978189786163812
+      cave_range_walk_37: 3068315908307381770
+      cave_range_walk_38: 5638582379169629103
+      cave_range_walk_39: -8349140390008223000
+      cave_range_walk_4: -7219212006264721701
+      cave_range_walk_40: -3039468734514896568
+      cave_range_walk_41: 2901480252657525073
+      cave_range_walk_42: -7391140354851392539
+      cave_range_walk_5: 4723608518885361746
+      cave_range_walk_6: -2927850151876233678
+      cave_range_walk_7: -2530578621139763671
+      cave_range_walk_8: -6553105400563355595
+      cave_range_walk_9: 4763787895517499060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

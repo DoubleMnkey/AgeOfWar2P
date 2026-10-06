@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: c442c64b3092b824d928e9a57bae6418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9065058957887524607
+    second: cave_tank_attack_0
+  - first:
+      213: 7051767412801336798
+    second: cave_tank_attack_1
+  - first:
+      213: -3526600696976907678
+    second: cave_tank_attack_2
+  - first:
+      213: 1557394524120843051
+    second: cave_tank_attack_3
+  - first:
+      213: 7243233446503074096
+    second: cave_tank_attack_4
+  - first:
+      213: 3810870476728136232
+    second: cave_tank_attack_5
+  - first:
+      213: 3667030708610140797
+    second: cave_tank_attack_6
+  - first:
+      213: 3395675956850950732
+    second: cave_tank_attack_7
+  - first:
+      213: -2638972114332342623
+    second: cave_tank_attack_8
+  - first:
+      213: -350368682568138900
+    second: cave_tank_attack_9
+  - first:
+      213: 1264160586677714766
+    second: cave_tank_attack_10
+  - first:
+      213: -4458116001959826621
+    second: cave_tank_attack_11
+  - first:
+      213: -4090881562253722874
+    second: cave_tank_attack_12
+  - first:
+      213: 1601059444147483605
+    second: cave_tank_attack_13
+  - first:
+      213: 4221233333212568529
+    second: cave_tank_attack_14
+  - first:
+      213: 3082681191726851508
+    second: cave_tank_attack_15
+  - first:
+      213: -2639132473944277195
+    second: cave_tank_attack_16
+  - first:
+      213: 2815201426492965525
+    second: cave_tank_attack_17
+  - first:
+      213: 1412742801656877507
+    second: cave_tank_attack_18
+  - first:
+      213: 5232908926049105285
+    second: cave_tank_attack_19
+  - first:
+      213: -8013305681073113542
+    second: cave_tank_attack_20
+  - first:
+      213: 4686437769467647513
+    second: cave_tank_attack_21
+  - first:
+      213: -6094745357201564061
+    second: cave_tank_attack_22
+  - first:
+      213: 3171940661637596127
+    second: cave_tank_attack_23
+  - first:
+      213: 2276513332275343391
+    second: cave_tank_attack_24
+  - first:
+      213: 8276923596979621375
+    second: cave_tank_attack_25
+  - first:
+      213: -1010304825531896796
+    second: cave_tank_attack_26
+  - first:
+      213: -8855078056454861751
+    second: cave_tank_attack_27
+  - first:
+      213: 1525051138924907315
+    second: cave_tank_attack_28
+  - first:
+      213: 2328937335900591415
+    second: cave_tank_attack_29
+  - first:
+      213: -6012761496822243974
+    second: cave_tank_attack_30
+  - first:
+      213: 934123630767747775
+    second: cave_tank_attack_31
+  - first:
+      213: -8208770937960962
+    second: cave_tank_attack_32
+  - first:
+      213: 8143270364649690673
+    second: cave_tank_attack_33
+  - first:
+      213: -8249604009990416391
+    second: cave_tank_attack_34
+  - first:
+      213: -1561634042215632707
+    second: cave_tank_attack_35
+  - first:
+      213: -7060322724989159179
+    second: cave_tank_attack_36
+  - first:
+      213: -564174045947630937
+    second: cave_tank_attack_37
+  - first:
+      213: 5741484681728668686
+    second: cave_tank_attack_38
+  - first:
+      213: -1787090924851486431
+    second: cave_tank_attack_39
+  - first:
+      213: 7550153288921699048
+    second: cave_tank_attack_40
+  - first:
+      213: 2382018334706037601
+    second: cave_tank_attack_41
+  - first:
+      213: -1862149201221761540
+    second: cave_tank_attack_42
+  - first:
+      213: -6437818519256293686
+    second: cave_tank_attack_43
+  - first:
+      213: -7626227451076014581
+    second: cave_tank_attack_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_tank_attack_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1788
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101342318e0723280800000000000000
+      internalID: -9065058957887524607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1788
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f2be9919ecd160800000000000000
+      internalID: 7051767412801336798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_2
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1788
+        width: 354
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262eb00d95ffe0fc0800000000000000
+      internalID: -3526600696976907678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1788
+        width: 353
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238c59711afc9510800000000000000
+      internalID: 1557394524120843051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1788
+        width: 351
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394b0c7172258460800000000000000
+      internalID: 7243233446503074096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_5
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1788
+        width: 350
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822776af18ee2e430800000000000000
+      internalID: 3810870476728136232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_6
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1788
+        width: 346
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a082f2009e3e230800000000000000
+      internalID: 3667030708610140797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_7
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1788
+        width: 343
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c428f6caa4ddf1f20800000000000000
+      internalID: 3395675956850950732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_8
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1788
+        width: 338
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62f0908dc706bd0800000000000000
+      internalID: -2638972114332342623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1528
+        width: 335
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fba1f1a8d332bf0800000000000000
+      internalID: -350368682568138900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1528
+        width: 332
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f79f31b533b8110800000000000000
+      internalID: 1264160586677714766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1528
+        width: 328
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b23b7cd179122c0800000000000000
+      internalID: -4458116001959826621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_12
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1528
+        width: 324
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bfbafb4e44a37c0800000000000000
+      internalID: -4090881562253722874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1528
+        width: 322
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f1b8e41b183610800000000000000
+      internalID: 1601059444147483605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_14
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1527
+        width: 323
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db5c2cf955d49a30800000000000000
+      internalID: 4221233333212568529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_15
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1527
+        width: 334
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b528ac0632e7ca20800000000000000
+      internalID: 3082681191726851508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_16
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1527
+        width: 354
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f7a576ffaef5bd0800000000000000
+      internalID: -2639132473944277195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_17
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 1528
+        width: 373
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592494528ca911720800000000000000
+      internalID: 2815201426492965525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1268
+        width: 391
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c19fb3d7121b9310800000000000000
+      internalID: 1412742801656877507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1268
+        width: 410
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585b02f61f60f9840800000000000000
+      internalID: 5232908926049105285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1268
+        width: 429
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36740b70f40bc090800000000000000
+      internalID: -8013305681073113542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_21
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1268
+        width: 427
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d71f4252990140800000000000000
+      internalID: 4686437769467647513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1268
+        width: 424
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e1a83936d1b6ba0800000000000000
+      internalID: -6094745357201564061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_23
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1268
+        width: 420
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3c681e93ff40c20800000000000000
+      internalID: 3171940661637596127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_24
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1268
+        width: 417
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1076b070dcc79f10800000000000000
+      internalID: 2276513332275343391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_25
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 1268
+        width: 415
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc40f882a8dd270800000000000000
+      internalID: 8276923596979621375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_26
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1268
+        width: 412
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cee4f2d1daaf1f0800000000000000
+      internalID: -1010304825531896796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1008
+        width: 409
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc6a28c617c1580800000000000000
+      internalID: -8855078056454861751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_28
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1008
+        width: 406
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b8ce74ee11a2510800000000000000
+      internalID: 1525051138924907315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1008
+        width: 402
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735df72fa2c025020800000000000000
+      internalID: 2328937335900591415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_30
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1008
+        width: 399
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d93ce86416e8ca0800000000000000
+      internalID: -6012761496822243974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_31
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1008
+        width: 397
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2b5343e7ca6fc00800000000000000
+      internalID: 934123630767747775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_32
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 748
+        width: 367
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef543349a26d2eff0800000000000000
+      internalID: -8208770937960962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_33
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1008
+        width: 394
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13619e27045b20170800000000000000
+      internalID: 8143270364649690673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_34
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 748
+        width: 363
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f712e67cd4838d80800000000000000
+      internalID: -8249604009990416391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_35
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1008
+        width: 391
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0749ccc16f35ae0800000000000000
+      internalID: -1561634042215632707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_36
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 748
+        width: 360
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8376983e1b40e90800000000000000
+      internalID: -7060322724989159179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_37
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1008
+        width: 387
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaebcfb1b6ab28f0800000000000000
+      internalID: -564174045947630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_38
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 748
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b8c9f5e9ddaf40800000000000000
+      internalID: 5741484681728668686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_39
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1008
+        width: 384
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12127e2b54af237e0800000000000000
+      internalID: -1787090924851486431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 748
+        width: 382
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2dce1f96887c860800000000000000
+      internalID: 7550153288921699048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 749
+        width: 379
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163fe901e01ae0120800000000000000
+      internalID: 2382018334706037601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_42
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 748
+        width: 375
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54666ea215826e0800000000000000
+      internalID: -1862149201221761540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_43
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 748
+        width: 372
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1c4f6a2648a6a0800000000000000
+      internalID: -6437818519256293686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_attack_44
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 748
+        width: 371
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e084ae9823a2690800000000000000
+      internalID: -7626227451076014581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_tank_attack_0: -9065058957887524607
+      cave_tank_attack_1: 7051767412801336798
+      cave_tank_attack_10: 1264160586677714766
+      cave_tank_attack_11: -4458116001959826621
+      cave_tank_attack_12: -4090881562253722874
+      cave_tank_attack_13: 1601059444147483605
+      cave_tank_attack_14: 4221233333212568529
+      cave_tank_attack_15: 3082681191726851508
+      cave_tank_attack_16: -2639132473944277195
+      cave_tank_attack_17: 2815201426492965525
+      cave_tank_attack_18: 1412742801656877507
+      cave_tank_attack_19: 5232908926049105285
+      cave_tank_attack_2: -3526600696976907678
+      cave_tank_attack_20: -8013305681073113542
+      cave_tank_attack_21: 4686437769467647513
+      cave_tank_attack_22: -6094745357201564061
+      cave_tank_attack_23: 3171940661637596127
+      cave_tank_attack_24: 2276513332275343391
+      cave_tank_attack_25: 8276923596979621375
+      cave_tank_attack_26: -1010304825531896796
+      cave_tank_attack_27: -8855078056454861751
+      cave_tank_attack_28: 1525051138924907315
+      cave_tank_attack_29: 2328937335900591415
+      cave_tank_attack_3: 1557394524120843051
+      cave_tank_attack_30: -6012761496822243974
+      cave_tank_attack_31: 934123630767747775
+      cave_tank_attack_32: -8208770937960962
+      cave_tank_attack_33: 8143270364649690673
+      cave_tank_attack_34: -8249604009990416391
+      cave_tank_attack_35: -1561634042215632707
+      cave_tank_attack_36: -7060322724989159179
+      cave_tank_attack_37: -564174045947630937
+      cave_tank_attack_38: 5741484681728668686
+      cave_tank_attack_39: -1787090924851486431
+      cave_tank_attack_4: 7243233446503074096
+      cave_tank_attack_40: 7550153288921699048
+      cave_tank_attack_41: 2382018334706037601
+      cave_tank_attack_42: -1862149201221761540
+      cave_tank_attack_43: -6437818519256293686
+      cave_tank_attack_44: -7626227451076014581
+      cave_tank_attack_5: 3810870476728136232
+      cave_tank_attack_6: 3667030708610140797
+      cave_tank_attack_7: 3395675956850950732
+      cave_tank_attack_8: -2638972114332342623
+      cave_tank_attack_9: -350368682568138900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

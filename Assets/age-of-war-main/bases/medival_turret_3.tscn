@@ -1,0 +1,364 @@
+[gd_scene load_steps=85 format=3 uid="uid://lav7xh3mo64j"]
+
+[ext_resource type="Script" path="res://bases/medival_turret_3.gd" id="1_5vv2l"]
+[ext_resource type="Texture2D" uid="uid://c7gl04q660wc6" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0001.png" id="1_is5qp"]
+[ext_resource type="AudioStream" uid="uid://cyt5fky158fde" path="res://age of war sprites/audio/sfx/medival_tank_attack.mp3" id="2_6nbc5"]
+[ext_resource type="Texture2D" uid="uid://c3sp0djoshtx5" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0002.png" id="2_i741a"]
+[ext_resource type="Texture2D" uid="uid://kn1seuvu7tlx" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0003.png" id="3_dbtli"]
+[ext_resource type="Texture2D" uid="uid://dmq3fuqg8j0qx" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0004.png" id="4_qgi8g"]
+[ext_resource type="Texture2D" uid="uid://b2r6fmyql6aeu" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0005.png" id="5_5ao6l"]
+[ext_resource type="Texture2D" uid="uid://iwtwdbtuu6xh" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0006.png" id="6_ek3i8"]
+[ext_resource type="Texture2D" uid="uid://bi5pabwit8w6s" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0007.png" id="7_4bfg3"]
+[ext_resource type="Texture2D" uid="uid://dwb7i3w7v5knp" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0008.png" id="8_f3h8m"]
+[ext_resource type="Texture2D" uid="uid://3xqaiy01sexu" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0009.png" id="9_2bl7x"]
+[ext_resource type="Texture2D" uid="uid://b8h1b6dtu5fdm" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0010.png" id="10_k3wmw"]
+[ext_resource type="Texture2D" uid="uid://de5nb6n22mb7n" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0011.png" id="11_gb8eo"]
+[ext_resource type="Texture2D" uid="uid://durifmhr7e4mh" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0012.png" id="12_4jlla"]
+[ext_resource type="Texture2D" uid="uid://ca0afhueifgs7" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0013.png" id="13_qbnvc"]
+[ext_resource type="Texture2D" uid="uid://cm0fdaslwil40" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0014.png" id="14_kvwq7"]
+[ext_resource type="Texture2D" uid="uid://da2t8coyp1opy" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0015.png" id="15_d435v"]
+[ext_resource type="Texture2D" uid="uid://vp1bgpleu1t3" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0016.png" id="16_dgu3u"]
+[ext_resource type="Texture2D" uid="uid://bltf8avsslt3e" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0017.png" id="17_egwaw"]
+[ext_resource type="Texture2D" uid="uid://bnpyoedw2pqh4" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0018.png" id="18_u5lp5"]
+[ext_resource type="Texture2D" uid="uid://bsspyfhgsmw3d" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0019.png" id="19_86unv"]
+[ext_resource type="Texture2D" uid="uid://lqnd7v1spf14" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0020.png" id="20_ik88k"]
+[ext_resource type="Texture2D" uid="uid://ceb4s8xajruwt" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0021.png" id="21_7dw36"]
+[ext_resource type="Texture2D" uid="uid://0pg0al57niyn" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0022.png" id="22_d5y1b"]
+[ext_resource type="Texture2D" uid="uid://bolouk8qkgpab" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0023.png" id="23_6yor4"]
+[ext_resource type="Texture2D" uid="uid://bfybggdtbcvl1" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0024.png" id="24_erbq6"]
+[ext_resource type="Texture2D" uid="uid://dv6uq6tyci4ft" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0025.png" id="25_y7n3y"]
+[ext_resource type="Texture2D" uid="uid://br4gider6ggpq" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0026.png" id="26_ldeli"]
+[ext_resource type="Texture2D" uid="uid://cfel0jvjpbrc8" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0027.png" id="27_7d54w"]
+[ext_resource type="Texture2D" uid="uid://dwskdynlcqefr" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0028.png" id="28_4jtk8"]
+[ext_resource type="Texture2D" uid="uid://iui0nxry8eac" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0029.png" id="29_qya4m"]
+[ext_resource type="Texture2D" uid="uid://urx08klfg516" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0030.png" id="30_csxeg"]
+[ext_resource type="Texture2D" uid="uid://26pgyxouaikc" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0031.png" id="31_i4j36"]
+[ext_resource type="Texture2D" uid="uid://br56ffkamtro5" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0032.png" id="32_208v1"]
+[ext_resource type="Texture2D" uid="uid://bdje6xjypytix" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0033.png" id="33_m5pda"]
+[ext_resource type="Texture2D" uid="uid://bn2g4lgbncd04" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0034.png" id="34_8bot8"]
+[ext_resource type="Texture2D" uid="uid://c0td0bghbop33" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0035.png" id="35_tcji8"]
+[ext_resource type="Texture2D" uid="uid://d3587p2bvmhta" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0036.png" id="36_2chsq"]
+[ext_resource type="Texture2D" uid="uid://bsav4n5pdr3uh" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0037.png" id="37_32y7d"]
+[ext_resource type="Texture2D" uid="uid://dvt4h2h1bjqml" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0038.png" id="38_uycos"]
+[ext_resource type="Texture2D" uid="uid://cpgl8g7lstc4w" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0039.png" id="39_ud87a"]
+[ext_resource type="Texture2D" uid="uid://dhfk1ipnjeu4a" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0040.png" id="40_7kwdc"]
+[ext_resource type="Texture2D" uid="uid://c0hch60hqe35s" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0041.png" id="41_gdqb0"]
+[ext_resource type="Texture2D" uid="uid://vy4ciaa038n6" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0042.png" id="42_nrigm"]
+[ext_resource type="Texture2D" uid="uid://ujy5quce5h5n" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0043.png" id="43_7iqhw"]
+[ext_resource type="Texture2D" uid="uid://bmawgu2qxqkx6" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0044.png" id="44_qyj14"]
+[ext_resource type="Texture2D" uid="uid://bj2scy5fv63sw" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0045.png" id="45_mfvad"]
+[ext_resource type="Texture2D" uid="uid://dr568q21cl6mf" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0046.png" id="46_dq32p"]
+[ext_resource type="Texture2D" uid="uid://c7smt6ie12ga5" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0047.png" id="47_0uwqn"]
+[ext_resource type="Texture2D" uid="uid://pv1sfyfnqrok" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0048.png" id="48_rcik8"]
+[ext_resource type="Texture2D" uid="uid://cn5rv0v4mop8g" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0049.png" id="49_mq3ek"]
+[ext_resource type="Texture2D" uid="uid://mqh6xa1pjnqw" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0050.png" id="50_1nahj"]
+[ext_resource type="Texture2D" uid="uid://c727jmhlqiei6" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0051.png" id="51_xl5c7"]
+[ext_resource type="Texture2D" uid="uid://dodkf7n5e8lxs" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0052.png" id="52_pouao"]
+[ext_resource type="Texture2D" uid="uid://dkcd7yp7nyq11" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0053.png" id="53_6bgma"]
+[ext_resource type="Texture2D" uid="uid://byuwss5t6so8p" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0054.png" id="54_sjt22"]
+[ext_resource type="Texture2D" uid="uid://bypm5oipwlge1" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0055.png" id="55_nl7qj"]
+[ext_resource type="Texture2D" uid="uid://cmxet518oimh0" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0056.png" id="56_43kbm"]
+[ext_resource type="Texture2D" uid="uid://kdkbs6g3xo3o" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0057.png" id="57_pwcc5"]
+[ext_resource type="Texture2D" uid="uid://p68qmcbirjju" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0058.png" id="58_23m18"]
+[ext_resource type="Texture2D" uid="uid://co4xik02raveo" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0059.png" id="59_umor4"]
+[ext_resource type="Texture2D" uid="uid://dj4rlhbuvmbcc" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0060.png" id="60_rqfl0"]
+[ext_resource type="Texture2D" uid="uid://dj8kpm4ut5dur" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0061.png" id="61_15b6c"]
+[ext_resource type="Texture2D" uid="uid://cr55ow07rgl5v" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0062.png" id="62_3nc8e"]
+[ext_resource type="Texture2D" uid="uid://bpwgcdgxwcj7c" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0063.png" id="63_v60k5"]
+[ext_resource type="Texture2D" uid="uid://2vqm4qfyedmo" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0064.png" id="64_50oed"]
+[ext_resource type="Texture2D" uid="uid://do754mcxutu5l" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0065.png" id="65_4o806"]
+[ext_resource type="Texture2D" uid="uid://bwn4o484rc26k" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0066.png" id="66_wyoh7"]
+[ext_resource type="Texture2D" uid="uid://dyeoxy3llja5j" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0067.png" id="67_ledaq"]
+[ext_resource type="Texture2D" uid="uid://d2wy8gu1k1pey" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0068.png" id="68_vtipq"]
+[ext_resource type="Texture2D" uid="uid://b1otwrp66y3rb" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0069.png" id="69_qmrj4"]
+[ext_resource type="Texture2D" uid="uid://dvjg8om46a1di" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0070.png" id="70_n0qp0"]
+[ext_resource type="Texture2D" uid="uid://csolsfxs6hm4d" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0071.png" id="71_v286e"]
+[ext_resource type="Texture2D" uid="uid://cjoau2f2ftrs4" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0072.png" id="72_uov3h"]
+[ext_resource type="Texture2D" uid="uid://dginva4v6tnfx" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0073.png" id="73_vech2"]
+[ext_resource type="Texture2D" uid="uid://bt273b1whf3vo" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0074.png" id="74_875d6"]
+[ext_resource type="Texture2D" uid="uid://xiukfg72ca1y" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0075.png" id="75_ehhiv"]
+[ext_resource type="Texture2D" uid="uid://cp5du31o5c43" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0076.png" id="76_fdxs7"]
+[ext_resource type="Texture2D" uid="uid://cpvxpb64d8ovc" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0077.png" id="77_3mt66"]
+[ext_resource type="Texture2D" uid="uid://cuc4amkk7xcms" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0078.png" id="78_np2n8"]
+[ext_resource type="Texture2D" uid="uid://cn3ulgx7tiwmp" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0079.png" id="79_er3kr"]
+[ext_resource type="Texture2D" uid="uid://bv3pjabuqf40m" path="res://age of war sprites/bases/medival/turret_3/medival_turret_3_attack0080.png" id="80_2383p"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_kxkid"]
+radius = 600.0
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_3vijg"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_is5qp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_i741a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_dbtli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_qgi8g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_5ao6l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ek3i8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_4bfg3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_f3h8m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_2bl7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_k3wmw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_gb8eo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_4jlla")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_qbnvc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_kvwq7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_d435v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_dgu3u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_egwaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_u5lp5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_86unv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_ik88k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_7dw36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_d5y1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_6yor4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_erbq6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_y7n3y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ldeli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_7d54w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_4jtk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_qya4m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_csxeg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_i4j36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_208v1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_m5pda")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_8bot8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_tcji8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_2chsq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_32y7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_uycos")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_ud87a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_7kwdc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_gdqb0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_nrigm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_7iqhw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_qyj14")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_mfvad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_dq32p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_0uwqn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_rcik8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_mq3ek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_1nahj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_xl5c7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_pouao")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_6bgma")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_sjt22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_nl7qj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_43kbm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_pwcc5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_23m18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_umor4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_rqfl0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_15b6c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_3nc8e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_v60k5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_50oed")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_4o806")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_wyoh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_ledaq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_vtipq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_qmrj4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_n0qp0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_v286e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_uov3h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_vech2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_875d6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_ehhiv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_fdxs7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_3mt66")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_np2n8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_er3kr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_2383p")
+}],
+"loop": true,
+"name": &"attack",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_is5qp")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[node name="medival_turret_3" type="Node2D"]
+script = ExtResource("1_5vv2l")
+
+[node name="range" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="range"]
+shape = SubResource("CircleShape2D_kxkid")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_3vijg")
+animation = &"idle"
+autoplay = "idle"
+offset = Vector2(45, 0)
+
+[node name="sfx" type="Node2D" parent="."]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="sfx"]
+stream = ExtResource("2_6nbc5")
+volume_db = 15.0

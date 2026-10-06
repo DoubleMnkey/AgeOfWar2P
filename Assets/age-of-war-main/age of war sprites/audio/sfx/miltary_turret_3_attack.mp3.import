@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bpn44dr026w0v"
+path="res://.godot/imported/miltary_turret_3_attack.mp3-d856f9403539b41348990401fca3a8b9.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/miltary_turret_3_attack.mp3"
+dest_files=["res://.godot/imported/miltary_turret_3_attack.mp3-d856f9403539b41348990401fca3a8b9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

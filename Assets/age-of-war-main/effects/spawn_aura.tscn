@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://2elbildsvawn"]
+
+[ext_resource type="Texture2D" uid="uid://dxy042hukonpb" path="res://age of war sprites/effects/heal/medival_special_heal.png" id="1_xji4r"]
+[ext_resource type="Script" path="res://scripts/spawn_aura.gd" id="2_fylx4"]
+
+[node name="SpawnAura" type="Sprite2D"]
+position = Vector2(-11, -43)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_xji4r")
+script = ExtResource("2_fylx4")

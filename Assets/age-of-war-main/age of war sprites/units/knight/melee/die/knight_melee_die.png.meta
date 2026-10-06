@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 22bf7e825816bf045ac56e843ccbabb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3828810225464655319
+    second: knight_melee_die_0
+  - first:
+      213: -3064389544704451626
+    second: knight_melee_die_1
+  - first:
+      213: -3431997273297856544
+    second: knight_melee_die_2
+  - first:
+      213: -6061268145376236733
+    second: knight_melee_die_3
+  - first:
+      213: -6069001410958430889
+    second: knight_melee_die_4
+  - first:
+      213: -102810369896526956
+    second: knight_melee_die_5
+  - first:
+      213: 3847727179461447059
+    second: knight_melee_die_6
+  - first:
+      213: 2270682410176248584
+    second: knight_melee_die_7
+  - first:
+      213: 9044835971948683338
+    second: knight_melee_die_8
+  - first:
+      213: 6636183761572235742
+    second: knight_melee_die_9
+  - first:
+      213: 7736953361545701199
+    second: knight_melee_die_10
+  - first:
+      213: -8418053980873572045
+    second: knight_melee_die_11
+  - first:
+      213: -1696890228895616176
+    second: knight_melee_die_12
+  - first:
+      213: 2138419860470068283
+    second: knight_melee_die_13
+  - first:
+      213: -7728532561122423427
+    second: knight_melee_die_14
+  - first:
+      213: 1210557389391302787
+    second: knight_melee_die_15
+  - first:
+      213: -4968463243935237094
+    second: knight_melee_die_16
+  - first:
+      213: -426914508635528437
+    second: knight_melee_die_17
+  - first:
+      213: -8135403163351475204
+    second: knight_melee_die_18
+  - first:
+      213: 6684793818878285873
+    second: knight_melee_die_19
+  - first:
+      213: 5202882062364115019
+    second: knight_melee_die_20
+  - first:
+      213: -2193508919629801846
+    second: knight_melee_die_21
+  - first:
+      213: -8144274273066398172
+    second: knight_melee_die_22
+  - first:
+      213: -6982672061768506493
+    second: knight_melee_die_23
+  - first:
+      213: 5363931051385919492
+    second: knight_melee_die_24
+  - first:
+      213: -7497615153449773299
+    second: knight_melee_die_25
+  - first:
+      213: 468760923537989060
+    second: knight_melee_die_26
+  - first:
+      213: 7767363535538167567
+    second: knight_melee_die_27
+  - first:
+      213: 7775322677317718085
+    second: knight_melee_die_28
+  - first:
+      213: -2657178371169630283
+    second: knight_melee_die_29
+  - first:
+      213: -9059348909890520420
+    second: knight_melee_die_30
+  - first:
+      213: 1245031399608650858
+    second: knight_melee_die_31
+  - first:
+      213: 5753472981590300192
+    second: knight_melee_die_32
+  - first:
+      213: 947630326110315776
+    second: knight_melee_die_33
+  - first:
+      213: -2145375852903256883
+    second: knight_melee_die_34
+  - first:
+      213: 1588694718062359589
+    second: knight_melee_die_35
+  - first:
+      213: -7304828383268969899
+    second: knight_melee_die_36
+  - first:
+      213: -6437279674697597041
+    second: knight_melee_die_37
+  - first:
+      213: 6011295392500969696
+    second: knight_melee_die_38
+  - first:
+      213: -8784508577798898267
+    second: knight_melee_die_39
+  - first:
+      213: 3823402654484434301
+    second: knight_melee_die_40
+  - first:
+      213: 5180029519122050297
+    second: knight_melee_die_41
+  - first:
+      213: 1499238468843036995
+    second: knight_melee_die_42
+  - first:
+      213: 6173075835800824899
+    second: knight_melee_die_43
+  - first:
+      213: 2521828917702998370
+    second: knight_melee_die_44
+  - first:
+      213: 5316887922031698075
+    second: knight_melee_die_45
+  - first:
+      213: 1213721993513329140
+    second: knight_melee_die_46
+  - first:
+      213: -3222125961215731482
+    second: knight_melee_die_47
+  - first:
+      213: -1921704906787094638
+    second: knight_melee_die_48
+  - first:
+      213: -6328856996888305513
+    second: knight_melee_die_49
+  - first:
+      213: -3119033639110932121
+    second: knight_melee_die_50
+  - first:
+      213: -6378740624082023178
+    second: knight_melee_die_51
+  - first:
+      213: 4772976634984954262
+    second: knight_melee_die_52
+  - first:
+      213: -4087185583678166504
+    second: knight_melee_die_53
+  - first:
+      213: 6456163218898628535
+    second: knight_melee_die_54
+  - first:
+      213: 9077891145060508494
+    second: knight_melee_die_55
+  - first:
+      213: 6279996519162592843
+    second: knight_melee_die_56
+  - first:
+      213: -3725227703672102803
+    second: knight_melee_die_57
+  - first:
+      213: -5274496516197733972
+    second: knight_melee_die_58
+  - first:
+      213: -1731764598243656238
+    second: knight_melee_die_59
+  - first:
+      213: -6669883464196182962
+    second: knight_melee_die_60
+  - first:
+      213: 6788679544443941180
+    second: knight_melee_die_61
+  - first:
+      213: 8166314399508568406
+    second: knight_melee_die_62
+  - first:
+      213: 7037407018265108390
+    second: knight_melee_die_63
+  - first:
+      213: 1366974830240266801
+    second: knight_melee_die_64
+  - first:
+      213: -1726946689004455842
+    second: knight_melee_die_65
+  - first:
+      213: 3495396412963387632
+    second: knight_melee_die_66
+  - first:
+      213: 4456365017591475268
+    second: knight_melee_die_67
+  - first:
+      213: 1288934298813247292
+    second: knight_melee_die_68
+  - first:
+      213: 250584177777741388
+    second: knight_melee_die_69
+  - first:
+      213: 2050946821634197893
+    second: knight_melee_die_70
+  - first:
+      213: 321541115510791729
+    second: knight_melee_die_71
+  - first:
+      213: 423811915588790886
+    second: knight_melee_die_72
+  - first:
+      213: -8329060810786951832
+    second: knight_melee_die_73
+  - first:
+      213: -200134189026444231
+    second: knight_melee_die_74
+  - first:
+      213: -3994721722048629475
+    second: knight_melee_die_75
+  - first:
+      213: 7227978173856528850
+    second: knight_melee_die_76
+  - first:
+      213: -770213637856605279
+    second: knight_melee_die_77
+  - first:
+      213: 1699942802896539132
+    second: knight_melee_die_78
+  - first:
+      213: 1767243158431104379
+    second: knight_melee_die_79
+  - first:
+      213: 6803628053854081180
+    second: knight_melee_die_80
+  - first:
+      213: 1856571782083703569
+    second: knight_melee_die_81
+  - first:
+      213: -5076032838656573047
+    second: knight_melee_die_82
+  - first:
+      213: 1708340787498670773
+    second: knight_melee_die_83
+  - first:
+      213: -6348254727969651089
+    second: knight_melee_die_84
+  - first:
+      213: -8996195945119440730
+    second: knight_melee_die_85
+  - first:
+      213: 1721106949215621663
+    second: knight_melee_die_86
+  - first:
+      213: 2634583248496037473
+    second: knight_melee_die_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_melee_die_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 972
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922cbc6c2655ddac0800000000000000
+      internalID: -3828810225464655319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 972
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5876e1f91975d0800000000000000
+      internalID: -3064389544704451626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 971
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d8f6d9a81f50d0800000000000000
+      internalID: -3431997273297856544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 971
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b657a5cbc02eba0800000000000000
+      internalID: -6061268145376236733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 970
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d6a762f5396cba0800000000000000
+      internalID: -6069001410958430889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 969
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b4717638eb29ef0800000000000000
+      internalID: -102810369896526956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 968
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d4a6ccb7fd56530800000000000000
+      internalID: 3847727179461447059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 968
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b78481f95138f10800000000000000
+      internalID: 2270682410176248584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 967
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402da71566b58d70800000000000000
+      internalID: 9044835971948683338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 966
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed98abc98f5781c50800000000000000
+      internalID: 6636183761572235742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 966
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4722b6171e2f5b60800000000000000
+      internalID: 7736953361545701199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_11
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 966
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c7f151801d2b80800000000000000
+      internalID: -8418053980873572045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 967
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05378dbc35f6378e0800000000000000
+      internalID: -1696890228895616176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 967
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3475f388813dad10800000000000000
+      internalID: 2138419860470068283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d024b459cbeb490800000000000000
+      internalID: -7728532561122423427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38094e62883ccc010800000000000000
+      internalID: 1210557389391302787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb7a1f0097c0bb0800000000000000
+      internalID: -4968463243935237094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03a15b248b431af0800000000000000
+      internalID: -426914508635528437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb98d71ded391f80800000000000000
+      internalID: -8135403163351475204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13897fa8f8825cc50800000000000000
+      internalID: 6684793818878285873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40077f6ba9543840800000000000000
+      internalID: 5202882062364115019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8690d162471f81e0800000000000000
+      internalID: -2193508919629801846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_22
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e4688e2b9b9fe80800000000000000
+      internalID: -8144274273066398172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3836e3f61c0981f90800000000000000
+      internalID: -6982672061768506493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4089b853fd2807a40800000000000000
+      internalID: 5363931051385919492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075a04fdbe13f790800000000000000
+      internalID: -7497615153449773299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd01c839f518600800000000000000
+      internalID: 468760923537989060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 831
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f13197bf73bcb60800000000000000
+      internalID: 7767363535538167567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540df8397ce77eb60800000000000000
+      internalID: 7775322677317718085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 776
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b74599895ecf1bd0800000000000000
+      internalID: -2657178371169630283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 776
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a37a93a2ab64280800000000000000
+      internalID: -9059348909890520420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 776
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c81e3267d374110800000000000000
+      internalID: 1245031399608650858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 776
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0265f7c813178df40800000000000000
+      internalID: 5753472981590300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 776
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0056136c2c8a62d00800000000000000
+      internalID: 947630326110315776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 776
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc200a47081a32e0800000000000000
+      internalID: -2145375852903256883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 776
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52475a6cd6d2c0610800000000000000
+      internalID: 1588694718062359589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_36
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 776
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ef0eb94900aa90800000000000000
+      internalID: -7304828383268969899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_37
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 776
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fbec5fd303aa6a0800000000000000
+      internalID: -6437279674697597041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_38
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 776
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e076fd6f496c6350800000000000000
+      internalID: 6011295392500969696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 776
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adbce5adf7271680800000000000000
+      internalID: -8784508577798898267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_40
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 776
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d84ddf4747f0530800000000000000
+      internalID: 3823402654484434301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_41
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 776
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcae45176923e740800000000000000
+      internalID: 5180029519122050297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3416df0b17d5ec410800000000000000
+      internalID: 1499238468843036995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ca47c24cb2ba550800000000000000
+      internalID: 6173075835800824899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269bef71a065ff220800000000000000
+      internalID: 2521828917702998370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90a34f156169c940800000000000000
+      internalID: 5316887922031698075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e077f8b108d010800000000000000
+      internalID: 1213721993513329140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e81c248285b843d0800000000000000
+      internalID: -3222125961215731482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f74d3a19bb455e0800000000000000
+      internalID: -1921704906787094638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7902a32d7126b28a0800000000000000
+      internalID: -6328856996888305513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698c4a3e67f6b4d0800000000000000
+      internalID: -3119033639110932121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_51
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fccc3bc2392a77a0800000000000000
+      internalID: -6378740624082023178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_52
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699748116f40d3240800000000000000
+      internalID: 4772976634984954262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_53
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ae3c1dd566747c0800000000000000
+      internalID: -4087185583678166504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_54
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf256acd36e89950800000000000000
+      internalID: 6456163218898628535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_55
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 639
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43eef256e52bfd70800000000000000
+      internalID: 9077891145060508494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3063bf87072750800000000000000
+      internalID: 6279996519162592843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 584
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602e2ff3255d4cc0800000000000000
+      internalID: -3725227703672102803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 584
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9affe2d593dc6b0800000000000000
+      internalID: -5274496516197733972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 584
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddf61fe54987f7e0800000000000000
+      internalID: -1731764598243656238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 584
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca55fe350df63a0800000000000000
+      internalID: -6669883464196182962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 584
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31ba84e31c363e50800000000000000
+      internalID: 6788679544443941180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_62
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 584
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6599ddaeda3945170800000000000000
+      internalID: 8166314399508568406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 584
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5887b564e9a160800000000000000
+      internalID: 7037407018265108390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_64
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 584
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13afe559d5878f210800000000000000
+      internalID: 1366974830240266801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_65
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 584
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583ad7d227a808e0800000000000000
+      internalID: -1726946689004455842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_66
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 584
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f87bd7a484228030800000000000000
+      internalID: 3495396412963387632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_67
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 584
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c64076f5038dd30800000000000000
+      internalID: 4456365017591475268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_68
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 584
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa49b6ae633e110800000000000000
+      internalID: 1288934298813247292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_69
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 584
+        width: 69
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e86c66bf04a7300800000000000000
+      internalID: 250584177777741388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58909b4944d667c10800000000000000
+      internalID: 2050946821634197893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e14b2e0f7567400800000000000000
+      internalID: 321541115510791729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a6f3811bea1e500800000000000000
+      internalID: 423811915588790886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86daa64625b396c80800000000000000
+      internalID: -8329060810786951832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cfaa3f30bf83df0800000000000000
+      internalID: -200134189026444231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_75
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1531cc32c5ef88c0800000000000000
+      internalID: -3994721722048629475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_76
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9bef88adfee4460800000000000000
+      internalID: 7227978173856528850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab4562f6c6af45f0800000000000000
+      internalID: -770213637856605279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_78
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd4129f8f8679710800000000000000
+      internalID: 1699942802896539132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_79
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d76021a42868810800000000000000
+      internalID: 1767243158431104379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_80
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90dad5faa75b6e50800000000000000
+      internalID: 6803628053854081180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_81
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113fc13033ed3c910800000000000000
+      internalID: 1856571782083703569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_82
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98148a7f60f4e89b0800000000000000
+      internalID: -5076032838656573047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_83
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 447
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba5b2225ee35b710800000000000000
+      internalID: 1708340787498670773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ccab95f776e7a0800000000000000
+      internalID: -6348254727969651089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 392
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0a859a377172380800000000000000
+      internalID: -8996195945119440730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121478c6a992e710800000000000000
+      internalID: 1721106949215621663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_die_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e0dc1818bef8420800000000000000
+      internalID: 2634583248496037473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_melee_die_0: -3828810225464655319
+      knight_melee_die_1: -3064389544704451626
+      knight_melee_die_10: 7736953361545701199
+      knight_melee_die_11: -8418053980873572045
+      knight_melee_die_12: -1696890228895616176
+      knight_melee_die_13: 2138419860470068283
+      knight_melee_die_14: -7728532561122423427
+      knight_melee_die_15: 1210557389391302787
+      knight_melee_die_16: -4968463243935237094
+      knight_melee_die_17: -426914508635528437
+      knight_melee_die_18: -8135403163351475204
+      knight_melee_die_19: 6684793818878285873
+      knight_melee_die_2: -3431997273297856544
+      knight_melee_die_20: 5202882062364115019
+      knight_melee_die_21: -2193508919629801846
+      knight_melee_die_22: -8144274273066398172
+      knight_melee_die_23: -6982672061768506493
+      knight_melee_die_24: 5363931051385919492
+      knight_melee_die_25: -7497615153449773299
+      knight_melee_die_26: 468760923537989060
+      knight_melee_die_27: 7767363535538167567
+      knight_melee_die_28: 7775322677317718085
+      knight_melee_die_29: -2657178371169630283
+      knight_melee_die_3: -6061268145376236733
+      knight_melee_die_30: -9059348909890520420
+      knight_melee_die_31: 1245031399608650858
+      knight_melee_die_32: 5753472981590300192
+      knight_melee_die_33: 947630326110315776
+      knight_melee_die_34: -2145375852903256883
+      knight_melee_die_35: 1588694718062359589
+      knight_melee_die_36: -7304828383268969899
+      knight_melee_die_37: -6437279674697597041
+      knight_melee_die_38: 6011295392500969696
+      knight_melee_die_39: -8784508577798898267
+      knight_melee_die_4: -6069001410958430889
+      knight_melee_die_40: 3823402654484434301
+      knight_melee_die_41: 5180029519122050297
+      knight_melee_die_42: 1499238468843036995
+      knight_melee_die_43: 6173075835800824899
+      knight_melee_die_44: 2521828917702998370
+      knight_melee_die_45: 5316887922031698075
+      knight_melee_die_46: 1213721993513329140
+      knight_melee_die_47: -3222125961215731482
+      knight_melee_die_48: -1921704906787094638
+      knight_melee_die_49: -6328856996888305513
+      knight_melee_die_5: -102810369896526956
+      knight_melee_die_50: -3119033639110932121
+      knight_melee_die_51: -6378740624082023178
+      knight_melee_die_52: 4772976634984954262
+      knight_melee_die_53: -4087185583678166504
+      knight_melee_die_54: 6456163218898628535
+      knight_melee_die_55: 9077891145060508494
+      knight_melee_die_56: 6279996519162592843
+      knight_melee_die_57: -3725227703672102803
+      knight_melee_die_58: -5274496516197733972
+      knight_melee_die_59: -1731764598243656238
+      knight_melee_die_6: 3847727179461447059
+      knight_melee_die_60: -6669883464196182962
+      knight_melee_die_61: 6788679544443941180
+      knight_melee_die_62: 8166314399508568406
+      knight_melee_die_63: 7037407018265108390
+      knight_melee_die_64: 1366974830240266801
+      knight_melee_die_65: -1726946689004455842
+      knight_melee_die_66: 3495396412963387632
+      knight_melee_die_67: 4456365017591475268
+      knight_melee_die_68: 1288934298813247292
+      knight_melee_die_69: 250584177777741388
+      knight_melee_die_7: 2270682410176248584
+      knight_melee_die_70: 2050946821634197893
+      knight_melee_die_71: 321541115510791729
+      knight_melee_die_72: 423811915588790886
+      knight_melee_die_73: -8329060810786951832
+      knight_melee_die_74: -200134189026444231
+      knight_melee_die_75: -3994721722048629475
+      knight_melee_die_76: 7227978173856528850
+      knight_melee_die_77: -770213637856605279
+      knight_melee_die_78: 1699942802896539132
+      knight_melee_die_79: 1767243158431104379
+      knight_melee_die_8: 9044835971948683338
+      knight_melee_die_80: 6803628053854081180
+      knight_melee_die_81: 1856571782083703569
+      knight_melee_die_82: -5076032838656573047
+      knight_melee_die_83: 1708340787498670773
+      knight_melee_die_84: -6348254727969651089
+      knight_melee_die_85: -8996195945119440730
+      knight_melee_die_86: 1721106949215621663
+      knight_melee_die_87: 2634583248496037473
+      knight_melee_die_9: 6636183761572235742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

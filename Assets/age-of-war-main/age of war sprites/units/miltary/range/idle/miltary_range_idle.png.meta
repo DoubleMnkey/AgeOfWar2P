@@ -1,0 +1,2394 @@
+fileFormatVersion: 2
+guid: b07eff77a4ea290478b1de283d7c58ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5535554046125447358
+    second: miltary_range_idle_0
+  - first:
+      213: 8086363543214263962
+    second: miltary_range_idle_1
+  - first:
+      213: -8930837526755888855
+    second: miltary_range_idle_2
+  - first:
+      213: -373016641721862638
+    second: miltary_range_idle_3
+  - first:
+      213: 6565713626593822033
+    second: miltary_range_idle_4
+  - first:
+      213: 4597333242189786266
+    second: miltary_range_idle_5
+  - first:
+      213: -6077330298601176495
+    second: miltary_range_idle_6
+  - first:
+      213: 5383661231975873150
+    second: miltary_range_idle_7
+  - first:
+      213: 6353724065257743535
+    second: miltary_range_idle_8
+  - first:
+      213: -1310806233107029620
+    second: miltary_range_idle_9
+  - first:
+      213: -5142396208598917720
+    second: miltary_range_idle_10
+  - first:
+      213: 4317925952486996677
+    second: miltary_range_idle_11
+  - first:
+      213: -3678718427481534638
+    second: miltary_range_idle_12
+  - first:
+      213: 6216029421677777309
+    second: miltary_range_idle_13
+  - first:
+      213: 7327248498314091907
+    second: miltary_range_idle_14
+  - first:
+      213: 4533425651966749115
+    second: miltary_range_idle_15
+  - first:
+      213: -9144183288330888098
+    second: miltary_range_idle_16
+  - first:
+      213: -2955637379575095036
+    second: miltary_range_idle_17
+  - first:
+      213: 4444842257587889988
+    second: miltary_range_idle_18
+  - first:
+      213: 1836617465506451706
+    second: miltary_range_idle_19
+  - first:
+      213: 8526104342270447449
+    second: miltary_range_idle_20
+  - first:
+      213: 5725029515516480463
+    second: miltary_range_idle_21
+  - first:
+      213: 5299339515238230987
+    second: miltary_range_idle_22
+  - first:
+      213: -538209733844629580
+    second: miltary_range_idle_23
+  - first:
+      213: 8324111398465669851
+    second: miltary_range_idle_24
+  - first:
+      213: -5940431353200947561
+    second: miltary_range_idle_25
+  - first:
+      213: 6713549184352031285
+    second: miltary_range_idle_26
+  - first:
+      213: -418616025834484810
+    second: miltary_range_idle_27
+  - first:
+      213: 3022478263268673089
+    second: miltary_range_idle_28
+  - first:
+      213: 4780885076744342132
+    second: miltary_range_idle_29
+  - first:
+      213: -3311104860372284826
+    second: miltary_range_idle_30
+  - first:
+      213: 1280473796930091707
+    second: miltary_range_idle_31
+  - first:
+      213: -4793173924114167603
+    second: miltary_range_idle_32
+  - first:
+      213: 8435856333124181035
+    second: miltary_range_idle_33
+  - first:
+      213: -1413600468263778565
+    second: miltary_range_idle_34
+  - first:
+      213: 6431717959030856663
+    second: miltary_range_idle_35
+  - first:
+      213: -2772268710195421248
+    second: miltary_range_idle_36
+  - first:
+      213: 641857229033462986
+    second: miltary_range_idle_37
+  - first:
+      213: -7502498468523812143
+    second: miltary_range_idle_38
+  - first:
+      213: 932049405987586397
+    second: miltary_range_idle_39
+  - first:
+      213: 9202786514327972945
+    second: miltary_range_idle_40
+  - first:
+      213: 5258924246247488051
+    second: miltary_range_idle_41
+  - first:
+      213: 8014119809457808974
+    second: miltary_range_idle_42
+  - first:
+      213: -281583755432343755
+    second: miltary_range_idle_43
+  - first:
+      213: -8160883179384028651
+    second: miltary_range_idle_44
+  - first:
+      213: -7633990052312850718
+    second: miltary_range_idle_45
+  - first:
+      213: -2829550440391649967
+    second: miltary_range_idle_46
+  - first:
+      213: 1518085840393617645
+    second: miltary_range_idle_47
+  - first:
+      213: -5552443512879330412
+    second: miltary_range_idle_48
+  - first:
+      213: -1076172864451419192
+    second: miltary_range_idle_49
+  - first:
+      213: -8069959544714911326
+    second: miltary_range_idle_50
+  - first:
+      213: 2055467964002607959
+    second: miltary_range_idle_51
+  - first:
+      213: 5511826106761239539
+    second: miltary_range_idle_52
+  - first:
+      213: -7650212747091546061
+    second: miltary_range_idle_53
+  - first:
+      213: 6358393095263414995
+    second: miltary_range_idle_54
+  - first:
+      213: -6728294637975758153
+    second: miltary_range_idle_55
+  - first:
+      213: -629013288819227036
+    second: miltary_range_idle_56
+  - first:
+      213: 5799422425949146668
+    second: miltary_range_idle_57
+  - first:
+      213: 7015140895291194954
+    second: miltary_range_idle_58
+  - first:
+      213: -7758375738502613372
+    second: miltary_range_idle_59
+  - first:
+      213: -5371084660994164897
+    second: miltary_range_idle_60
+  - first:
+      213: 3426240605156912050
+    second: miltary_range_idle_61
+  - first:
+      213: 6532518302427883280
+    second: miltary_range_idle_62
+  - first:
+      213: 8862890195719143785
+    second: miltary_range_idle_63
+  - first:
+      213: 2122275151067445892
+    second: miltary_range_idle_64
+  - first:
+      213: -8175480268718259118
+    second: miltary_range_idle_65
+  - first:
+      213: 1677454569857571761
+    second: miltary_range_idle_66
+  - first:
+      213: -8496266323080702947
+    second: miltary_range_idle_67
+  - first:
+      213: -1763552324164202367
+    second: miltary_range_idle_68
+  - first:
+      213: -775778545129646427
+    second: miltary_range_idle_69
+  - first:
+      213: 98590354458678275
+    second: miltary_range_idle_70
+  - first:
+      213: -7152543876061691043
+    second: miltary_range_idle_71
+  - first:
+      213: 8868877659294285387
+    second: miltary_range_idle_72
+  - first:
+      213: -904299140229153755
+    second: miltary_range_idle_73
+  - first:
+      213: 7861519498866321436
+    second: miltary_range_idle_74
+  - first:
+      213: 1302243690056344587
+    second: miltary_range_idle_75
+  - first:
+      213: 5080073923628286474
+    second: miltary_range_idle_76
+  - first:
+      213: 2744699876510159933
+    second: miltary_range_idle_77
+  - first:
+      213: -6319255906943327195
+    second: miltary_range_idle_78
+  - first:
+      213: -1445088488993223396
+    second: miltary_range_idle_79
+  - first:
+      213: 8669900149156332745
+    second: miltary_range_idle_80
+  - first:
+      213: 9006772169600267617
+    second: miltary_range_idle_81
+  - first:
+      213: 1283161453466572906
+    second: miltary_range_idle_82
+  - first:
+      213: -4988928533874854330
+    second: miltary_range_idle_83
+  - first:
+      213: -4787305526352279186
+    second: miltary_range_idle_84
+  - first:
+      213: 7638978690277640192
+    second: miltary_range_idle_85
+  - first:
+      213: -1380779011434000627
+    second: miltary_range_idle_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_range_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8984a831d32dc40800000000000000
+      internalID: 5535554046125447358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e84f59cc8883070800000000000000
+      internalID: 8086363543214263962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921bcf6469a4f0480800000000000000
+      internalID: -8930837526755888855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216fbd63757c2daf0800000000000000
+      internalID: -373016641721862638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 447
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155011ab1c91e1b50800000000000000
+      internalID: 6565713626593822033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c21ded9320dcf30800000000000000
+      internalID: 4597333242189786266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528821ea4cf8aba0800000000000000
+      internalID: -6077330298601176495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ab6fadd5b96ba40800000000000000
+      internalID: 5383661231975873150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4e986bf56fc2850800000000000000
+      internalID: 6353724065257743535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81a94a0da41fcde0800000000000000
+      internalID: -1310806233107029620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5524d4e982a8b0800000000000000
+      internalID: -5142396208598917720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7d64c6ca5ceb30800000000000000
+      internalID: 4317925952486996677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f8745b41192fcc0800000000000000
+      internalID: -3678718427481534638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911b7833d5c34650800000000000000
+      internalID: 6216029421677777309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d960310bd9fa560800000000000000
+      internalID: 7327248498314091907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92f118c96f9ee30800000000000000
+      internalID: 4533425651966749115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c59f94fb5591180800000000000000
+      internalID: -9144183288330888098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4016f8186777bf6d0800000000000000
+      internalID: -2955637379575095036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447eb26cb704fad30800000000000000
+      internalID: 4444842257587889988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af05ac3aad9fc7910800000000000000
+      internalID: 1836617465506451706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f02fed9bec25670800000000000000
+      internalID: 8526104342270447449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb8cf80304637f40800000000000000
+      internalID: 5725029515516480463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb27f546390b8940800000000000000
+      internalID: 5299339515238230987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7888f3915e788f0800000000000000
+      internalID: -538209733844629580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda8350c63f258370800000000000000
+      internalID: 8324111398465669851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4dd378295f8da0800000000000000
+      internalID: -5940431353200947561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5329a6bc9615b2d50800000000000000
+      internalID: 6713549184352031285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb89d241f6c03af0800000000000000
+      internalID: -418616025834484810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 447
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146087777fff1f920800000000000000
+      internalID: 3022478263268673089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a0057a5ad195240800000000000000
+      internalID: 4780885076744342132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac0772ca79c02d0800000000000000
+      internalID: -3311104860372284826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbab632522825c110800000000000000
+      internalID: 1280473796930091707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8828a16b93b7db0800000000000000
+      internalID: -4793173924114167603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9810d3ae221570800000000000000
+      internalID: 8435856333124181035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cfca1dd1e16ce0800000000000000
+      internalID: -1413600468263778565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbd883386d024950800000000000000
+      internalID: 6431717959030856663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1fd2db4ce689d0800000000000000
+      internalID: -2772268710195421248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc5e05cfb558e800800000000000000
+      internalID: 641857229033462986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad9bf8465c1e790800000000000000
+      internalID: -7502498468523812143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51010d1ffd4fec00800000000000000
+      internalID: 932049405987586397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c264a839dd6bf70800000000000000
+      internalID: 9202786514327972945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a354e2db37bf840800000000000000
+      internalID: 5258924246247488051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_42
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 317
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46672e818fd73f60800000000000000
+      internalID: 8014119809457808974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374feaf01d971cf0800000000000000
+      internalID: -281583755432343755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512ca5f8cf7bebe80800000000000000
+      internalID: -8160883179384028651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_45
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed6097e7e9e0690800000000000000
+      internalID: -7633990052312850718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d766bdda6bb8d0800000000000000
+      internalID: -2829550440391649967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de046375703511510800000000000000
+      internalID: 1518085840393617645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bc76b0b02c1f2b0800000000000000
+      internalID: -5552443512879330412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c365794b7aa011f0800000000000000
+      internalID: -1076172864451419192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1ae71fc8eb10090800000000000000
+      internalID: -8069959544714911326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 252
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7532291193d768c10800000000000000
+      internalID: 2055467964002607959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb5a3524a0fd7c40800000000000000
+      internalID: 5511826106761239539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_53
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 252
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33071710a0cf4d590800000000000000
+      internalID: -7650212747091546061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae879f4dc8d3850800000000000000
+      internalID: 6358393095263414995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_55
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 252
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1a4fbcab40a2a0800000000000000
+      internalID: -6728294637975758153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_56
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 317
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660ee81fbb4547f0800000000000000
+      internalID: -629013288819227036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 252
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e022148ffab7050800000000000000
+      internalID: 5799422425949146668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 317
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eb529f979ca5160800000000000000
+      internalID: 7015140895291194954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_59
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 252
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486fa881f56b45490800000000000000
+      internalID: -7758375738502613372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b4e245f21675b0800000000000000
+      internalID: -5371084660994164897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 35
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bba5696da37c8f20800000000000000
+      internalID: 3426240605156912050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a3f809ca28aa50800000000000000
+      internalID: 6532518302427883280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 56
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961c127ecaf4ffa70800000000000000
+      internalID: 8862890195719143785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a730f6106d37d10800000000000000
+      internalID: 2122275151067445892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 56
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25445dad20cda8e80800000000000000
+      internalID: -8175480268718259118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 37
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb57333b04874710800000000000000
+      internalID: 1677454569857571761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1419a75bc2371a80800000000000000
+      internalID: -8496266323080702947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180d06f318a9687e0800000000000000
+      internalID: -1763552324164202367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69d210681eb35f0800000000000000
+      internalID: -775778545129646427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041acfa7634e5100800000000000000
+      internalID: 98590354458678275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5382f29d3f0dbc90800000000000000
+      internalID: -7152543876061691043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e32a6ed35941b70800000000000000
+      internalID: 8868877659294285387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c33ff19b84373f0800000000000000
+      internalID: -904299140229153755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18ebb4055ab91d60800000000000000
+      internalID: 7861519498866321436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_75
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b046dcc8cbf721210800000000000000
+      internalID: 1302243690056344587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02c692715c008640800000000000000
+      internalID: 5080073923628286474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_77
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d345272eef1271620800000000000000
+      internalID: 2744699876510159933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_78
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524aad5cb3e7d48a0800000000000000
+      internalID: -6319255906943327195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_79
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d8d88fca302fbe0800000000000000
+      internalID: -1445088488993223396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4c194204ca15870800000000000000
+      internalID: 8669900149156332745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165f5ed719b7efc70800000000000000
+      internalID: 9006772169600267617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_82
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 187
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68595f1b84bec110800000000000000
+      internalID: 1283161453466572906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_83
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 121
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64634905ee3c3cab0800000000000000
+      internalID: -4988928533874854330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_84
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 121
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69028eecf2109db0800000000000000
+      internalID: -4787305526352279186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_85
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 121
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00807c055aa130a60800000000000000
+      internalID: 7638978690277640192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_range_idle_86
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 121
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f49260ecc76dce0800000000000000
+      internalID: -1380779011434000627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_range_idle_0: 5535554046125447358
+      miltary_range_idle_1: 8086363543214263962
+      miltary_range_idle_10: -5142396208598917720
+      miltary_range_idle_11: 4317925952486996677
+      miltary_range_idle_12: -3678718427481534638
+      miltary_range_idle_13: 6216029421677777309
+      miltary_range_idle_14: 7327248498314091907
+      miltary_range_idle_15: 4533425651966749115
+      miltary_range_idle_16: -9144183288330888098
+      miltary_range_idle_17: -2955637379575095036
+      miltary_range_idle_18: 4444842257587889988
+      miltary_range_idle_19: 1836617465506451706
+      miltary_range_idle_2: -8930837526755888855
+      miltary_range_idle_20: 8526104342270447449
+      miltary_range_idle_21: 5725029515516480463
+      miltary_range_idle_22: 5299339515238230987
+      miltary_range_idle_23: -538209733844629580
+      miltary_range_idle_24: 8324111398465669851
+      miltary_range_idle_25: -5940431353200947561
+      miltary_range_idle_26: 6713549184352031285
+      miltary_range_idle_27: -418616025834484810
+      miltary_range_idle_28: 3022478263268673089
+      miltary_range_idle_29: 4780885076744342132
+      miltary_range_idle_3: -373016641721862638
+      miltary_range_idle_30: -3311104860372284826
+      miltary_range_idle_31: 1280473796930091707
+      miltary_range_idle_32: -4793173924114167603
+      miltary_range_idle_33: 8435856333124181035
+      miltary_range_idle_34: -1413600468263778565
+      miltary_range_idle_35: 6431717959030856663
+      miltary_range_idle_36: -2772268710195421248
+      miltary_range_idle_37: 641857229033462986
+      miltary_range_idle_38: -7502498468523812143
+      miltary_range_idle_39: 932049405987586397
+      miltary_range_idle_4: 6565713626593822033
+      miltary_range_idle_40: 9202786514327972945
+      miltary_range_idle_41: 5258924246247488051
+      miltary_range_idle_42: 8014119809457808974
+      miltary_range_idle_43: -281583755432343755
+      miltary_range_idle_44: -8160883179384028651
+      miltary_range_idle_45: -7633990052312850718
+      miltary_range_idle_46: -2829550440391649967
+      miltary_range_idle_47: 1518085840393617645
+      miltary_range_idle_48: -5552443512879330412
+      miltary_range_idle_49: -1076172864451419192
+      miltary_range_idle_5: 4597333242189786266
+      miltary_range_idle_50: -8069959544714911326
+      miltary_range_idle_51: 2055467964002607959
+      miltary_range_idle_52: 5511826106761239539
+      miltary_range_idle_53: -7650212747091546061
+      miltary_range_idle_54: 6358393095263414995
+      miltary_range_idle_55: -6728294637975758153
+      miltary_range_idle_56: -629013288819227036
+      miltary_range_idle_57: 5799422425949146668
+      miltary_range_idle_58: 7015140895291194954
+      miltary_range_idle_59: -7758375738502613372
+      miltary_range_idle_6: -6077330298601176495
+      miltary_range_idle_60: -5371084660994164897
+      miltary_range_idle_61: 3426240605156912050
+      miltary_range_idle_62: 6532518302427883280
+      miltary_range_idle_63: 8862890195719143785
+      miltary_range_idle_64: 2122275151067445892
+      miltary_range_idle_65: -8175480268718259118
+      miltary_range_idle_66: 1677454569857571761
+      miltary_range_idle_67: -8496266323080702947
+      miltary_range_idle_68: -1763552324164202367
+      miltary_range_idle_69: -775778545129646427
+      miltary_range_idle_7: 5383661231975873150
+      miltary_range_idle_70: 98590354458678275
+      miltary_range_idle_71: -7152543876061691043
+      miltary_range_idle_72: 8868877659294285387
+      miltary_range_idle_73: -904299140229153755
+      miltary_range_idle_74: 7861519498866321436
+      miltary_range_idle_75: 1302243690056344587
+      miltary_range_idle_76: 5080073923628286474
+      miltary_range_idle_77: 2744699876510159933
+      miltary_range_idle_78: -6319255906943327195
+      miltary_range_idle_79: -1445088488993223396
+      miltary_range_idle_8: 6353724065257743535
+      miltary_range_idle_80: 8669900149156332745
+      miltary_range_idle_81: 9006772169600267617
+      miltary_range_idle_82: 1283161453466572906
+      miltary_range_idle_83: -4988928533874854330
+      miltary_range_idle_84: -4787305526352279186
+      miltary_range_idle_85: 7638978690277640192
+      miltary_range_idle_86: -1380779011434000627
+      miltary_range_idle_9: -1310806233107029620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

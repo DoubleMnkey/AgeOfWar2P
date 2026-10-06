@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 2d04cb8e2dfc731419ed28cead32269a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8737228849089911203
+    second: cave_range_die_0
+  - first:
+      213: -2771353430609504391
+    second: cave_range_die_1
+  - first:
+      213: 3330102027588767819
+    second: cave_range_die_2
+  - first:
+      213: 1480083440210595593
+    second: cave_range_die_3
+  - first:
+      213: -8964598745738094232
+    second: cave_range_die_4
+  - first:
+      213: -7667190713792120002
+    second: cave_range_die_5
+  - first:
+      213: 1121942214693881776
+    second: cave_range_die_6
+  - first:
+      213: 5686806263683808480
+    second: cave_range_die_7
+  - first:
+      213: -3942185038251830709
+    second: cave_range_die_8
+  - first:
+      213: -488329980930131349
+    second: cave_range_die_9
+  - first:
+      213: -6097840899609585154
+    second: cave_range_die_10
+  - first:
+      213: 1379858128907384532
+    second: cave_range_die_11
+  - first:
+      213: -1558554065546017038
+    second: cave_range_die_12
+  - first:
+      213: -2478946291918410196
+    second: cave_range_die_13
+  - first:
+      213: 3852521368692190066
+    second: cave_range_die_14
+  - first:
+      213: 5172795430342840451
+    second: cave_range_die_15
+  - first:
+      213: 4145466337228306767
+    second: cave_range_die_16
+  - first:
+      213: 7692945125016012674
+    second: cave_range_die_17
+  - first:
+      213: 6512356890820629981
+    second: cave_range_die_18
+  - first:
+      213: -8868696817993475689
+    second: cave_range_die_19
+  - first:
+      213: 5664461627810589299
+    second: cave_range_die_20
+  - first:
+      213: 2349387321038174350
+    second: cave_range_die_21
+  - first:
+      213: 847624800031555376
+    second: cave_range_die_22
+  - first:
+      213: -8377117017833724725
+    second: cave_range_die_23
+  - first:
+      213: 7398835744673472003
+    second: cave_range_die_24
+  - first:
+      213: 6105350304017683539
+    second: cave_range_die_25
+  - first:
+      213: -1123480598775946085
+    second: cave_range_die_26
+  - first:
+      213: -3933385908066638962
+    second: cave_range_die_27
+  - first:
+      213: -7656542915212826855
+    second: cave_range_die_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_range_die_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 850
+        width: 60
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a99c4fa85fd04970800000000000000
+      internalID: 8737228849089911203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 851
+        width: 68
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d575fcbc2a89d0800000000000000
+      internalID: -2771353430609504391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 850
+        width: 75
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b409c348626e63e20800000000000000
+      internalID: 3330102027588767819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 850
+        width: 85
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fc0bb0c005a8410800000000000000
+      internalID: 1480083440210595593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_4
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 849
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695e5eefe8579380800000000000000
+      internalID: -8964598745738094232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_5
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 849
+        width: 102
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b3f371baaa89590800000000000000
+      internalID: -7667190713792120002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_6
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 848
+        width: 111
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7085dff70f19f00800000000000000
+      internalID: 1121942214693881776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_7
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 848
+        width: 124
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf655ba289bee40800000000000000
+      internalID: 5686806263683808480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_8
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 848
+        width: 127
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d324289b8a49c0800000000000000
+      internalID: -3942185038251830709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_9
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 904
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a7c79387a1939f0800000000000000
+      internalID: -488329980930131349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 664
+        width: 135
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91ce1720e106ba0800000000000000
+      internalID: -6097840899609585154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 730
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b5fd48ad362310800000000000000
+      internalID: 1379858128907384532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 664
+        width: 143
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f683efb557ee5ae0800000000000000
+      internalID: -1558554065546017038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 735
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6ee44b73099dd0800000000000000
+      internalID: -2478946291918410196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 663
+        width: 148
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bef76f5c7e67530800000000000000
+      internalID: 3852521368692190066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3805959890679c740800000000000000
+      internalID: 5172795430342840451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 661
+        width: 153
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4935da8ba7a78930800000000000000
+      internalID: 4145466337228306767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 721
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287072d05d4d2ca60800000000000000
+      internalID: 7692945125016012674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_18
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 661
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd55ee7961a806a50800000000000000
+      internalID: 6512356890820629981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_19
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 661
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999cde7b3f0ce480800000000000000
+      internalID: -8868696817993475689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_20
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 660
+        width: 161
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a2b71c6d53c9e40800000000000000
+      internalID: 5664461627810589299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_21
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 660
+        width: 162
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8879462253ba9020800000000000000
+      internalID: 2349387321038174350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_22
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 660
+        width: 166
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f31b4c34e53cb00800000000000000
+      internalID: 847624800031555376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 476
+        width: 170
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc42426c4708ebb80800000000000000
+      internalID: -8377117017833724725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 476
+        width: 172
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e99b8b8e1fda660800000000000000
+      internalID: 7398835744673472003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_25
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 477
+        width: 174
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3541c4401cf8ab450800000000000000
+      internalID: 6105350304017683539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 478
+        width: 174
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94aaed09589860f0800000000000000
+      internalID: -1123480598775946085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 480
+        width: 175
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8329294b5ec969c0800000000000000
+      internalID: -3933385908066638962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_die_28
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 472
+        width: 177
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917a433e8ce7eb590800000000000000
+      internalID: -7656542915212826855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_range_die_0: 8737228849089911203
+      cave_range_die_1: -2771353430609504391
+      cave_range_die_10: -6097840899609585154
+      cave_range_die_11: 1379858128907384532
+      cave_range_die_12: -1558554065546017038
+      cave_range_die_13: -2478946291918410196
+      cave_range_die_14: 3852521368692190066
+      cave_range_die_15: 5172795430342840451
+      cave_range_die_16: 4145466337228306767
+      cave_range_die_17: 7692945125016012674
+      cave_range_die_18: 6512356890820629981
+      cave_range_die_19: -8868696817993475689
+      cave_range_die_2: 3330102027588767819
+      cave_range_die_20: 5664461627810589299
+      cave_range_die_21: 2349387321038174350
+      cave_range_die_22: 847624800031555376
+      cave_range_die_23: -8377117017833724725
+      cave_range_die_24: 7398835744673472003
+      cave_range_die_25: 6105350304017683539
+      cave_range_die_26: -1123480598775946085
+      cave_range_die_27: -3933385908066638962
+      cave_range_die_28: -7656542915212826855
+      cave_range_die_3: 1480083440210595593
+      cave_range_die_4: -8964598745738094232
+      cave_range_die_5: -7667190713792120002
+      cave_range_die_6: 1121942214693881776
+      cave_range_die_7: 5686806263683808480
+      cave_range_die_8: -3942185038251830709
+      cave_range_die_9: -488329980930131349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

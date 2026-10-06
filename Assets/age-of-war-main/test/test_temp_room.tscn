@@ -1,0 +1,25 @@
+[gd_scene load_steps=3 format=3 uid="uid://d4mg1ljqe7h2w"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_1xgun"]
+size = Vector2(130, 130)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_oh27v"]
+size = Vector2(2, 2)
+
+[node name="test_temp_room" type="Node2D"]
+
+[node name="RigidBody2D" type="RigidBody2D" parent="."]
+position = Vector2(505, 178)
+gravity_scale = 0.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RigidBody2D"]
+shape = SubResource("RectangleShape2D_1xgun")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+position = Vector2(440, 178)
+target_position = Vector2(160, -2)
+
+[node name="ShapeCast2D" type="ShapeCast2D" parent="."]
+position = Vector2(560, 184)
+shape = SubResource("RectangleShape2D_oh27v")
+target_position = Vector2(239, -8)

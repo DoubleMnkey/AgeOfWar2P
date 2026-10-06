@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: c95c9bf001ba07c44acba432b84bdc1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3033709302330794948
+    second: knight_range_walk_attack_0
+  - first:
+      213: -2772611199643920250
+    second: knight_range_walk_attack_1
+  - first:
+      213: 7519894124991005908
+    second: knight_range_walk_attack_2
+  - first:
+      213: 2299848328077723261
+    second: knight_range_walk_attack_3
+  - first:
+      213: -2090054154237650894
+    second: knight_range_walk_attack_4
+  - first:
+      213: -8713699541201139314
+    second: knight_range_walk_attack_5
+  - first:
+      213: 2177696082451717943
+    second: knight_range_walk_attack_6
+  - first:
+      213: -8650799590930518818
+    second: knight_range_walk_attack_7
+  - first:
+      213: 5050366792300252821
+    second: knight_range_walk_attack_8
+  - first:
+      213: -5293575711510175746
+    second: knight_range_walk_attack_9
+  - first:
+      213: 5377796823041136321
+    second: knight_range_walk_attack_10
+  - first:
+      213: 1116286808747590401
+    second: knight_range_walk_attack_11
+  - first:
+      213: -320885351283896844
+    second: knight_range_walk_attack_12
+  - first:
+      213: 5517003159890128898
+    second: knight_range_walk_attack_13
+  - first:
+      213: -8253174791230314677
+    second: knight_range_walk_attack_14
+  - first:
+      213: 7589962901638056824
+    second: knight_range_walk_attack_15
+  - first:
+      213: 577378881962571728
+    second: knight_range_walk_attack_16
+  - first:
+      213: -2145028442210802996
+    second: knight_range_walk_attack_17
+  - first:
+      213: 863046560777931840
+    second: knight_range_walk_attack_18
+  - first:
+      213: 4806697358976577250
+    second: knight_range_walk_attack_19
+  - first:
+      213: -7350412648888129625
+    second: knight_range_walk_attack_20
+  - first:
+      213: -3454788410241337729
+    second: knight_range_walk_attack_21
+  - first:
+      213: -5457251740528956050
+    second: knight_range_walk_attack_22
+  - first:
+      213: 7629545160166182994
+    second: knight_range_walk_attack_23
+  - first:
+      213: -1412329973514716434
+    second: knight_range_walk_attack_24
+  - first:
+      213: -2999421044260199805
+    second: knight_range_walk_attack_25
+  - first:
+      213: 1915241845081689437
+    second: knight_range_walk_attack_26
+  - first:
+      213: -8361683009378893572
+    second: knight_range_walk_attack_27
+  - first:
+      213: 3318020028207041386
+    second: knight_range_walk_attack_28
+  - first:
+      213: -667373215486811725
+    second: knight_range_walk_attack_29
+  - first:
+      213: -5888643815152472495
+    second: knight_range_walk_attack_30
+  - first:
+      213: -6946416205056111762
+    second: knight_range_walk_attack_31
+  - first:
+      213: -2974464703122586889
+    second: knight_range_walk_attack_32
+  - first:
+      213: -3773678762278993609
+    second: knight_range_walk_attack_33
+  - first:
+      213: 2758504550089524260
+    second: knight_range_walk_attack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_range_walk_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c56ca767916e5d0800000000000000
+      internalID: -3033709302330794948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68854f8cdc4b589d0800000000000000
+      internalID: -2772611199643920250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c2a45dd70c5860800000000000000
+      internalID: 7519894124991005908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 152
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7649588ed3baef10800000000000000
+      internalID: 2299848328077723261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238d55ff1d2aef2e0800000000000000
+      internalID: -2090054154237650894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c8373f68b21780800000000000000
+      internalID: -8713699541201139314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f5b4f8c0bb83e10800000000000000
+      internalID: 2177696082451717943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edced7f1b9f22f780800000000000000
+      internalID: -8650799590930518818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4c70f6d1861640800000000000000
+      internalID: 5050366792300252821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effdccbdfe07986b0800000000000000
+      internalID: -5293575711510175746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 30
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6579fb7b5c1aa40800000000000000
+      internalID: 5377796823041136321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 151
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103cade20f8dd7f00800000000000000
+      internalID: 1116286808747590401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 151
+        width: 31
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc81f197cfb8bf0800000000000000
+      internalID: -320885351283896844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 203
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20075f1c425509c40800000000000000
+      internalID: 5517003159890128898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 151
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47228b2145d67d80800000000000000
+      internalID: -8253174791230314677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 203
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8782bb07f45960800000000000000
+      internalID: 7589962901638056824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 151
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f038b803430800800000000000000
+      internalID: 577378881962571728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 204
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc26ae42ff35b32e0800000000000000
+      internalID: -2145028442210802996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 151
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c8acf36482afb00800000000000000
+      internalID: 863046560777931840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 151
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6b90f7c1d4b240800000000000000
+      internalID: 4806697358976577250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 204
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a72c76d3a61ef990800000000000000
+      internalID: -7350412648888129625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76bd61ce302e00d0800000000000000
+      internalID: -3454788410241337729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 204
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da3eba472f344b0800000000000000
+      internalID: -5457251740528956050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 152
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250918d66e691e960800000000000000
+      internalID: 7629545160166182994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeab4073f55666ce0800000000000000
+      internalID: -1412329973514716434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 152
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822a0da37aef56d0800000000000000
+      internalID: -2999421044260199805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 204
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dce0b8f4e449a10800000000000000
+      internalID: 1915241845081689437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 204
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf04d85ea9555fb80800000000000000
+      internalID: -8361683009378893572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b89e2d2a9fb0e20800000000000000
+      internalID: 3318020028207041386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16c4ea8930db6f0800000000000000
+      internalID: -667373215486811725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 100
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e290546a5574ea0800000000000000
+      internalID: -5888643815152472495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0d93e34f599f90800000000000000
+      internalID: -6946416205056111762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c075ac1498b6d0800000000000000
+      internalID: -2974464703122586889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731cce5d82331abc0800000000000000
+      internalID: -3773678762278993609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_range_walk_attack_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424826be54d284620800000000000000
+      internalID: 2758504550089524260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_range_walk_attack_0: -3033709302330794948
+      knight_range_walk_attack_1: -2772611199643920250
+      knight_range_walk_attack_10: 5377796823041136321
+      knight_range_walk_attack_11: 1116286808747590401
+      knight_range_walk_attack_12: -320885351283896844
+      knight_range_walk_attack_13: 5517003159890128898
+      knight_range_walk_attack_14: -8253174791230314677
+      knight_range_walk_attack_15: 7589962901638056824
+      knight_range_walk_attack_16: 577378881962571728
+      knight_range_walk_attack_17: -2145028442210802996
+      knight_range_walk_attack_18: 863046560777931840
+      knight_range_walk_attack_19: 4806697358976577250
+      knight_range_walk_attack_2: 7519894124991005908
+      knight_range_walk_attack_20: -7350412648888129625
+      knight_range_walk_attack_21: -3454788410241337729
+      knight_range_walk_attack_22: -5457251740528956050
+      knight_range_walk_attack_23: 7629545160166182994
+      knight_range_walk_attack_24: -1412329973514716434
+      knight_range_walk_attack_25: -2999421044260199805
+      knight_range_walk_attack_26: 1915241845081689437
+      knight_range_walk_attack_27: -8361683009378893572
+      knight_range_walk_attack_28: 3318020028207041386
+      knight_range_walk_attack_29: -667373215486811725
+      knight_range_walk_attack_3: 2299848328077723261
+      knight_range_walk_attack_30: -5888643815152472495
+      knight_range_walk_attack_31: -6946416205056111762
+      knight_range_walk_attack_32: -2974464703122586889
+      knight_range_walk_attack_33: -3773678762278993609
+      knight_range_walk_attack_34: 2758504550089524260
+      knight_range_walk_attack_4: -2090054154237650894
+      knight_range_walk_attack_5: -8713699541201139314
+      knight_range_walk_attack_6: 2177696082451717943
+      knight_range_walk_attack_7: -8650799590930518818
+      knight_range_walk_attack_8: 5050366792300252821
+      knight_range_walk_attack_9: -5293575711510175746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

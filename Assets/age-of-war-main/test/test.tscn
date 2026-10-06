@@ -1,0 +1,71 @@
+[gd_scene load_steps=18 format=3 uid="uid://chebdgvppo0wf"]
+
+[ext_resource type="Script" path="res://test/test.gd" id="1_ucxlo"]
+[ext_resource type="PackedScene" uid="uid://dqbghvmes7to2" path="res://units/cave/melee/cave_melee.tscn" id="2_251e6"]
+[ext_resource type="PackedScene" uid="uid://ca15vbklojxnj" path="res://units/knight/melee/knight_melee.tscn" id="3_uqwn1"]
+[ext_resource type="PackedScene" uid="uid://d0xcoqhjj5v87" path="res://units/medival/melee/medival_melee.tscn" id="4_hlq40"]
+[ext_resource type="PackedScene" uid="uid://x0vxi7mfo5r0" path="res://units/miltary/melee/miltary_melee.tscn" id="5_useav"]
+[ext_resource type="PackedScene" uid="uid://c7ieijgt4we1q" path="res://units/future/melee/future_melee.tscn" id="6_5gxso"]
+[ext_resource type="PackedScene" uid="uid://3mxmgboq06ah" path="res://units/medival/range/medival_range.tscn" id="7_gqy3g"]
+[ext_resource type="PackedScene" uid="uid://dexhbnofnhph0" path="res://units/cave/tank/cave_tank.tscn" id="8_j2fga"]
+[ext_resource type="PackedScene" uid="uid://1v7bw6g8kre1" path="res://units/knight/tank/knight_tank.tscn" id="9_t3j4q"]
+[ext_resource type="PackedScene" uid="uid://cofidai1qfg3y" path="res://units/medival/tank/medival_tank.tscn" id="10_fpyoh"]
+[ext_resource type="PackedScene" uid="uid://hk6o6e2n3pu2" path="res://units/miltary/tank/miltary_tank.tscn" id="11_r0t7r"]
+[ext_resource type="PackedScene" uid="uid://5w6hh4jkl2mo" path="res://units/future/tank/future_tank.tscn" id="12_ax2e4"]
+[ext_resource type="PackedScene" uid="uid://gex6r6cd1sa" path="res://units/cave/range/cave_range.tscn" id="13_4shd0"]
+[ext_resource type="PackedScene" uid="uid://bv4chsqcvty6w" path="res://units/knight/range/knight_range.tscn" id="14_ju270"]
+[ext_resource type="PackedScene" uid="uid://555135b3ersn" path="res://units/miltary/range/miltary_range.tscn" id="15_ycmwn"]
+[ext_resource type="PackedScene" uid="uid://pdt03a858uxs" path="res://units/future/range/future_range.tscn" id="16_1dvqs"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_igbjk"]
+
+[node name="StaticBody2D" type="StaticBody2D"]
+script = ExtResource("1_ucxlo")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_igbjk")
+
+[node name="cave_melee" parent="." instance=ExtResource("2_251e6")]
+position = Vector2(67, -3)
+
+[node name="knight_melee" parent="." instance=ExtResource("3_uqwn1")]
+position = Vector2(138, 0)
+
+[node name="medival_melee" parent="." instance=ExtResource("4_hlq40")]
+position = Vector2(228, -1)
+
+[node name="miltary_melee" parent="." instance=ExtResource("5_useav")]
+position = Vector2(326, 1)
+
+[node name="future_melee" parent="." instance=ExtResource("6_5gxso")]
+position = Vector2(426, 1)
+
+[node name="cave_tank" parent="." instance=ExtResource("8_j2fga")]
+position = Vector2(65, 190)
+
+[node name="knight_tank" parent="." instance=ExtResource("9_t3j4q")]
+position = Vector2(256, 194)
+
+[node name="medival_tank" parent="." instance=ExtResource("10_fpyoh")]
+position = Vector2(421, 200)
+
+[node name="miltary_tank" parent="." instance=ExtResource("11_r0t7r")]
+position = Vector2(628, 210)
+
+[node name="future_tank" parent="." instance=ExtResource("12_ax2e4")]
+position = Vector2(947, 218)
+
+[node name="cave_range" parent="." instance=ExtResource("13_4shd0")]
+position = Vector2(20, 364)
+
+[node name="knight_range" parent="." instance=ExtResource("14_ju270")]
+position = Vector2(110, 367)
+
+[node name="medival_range" parent="." instance=ExtResource("7_gqy3g")]
+position = Vector2(240, 364)
+
+[node name="miltary_range" parent="." instance=ExtResource("15_ycmwn")]
+position = Vector2(403, 369)
+
+[node name="future_range" parent="." instance=ExtResource("16_1dvqs")]
+position = Vector2(551, 365)

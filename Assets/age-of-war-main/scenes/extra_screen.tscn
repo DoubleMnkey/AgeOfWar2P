@@ -1,0 +1,121 @@
+[gd_scene load_steps=11 format=3 uid="uid://cilpcvlubfvvv"]
+
+[ext_resource type="Script" path="res://scenes/extra_screen.gd" id="1_0txj3"]
+[ext_resource type="PackedScene" uid="uid://dwx7knn8q5clv" path="res://scenes/menu_parallax_background.tscn" id="2_8ot5c"]
+[ext_resource type="Texture2D" uid="uid://uvpi7jdm340p" path="res://age of war sprites/original_drawing.png" id="2_gwqsb"]
+[ext_resource type="LabelSettings" uid="uid://chnsy2dt5a4rw" path="res://UI/title_text.tres" id="3_4nshv"]
+[ext_resource type="LabelSettings" uid="uid://bq7rf2ulwh2gg" path="res://UI/regular_text.tres" id="4_gdfuu"]
+[ext_resource type="Shader" path="res://shaders/image_effects.gdshader" id="4_p6qtx"]
+[ext_resource type="PackedScene" uid="uid://0fkoqk68ht8c" path="res://scenes/ui/menu_button.tscn" id="4_ws257"]
+[ext_resource type="Script" path="res://scripts/image_tilt_effect.gd" id="6_7vy32"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_mipt4"]
+bg_color = Color(1, 1, 1, 0.72549)
+corner_radius_top_left = 32
+corner_radius_top_right = 32
+corner_radius_bottom_right = 32
+corner_radius_bottom_left = 32
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_t6bcp"]
+shader = ExtResource("4_p6qtx")
+shader_parameter/mouse_pos = Vector2(0.365, 0.405)
+shader_parameter/card_size = Vector2(743, 555)
+shader_parameter/tilt_strength = 0.5
+shader_parameter/perspective_depth = 5000.0
+shader_parameter/shimmer_width = 0.15
+shader_parameter/shimmer_strength = 0.4
+shader_parameter/shimmer_color = Vector3(1, 1, 0.5)
+shader_parameter/shimmer_softness = 0.01
+
+[node name="extra_screen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_0txj3")
+
+[node name="ParallaxBackground" parent="." instance=ExtResource("2_8ot5c")]
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -414.0
+offset_top = -582.0
+offset_right = 414.0
+offset_bottom = -82.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_mipt4")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Panel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 19.0
+offset_top = -6.0
+offset_right = -19.0
+offset_bottom = 5.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="Title" type="Label" parent="Panel/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 5
+theme_override_font_sizes/font_size = 40
+text = "Extras:"
+label_settings = ExtResource("3_4nshv")
+horizontal_alignment = 1
+
+[node name="Label" type="Label" parent="Panel/VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 5
+text = "Here is a sweet drawing Louissi made for the knight:"
+label_settings = ExtResource("4_gdfuu")
+horizontal_alignment = 1
+
+[node name="Control" type="Control" parent="Panel/VBoxContainer"]
+custom_minimum_size = Vector2(0, 339)
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="OriginalDrawing" type="TextureRect" parent="Panel/VBoxContainer/Control"]
+z_index = 1
+material = SubResource("ShaderMaterial_t6bcp")
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -370.0
+offset_top = -279.5
+offset_right = 373.0
+offset_bottom = 275.5
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.6, 0.6)
+pivot_offset = Vector2(371, 277)
+texture = ExtResource("2_gwqsb")
+script = ExtResource("6_7vy32")
+zoom_start = Vector2(0.6, 0.6)
+zoom_speed = 3.0
+
+[node name="BtnReturn" parent="Panel/VBoxContainer" instance=ExtResource("4_ws257")]
+layout_mode = 2
+text = "Click here to return to the menu"
+show_hover_pointer = true
+dark = true
+
+[connection signal="mouse_entered" from="Panel/VBoxContainer/Control/OriginalDrawing" to="Panel/VBoxContainer/Control/OriginalDrawing" method="_on_mouse_entered"]
+[connection signal="mouse_exited" from="Panel/VBoxContainer/Control/OriginalDrawing" to="Panel/VBoxContainer/Control/OriginalDrawing" method="_on_mouse_exited"]
+[connection signal="pressed" from="Panel/VBoxContainer/BtnReturn" to="." method="_on_button_pressed"]

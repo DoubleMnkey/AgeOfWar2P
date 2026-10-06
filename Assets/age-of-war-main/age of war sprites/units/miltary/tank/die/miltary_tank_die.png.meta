@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 45c3d2fbc58fd744188a48b3b50f9485
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2360620532381405993
+    second: miltary_tank_die_0
+  - first:
+      213: 8696137097227755190
+    second: miltary_tank_die_1
+  - first:
+      213: 2394278687761731355
+    second: miltary_tank_die_2
+  - first:
+      213: -6251660226971789158
+    second: miltary_tank_die_3
+  - first:
+      213: 295254435214898523
+    second: miltary_tank_die_4
+  - first:
+      213: 2333250962109972088
+    second: miltary_tank_die_5
+  - first:
+      213: -7823244123754407994
+    second: miltary_tank_die_6
+  - first:
+      213: 9026342310036087697
+    second: miltary_tank_die_7
+  - first:
+      213: 2725666900077590784
+    second: miltary_tank_die_8
+  - first:
+      213: -1044449167650260293
+    second: miltary_tank_die_9
+  - first:
+      213: 2753623495084997584
+    second: miltary_tank_die_10
+  - first:
+      213: 9166681998176413589
+    second: miltary_tank_die_11
+  - first:
+      213: 1064270796731355757
+    second: miltary_tank_die_12
+  - first:
+      213: -3877772883097449892
+    second: miltary_tank_die_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_tank_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 1992
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dca9e502246d3fd0800000000000000
+      internalID: -2360620532381405993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1743
+        width: 1992
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5b56ad92eea870800000000000000
+      internalID: 8696137097227755190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1712
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f8355f7cf2a3120800000000000000
+      internalID: 2394278687761731355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1668
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9898e27524ad39a0800000000000000
+      internalID: -6251660226971789158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1668
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55b7513854f81400800000000000000
+      internalID: 295254435214898523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1671
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e3760536f516020800000000000000
+      internalID: 2333250962109972088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1671
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d4743be04e6390800000000000000
+      internalID: -7823244123754407994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1588
+        width: 1992
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a7c2e182044d70800000000000000
+      internalID: 9026342310036087697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 1992
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093a2bba9383d520800000000000000
+      internalID: 2725666900077590784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 1992
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaf048040f5181f0800000000000000
+      internalID: -1044449167650260293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1123
+        width: 1992
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbf5bdbaf5d63620800000000000000
+      internalID: 2753623495084997584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 1992
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e54ec5b8963f70800000000000000
+      internalID: 9166681998176413589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 1992
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629eff96ac05ce00800000000000000
+      internalID: 1064270796731355757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_die_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 1494
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a855fab126f2ac0800000000000000
+      internalID: -3877772883097449892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_tank_die_0: -2360620532381405993
+      miltary_tank_die_1: 8696137097227755190
+      miltary_tank_die_10: 2753623495084997584
+      miltary_tank_die_11: 9166681998176413589
+      miltary_tank_die_12: 1064270796731355757
+      miltary_tank_die_13: -3877772883097449892
+      miltary_tank_die_2: 2394278687761731355
+      miltary_tank_die_3: -6251660226971789158
+      miltary_tank_die_4: 295254435214898523
+      miltary_tank_die_5: 2333250962109972088
+      miltary_tank_die_6: -7823244123754407994
+      miltary_tank_die_7: 9026342310036087697
+      miltary_tank_die_8: 2725666900077590784
+      miltary_tank_die_9: -1044449167650260293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

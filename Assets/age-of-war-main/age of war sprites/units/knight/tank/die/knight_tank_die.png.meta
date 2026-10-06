@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: e22c95e7e082db7409504fbd3f262842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3452565805943357992
+    second: knight_tank_die_0
+  - first:
+      213: -7249915026782027920
+    second: knight_tank_die_1
+  - first:
+      213: 428146046580122762
+    second: knight_tank_die_2
+  - first:
+      213: 2473893533381908966
+    second: knight_tank_die_3
+  - first:
+      213: -4979659293520066432
+    second: knight_tank_die_4
+  - first:
+      213: 2029986620209408695
+    second: knight_tank_die_5
+  - first:
+      213: 2481465839390069479
+    second: knight_tank_die_6
+  - first:
+      213: -5993769135199957281
+    second: knight_tank_die_7
+  - first:
+      213: 7557423782635415353
+    second: knight_tank_die_8
+  - first:
+      213: 9139098222370746952
+    second: knight_tank_die_9
+  - first:
+      213: -7624777312411707089
+    second: knight_tank_die_10
+  - first:
+      213: 5273231571185982408
+    second: knight_tank_die_11
+  - first:
+      213: 1272700335730512781
+    second: knight_tank_die_12
+  - first:
+      213: 4346389656504122968
+    second: knight_tank_die_13
+  - first:
+      213: -2190246788604857794
+    second: knight_tank_die_14
+  - first:
+      213: -4788086665032986167
+    second: knight_tank_die_15
+  - first:
+      213: 7779314931401357149
+    second: knight_tank_die_16
+  - first:
+      213: 6217983164965235471
+    second: knight_tank_die_17
+  - first:
+      213: -2266777389948834316
+    second: knight_tank_die_18
+  - first:
+      213: -8102339915305737020
+    second: knight_tank_die_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_tank_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf51521b50610d0800000000000000
+      internalID: -3452565805943357992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 442
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff3e0e1b0236b90800000000000000
+      internalID: -7249915026782027920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 442
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84656a9f8411f500800000000000000
+      internalID: 428146046580122762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 441
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e95d55bf09055220800000000000000
+      internalID: 2473893533381908966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 441
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08883438142b4eab0800000000000000
+      internalID: -4979659293520066432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 441
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa0646316fb2c10800000000000000
+      internalID: 2029986620209408695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 440
+        width: 194
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29c179800ff6220800000000000000
+      internalID: 2481465839390069479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 439
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec4b65abad1dca0800000000000000
+      internalID: -5993769135199957281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_8
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 439
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937a21da3ec51e860800000000000000
+      internalID: 7557423782635415353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ffc7896994de70800000000000000
+      internalID: 9139098222370746952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 359
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f291e32ae695f2690800000000000000
+      internalID: -7624777312411707089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 360
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5aeadc284e2940800000000000000
+      internalID: 5273231571185982408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 359
+        width: 194
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83dcb8563a89a110800000000000000
+      internalID: 1272700335730512781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 358
+        width: 291
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e3c5b4d5a715c30800000000000000
+      internalID: 4346389656504122968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 358
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3274c2762eaa91e0800000000000000
+      internalID: -2190246788604857794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_15
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 358
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c19ce8eb8c4d8db0800000000000000
+      internalID: -4788086665032986167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 961
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57f11aa6bda5fb60800000000000000
+      internalID: 7779314931401357149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 961
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bac178eb6ba4650800000000000000
+      internalID: 6217983164965235471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 961
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd663749f9ca80e0800000000000000
+      internalID: -2266777389948834316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_die_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 961
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4abba66c4be8f80800000000000000
+      internalID: -8102339915305737020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_tank_die_0: -3452565805943357992
+      knight_tank_die_1: -7249915026782027920
+      knight_tank_die_10: -7624777312411707089
+      knight_tank_die_11: 5273231571185982408
+      knight_tank_die_12: 1272700335730512781
+      knight_tank_die_13: 4346389656504122968
+      knight_tank_die_14: -2190246788604857794
+      knight_tank_die_15: -4788086665032986167
+      knight_tank_die_16: 7779314931401357149
+      knight_tank_die_17: 6217983164965235471
+      knight_tank_die_18: -2266777389948834316
+      knight_tank_die_19: -8102339915305737020
+      knight_tank_die_2: 428146046580122762
+      knight_tank_die_3: 2473893533381908966
+      knight_tank_die_4: -4979659293520066432
+      knight_tank_die_5: 2029986620209408695
+      knight_tank_die_6: 2481465839390069479
+      knight_tank_die_7: -5993769135199957281
+      knight_tank_die_8: 7557423782635415353
+      knight_tank_die_9: 9139098222370746952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

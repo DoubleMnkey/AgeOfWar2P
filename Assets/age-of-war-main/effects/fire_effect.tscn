@@ -1,0 +1,146 @@
+[gd_scene load_steps=34 format=3 uid="uid://dm56sv6nipa6x"]
+
+[ext_resource type="Texture2D" uid="uid://c660skmtk436j" path="res://age of war sprites/effects/fire/fire0001.png" id="1_xxwen"]
+[ext_resource type="Texture2D" uid="uid://ncqowloww0jh" path="res://age of war sprites/effects/fire/fire0002.png" id="2_cncrf"]
+[ext_resource type="Texture2D" uid="uid://ch5kky1yjnx1t" path="res://age of war sprites/effects/fire/fire0003.png" id="3_kas0w"]
+[ext_resource type="Texture2D" uid="uid://f63u00ribfv6" path="res://age of war sprites/effects/fire/fire0004.png" id="4_jo6np"]
+[ext_resource type="Texture2D" uid="uid://c7xmhm8jso1d2" path="res://age of war sprites/effects/fire/fire0005.png" id="5_awdgu"]
+[ext_resource type="Texture2D" uid="uid://cj4bd0ydufk0q" path="res://age of war sprites/effects/fire/fire0006.png" id="6_v0rku"]
+[ext_resource type="Texture2D" uid="uid://dtiggcwcbagtb" path="res://age of war sprites/effects/fire/fire0007.png" id="7_04s85"]
+[ext_resource type="Texture2D" uid="uid://dss0jg4sykeyi" path="res://age of war sprites/effects/fire/fire0008.png" id="8_g35bg"]
+[ext_resource type="Texture2D" uid="uid://de0npebdk7tyi" path="res://age of war sprites/effects/fire/fire0009.png" id="9_e5qq8"]
+[ext_resource type="Texture2D" uid="uid://o2ra1sbli07o" path="res://age of war sprites/effects/fire/fire0010.png" id="10_3kbqi"]
+[ext_resource type="Texture2D" uid="uid://djl8qp1oimi1i" path="res://age of war sprites/effects/fire/fire0011.png" id="11_adj61"]
+[ext_resource type="Texture2D" uid="uid://dcypm34gjy6c4" path="res://age of war sprites/effects/fire/fire0012.png" id="12_lftrn"]
+[ext_resource type="Texture2D" uid="uid://dx50kew84a4wa" path="res://age of war sprites/effects/fire/fire0013.png" id="13_62g6f"]
+[ext_resource type="Texture2D" uid="uid://m6mih3lnfvq8" path="res://age of war sprites/effects/fire/fire0014.png" id="14_ege30"]
+[ext_resource type="Texture2D" uid="uid://d1su8ajaadkxl" path="res://age of war sprites/effects/fire/fire0015.png" id="15_4qlj7"]
+[ext_resource type="Texture2D" uid="uid://bkmxqc4xo4e06" path="res://age of war sprites/effects/fire/fire0016.png" id="16_v1shs"]
+[ext_resource type="Texture2D" uid="uid://cj5nwxb4yojnc" path="res://age of war sprites/effects/fire/fire0017.png" id="17_f4yth"]
+[ext_resource type="Texture2D" uid="uid://8idnt3m5aryu" path="res://age of war sprites/effects/fire/fire0018.png" id="18_1ulrj"]
+[ext_resource type="Texture2D" uid="uid://cel084faufroc" path="res://age of war sprites/effects/fire/fire0019.png" id="19_7uci4"]
+[ext_resource type="Texture2D" uid="uid://dscvcg5uhbp6s" path="res://age of war sprites/effects/fire/fire0020.png" id="20_arvwk"]
+[ext_resource type="Texture2D" uid="uid://by87e1e3cfcqr" path="res://age of war sprites/effects/fire/fire0021.png" id="21_jsbbe"]
+[ext_resource type="Texture2D" uid="uid://bdfblb37wiuue" path="res://age of war sprites/effects/fire/fire0022.png" id="22_akqti"]
+[ext_resource type="Texture2D" uid="uid://bmiy8g4a4gjnv" path="res://age of war sprites/effects/fire/fire0023.png" id="23_plly8"]
+[ext_resource type="Texture2D" uid="uid://b8d2c48ma8h7b" path="res://age of war sprites/effects/fire/fire0024.png" id="24_1w8wt"]
+[ext_resource type="Texture2D" uid="uid://h2pnkb83koqj" path="res://age of war sprites/effects/fire/fire0025.png" id="25_d5kff"]
+[ext_resource type="Texture2D" uid="uid://chic5rtv2hbl8" path="res://age of war sprites/effects/fire/fire0026.png" id="26_y5aob"]
+[ext_resource type="Texture2D" uid="uid://bet21fhtci4j0" path="res://age of war sprites/effects/fire/fire0027.png" id="27_lp5ot"]
+[ext_resource type="Texture2D" uid="uid://dm4lahnrx2wi0" path="res://age of war sprites/effects/fire/fire0028.png" id="28_js5xg"]
+[ext_resource type="Texture2D" uid="uid://blw5euvc7xvqe" path="res://age of war sprites/effects/fire/fire0029.png" id="29_fmvgy"]
+[ext_resource type="Texture2D" uid="uid://cgklquwu8ngvn" path="res://age of war sprites/effects/fire/fire0030.png" id="30_wcf5b"]
+[ext_resource type="Script" path="res://effects/fire_effect.gd" id="31_mfxt8"]
+[ext_resource type="AudioStream" uid="uid://dsccpcvegiedb" path="res://age of war sprites/audio/sfx/fire_01.mp3" id="32_y2ut0"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_8e0wm"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_xxwen")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_cncrf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_kas0w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_jo6np")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_awdgu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_v0rku")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_04s85")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_g35bg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_e5qq8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_3kbqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_adj61")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_lftrn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_62g6f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ege30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_4qlj7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_v1shs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_f4yth")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_1ulrj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_7uci4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_arvwk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_jsbbe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_akqti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_plly8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_1w8wt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_d5kff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_y5aob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_lp5ot")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_js5xg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_fmvgy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_wcf5b")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="fire_effect" type="AnimatedSprite2D"]
+position = Vector2(0, -60)
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_8e0wm")
+autoplay = "default"
+frame = 6
+frame_progress = 0.39964
+script = ExtResource("31_mfxt8")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("32_y2ut0")
+
+[connection signal="finished" from="AudioStreamPlayer2D" to="." method="_on_audio_stream_player_2d_finished"]

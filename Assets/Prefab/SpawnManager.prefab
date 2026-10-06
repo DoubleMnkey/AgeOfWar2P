@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1069418683286271104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8053734435579476467}
+  - component: {fileID: 4674036591522020011}
+  m_Layer: 0
+  m_Name: SpawnManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8053734435579476467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069418683286271104}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.30009, y: -3.876, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4674036591522020011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069418683286271104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5049918e791634a83a12676165b12989, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnManager
+  ageUnitDatabase:
+  - ageName: Cave
+    unitPrefabs:
+    - {fileID: 3985427912880204938, guid: 7cf49dcbee37a4bb68c6e3f8b0a3ceb2, type: 3}
+    - {fileID: 6887425677668085796, guid: ab4bead4f5cdf4772b1b1db7ba10f895, type: 3}
+    - {fileID: 8328286389116784384, guid: 3268b69e918cc410fbdc8e63c76603b5, type: 3}
+  - ageName: Knight
+    unitPrefabs:
+    - {fileID: 1831820468656534644, guid: 01c9ddab875494146b8980e4ef3d8a24, type: 3}
+    - {fileID: 457120431112437579, guid: c703d43143d7749a89067db0957ce050, type: 3}
+    - {fileID: 4871676589998345906, guid: 76ec2198d120347e194083aafac0a751, type: 3}
+  - ageName: Medieval
+    unitPrefabs:
+    - {fileID: 998301920421573831, guid: 8c9d6c4d6d051470d86843a90e2e8a51, type: 3}
+    - {fileID: 5208435474211547125, guid: 1bf84e17c565e40238eefac5ef72d4ad, type: 3}
+    - {fileID: 4835600304678395352, guid: deed10302af9c4e13bd4183cfd3ae69f, type: 3}
+  - ageName: Military
+    unitPrefabs:
+    - {fileID: 4585750478900582568, guid: ead56613d1dc14fcf88f74bd1d45a5a5, type: 3}
+    - {fileID: 1209515163600067492, guid: da96588db7c164beead372d7533fcd77, type: 3}
+    - {fileID: 1784512951356621208, guid: ad03774e7dbfa48ab93192683df60122, type: 3}
+  - ageName: Future
+    unitPrefabs:
+    - {fileID: 2133580937957339980, guid: 92c7dd953858e4b509c66dabb0e2b9eb, type: 3}
+    - {fileID: 4603220831550470905, guid: 557c6d8e2be18498fba0c2e5dbe7506d, type: 3}
+    - {fileID: 3291631597313055752, guid: 477f28e923cde438d8f7838e67427953, type: 3}
+    - {fileID: 0}
+  leftSpawnPoint: {fileID: 0}
+  rightSpawnPoint: {fileID: 0}
+  extraPadding: 0.3
+  leftUnitLayerName: LeftUnit
+  rightUnitLayerName: RightUnit

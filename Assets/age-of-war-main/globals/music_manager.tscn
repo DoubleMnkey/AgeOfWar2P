@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://d3flya05xecpy"]
+
+[ext_resource type="AudioStream" uid="uid://dh3guuq8yxkuy" path="res://age of war sprites/audio/music/Glorious Morning.mp3" id="1_c325m"]
+[ext_resource type="Script" path="res://globals/music_manager.gd" id="1_rtv5f"]
+
+[node name="MusicManager" type="Node2D"]
+script = ExtResource("1_rtv5f")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("1_c325m")

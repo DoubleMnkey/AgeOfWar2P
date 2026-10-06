@@ -1,0 +1,2654 @@
+fileFormatVersion: 2
+guid: ddd084ca6e58bbf43bf552d767725509
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 78584560488993011
+    second: knight_melee_attack_0
+  - first:
+      213: 3758699251346917703
+    second: knight_melee_attack_1
+  - first:
+      213: -3007284888342877804
+    second: knight_melee_attack_2
+  - first:
+      213: 6457557335300660394
+    second: knight_melee_attack_3
+  - first:
+      213: -6076275153070433334
+    second: knight_melee_attack_4
+  - first:
+      213: 5886316224047130538
+    second: knight_melee_attack_5
+  - first:
+      213: -3095601817571141089
+    second: knight_melee_attack_6
+  - first:
+      213: -2650737215963241849
+    second: knight_melee_attack_7
+  - first:
+      213: -9139693598015896381
+    second: knight_melee_attack_8
+  - first:
+      213: -3653190466315736514
+    second: knight_melee_attack_9
+  - first:
+      213: 676497261134888504
+    second: knight_melee_attack_10
+  - first:
+      213: -7410210264593929897
+    second: knight_melee_attack_11
+  - first:
+      213: -8096794053196826551
+    second: knight_melee_attack_12
+  - first:
+      213: 7161299039488355060
+    second: knight_melee_attack_13
+  - first:
+      213: -2058970077368988801
+    second: knight_melee_attack_14
+  - first:
+      213: 6296070514376458730
+    second: knight_melee_attack_15
+  - first:
+      213: -4482546281938574634
+    second: knight_melee_attack_16
+  - first:
+      213: -1404112061838404130
+    second: knight_melee_attack_17
+  - first:
+      213: 170875196814522618
+    second: knight_melee_attack_18
+  - first:
+      213: -916669409542611921
+    second: knight_melee_attack_19
+  - first:
+      213: 9090702287769292604
+    second: knight_melee_attack_20
+  - first:
+      213: 7106929129911074271
+    second: knight_melee_attack_21
+  - first:
+      213: 5038041015441354286
+    second: knight_melee_attack_22
+  - first:
+      213: -4689478194171684113
+    second: knight_melee_attack_23
+  - first:
+      213: -2645270157532085993
+    second: knight_melee_attack_24
+  - first:
+      213: 2002355718410735745
+    second: knight_melee_attack_25
+  - first:
+      213: -2140266978687917946
+    second: knight_melee_attack_26
+  - first:
+      213: -5258553510576234045
+    second: knight_melee_attack_27
+  - first:
+      213: -4430040285106344059
+    second: knight_melee_attack_28
+  - first:
+      213: 5065392155380849809
+    second: knight_melee_attack_29
+  - first:
+      213: -3445425466414728636
+    second: knight_melee_attack_30
+  - first:
+      213: 713499673976727081
+    second: knight_melee_attack_31
+  - first:
+      213: 5623184344860748558
+    second: knight_melee_attack_32
+  - first:
+      213: -8734531845525481652
+    second: knight_melee_attack_33
+  - first:
+      213: 6281973476739475132
+    second: knight_melee_attack_34
+  - first:
+      213: 3169467773134628942
+    second: knight_melee_attack_35
+  - first:
+      213: -3708938970835187365
+    second: knight_melee_attack_36
+  - first:
+      213: 8189260203750028912
+    second: knight_melee_attack_37
+  - first:
+      213: 980828408306510474
+    second: knight_melee_attack_38
+  - first:
+      213: 9181832601750556828
+    second: knight_melee_attack_39
+  - first:
+      213: -8946254207067166929
+    second: knight_melee_attack_40
+  - first:
+      213: -1052936937451930353
+    second: knight_melee_attack_41
+  - first:
+      213: -6494946530930943050
+    second: knight_melee_attack_42
+  - first:
+      213: -2650246192992564980
+    second: knight_melee_attack_43
+  - first:
+      213: -8507950826305502590
+    second: knight_melee_attack_44
+  - first:
+      213: 7744552606857839745
+    second: knight_melee_attack_45
+  - first:
+      213: -6168639415791514345
+    second: knight_melee_attack_46
+  - first:
+      213: -4932600829288389676
+    second: knight_melee_attack_47
+  - first:
+      213: -9185846111668662364
+    second: knight_melee_attack_48
+  - first:
+      213: 5628249817362058803
+    second: knight_melee_attack_49
+  - first:
+      213: 5676318196893685341
+    second: knight_melee_attack_50
+  - first:
+      213: -1480925436387549778
+    second: knight_melee_attack_51
+  - first:
+      213: 4862945250105426661
+    second: knight_melee_attack_52
+  - first:
+      213: 3158946361267418434
+    second: knight_melee_attack_53
+  - first:
+      213: 375438504655973603
+    second: knight_melee_attack_54
+  - first:
+      213: -8528202330307892963
+    second: knight_melee_attack_55
+  - first:
+      213: -4514515982343373692
+    second: knight_melee_attack_56
+  - first:
+      213: 1011035308306564027
+    second: knight_melee_attack_57
+  - first:
+      213: -1795736216473564259
+    second: knight_melee_attack_58
+  - first:
+      213: -1262626768426079684
+    second: knight_melee_attack_59
+  - first:
+      213: 828766267971765968
+    second: knight_melee_attack_60
+  - first:
+      213: 4133925401845204779
+    second: knight_melee_attack_61
+  - first:
+      213: 8768177814981704370
+    second: knight_melee_attack_62
+  - first:
+      213: -5161395828306416828
+    second: knight_melee_attack_63
+  - first:
+      213: 3491382269939389358
+    second: knight_melee_attack_64
+  - first:
+      213: 8008168960467714939
+    second: knight_melee_attack_65
+  - first:
+      213: -2639310838832059967
+    second: knight_melee_attack_66
+  - first:
+      213: -8303029691534562629
+    second: knight_melee_attack_67
+  - first:
+      213: 2149260408972620769
+    second: knight_melee_attack_68
+  - first:
+      213: 7398172934014721319
+    second: knight_melee_attack_69
+  - first:
+      213: -8711671920348486224
+    second: knight_melee_attack_70
+  - first:
+      213: 3598882048842505535
+    second: knight_melee_attack_71
+  - first:
+      213: -2721664725148672564
+    second: knight_melee_attack_72
+  - first:
+      213: -2157595718087875581
+    second: knight_melee_attack_73
+  - first:
+      213: -3538260149260251292
+    second: knight_melee_attack_74
+  - first:
+      213: 1763210475272568724
+    second: knight_melee_attack_75
+  - first:
+      213: 629720534573672766
+    second: knight_melee_attack_76
+  - first:
+      213: 6451717465541055092
+    second: knight_melee_attack_77
+  - first:
+      213: 435130689841453590
+    second: knight_melee_attack_78
+  - first:
+      213: -4399732205007364266
+    second: knight_melee_attack_79
+  - first:
+      213: 5698229167183726079
+    second: knight_melee_attack_80
+  - first:
+      213: -55657703841004568
+    second: knight_melee_attack_81
+  - first:
+      213: -6552374379570718785
+    second: knight_melee_attack_82
+  - first:
+      213: 6748513652118625645
+    second: knight_melee_attack_83
+  - first:
+      213: 9080357910035764205
+    second: knight_melee_attack_84
+  - first:
+      213: 3295782185323973511
+    second: knight_melee_attack_85
+  - first:
+      213: 582883598709171213
+    second: knight_melee_attack_86
+  - first:
+      213: 2818588496516359409
+    second: knight_melee_attack_87
+  - first:
+      213: -7287860226845096356
+    second: knight_melee_attack_88
+  - first:
+      213: -6794825064946155498
+    second: knight_melee_attack_89
+  - first:
+      213: 7647851716441916682
+    second: knight_melee_attack_90
+  - first:
+      213: 7743967798365893859
+    second: knight_melee_attack_91
+  - first:
+      213: -2373195224991733795
+    second: knight_melee_attack_92
+  - first:
+      213: -679909695037114939
+    second: knight_melee_attack_93
+  - first:
+      213: -5829745038171375932
+    second: knight_melee_attack_94
+  - first:
+      213: -7220348072220126827
+    second: knight_melee_attack_95
+  - first:
+      213: 7914396926563435466
+    second: knight_melee_attack_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_melee_attack_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 946
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0d6cccd30371100800000000000000
+      internalID: 78584560488993011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 866
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494f0efd05992430800000000000000
+      internalID: 3758699251346917703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 866
+        width: 25
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4992cebc35af346d0800000000000000
+      internalID: -3007284888342877804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 946
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac505fce2add9950800000000000000
+      internalID: 6457557335300660394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 946
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb54b711fbbcaba0800000000000000
+      internalID: -6076275153070433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 946
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7a2f13b6560b150800000000000000
+      internalID: 5886316224047130538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 946
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5e915c863a05d0800000000000000
+      internalID: -3095601817571141089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 946
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7826a99db80b63bd0800000000000000
+      internalID: -2650737215963241849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 946
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4c956c819492180800000000000000
+      internalID: -9139693598015896381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 946
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a286650a24d4dc0800000000000000
+      internalID: -3653190466315736514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_10
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 946
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e387dbca6636900800000000000000
+      internalID: 676497261134888504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 945
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759eceb7605a92990800000000000000
+      internalID: -7410210264593929897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_12
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 946
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94835bf05b862af80800000000000000
+      internalID: -8096794053196826551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 867
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faac03c88b026360800000000000000
+      internalID: 7161299039488355060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 867
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b434f9f911d63e0800000000000000
+      internalID: -2058970077368988801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 867
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1483a56c2206750800000000000000
+      internalID: 6296070514376458730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 866
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2adc7f7ebcac1c0800000000000000
+      internalID: -4482546281938574634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 866
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d741e487938ce0800000000000000
+      internalID: -1404112061838404130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 866
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8fd0f06121f5200800000000000000
+      internalID: 170875196814522618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 866
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cdebb57065743f0800000000000000
+      internalID: -916669409542611921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_20
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 866
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc15de099a82e70800000000000000
+      internalID: 9090702287769292604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_21
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 866
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb938b362e0a260800000000000000
+      internalID: 7106929129911074271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_22
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 866
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eea316c97bae540800000000000000
+      internalID: 5038041015441354286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead476ad60abeeb0800000000000000
+      internalID: -4689478194171684113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 787
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711cb559ecc1a4bd0800000000000000
+      internalID: -2645270157532085993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 787
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18018ddbaebc9cb10800000000000000
+      internalID: 2002355718410735745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 787
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680eec2c58e3c42e0800000000000000
+      internalID: -2140266978687917946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 787
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c168b1717dd507b0800000000000000
+      internalID: -5258553510576234045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 787
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fe09105d55582c0800000000000000
+      internalID: -4430040285106344059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 787
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c9685e353eb4640800000000000000
+      internalID: 5065392155380849809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_30
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 787
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af34efac36f20d0800000000000000
+      internalID: -3445425466414728636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 787
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9266db65c2cd6e900800000000000000
+      internalID: 713499673976727081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 787
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b66f56e50990e40800000000000000
+      internalID: 5623184344860748558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_33
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 787
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47dd146095b8c680800000000000000
+      internalID: -8734531845525481652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 787
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb66b71089d0e2750800000000000000
+      internalID: 6281973476739475132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 708
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ecb8a5263cfb20800000000000000
+      internalID: 3169467773134628942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 708
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5904c528a3378cc0800000000000000
+      internalID: -3708938970835187365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 708
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07673c944c816a170800000000000000
+      internalID: 8189260203750028912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 708
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aa8be9d3a9c9d00800000000000000
+      internalID: 980828408306510474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 708
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9051769a1c6c6f70800000000000000
+      internalID: 9181832601750556828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 708
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27ea6da23588d380800000000000000
+      internalID: -8946254207067166929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_41
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 708
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d3a402f673361f0800000000000000
+      internalID: -1052936937451930353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_42
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 708
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb94b4ba805dd5a0800000000000000
+      internalID: -6494946530930943050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 708
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c85b012f683bd0800000000000000
+      internalID: -2650246192992564980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_44
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 709
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282c19feccfade980800000000000000
+      internalID: -8507950826305502590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_45
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 709
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844614409d2a7b60800000000000000
+      internalID: 7744552606857839745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_46
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 709
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d064a5227946aa0800000000000000
+      internalID: -6168639415791514345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 630
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3e7770ea1eb8bb0800000000000000
+      internalID: -4932600829288389676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 630
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af069051a1558080800000000000000
+      internalID: -9185846111668662364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 630
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ec50f936f8b1e40800000000000000
+      internalID: 5628249817362058803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 630
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561fed535556ce40800000000000000
+      internalID: 5676318196893685341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 630
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead97417922b27be0800000000000000
+      internalID: -1480925436387549778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 629
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e205b2a0f6ac7340800000000000000
+      internalID: 4862945250105426661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_53
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 629
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2457bdf8af4d6db20800000000000000
+      internalID: 3158946361267418434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 629
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ece501b453d53500800000000000000
+      internalID: 375438504655973603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_55
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 629
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19e6593a2db5a980800000000000000
+      internalID: -8528202330307892963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_56
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 629
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c799b02a73951c0800000000000000
+      internalID: -4514515982343373692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_57
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 629
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38df6914be70e00800000000000000
+      internalID: 1011035308306564027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b0ac2ec634417e0800000000000000
+      internalID: -1795736216473564259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a6010d4af3a7ee0800000000000000
+      internalID: -1262626768426079684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6884c978e508b00800000000000000
+      internalID: 828766267971765968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2782f02047ae5930800000000000000
+      internalID: 4133925401845204779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf1755443dea970800000000000000
+      internalID: 8768177814981704370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bec9427d90f58b0800000000000000
+      internalID: -5161395828306416828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea395d62da1e37030800000000000000
+      internalID: 3491382269939389358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_65
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 550
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ccfd8d3bb22f60800000000000000
+      internalID: 8008168960467714939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_66
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 550
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9a39796c84f5bd0800000000000000
+      internalID: -2639310838832059967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_67
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 551
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaaf84ac76b5cc80800000000000000
+      internalID: -8303029691534562629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_68
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 551
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3bf9664f4b3dd10800000000000000
+      internalID: 2149260408972620769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_69
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 551
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d5bd616179ba660800000000000000
+      internalID: 7398172934014721319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 472
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b522eb7b8ce91780800000000000000
+      internalID: -8711671920348486224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_71
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 472
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d99cdd72cc1f130800000000000000
+      internalID: 3598882048842505535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 472
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd5dcb3a54ba3ad0800000000000000
+      internalID: -2721664725148672564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 472
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304e776302eae02e0800000000000000
+      internalID: -2157595718087875581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 472
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f0c68042395eec0800000000000000
+      internalID: -3538260149260251292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_75
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 472
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f7edad59e287810800000000000000
+      internalID: 1763210475272568724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_76
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 472
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3968036d773db800800000000000000
+      internalID: 629720534573672766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_77
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 472
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47212cc2ada198950800000000000000
+      internalID: 6451717465541055092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_78
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 472
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aded69e05e90600800000000000000
+      internalID: 435130689841453590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_79
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 472
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f90bdced201f2c0800000000000000
+      internalID: -4399732205007364266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_80
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 472
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff581ceac3d241f40800000000000000
+      internalID: 5698229167183726079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_81
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 472
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e30b8dfc934a3ff0800000000000000
+      internalID: -55657703841004568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 393
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7115eb73a4115a0800000000000000
+      internalID: -6552374379570718785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_83
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 392
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d9764596987ad50800000000000000
+      internalID: 6748513652118625645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 392
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3171dc869e30e70800000000000000
+      internalID: 9080357910035764205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_85
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 392
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bcb4d8f68fcbd20800000000000000
+      internalID: 3295782185323973511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_86
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 392
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0426767b81d61800800000000000000
+      internalID: 582883598709171213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_87
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 392
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42cd6dd43ad1720800000000000000
+      internalID: 2818588496516359409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_88
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 392
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5643368cb15cda90800000000000000
+      internalID: -7287860226845096356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_89
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 392
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c6fc9a9ee3b1a0800000000000000
+      internalID: -6794825064946155498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_90
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 392
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c165bd90a22a60800000000000000
+      internalID: 7647851716441916682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_91
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 392
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4b9adeea9187b60800000000000000
+      internalID: 7743967798365893859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_92
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 392
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e6bf3487b01fd0800000000000000
+      internalID: -2373195224991733795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_93
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 392
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f7f31cb97096f0800000000000000
+      internalID: -679909695037114939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_94
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 313
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6f2bc66c5981fa0800000000000000
+      internalID: -5829745038171375932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 314
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59194a0feab2ccb90800000000000000
+      internalID: -7220348072220126827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_melee_attack_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 314
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c14b821695dd60800000000000000
+      internalID: 7914396926563435466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_melee_attack_0: 78584560488993011
+      knight_melee_attack_1: 3758699251346917703
+      knight_melee_attack_10: 676497261134888504
+      knight_melee_attack_11: -7410210264593929897
+      knight_melee_attack_12: -8096794053196826551
+      knight_melee_attack_13: 7161299039488355060
+      knight_melee_attack_14: -2058970077368988801
+      knight_melee_attack_15: 6296070514376458730
+      knight_melee_attack_16: -4482546281938574634
+      knight_melee_attack_17: -1404112061838404130
+      knight_melee_attack_18: 170875196814522618
+      knight_melee_attack_19: -916669409542611921
+      knight_melee_attack_2: -3007284888342877804
+      knight_melee_attack_20: 9090702287769292604
+      knight_melee_attack_21: 7106929129911074271
+      knight_melee_attack_22: 5038041015441354286
+      knight_melee_attack_23: -4689478194171684113
+      knight_melee_attack_24: -2645270157532085993
+      knight_melee_attack_25: 2002355718410735745
+      knight_melee_attack_26: -2140266978687917946
+      knight_melee_attack_27: -5258553510576234045
+      knight_melee_attack_28: -4430040285106344059
+      knight_melee_attack_29: 5065392155380849809
+      knight_melee_attack_3: 6457557335300660394
+      knight_melee_attack_30: -3445425466414728636
+      knight_melee_attack_31: 713499673976727081
+      knight_melee_attack_32: 5623184344860748558
+      knight_melee_attack_33: -8734531845525481652
+      knight_melee_attack_34: 6281973476739475132
+      knight_melee_attack_35: 3169467773134628942
+      knight_melee_attack_36: -3708938970835187365
+      knight_melee_attack_37: 8189260203750028912
+      knight_melee_attack_38: 980828408306510474
+      knight_melee_attack_39: 9181832601750556828
+      knight_melee_attack_4: -6076275153070433334
+      knight_melee_attack_40: -8946254207067166929
+      knight_melee_attack_41: -1052936937451930353
+      knight_melee_attack_42: -6494946530930943050
+      knight_melee_attack_43: -2650246192992564980
+      knight_melee_attack_44: -8507950826305502590
+      knight_melee_attack_45: 7744552606857839745
+      knight_melee_attack_46: -6168639415791514345
+      knight_melee_attack_47: -4932600829288389676
+      knight_melee_attack_48: -9185846111668662364
+      knight_melee_attack_49: 5628249817362058803
+      knight_melee_attack_5: 5886316224047130538
+      knight_melee_attack_50: 5676318196893685341
+      knight_melee_attack_51: -1480925436387549778
+      knight_melee_attack_52: 4862945250105426661
+      knight_melee_attack_53: 3158946361267418434
+      knight_melee_attack_54: 375438504655973603
+      knight_melee_attack_55: -8528202330307892963
+      knight_melee_attack_56: -4514515982343373692
+      knight_melee_attack_57: 1011035308306564027
+      knight_melee_attack_58: -1795736216473564259
+      knight_melee_attack_59: -1262626768426079684
+      knight_melee_attack_6: -3095601817571141089
+      knight_melee_attack_60: 828766267971765968
+      knight_melee_attack_61: 4133925401845204779
+      knight_melee_attack_62: 8768177814981704370
+      knight_melee_attack_63: -5161395828306416828
+      knight_melee_attack_64: 3491382269939389358
+      knight_melee_attack_65: 8008168960467714939
+      knight_melee_attack_66: -2639310838832059967
+      knight_melee_attack_67: -8303029691534562629
+      knight_melee_attack_68: 2149260408972620769
+      knight_melee_attack_69: 7398172934014721319
+      knight_melee_attack_7: -2650737215963241849
+      knight_melee_attack_70: -8711671920348486224
+      knight_melee_attack_71: 3598882048842505535
+      knight_melee_attack_72: -2721664725148672564
+      knight_melee_attack_73: -2157595718087875581
+      knight_melee_attack_74: -3538260149260251292
+      knight_melee_attack_75: 1763210475272568724
+      knight_melee_attack_76: 629720534573672766
+      knight_melee_attack_77: 6451717465541055092
+      knight_melee_attack_78: 435130689841453590
+      knight_melee_attack_79: -4399732205007364266
+      knight_melee_attack_8: -9139693598015896381
+      knight_melee_attack_80: 5698229167183726079
+      knight_melee_attack_81: -55657703841004568
+      knight_melee_attack_82: -6552374379570718785
+      knight_melee_attack_83: 6748513652118625645
+      knight_melee_attack_84: 9080357910035764205
+      knight_melee_attack_85: 3295782185323973511
+      knight_melee_attack_86: 582883598709171213
+      knight_melee_attack_87: 2818588496516359409
+      knight_melee_attack_88: -7287860226845096356
+      knight_melee_attack_89: -6794825064946155498
+      knight_melee_attack_9: -3653190466315736514
+      knight_melee_attack_90: 7647851716441916682
+      knight_melee_attack_91: 7743967798365893859
+      knight_melee_attack_92: -2373195224991733795
+      knight_melee_attack_93: -679909695037114939
+      knight_melee_attack_94: -5829745038171375932
+      knight_melee_attack_95: -7220348072220126827
+      knight_melee_attack_96: 7914396926563435466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

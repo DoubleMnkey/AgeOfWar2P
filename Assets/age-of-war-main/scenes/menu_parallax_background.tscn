@@ -1,0 +1,32 @@
+[gd_scene load_steps=4 format=3 uid="uid://dwx7knn8q5clv"]
+
+[ext_resource type="Texture2D" uid="uid://dli1o17atwjdp" path="res://age of war sprites/background.png" id="1_n6yij"]
+[ext_resource type="Script" path="res://scripts/menu_parallax_background.gd" id="1_xxfyt"]
+[ext_resource type="Texture2D" uid="uid://brcyia558qk8e" path="res://age of war sprites/blue_sky.png" id="2_s14v6"]
+
+[node name="ParallaxBackground" type="ParallaxBackground"]
+script = ExtResource("1_xxfyt")
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+
+[node name="Background" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(656, 534)
+scale = Vector2(0.349064, 0.349064)
+texture = ExtResource("1_n6yij")
+
+[node name="ParallaxLayer2" type="ParallaxLayer" parent="."]
+motion_scale = Vector2(0.5, 0.5)
+
+[node name="Background2" type="Sprite2D" parent="ParallaxLayer2"]
+modulate = Color(2, 2, 2, 0.573)
+z_index = -1
+position = Vector2(595, 516)
+scale = Vector2(0.237292, 0.237292)
+texture = ExtResource("1_n6yij")
+
+[node name="BlueSky" type="Sprite2D" parent="."]
+z_index = -2
+position = Vector2(577.5, 324.5)
+scale = Vector2(1.75452, 1.58413)
+texture = ExtResource("2_s14v6")
+metadata/_edit_lock_ = true

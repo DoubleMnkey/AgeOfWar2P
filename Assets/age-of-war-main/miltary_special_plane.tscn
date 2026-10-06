@@ -1,0 +1,41 @@
+[gd_scene load_steps=7 format=3 uid="uid://frkuqvl3a0k6"]
+
+[ext_resource type="Texture2D" uid="uid://6us4ow8vbnlw" path="res://age of war sprites/effects/miltary_special_plane/miltary_special_plane0001.png" id="1_0b5o5"]
+[ext_resource type="Script" path="res://miltary_special_plane.gd" id="1_gg3al"]
+[ext_resource type="Texture2D" uid="uid://ds85vhvch8f4p" path="res://age of war sprites/effects/miltary_special_plane/miltary_special_plane0002.png" id="2_6yk2p"]
+[ext_resource type="Texture2D" uid="uid://dp0b422m8qlsk" path="res://age of war sprites/effects/miltary_special_plane/miltary_special_plane0003.png" id="3_pxcjw"]
+[ext_resource type="AudioStream" uid="uid://ubb6pdfxpmx4" path="res://age of war sprites/audio/sfx/miltary_special_attack.mp3" id="5_tjpk8"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_plccj"]
+animations = [{
+"frames": [{
+"duration": 2.0,
+"texture": ExtResource("1_0b5o5")
+}, {
+"duration": 2.0,
+"texture": ExtResource("2_6yk2p")
+}, {
+"duration": 2.0,
+"texture": ExtResource("3_pxcjw")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[node name="miltary_special_plane" type="Node2D"]
+script = ExtResource("1_gg3al")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.5, 0.5)
+sprite_frames = SubResource("SpriteFrames_plccj")
+autoplay = "default"
+frame_progress = 0.619051
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("5_tjpk8")
+volume_db = 5.0
+
+[connection signal="timeout" from="Timer" to="." method="_on_bomb_timer_timeout"]

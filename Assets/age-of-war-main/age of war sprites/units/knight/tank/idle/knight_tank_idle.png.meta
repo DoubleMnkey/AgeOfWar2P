@@ -1,0 +1,3252 @@
+fileFormatVersion: 2
+guid: a4f38943f5b706e46aa7a2d6d50a6c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6761683681981949833
+    second: knight_tank_idle_0
+  - first:
+      213: 586749365392989372
+    second: knight_tank_idle_1
+  - first:
+      213: -1743857363587460235
+    second: knight_tank_idle_2
+  - first:
+      213: 7602206509541628371
+    second: knight_tank_idle_3
+  - first:
+      213: -4336201747505700058
+    second: knight_tank_idle_4
+  - first:
+      213: -5734423042742641444
+    second: knight_tank_idle_5
+  - first:
+      213: -7757762507639391235
+    second: knight_tank_idle_6
+  - first:
+      213: -2547475930803769237
+    second: knight_tank_idle_7
+  - first:
+      213: -1396126075845370720
+    second: knight_tank_idle_8
+  - first:
+      213: -8720515184635601928
+    second: knight_tank_idle_9
+  - first:
+      213: 6974139112104534932
+    second: knight_tank_idle_10
+  - first:
+      213: -2717382529087282823
+    second: knight_tank_idle_11
+  - first:
+      213: 6036990377884982689
+    second: knight_tank_idle_12
+  - first:
+      213: 61388400884949601
+    second: knight_tank_idle_13
+  - first:
+      213: -8251057334536843521
+    second: knight_tank_idle_14
+  - first:
+      213: 8884274779731371853
+    second: knight_tank_idle_15
+  - first:
+      213: -2719703094611041274
+    second: knight_tank_idle_16
+  - first:
+      213: -1421625044776098233
+    second: knight_tank_idle_17
+  - first:
+      213: 8127740892067515634
+    second: knight_tank_idle_18
+  - first:
+      213: -1794561053797429162
+    second: knight_tank_idle_19
+  - first:
+      213: 8238214335480512971
+    second: knight_tank_idle_20
+  - first:
+      213: -9082841047923539822
+    second: knight_tank_idle_21
+  - first:
+      213: 8623869312058913072
+    second: knight_tank_idle_22
+  - first:
+      213: -928812106004516741
+    second: knight_tank_idle_23
+  - first:
+      213: -8495138798892874174
+    second: knight_tank_idle_24
+  - first:
+      213: 6840086776219540673
+    second: knight_tank_idle_25
+  - first:
+      213: 8361077749424542204
+    second: knight_tank_idle_26
+  - first:
+      213: -6217604429648230569
+    second: knight_tank_idle_27
+  - first:
+      213: -6029221914016820792
+    second: knight_tank_idle_28
+  - first:
+      213: -7793799823619915844
+    second: knight_tank_idle_29
+  - first:
+      213: 7261356068489320009
+    second: knight_tank_idle_30
+  - first:
+      213: 6292137545055689870
+    second: knight_tank_idle_31
+  - first:
+      213: 6230419141484245261
+    second: knight_tank_idle_32
+  - first:
+      213: 3570355366408192207
+    second: knight_tank_idle_33
+  - first:
+      213: 6546994908985151253
+    second: knight_tank_idle_34
+  - first:
+      213: -5117803501982633151
+    second: knight_tank_idle_35
+  - first:
+      213: -6531749843080986494
+    second: knight_tank_idle_36
+  - first:
+      213: -6048642106146316377
+    second: knight_tank_idle_37
+  - first:
+      213: -1675885520581101502
+    second: knight_tank_idle_38
+  - first:
+      213: -4029930564279984127
+    second: knight_tank_idle_39
+  - first:
+      213: -1773095281667248315
+    second: knight_tank_idle_40
+  - first:
+      213: 8781248872021333179
+    second: knight_tank_idle_41
+  - first:
+      213: -3426779025208675720
+    second: knight_tank_idle_42
+  - first:
+      213: 6430344733419126980
+    second: knight_tank_idle_43
+  - first:
+      213: 2992191889980563345
+    second: knight_tank_idle_44
+  - first:
+      213: -3836964864286283255
+    second: knight_tank_idle_45
+  - first:
+      213: -257014210028658895
+    second: knight_tank_idle_46
+  - first:
+      213: -5292694451713317002
+    second: knight_tank_idle_47
+  - first:
+      213: -3918528455232353786
+    second: knight_tank_idle_48
+  - first:
+      213: 7473353651074142641
+    second: knight_tank_idle_49
+  - first:
+      213: -4318970767038479161
+    second: knight_tank_idle_50
+  - first:
+      213: -8755849584145622645
+    second: knight_tank_idle_51
+  - first:
+      213: 2365694219421339214
+    second: knight_tank_idle_52
+  - first:
+      213: 3006854842952902217
+    second: knight_tank_idle_53
+  - first:
+      213: -7680714125379100945
+    second: knight_tank_idle_54
+  - first:
+      213: -843859440541937951
+    second: knight_tank_idle_55
+  - first:
+      213: -5788223050148647749
+    second: knight_tank_idle_56
+  - first:
+      213: -5379914924523350161
+    second: knight_tank_idle_57
+  - first:
+      213: 5062625015418083959
+    second: knight_tank_idle_58
+  - first:
+      213: 3315048059877849088
+    second: knight_tank_idle_59
+  - first:
+      213: -9032180596414265502
+    second: knight_tank_idle_60
+  - first:
+      213: -8861572096363973839
+    second: knight_tank_idle_61
+  - first:
+      213: 4541086931353749527
+    second: knight_tank_idle_62
+  - first:
+      213: -1780114701513140763
+    second: knight_tank_idle_63
+  - first:
+      213: 2615814894845836561
+    second: knight_tank_idle_64
+  - first:
+      213: 6123644332161416456
+    second: knight_tank_idle_65
+  - first:
+      213: 1132671998566660077
+    second: knight_tank_idle_66
+  - first:
+      213: 4018913125751565975
+    second: knight_tank_idle_67
+  - first:
+      213: -2114295913125090272
+    second: knight_tank_idle_68
+  - first:
+      213: -5778713930983577274
+    second: knight_tank_idle_69
+  - first:
+      213: 786646659272715313
+    second: knight_tank_idle_70
+  - first:
+      213: -2573489801015661702
+    second: knight_tank_idle_71
+  - first:
+      213: -6953453656939196176
+    second: knight_tank_idle_72
+  - first:
+      213: -9057389090404997580
+    second: knight_tank_idle_73
+  - first:
+      213: -4981630838820782493
+    second: knight_tank_idle_74
+  - first:
+      213: -8069056529559858458
+    second: knight_tank_idle_75
+  - first:
+      213: -28048652006405462
+    second: knight_tank_idle_76
+  - first:
+      213: 5959811676746153987
+    second: knight_tank_idle_77
+  - first:
+      213: 3073895881525730945
+    second: knight_tank_idle_78
+  - first:
+      213: 3382614783380995793
+    second: knight_tank_idle_79
+  - first:
+      213: 5393170158235749488
+    second: knight_tank_idle_80
+  - first:
+      213: -4111277971443855036
+    second: knight_tank_idle_81
+  - first:
+      213: -8935386020366382049
+    second: knight_tank_idle_82
+  - first:
+      213: -146587165883625989
+    second: knight_tank_idle_83
+  - first:
+      213: 1201960265327577153
+    second: knight_tank_idle_84
+  - first:
+      213: 2720723930787466928
+    second: knight_tank_idle_85
+  - first:
+      213: 4086723553054926815
+    second: knight_tank_idle_86
+  - first:
+      213: -565385938914910506
+    second: knight_tank_idle_87
+  - first:
+      213: -2508145380884298146
+    second: knight_tank_idle_88
+  - first:
+      213: 7739525831862361241
+    second: knight_tank_idle_89
+  - first:
+      213: -4119352795758012565
+    second: knight_tank_idle_90
+  - first:
+      213: -4558145003750080581
+    second: knight_tank_idle_91
+  - first:
+      213: -2423873805121143118
+    second: knight_tank_idle_92
+  - first:
+      213: 5005803229182218498
+    second: knight_tank_idle_93
+  - first:
+      213: -232732896474665230
+    second: knight_tank_idle_94
+  - first:
+      213: -4056210291826924356
+    second: knight_tank_idle_95
+  - first:
+      213: -7452266651939320443
+    second: knight_tank_idle_96
+  - first:
+      213: 7847360947173387826
+    second: knight_tank_idle_97
+  - first:
+      213: -8922076069929534959
+    second: knight_tank_idle_98
+  - first:
+      213: 4261743815794738776
+    second: knight_tank_idle_99
+  - first:
+      213: 1285687419732155765
+    second: knight_tank_idle_100
+  - first:
+      213: 2111064351340411873
+    second: knight_tank_idle_101
+  - first:
+      213: -4493214888680398023
+    second: knight_tank_idle_102
+  - first:
+      213: 7795818186613455582
+    second: knight_tank_idle_103
+  - first:
+      213: -727219434162820766
+    second: knight_tank_idle_104
+  - first:
+      213: -3202322986959477336
+    second: knight_tank_idle_105
+  - first:
+      213: -3934221976665762523
+    second: knight_tank_idle_106
+  - first:
+      213: 8008114896005447612
+    second: knight_tank_idle_107
+  - first:
+      213: -2445447121471648199
+    second: knight_tank_idle_108
+  - first:
+      213: 1288805668382781562
+    second: knight_tank_idle_109
+  - first:
+      213: -8078110916557067109
+    second: knight_tank_idle_110
+  - first:
+      213: -1126860842463153176
+    second: knight_tank_idle_111
+  - first:
+      213: -1557423182314306038
+    second: knight_tank_idle_112
+  - first:
+      213: -3987633078523953068
+    second: knight_tank_idle_113
+  - first:
+      213: -2392454548506089629
+    second: knight_tank_idle_114
+  - first:
+      213: -2306551839161123953
+    second: knight_tank_idle_115
+  - first:
+      213: -7834356106653289519
+    second: knight_tank_idle_116
+  - first:
+      213: -6284585970915526021
+    second: knight_tank_idle_117
+  - first:
+      213: 4707707365348942727
+    second: knight_tank_idle_118
+  - first:
+      213: 6001064284642454876
+    second: knight_tank_idle_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_tank_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e61cdb7356dd50800000000000000
+      internalID: 6761683681981949833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc5f68607d842800800000000000000
+      internalID: 586749365392989372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5739b6897f29cc7e0800000000000000
+      internalID: -1743857363587460235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 884
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9146eca86708960800000000000000
+      internalID: 7602206509541628371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623ae7d1c77b2d3c0800000000000000
+      internalID: -4336201747505700058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc9289ff9c3b60b0800000000000000
+      internalID: -5734423042742641444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb7f480a14e65490800000000000000
+      internalID: -7757762507639391235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b607596532c85acd0800000000000000
+      internalID: -2547475930803769237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac93932bb6ff9ce0800000000000000
+      internalID: -1396126075845370720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb156194a18af680800000000000000
+      internalID: -8720515184635601928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4932627629e19c060800000000000000
+      internalID: 6974139112104534932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97166e2bcfae94ad0800000000000000
+      internalID: -2717382529087282823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad194a63c2b7c350800000000000000
+      internalID: 6036990377884982689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162a314ec681ad000800000000000000
+      internalID: 61388400884949601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffecc89f11b5e7d80800000000000000
+      internalID: -8251057334536843521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a9dc57d84b4b70800000000000000
+      internalID: 8884274779731371853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_16
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ad2fe17ca14ad0800000000000000
+      internalID: -2719703094611041274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746625acd8f554ce0800000000000000
+      internalID: -1421625044776098233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 954
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcc91a57498bc070800000000000000
+      internalID: 8127740892067515634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_19
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 884
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65057a4ca307817e0800000000000000
+      internalID: -1794561053797429162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c8d94a44045270800000000000000
+      internalID: 8238214335480512971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904e2b903443f180800000000000000
+      internalID: -9082841047923539822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f9a6b2732ea770800000000000000
+      internalID: 8623869312058913072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b4868f423c13f0800000000000000
+      internalID: -928812106004516741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2460a5685443b1a80800000000000000
+      internalID: -8495138798892874174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9961ceaedcee50800000000000000
+      internalID: 6840086776219540673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf15fd90ae3880470800000000000000
+      internalID: 8361077749424542204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7570ce8a6b1a6b9a0800000000000000
+      internalID: -6217604429648230569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_28
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d6070d96e35ca0800000000000000
+      internalID: -6029221914016820792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_29
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff1ae8a5cd6d390800000000000000
+      internalID: -7793799823619915844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946dee93fd485c460800000000000000
+      internalID: 7261356068489320009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c51f292c9225750800000000000000
+      internalID: 6292137545055689870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_32
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0176f1f235e67650800000000000000
+      internalID: 6230419141484245261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc08ba80a437c8130800000000000000
+      internalID: 3570355366408192207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_34
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fc958ae299bda50800000000000000
+      internalID: 6546994908985151253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_35
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 744
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143331a84d8e9f8b0800000000000000
+      internalID: -5117803501982633151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_36
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280c179df109a55a0800000000000000
+      internalID: -6531749843080986494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_37
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 744
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af9da13d08ee0ca0800000000000000
+      internalID: -6048642106146316377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_38
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 814
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248fa8d8ffe0eb8e0800000000000000
+      internalID: -1675885520581101502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_39
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 744
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1002a96d08fc218c0800000000000000
+      internalID: -4029930564279984127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f6d4f4c33b467e0800000000000000
+      internalID: -1773095281667248315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb49125f2534dd970800000000000000
+      internalID: 8781248872021333179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727da6e1a2a170d0800000000000000
+      internalID: -3426779025208675720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c040c2377c2d3950800000000000000
+      internalID: 6430344733419126980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f981eaba6668920800000000000000
+      internalID: 2992191889980563345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aaf88f8cc50cac0800000000000000
+      internalID: -3836964864286283255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f930d00f6ee6cf0800000000000000
+      internalID: -257014210028658895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67762f420729c86b0800000000000000
+      internalID: -5292694451713317002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8d9791279e99c0800000000000000
+      internalID: -3918528455232353786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_49
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19425dc8fa6b760800000000000000
+      internalID: 7473353651074142641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4006368feef04c0800000000000000
+      internalID: -4318970767038479161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b899f369139fc7680800000000000000
+      internalID: -8755849584145622645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_52
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ecdcbcb52a4d020800000000000000
+      internalID: 2365694219421339214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_53
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ee557c8e7ab920800000000000000
+      internalID: 3006854842952902217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_54
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1477723f986590800000000000000
+      internalID: -7680714125379100945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee432e4f420a44f0800000000000000
+      internalID: -843859440541937951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_56
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc692f9dc91cafa0800000000000000
+      internalID: -5788223050148647749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_57
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6796f151e3b655b0800000000000000
+      internalID: -5379914924523350161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_58
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 674
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a500be0ae024640800000000000000
+      internalID: 5062625015418083959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_59
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 604
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008fd5685aa610e20800000000000000
+      internalID: 3315048059877849088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2674d832a9f37a280800000000000000
+      internalID: -9032180596414265502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13336b4012f550580800000000000000
+      internalID: -8861572096363973839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718428d118e250f30800000000000000
+      internalID: 4541086931353749527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5dbd44c13cb47e0800000000000000
+      internalID: -1780114701513140763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_64
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d3675a9cd3d4420800000000000000
+      internalID: 2615814894845836561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db05d531e8bf450800000000000000
+      internalID: 6123644332161416456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f8997e2f08bf00800000000000000
+      internalID: 1132671998566660077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea39bd13c06c730800000000000000
+      internalID: 4018913125751565975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_68
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c6e1ca11388a2e0800000000000000
+      internalID: -2114295913125090272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_69
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6496f15fb42edcfa0800000000000000
+      internalID: -5778713930983577274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_70
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ca2b108fabaea00800000000000000
+      internalID: 786646659272715313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_71
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bee5139a0294cd0800000000000000
+      internalID: -2573489801015661702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_72
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f09fff6dbe508f90800000000000000
+      internalID: -6953453656939196176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_73
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43669e14c90bd4280800000000000000
+      internalID: -9057389090404997580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_74
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eb4f95521bddab0800000000000000
+      internalID: -4981630838820782493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_75
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d90b86d3f40090800000000000000
+      internalID: -8069056529559858458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_76
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaacabc46e95c9ff0800000000000000
+      internalID: -28048652006405462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_77
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3000ea0c42185b250800000000000000
+      internalID: 5959811676746153987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_78
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 534
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e90ee940ca8aa20800000000000000
+      internalID: 3073895881525730945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_79
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 464
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb86f393671fe20800000000000000
+      internalID: 3382614783380995793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c01e64fa368da40800000000000000
+      internalID: 5393170158235749488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441533ba77ec1f6c0800000000000000
+      internalID: -4111277971443855036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 394
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c021591c12ff380800000000000000
+      internalID: -8935386020366382049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_83
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd00e0dfb737fdf0800000000000000
+      internalID: -146587165883625989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_84
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 394
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1480cf83e783ea010800000000000000
+      internalID: 1201960265327577153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_85
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0becd720004f1c520800000000000000
+      internalID: 2720723930787466928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_86
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 394
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7af0b4b65f6b830800000000000000
+      internalID: 4086723553054926815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_87
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded9fdeb785728f0800000000000000
+      internalID: -565385938914910506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_88
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 394
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ca579017413dd0800000000000000
+      internalID: -2508145380884298146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_89
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9d120db1586b60800000000000000
+      internalID: 7739525831862361241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_90
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 394
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67d450257e15d6c0800000000000000
+      internalID: -4119352795758012565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_91
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf31c8e4473eb0c0800000000000000
+      internalID: -4558145003750080581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_92
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 394
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be3161dd9bac5ed0800000000000000
+      internalID: -2423873805121143118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_93
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d8ead38f287540800000000000000
+      internalID: 5005803229182218498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_94
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 394
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe641ae9aa25ccf0800000000000000
+      internalID: -232732896474665230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_95
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46f55fa3275b7c0800000000000000
+      internalID: -4056210291826924356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_96
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 394
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dcaafb6fa349890800000000000000
+      internalID: -7452266651939320443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_97
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eea80543d67ec60800000000000000
+      internalID: 7847360947173387826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_98
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 394
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a36d8e51b6e2480800000000000000
+      internalID: -8922076069929534959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_99
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 324
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c928bb61c42b30800000000000000
+      internalID: 4261743815794738776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd25975eda7d110800000000000000
+      internalID: 1285687419732155765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebb2a7b7d10c4d10800000000000000
+      internalID: 2111064351340411873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_102
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93365b46dd4e4a1c0800000000000000
+      internalID: -4493214888680398023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaff92365f403c60800000000000000
+      internalID: 7795818186613455582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_104
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269e6f017c568e5f0800000000000000
+      internalID: -727219434162820766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_105
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a56632c5301f83d0800000000000000
+      internalID: -3202322986959477336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_106
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5255d45e4f5d669c0800000000000000
+      internalID: -3934221976665762523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_107
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf3be0b11a822f60800000000000000
+      internalID: 8008114896005447612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_108
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4eafacc6001ed0800000000000000
+      internalID: -2445447121471648199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_109
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7037705de1c2e110800000000000000
+      internalID: 1288805668382781562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_110
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c296acbe8c4ef80800000000000000
+      internalID: -8078110916557067109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_111
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3bfadb8069c50f0800000000000000
+      internalID: -1126860842463153176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_112
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0682350edbe26ae0800000000000000
+      internalID: -1557423182314306038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_113
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508bfba7d419a8c0800000000000000
+      internalID: -3987633078523953068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_114
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e60f834b4cced0800000000000000
+      internalID: -2392454548506089629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_115
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bf6caa25b7dffd0800000000000000
+      internalID: -2306551839161123953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_116
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b40311a6c64390800000000000000
+      internalID: -7834356106653289519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_117
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a3d2b4b5aa8c8a0800000000000000
+      internalID: -6284585970915526021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_118
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 254
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7832d1208e2255140800000000000000
+      internalID: 4707707365348942727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_tank_idle_119
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 184
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da5600c20184350800000000000000
+      internalID: 6001064284642454876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight_tank_idle_0: 6761683681981949833
+      knight_tank_idle_1: 586749365392989372
+      knight_tank_idle_10: 6974139112104534932
+      knight_tank_idle_100: 1285687419732155765
+      knight_tank_idle_101: 2111064351340411873
+      knight_tank_idle_102: -4493214888680398023
+      knight_tank_idle_103: 7795818186613455582
+      knight_tank_idle_104: -727219434162820766
+      knight_tank_idle_105: -3202322986959477336
+      knight_tank_idle_106: -3934221976665762523
+      knight_tank_idle_107: 8008114896005447612
+      knight_tank_idle_108: -2445447121471648199
+      knight_tank_idle_109: 1288805668382781562
+      knight_tank_idle_11: -2717382529087282823
+      knight_tank_idle_110: -8078110916557067109
+      knight_tank_idle_111: -1126860842463153176
+      knight_tank_idle_112: -1557423182314306038
+      knight_tank_idle_113: -3987633078523953068
+      knight_tank_idle_114: -2392454548506089629
+      knight_tank_idle_115: -2306551839161123953
+      knight_tank_idle_116: -7834356106653289519
+      knight_tank_idle_117: -6284585970915526021
+      knight_tank_idle_118: 4707707365348942727
+      knight_tank_idle_119: 6001064284642454876
+      knight_tank_idle_12: 6036990377884982689
+      knight_tank_idle_13: 61388400884949601
+      knight_tank_idle_14: -8251057334536843521
+      knight_tank_idle_15: 8884274779731371853
+      knight_tank_idle_16: -2719703094611041274
+      knight_tank_idle_17: -1421625044776098233
+      knight_tank_idle_18: 8127740892067515634
+      knight_tank_idle_19: -1794561053797429162
+      knight_tank_idle_2: -1743857363587460235
+      knight_tank_idle_20: 8238214335480512971
+      knight_tank_idle_21: -9082841047923539822
+      knight_tank_idle_22: 8623869312058913072
+      knight_tank_idle_23: -928812106004516741
+      knight_tank_idle_24: -8495138798892874174
+      knight_tank_idle_25: 6840086776219540673
+      knight_tank_idle_26: 8361077749424542204
+      knight_tank_idle_27: -6217604429648230569
+      knight_tank_idle_28: -6029221914016820792
+      knight_tank_idle_29: -7793799823619915844
+      knight_tank_idle_3: 7602206509541628371
+      knight_tank_idle_30: 7261356068489320009
+      knight_tank_idle_31: 6292137545055689870
+      knight_tank_idle_32: 6230419141484245261
+      knight_tank_idle_33: 3570355366408192207
+      knight_tank_idle_34: 6546994908985151253
+      knight_tank_idle_35: -5117803501982633151
+      knight_tank_idle_36: -6531749843080986494
+      knight_tank_idle_37: -6048642106146316377
+      knight_tank_idle_38: -1675885520581101502
+      knight_tank_idle_39: -4029930564279984127
+      knight_tank_idle_4: -4336201747505700058
+      knight_tank_idle_40: -1773095281667248315
+      knight_tank_idle_41: 8781248872021333179
+      knight_tank_idle_42: -3426779025208675720
+      knight_tank_idle_43: 6430344733419126980
+      knight_tank_idle_44: 2992191889980563345
+      knight_tank_idle_45: -3836964864286283255
+      knight_tank_idle_46: -257014210028658895
+      knight_tank_idle_47: -5292694451713317002
+      knight_tank_idle_48: -3918528455232353786
+      knight_tank_idle_49: 7473353651074142641
+      knight_tank_idle_5: -5734423042742641444
+      knight_tank_idle_50: -4318970767038479161
+      knight_tank_idle_51: -8755849584145622645
+      knight_tank_idle_52: 2365694219421339214
+      knight_tank_idle_53: 3006854842952902217
+      knight_tank_idle_54: -7680714125379100945
+      knight_tank_idle_55: -843859440541937951
+      knight_tank_idle_56: -5788223050148647749
+      knight_tank_idle_57: -5379914924523350161
+      knight_tank_idle_58: 5062625015418083959
+      knight_tank_idle_59: 3315048059877849088
+      knight_tank_idle_6: -7757762507639391235
+      knight_tank_idle_60: -9032180596414265502
+      knight_tank_idle_61: -8861572096363973839
+      knight_tank_idle_62: 4541086931353749527
+      knight_tank_idle_63: -1780114701513140763
+      knight_tank_idle_64: 2615814894845836561
+      knight_tank_idle_65: 6123644332161416456
+      knight_tank_idle_66: 1132671998566660077
+      knight_tank_idle_67: 4018913125751565975
+      knight_tank_idle_68: -2114295913125090272
+      knight_tank_idle_69: -5778713930983577274
+      knight_tank_idle_7: -2547475930803769237
+      knight_tank_idle_70: 786646659272715313
+      knight_tank_idle_71: -2573489801015661702
+      knight_tank_idle_72: -6953453656939196176
+      knight_tank_idle_73: -9057389090404997580
+      knight_tank_idle_74: -4981630838820782493
+      knight_tank_idle_75: -8069056529559858458
+      knight_tank_idle_76: -28048652006405462
+      knight_tank_idle_77: 5959811676746153987
+      knight_tank_idle_78: 3073895881525730945
+      knight_tank_idle_79: 3382614783380995793
+      knight_tank_idle_8: -1396126075845370720
+      knight_tank_idle_80: 5393170158235749488
+      knight_tank_idle_81: -4111277971443855036
+      knight_tank_idle_82: -8935386020366382049
+      knight_tank_idle_83: -146587165883625989
+      knight_tank_idle_84: 1201960265327577153
+      knight_tank_idle_85: 2720723930787466928
+      knight_tank_idle_86: 4086723553054926815
+      knight_tank_idle_87: -565385938914910506
+      knight_tank_idle_88: -2508145380884298146
+      knight_tank_idle_89: 7739525831862361241
+      knight_tank_idle_9: -8720515184635601928
+      knight_tank_idle_90: -4119352795758012565
+      knight_tank_idle_91: -4558145003750080581
+      knight_tank_idle_92: -2423873805121143118
+      knight_tank_idle_93: 5005803229182218498
+      knight_tank_idle_94: -232732896474665230
+      knight_tank_idle_95: -4056210291826924356
+      knight_tank_idle_96: -7452266651939320443
+      knight_tank_idle_97: 7847360947173387826
+      knight_tank_idle_98: -8922076069929534959
+      knight_tank_idle_99: 4261743815794738776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

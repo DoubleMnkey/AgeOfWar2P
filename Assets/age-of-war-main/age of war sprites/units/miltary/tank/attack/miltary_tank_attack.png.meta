@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: 93f7b385a64a308419f4e34745a3fdc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2989981459967963739
+    second: miltary_tank_attack_0
+  - first:
+      213: -3992487696230105155
+    second: miltary_tank_attack_1
+  - first:
+      213: -9154662069553400580
+    second: miltary_tank_attack_2
+  - first:
+      213: -688978133492706472
+    second: miltary_tank_attack_3
+  - first:
+      213: 3716149386006105371
+    second: miltary_tank_attack_4
+  - first:
+      213: -3836881284051653200
+    second: miltary_tank_attack_5
+  - first:
+      213: 6144733456310879459
+    second: miltary_tank_attack_6
+  - first:
+      213: 1981980226702465667
+    second: miltary_tank_attack_7
+  - first:
+      213: -1045601467158469605
+    second: miltary_tank_attack_8
+  - first:
+      213: -5722701182844864888
+    second: miltary_tank_attack_9
+  - first:
+      213: 6922525067614951365
+    second: miltary_tank_attack_10
+  - first:
+      213: -6328608338064191253
+    second: miltary_tank_attack_11
+  - first:
+      213: 7744186202738946767
+    second: miltary_tank_attack_12
+  - first:
+      213: 5684545323700593481
+    second: miltary_tank_attack_13
+  - first:
+      213: -2032834416309298570
+    second: miltary_tank_attack_14
+  - first:
+      213: 2880751380027335717
+    second: miltary_tank_attack_15
+  - first:
+      213: -6619404953268978973
+    second: miltary_tank_attack_16
+  - first:
+      213: -1336422091399322113
+    second: miltary_tank_attack_17
+  - first:
+      213: -133069171633282856
+    second: miltary_tank_attack_18
+  - first:
+      213: 4247472620478983137
+    second: miltary_tank_attack_19
+  - first:
+      213: 7930927781472274154
+    second: miltary_tank_attack_20
+  - first:
+      213: 7496888525593842259
+    second: miltary_tank_attack_21
+  - first:
+      213: 9174553642015456072
+    second: miltary_tank_attack_22
+  - first:
+      213: 8922681819524606676
+    second: miltary_tank_attack_23
+  - first:
+      213: 1559976351243995986
+    second: miltary_tank_attack_24
+  - first:
+      213: -3081180771986885581
+    second: miltary_tank_attack_25
+  - first:
+      213: -8967322589260127303
+    second: miltary_tank_attack_26
+  - first:
+      213: -6893462789373593710
+    second: miltary_tank_attack_27
+  - first:
+      213: -5831589974991287422
+    second: miltary_tank_attack_28
+  - first:
+      213: -658900203080931632
+    second: miltary_tank_attack_29
+  - first:
+      213: -5517243270213768451
+    second: miltary_tank_attack_30
+  - first:
+      213: 6359990427462636879
+    second: miltary_tank_attack_31
+  - first:
+      213: -7490741888161843528
+    second: miltary_tank_attack_32
+  - first:
+      213: 2541683673880295898
+    second: miltary_tank_attack_33
+  - first:
+      213: 2662454870635288585
+    second: miltary_tank_attack_34
+  - first:
+      213: 5194199643824126495
+    second: miltary_tank_attack_35
+  - first:
+      213: 2056388549548693393
+    second: miltary_tank_attack_36
+  - first:
+      213: -1274667299331669571
+    second: miltary_tank_attack_37
+  - first:
+      213: 3922497405426117152
+    second: miltary_tank_attack_38
+  - first:
+      213: -3915656349812260534
+    second: miltary_tank_attack_39
+  - first:
+      213: 3382480444628225405
+    second: miltary_tank_attack_40
+  - first:
+      213: 8701902117878995559
+    second: miltary_tank_attack_41
+  - first:
+      213: -8194568999638651226
+    second: miltary_tank_attack_42
+  - first:
+      213: 7121874321111851001
+    second: miltary_tank_attack_43
+  - first:
+      213: -705881369541696814
+    second: miltary_tank_attack_44
+  - first:
+      213: -6415611818428050118
+    second: miltary_tank_attack_45
+  - first:
+      213: 4688132023097638293
+    second: miltary_tank_attack_46
+  - first:
+      213: 954205754883791641
+    second: miltary_tank_attack_47
+  - first:
+      213: 2824706381505995368
+    second: miltary_tank_attack_48
+  - first:
+      213: -3143222052322962288
+    second: miltary_tank_attack_49
+  - first:
+      213: -8640705814123265879
+    second: miltary_tank_attack_50
+  - first:
+      213: -2313453037776633583
+    second: miltary_tank_attack_51
+  - first:
+      213: 2488949889018016197
+    second: miltary_tank_attack_52
+  - first:
+      213: -2394957037498304681
+    second: miltary_tank_attack_53
+  - first:
+      213: 7669311720508290853
+    second: miltary_tank_attack_54
+  - first:
+      213: -5994089394332312088
+    second: miltary_tank_attack_55
+  - first:
+      213: 4478859794795661217
+    second: miltary_tank_attack_56
+  - first:
+      213: 108225507435437474
+    second: miltary_tank_attack_57
+  - first:
+      213: 4611076118863324310
+    second: miltary_tank_attack_58
+  - first:
+      213: -4757363813432002536
+    second: miltary_tank_attack_59
+  - first:
+      213: -2096998385833793382
+    second: miltary_tank_attack_60
+  - first:
+      213: -4150347767061903504
+    second: miltary_tank_attack_61
+  - first:
+      213: 1941663248045332383
+    second: miltary_tank_attack_62
+  - first:
+      213: -8339336433465993922
+    second: miltary_tank_attack_63
+  - first:
+      213: -129280081724191481
+    second: miltary_tank_attack_64
+  - first:
+      213: -2444063617193158510
+    second: miltary_tank_attack_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miltary_tank_attack_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 962
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f466db4c8e7920800000000000000
+      internalID: 2989981459967963739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 962
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf3618e795d798c0800000000000000
+      internalID: -3992487696230105155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 962
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4f689e95b14f080800000000000000
+      internalID: -9154662069553400580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 962
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d727b9024076f0800000000000000
+      internalID: -688978133492706472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 901
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d0e257d2a629330800000000000000
+      internalID: 3716149386006105371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 901
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda1c20dc8a0cac0800000000000000
+      internalID: -3836881284051653200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 901
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e44ed6b58a764550800000000000000
+      internalID: 6144733456310879459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 901
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ad274e388618b10800000000000000
+      internalID: 1981980226702465667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 840
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14646561074d71f0800000000000000
+      internalID: -1045601467158469605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 840
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f2d82891e490b0800000000000000
+      internalID: -5722701182844864888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 840
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c71de33fdfb11060800000000000000
+      internalID: 6922525067614951365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 840
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0db173f344c28a0800000000000000
+      internalID: -6328608338064191253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 779
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc27cb82250e87b60800000000000000
+      internalID: 7744186202738946767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 779
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94328c89adf83ee40800000000000000
+      internalID: 5684545323700593481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 779
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a12b86edbe9c3e0800000000000000
+      internalID: -2032834416309298570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 779
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524eeb40e1c7af720800000000000000
+      internalID: 2880751380027335717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 718
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf0ff14462324a0800000000000000
+      internalID: -6619404953268978973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 718
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a8244033147de0800000000000000
+      internalID: -1336422091399322113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 657
+        width: 200
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d02e3e1b4e372ef0800000000000000
+      internalID: -133069171633282856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 718
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe8d028dd02fa30800000000000000
+      internalID: 4247472620478983137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 718
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68ee12cc0501e60800000000000000
+      internalID: 7930927781472274154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 657
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35219b0d46c4a0860800000000000000
+      internalID: 7496888525593842259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 657
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf815bdef825f70800000000000000
+      internalID: 9174553642015456072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 657
+        width: 203
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa99827dbb3db70800000000000000
+      internalID: 8922681819524606676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 596
+        width: 203
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b88e1f93626a510800000000000000
+      internalID: 1559976351243995986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 630
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33435f4a9627d35d0800000000000000
+      internalID: -3081180771986885581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 596
+        width: 166
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b360d0bd9bad8380800000000000000
+      internalID: -8967322589260127303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 596
+        width: 204
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297730fbd108550a0800000000000000
+      internalID: -6893462789373593710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 629
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4ae890d7021fa0800000000000000
+      internalID: -5831589974991287422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 596
+        width: 166
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6adec91cd1bd6f0800000000000000
+      internalID: -658900203080931632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 568
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa6e733a70de63b0800000000000000
+      internalID: -5517243270213768451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 535
+        width: 167
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459bcbd899334850800000000000000
+      internalID: 6359990427462636879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 535
+        width: 205
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b679fbb0f98b0890800000000000000
+      internalID: -7490741888161843528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_33
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 535
+        width: 206
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad97b01c5dfd54320800000000000000
+      internalID: 2541683673880295898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_34
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 535
+        width: 206
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90899ba3990f2f420800000000000000
+      internalID: 2662454870635288585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 474
+        width: 206
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af8965e01851840800000000000000
+      internalID: 5194199643824126495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 474
+        width: 207
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197d7089d72c98c10800000000000000
+      internalID: 2056388549548693393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 474
+        width: 207
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1878048d87f4ee0800000000000000
+      internalID: -1274667299331669571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_38
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 474
+        width: 207
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aa0d2ab928f6630800000000000000
+      internalID: 3922497405426117152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 413
+        width: 208
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4100febb4bc8a9c0800000000000000
+      internalID: -3915656349812260534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 413
+        width: 208
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d45c11b0cf0fe20800000000000000
+      internalID: 3382480444628225405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 413
+        width: 208
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a956e1fdd53c870800000000000000
+      internalID: 8701902117878995559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_42
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 413
+        width: 209
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae2c1959ea074e80800000000000000
+      internalID: -8194568999638651226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 209
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff19d436faf5d260800000000000000
+      internalID: 7121874321111851001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 352
+        width: 209
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a6e262a43436f0800000000000000
+      internalID: -705881369541696814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 352
+        width: 210
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a355cc1ea0b27f6a0800000000000000
+      internalID: -6415611818428050118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_46
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 352
+        width: 210
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3ed87c379f0140800000000000000
+      internalID: 4688132023097638293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 209
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b5b7614150e3d00800000000000000
+      internalID: 954205754883791641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 291
+        width: 211
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a170fc7f533720800000000000000
+      internalID: 2824706381505995368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_49
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 291
+        width: 169
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0949d1962380164d0800000000000000
+      internalID: -3143222052322962288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_50
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 291
+        width: 169
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c78ca7db061880800000000000000
+      internalID: -8640705814123265879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 169
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11186c628b6f4efd0800000000000000
+      internalID: -2313453037776633583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 230
+        width: 169
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1baaeacb68a8220800000000000000
+      internalID: 2488949889018016197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_53
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 230
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757779f634763ced0800000000000000
+      internalID: -2394957037498304681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_54
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 230
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f2a4406ede6a60800000000000000
+      internalID: 7669311720508290853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd2e23477b0dca0800000000000000
+      internalID: -5994089394332312088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 169
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7039bd04b182e30800000000000000
+      internalID: 4478859794795661217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 169
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad535e868e708100800000000000000
+      internalID: 108225507435437474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 169
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a221bc45ddff30800000000000000
+      internalID: 4611076118863324310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818761931d27afdb0800000000000000
+      internalID: -4757363813432002536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 108
+        width: 170
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a982fc51417f5e2e0800000000000000
+      internalID: -2096998385833793382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_61
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 108
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07780f102b00766c0800000000000000
+      internalID: -4150347767061903504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_62
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 108
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f975c2dcf6c22fa10800000000000000
+      internalID: 1941663248045332383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3559cc82b9b44c80800000000000000
+      internalID: -8339336433465993922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcb4c5374b43ef0800000000000000
+      internalID: -129280081724191481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miltary_tank_attack_65
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 47
+        width: 171
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298deb0e611f41ed0800000000000000
+      internalID: -2444063617193158510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      miltary_tank_attack_0: 2989981459967963739
+      miltary_tank_attack_1: -3992487696230105155
+      miltary_tank_attack_10: 6922525067614951365
+      miltary_tank_attack_11: -6328608338064191253
+      miltary_tank_attack_12: 7744186202738946767
+      miltary_tank_attack_13: 5684545323700593481
+      miltary_tank_attack_14: -2032834416309298570
+      miltary_tank_attack_15: 2880751380027335717
+      miltary_tank_attack_16: -6619404953268978973
+      miltary_tank_attack_17: -1336422091399322113
+      miltary_tank_attack_18: -133069171633282856
+      miltary_tank_attack_19: 4247472620478983137
+      miltary_tank_attack_2: -9154662069553400580
+      miltary_tank_attack_20: 7930927781472274154
+      miltary_tank_attack_21: 7496888525593842259
+      miltary_tank_attack_22: 9174553642015456072
+      miltary_tank_attack_23: 8922681819524606676
+      miltary_tank_attack_24: 1559976351243995986
+      miltary_tank_attack_25: -3081180771986885581
+      miltary_tank_attack_26: -8967322589260127303
+      miltary_tank_attack_27: -6893462789373593710
+      miltary_tank_attack_28: -5831589974991287422
+      miltary_tank_attack_29: -658900203080931632
+      miltary_tank_attack_3: -688978133492706472
+      miltary_tank_attack_30: -5517243270213768451
+      miltary_tank_attack_31: 6359990427462636879
+      miltary_tank_attack_32: -7490741888161843528
+      miltary_tank_attack_33: 2541683673880295898
+      miltary_tank_attack_34: 2662454870635288585
+      miltary_tank_attack_35: 5194199643824126495
+      miltary_tank_attack_36: 2056388549548693393
+      miltary_tank_attack_37: -1274667299331669571
+      miltary_tank_attack_38: 3922497405426117152
+      miltary_tank_attack_39: -3915656349812260534
+      miltary_tank_attack_4: 3716149386006105371
+      miltary_tank_attack_40: 3382480444628225405
+      miltary_tank_attack_41: 8701902117878995559
+      miltary_tank_attack_42: -8194568999638651226
+      miltary_tank_attack_43: 7121874321111851001
+      miltary_tank_attack_44: -705881369541696814
+      miltary_tank_attack_45: -6415611818428050118
+      miltary_tank_attack_46: 4688132023097638293
+      miltary_tank_attack_47: 954205754883791641
+      miltary_tank_attack_48: 2824706381505995368
+      miltary_tank_attack_49: -3143222052322962288
+      miltary_tank_attack_5: -3836881284051653200
+      miltary_tank_attack_50: -8640705814123265879
+      miltary_tank_attack_51: -2313453037776633583
+      miltary_tank_attack_52: 2488949889018016197
+      miltary_tank_attack_53: -2394957037498304681
+      miltary_tank_attack_54: 7669311720508290853
+      miltary_tank_attack_55: -5994089394332312088
+      miltary_tank_attack_56: 4478859794795661217
+      miltary_tank_attack_57: 108225507435437474
+      miltary_tank_attack_58: 4611076118863324310
+      miltary_tank_attack_59: -4757363813432002536
+      miltary_tank_attack_6: 6144733456310879459
+      miltary_tank_attack_60: -2096998385833793382
+      miltary_tank_attack_61: -4150347767061903504
+      miltary_tank_attack_62: 1941663248045332383
+      miltary_tank_attack_63: -8339336433465993922
+      miltary_tank_attack_64: -129280081724191481
+      miltary_tank_attack_65: -2444063617193158510
+      miltary_tank_attack_7: 1981980226702465667
+      miltary_tank_attack_8: -1045601467158469605
+      miltary_tank_attack_9: -5722701182844864888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

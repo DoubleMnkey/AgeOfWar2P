@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bpblq48sfy66y"
+path="res://.godot/imported/explosion_02.mp3-5c625dafdc1d057204249ec27c686f58.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/explosion_02.mp3"
+dest_files=["res://.godot/imported/explosion_02.mp3-5c625dafdc1d057204249ec27c686f58.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

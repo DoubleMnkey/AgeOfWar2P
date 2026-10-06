@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: d4b79a05bf046a241aa8c18e52056465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3286121022084074246
+    second: medival_tank_walk_0
+  - first:
+      213: 7911647855525408243
+    second: medival_tank_walk_1
+  - first:
+      213: -7091640297165600733
+    second: medival_tank_walk_2
+  - first:
+      213: 69308125065615997
+    second: medival_tank_walk_3
+  - first:
+      213: 6455270621138623564
+    second: medival_tank_walk_4
+  - first:
+      213: -396800596930394843
+    second: medival_tank_walk_5
+  - first:
+      213: 6306191166231771365
+    second: medival_tank_walk_6
+  - first:
+      213: 6631544950102883854
+    second: medival_tank_walk_7
+  - first:
+      213: 8315776101069855156
+    second: medival_tank_walk_8
+  - first:
+      213: 2449752335233977348
+    second: medival_tank_walk_9
+  - first:
+      213: 4682412913772266939
+    second: medival_tank_walk_10
+  - first:
+      213: -1295199248519303846
+    second: medival_tank_walk_11
+  - first:
+      213: -7599926169620717693
+    second: medival_tank_walk_12
+  - first:
+      213: 5833154459983151759
+    second: medival_tank_walk_13
+  - first:
+      213: 3372265964945368771
+    second: medival_tank_walk_14
+  - first:
+      213: -4883637102572163999
+    second: medival_tank_walk_15
+  - first:
+      213: -4520284070134731116
+    second: medival_tank_walk_16
+  - first:
+      213: -468208110033814689
+    second: medival_tank_walk_17
+  - first:
+      213: 6914696509394595311
+    second: medival_tank_walk_18
+  - first:
+      213: -5197528690935186451
+    second: medival_tank_walk_19
+  - first:
+      213: -5103015067543179294
+    second: medival_tank_walk_20
+  - first:
+      213: 7823976529804538486
+    second: medival_tank_walk_21
+  - first:
+      213: 6617689917817642412
+    second: medival_tank_walk_22
+  - first:
+      213: -1858303487919738741
+    second: medival_tank_walk_23
+  - first:
+      213: -2252847063610309170
+    second: medival_tank_walk_24
+  - first:
+      213: 4784003921401774951
+    second: medival_tank_walk_25
+  - first:
+      213: 5312583758896908800
+    second: medival_tank_walk_26
+  - first:
+      213: -4297087762051773017
+    second: medival_tank_walk_27
+  - first:
+      213: 1834083512752841279
+    second: medival_tank_walk_28
+  - first:
+      213: -2536999984483002956
+    second: medival_tank_walk_29
+  - first:
+      213: -5577761284262838992
+    second: medival_tank_walk_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_tank_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc342b8a5aa9d20800000000000000
+      internalID: 3286121022084074246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 41
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fda2909ec1dbcd60800000000000000
+      internalID: 7911647855525408243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 448
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328499c09be659d90800000000000000
+      internalID: -7091640297165600733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 320
+        width: 41
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a959e5f5b36f000800000000000000
+      internalID: 69308125065615997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 43
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9bfdad6ab59950800000000000000
+      internalID: 6455270621138623564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 43
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250d4d95f74e7af0800000000000000
+      internalID: -396800596930394843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 321
+        width: 43
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e873fc3477148750800000000000000
+      internalID: 6306191166231771365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 321
+        width: 42
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0efae62ffaf70c50800000000000000
+      internalID: 6631544950102883854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 384
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b993f71e42976370800000000000000
+      internalID: 8315776101069855156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 384
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c0e4105c44ff120800000000000000
+      internalID: 2449752335233977348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 384
+        width: 41
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb509119cb54bf040800000000000000
+      internalID: 4682412913772266939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 384
+        width: 41
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d67ae4527860ee0800000000000000
+      internalID: -1295199248519303846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 384
+        width: 40
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fdf843a63a78690800000000000000
+      internalID: -7599926169620717693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 321
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f820843731783f050800000000000000
+      internalID: 5833154459983151759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 322
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c665b03702bcce20800000000000000
+      internalID: 3372265964945368771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 321
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca4490ee5d93cb0800000000000000
+      internalID: -4883637102572163999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 321
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e23c37699b441c0800000000000000
+      internalID: -4520284070134731116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 320
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b3a7064379089f0800000000000000
+      internalID: -468208110033814689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed2914f6dfe5ff50800000000000000
+      internalID: 6914696509394595311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb38ea713baed7b0800000000000000
+      internalID: -5197528690935186451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 191
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef6f9f35d27e29b0800000000000000
+      internalID: -5103015067543179294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723efd5339549c60800000000000000
+      internalID: 7823976529804538486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 43
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad54311be1c6db50800000000000000
+      internalID: 6617689917817642412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 43
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80bcadc2daf536e0800000000000000
+      internalID: -1858303487919738741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c93028874cb0e0800000000000000
+      internalID: -2252847063610309170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638a334832346240800000000000000
+      internalID: 4784003921401774951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4f8c08c61ab940800000000000000
+      internalID: 5312583758896908800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 255
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adc936827dad54c0800000000000000
+      internalID: -4297087762051773017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_28
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 255
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a80acc39f37910800000000000000
+      internalID: 1834083512752841279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b518b9a4f3caccd0800000000000000
+      internalID: -2536999984483002956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_tank_walk_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 255
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d36990aafc792b0800000000000000
+      internalID: -5577761284262838992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_tank_walk_0: 3286121022084074246
+      medival_tank_walk_1: 7911647855525408243
+      medival_tank_walk_10: 4682412913772266939
+      medival_tank_walk_11: -1295199248519303846
+      medival_tank_walk_12: -7599926169620717693
+      medival_tank_walk_13: 5833154459983151759
+      medival_tank_walk_14: 3372265964945368771
+      medival_tank_walk_15: -4883637102572163999
+      medival_tank_walk_16: -4520284070134731116
+      medival_tank_walk_17: -468208110033814689
+      medival_tank_walk_18: 6914696509394595311
+      medival_tank_walk_19: -5197528690935186451
+      medival_tank_walk_2: -7091640297165600733
+      medival_tank_walk_20: -5103015067543179294
+      medival_tank_walk_21: 7823976529804538486
+      medival_tank_walk_22: 6617689917817642412
+      medival_tank_walk_23: -1858303487919738741
+      medival_tank_walk_24: -2252847063610309170
+      medival_tank_walk_25: 4784003921401774951
+      medival_tank_walk_26: 5312583758896908800
+      medival_tank_walk_27: -4297087762051773017
+      medival_tank_walk_28: 1834083512752841279
+      medival_tank_walk_29: -2536999984483002956
+      medival_tank_walk_3: 69308125065615997
+      medival_tank_walk_30: -5577761284262838992
+      medival_tank_walk_4: 6455270621138623564
+      medival_tank_walk_5: -396800596930394843
+      medival_tank_walk_6: 6306191166231771365
+      medival_tank_walk_7: 6631544950102883854
+      medival_tank_walk_8: 8315776101069855156
+      medival_tank_walk_9: 2449752335233977348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

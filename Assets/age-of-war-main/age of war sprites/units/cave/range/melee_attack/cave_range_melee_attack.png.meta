@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: d7d8a4c212a6ab1489cce4368478207b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9157581225934211533
+    second: cave_range_melee_attack_0
+  - first:
+      213: 8154666511237903382
+    second: cave_range_melee_attack_1
+  - first:
+      213: -6624224586130820889
+    second: cave_range_melee_attack_2
+  - first:
+      213: 6759225203975300985
+    second: cave_range_melee_attack_3
+  - first:
+      213: 6422875750884335511
+    second: cave_range_melee_attack_4
+  - first:
+      213: 2920252427484114475
+    second: cave_range_melee_attack_5
+  - first:
+      213: -2439190566710785463
+    second: cave_range_melee_attack_6
+  - first:
+      213: 5005873745664924120
+    second: cave_range_melee_attack_7
+  - first:
+      213: 6197715090633030570
+    second: cave_range_melee_attack_8
+  - first:
+      213: -2790109685433281503
+    second: cave_range_melee_attack_9
+  - first:
+      213: 2018481428427566532
+    second: cave_range_melee_attack_10
+  - first:
+      213: 2848474648893018263
+    second: cave_range_melee_attack_11
+  - first:
+      213: -7404688375701851047
+    second: cave_range_melee_attack_12
+  - first:
+      213: 3552053473513391439
+    second: cave_range_melee_attack_13
+  - first:
+      213: 6263282462693863981
+    second: cave_range_melee_attack_14
+  - first:
+      213: -4916212442913844312
+    second: cave_range_melee_attack_15
+  - first:
+      213: 301798155951618803
+    second: cave_range_melee_attack_16
+  - first:
+      213: 5832387611975660064
+    second: cave_range_melee_attack_17
+  - first:
+      213: -216192479639384149
+    second: cave_range_melee_attack_18
+  - first:
+      213: 2314350588544483583
+    second: cave_range_melee_attack_19
+  - first:
+      213: -2879730966784446258
+    second: cave_range_melee_attack_20
+  - first:
+      213: 7959320596913968516
+    second: cave_range_melee_attack_21
+  - first:
+      213: 6038888273088698761
+    second: cave_range_melee_attack_22
+  - first:
+      213: 4578863858896670253
+    second: cave_range_melee_attack_23
+  - first:
+      213: -8924920232290972966
+    second: cave_range_melee_attack_24
+  - first:
+      213: -5112888796938096903
+    second: cave_range_melee_attack_25
+  - first:
+      213: -1830200551971873062
+    second: cave_range_melee_attack_26
+  - first:
+      213: -7420502476447335103
+    second: cave_range_melee_attack_27
+  - first:
+      213: -2252561882491380045
+    second: cave_range_melee_attack_28
+  - first:
+      213: 1240740543764587242
+    second: cave_range_melee_attack_29
+  - first:
+      213: -4302997524666292563
+    second: cave_range_melee_attack_30
+  - first:
+      213: 7224020582192190325
+    second: cave_range_melee_attack_31
+  - first:
+      213: 8543027382539744107
+    second: cave_range_melee_attack_32
+  - first:
+      213: 7103995790861285257
+    second: cave_range_melee_attack_33
+  - first:
+      213: 8587986116383620306
+    second: cave_range_melee_attack_34
+  - first:
+      213: 3620738068708927532
+    second: cave_range_melee_attack_35
+  - first:
+      213: 1477838301555204559
+    second: cave_range_melee_attack_36
+  - first:
+      213: -5249071269394739420
+    second: cave_range_melee_attack_37
+  - first:
+      213: 5874460346952706293
+    second: cave_range_melee_attack_38
+  - first:
+      213: -1449819407272706543
+    second: cave_range_melee_attack_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_range_melee_attack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 810
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b76ad46cb9e080800000000000000
+      internalID: -9157581225934211533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 810
+        width: 81
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614fb189cf13b2170800000000000000
+      internalID: 8154666511237903382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 810
+        width: 99
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07347e5d60214a0800000000000000
+      internalID: -6624224586130820889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 810
+        width: 97
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a0d7d2879dcd50800000000000000
+      internalID: 6759225203975300985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 810
+        width: 88
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5eef2773a22950800000000000000
+      internalID: 6422875750884335511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 810
+        width: 81
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ea9a25c12d68820800000000000000
+      internalID: 2920252427484114475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_6
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 810
+        width: 87
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a48bb5a11462ed0800000000000000
+      internalID: -2439190566710785463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 810
+        width: 94
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9dfc046af687540800000000000000
+      internalID: 5005873745664924120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 810
+        width: 100
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab724cb905b20650800000000000000
+      internalID: 6197715090633030570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 810
+        width: 112
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1245f53160a8749d0800000000000000
+      internalID: -2790109685433281503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 810
+        width: 114
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde52f2a26130c10800000000000000
+      internalID: 2018481428427566532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 810
+        width: 115
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79059fee990d78720800000000000000
+      internalID: 2848474648893018263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 115
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954b3dd67234d3990800000000000000
+      internalID: -7404688375701851047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 594
+        width: 115
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4545f780dd6b4130800000000000000
+      internalID: 3552053473513391439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 594
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d223dcc2736abe650800000000000000
+      internalID: 6263282462693863981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 594
+        width: 112
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d3c394da16cbb0800000000000000
+      internalID: -4916212442913844312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 594
+        width: 112
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3d57e2d3303400800000000000000
+      internalID: 301798155951618803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 594
+        width: 91
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022b23cb1adc0f050800000000000000
+      internalID: 5832387611975660064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_18
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 592
+        width: 127
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafcbffc51eeffcf0800000000000000
+      internalID: -216192479639384149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 591
+        width: 147
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff009eb29993e1020800000000000000
+      internalID: 2314350588544483583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 591
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0fe1471f32908d0800000000000000
+      internalID: -2879730966784446258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_21
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 591
+        width: 145
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485d180a9ef257e60800000000000000
+      internalID: 7959320596913968516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 591
+        width: 143
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98959b393e07ec350800000000000000
+      internalID: 6038888273088698761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 591
+        width: 143
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e09687b646b8f30800000000000000
+      internalID: 4578863858896670253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 375
+        width: 141
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8991c550542480800000000000000
+      internalID: -8924920232290972966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 375
+        width: 142
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2e6a7abe5b09b0800000000000000
+      internalID: -5112888796938096903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 375
+        width: 144
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade1ef77b42d996e0800000000000000
+      internalID: -1830200551971873062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 375
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d337c2054150990800000000000000
+      internalID: -7420502476447335103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 375
+        width: 141
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be148707ea4db0e0800000000000000
+      internalID: -2252561882491380045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 375
+        width: 141
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2638963fef73110800000000000000
+      internalID: 1240740543764587242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_30
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 375
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da661e0bc8ea844c0800000000000000
+      internalID: -4302997524666292563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_31
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 375
+        width: 141
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5731dabe170e04460800000000000000
+      internalID: 7224020582192190325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_32
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 375
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6377ba342eee8670800000000000000
+      internalID: 8543027382539744107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_33
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 375
+        width: 118
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98738208886769260800000000000000
+      internalID: 7103995790861285257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_34
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 376
+        width: 107
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc380b2fd7ae2770800000000000000
+      internalID: 8587986116383620306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_35
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 376
+        width: 95
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28212a07127f3230800000000000000
+      internalID: 3620738068708927532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 161
+        width: 84
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12aa7fa16528410800000000000000
+      internalID: 1477838301555204559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 162
+        width: 74
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f8403cd7d8727b0800000000000000
+      internalID: -5249071269394739420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 162
+        width: 66
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8eb33bf86468150800000000000000
+      internalID: 5874460346952706293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_range_melee_attack_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 162
+        width: 60
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11efa093ee431ebe0800000000000000
+      internalID: -1449819407272706543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_range_melee_attack_0: -9157581225934211533
+      cave_range_melee_attack_1: 8154666511237903382
+      cave_range_melee_attack_10: 2018481428427566532
+      cave_range_melee_attack_11: 2848474648893018263
+      cave_range_melee_attack_12: -7404688375701851047
+      cave_range_melee_attack_13: 3552053473513391439
+      cave_range_melee_attack_14: 6263282462693863981
+      cave_range_melee_attack_15: -4916212442913844312
+      cave_range_melee_attack_16: 301798155951618803
+      cave_range_melee_attack_17: 5832387611975660064
+      cave_range_melee_attack_18: -216192479639384149
+      cave_range_melee_attack_19: 2314350588544483583
+      cave_range_melee_attack_2: -6624224586130820889
+      cave_range_melee_attack_20: -2879730966784446258
+      cave_range_melee_attack_21: 7959320596913968516
+      cave_range_melee_attack_22: 6038888273088698761
+      cave_range_melee_attack_23: 4578863858896670253
+      cave_range_melee_attack_24: -8924920232290972966
+      cave_range_melee_attack_25: -5112888796938096903
+      cave_range_melee_attack_26: -1830200551971873062
+      cave_range_melee_attack_27: -7420502476447335103
+      cave_range_melee_attack_28: -2252561882491380045
+      cave_range_melee_attack_29: 1240740543764587242
+      cave_range_melee_attack_3: 6759225203975300985
+      cave_range_melee_attack_30: -4302997524666292563
+      cave_range_melee_attack_31: 7224020582192190325
+      cave_range_melee_attack_32: 8543027382539744107
+      cave_range_melee_attack_33: 7103995790861285257
+      cave_range_melee_attack_34: 8587986116383620306
+      cave_range_melee_attack_35: 3620738068708927532
+      cave_range_melee_attack_36: 1477838301555204559
+      cave_range_melee_attack_37: -5249071269394739420
+      cave_range_melee_attack_38: 5874460346952706293
+      cave_range_melee_attack_39: -1449819407272706543
+      cave_range_melee_attack_4: 6422875750884335511
+      cave_range_melee_attack_5: 2920252427484114475
+      cave_range_melee_attack_6: -2439190566710785463
+      cave_range_melee_attack_7: 5005873745664924120
+      cave_range_melee_attack_8: 6197715090633030570
+      cave_range_melee_attack_9: -2790109685433281503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

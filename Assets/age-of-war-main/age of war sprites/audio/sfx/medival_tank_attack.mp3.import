@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cyt5fky158fde"
+path="res://.godot/imported/medival_tank_attack.mp3-5e14678221cafde34726c9fe805fea6d.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/medival_tank_attack.mp3"
+dest_files=["res://.godot/imported/medival_tank_attack.mp3-5e14678221cafde34726c9fe805fea6d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

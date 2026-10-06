@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://l738cbwtdykq"
+path="res://.godot/imported/catapult.mp3-373113c1e9f22f5aa2b68f8c88e79fcc.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/catapult.mp3"
+dest_files=["res://.godot/imported/catapult.mp3-373113c1e9f22f5aa2b68f8c88e79fcc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

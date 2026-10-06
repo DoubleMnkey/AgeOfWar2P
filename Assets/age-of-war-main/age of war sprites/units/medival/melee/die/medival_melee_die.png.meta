@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: 24aec5a9f6ebb4a4a8a902493958bc50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5926926993024989585
+    second: medival_melee_die_0
+  - first:
+      213: -6005761446720555844
+    second: medival_melee_die_1
+  - first:
+      213: 8891447443483339200
+    second: medival_melee_die_2
+  - first:
+      213: 4353467495971998557
+    second: medival_melee_die_3
+  - first:
+      213: 8227940990154942944
+    second: medival_melee_die_4
+  - first:
+      213: -1383250495362121020
+    second: medival_melee_die_5
+  - first:
+      213: 6057728576547140628
+    second: medival_melee_die_6
+  - first:
+      213: -7243843368105716161
+    second: medival_melee_die_7
+  - first:
+      213: -2376327331134624299
+    second: medival_melee_die_8
+  - first:
+      213: 6878474400407186920
+    second: medival_melee_die_9
+  - first:
+      213: 6380304712649702399
+    second: medival_melee_die_10
+  - first:
+      213: 2397122887534658224
+    second: medival_melee_die_11
+  - first:
+      213: 94677248023323257
+    second: medival_melee_die_12
+  - first:
+      213: -5071754113215321521
+    second: medival_melee_die_13
+  - first:
+      213: 388882295112593745
+    second: medival_melee_die_14
+  - first:
+      213: -7292463215543729266
+    second: medival_melee_die_15
+  - first:
+      213: -5807215601015389066
+    second: medival_melee_die_16
+  - first:
+      213: 6230877802360466111
+    second: medival_melee_die_17
+  - first:
+      213: -7722745643377472552
+    second: medival_melee_die_18
+  - first:
+      213: 4071419997097743207
+    second: medival_melee_die_19
+  - first:
+      213: -3046313383971208710
+    second: medival_melee_die_20
+  - first:
+      213: 5695326183834814372
+    second: medival_melee_die_21
+  - first:
+      213: -6442364159008052682
+    second: medival_melee_die_22
+  - first:
+      213: 268016539494392699
+    second: medival_melee_die_23
+  - first:
+      213: -2712501103340970951
+    second: medival_melee_die_24
+  - first:
+      213: 2631192583879647052
+    second: medival_melee_die_25
+  - first:
+      213: -6061253950810401750
+    second: medival_melee_die_26
+  - first:
+      213: 4515427510535849794
+    second: medival_melee_die_27
+  - first:
+      213: 2433731680662897477
+    second: medival_melee_die_28
+  - first:
+      213: -4264638024768683260
+    second: medival_melee_die_29
+  - first:
+      213: -5197682957495463112
+    second: medival_melee_die_30
+  - first:
+      213: 6032902805933678117
+    second: medival_melee_die_31
+  - first:
+      213: 8425845730146409839
+    second: medival_melee_die_32
+  - first:
+      213: 5363550013331278720
+    second: medival_melee_die_33
+  - first:
+      213: 7016753880514624984
+    second: medival_melee_die_34
+  - first:
+      213: 7869631389861402624
+    second: medival_melee_die_35
+  - first:
+      213: 5975077097782687277
+    second: medival_melee_die_36
+  - first:
+      213: 6603488954684676891
+    second: medival_melee_die_37
+  - first:
+      213: -46354994960798582
+    second: medival_melee_die_38
+  - first:
+      213: 7003949850567379945
+    second: medival_melee_die_39
+  - first:
+      213: -7637763877406586330
+    second: medival_melee_die_40
+  - first:
+      213: -5372078109565893968
+    second: medival_melee_die_41
+  - first:
+      213: 7199541564574552257
+    second: medival_melee_die_42
+  - first:
+      213: 2698962896805043965
+    second: medival_melee_die_43
+  - first:
+      213: 6999051976094832073
+    second: medival_melee_die_44
+  - first:
+      213: 1107651598809204379
+    second: medival_melee_die_45
+  - first:
+      213: -8106602501320801501
+    second: medival_melee_die_46
+  - first:
+      213: -8386673883784402077
+    second: medival_melee_die_47
+  - first:
+      213: -330149189813736616
+    second: medival_melee_die_48
+  - first:
+      213: -7555859003725590888
+    second: medival_melee_die_49
+  - first:
+      213: 4150976407303399295
+    second: medival_melee_die_50
+  - first:
+      213: 2417025345663394102
+    second: medival_melee_die_51
+  - first:
+      213: 3377130949790403787
+    second: medival_melee_die_52
+  - first:
+      213: 6126662608618685523
+    second: medival_melee_die_53
+  - first:
+      213: -1675068011598737704
+    second: medival_melee_die_54
+  - first:
+      213: 6380354607437204027
+    second: medival_melee_die_55
+  - first:
+      213: 7200881323092427848
+    second: medival_melee_die_56
+  - first:
+      213: 5526654644497228795
+    second: medival_melee_die_57
+  - first:
+      213: -3866714320754039185
+    second: medival_melee_die_58
+  - first:
+      213: 556484638323765474
+    second: medival_melee_die_59
+  - first:
+      213: -8309928313977044839
+    second: medival_melee_die_60
+  - first:
+      213: -1298148904832770763
+    second: medival_melee_die_61
+  - first:
+      213: 1435986521879562985
+    second: medival_melee_die_62
+  - first:
+      213: 3038484227552830798
+    second: medival_melee_die_63
+  - first:
+      213: -8565568345802142379
+    second: medival_melee_die_64
+  - first:
+      213: -418122347931485163
+    second: medival_melee_die_65
+  - first:
+      213: -2007284632835323028
+    second: medival_melee_die_66
+  - first:
+      213: -3679897996512312528
+    second: medival_melee_die_67
+  - first:
+      213: 5364346606714530660
+    second: medival_melee_die_68
+  - first:
+      213: 7301864981853401805
+    second: medival_melee_die_69
+  - first:
+      213: 4452850361459219963
+    second: medival_melee_die_70
+  - first:
+      213: -994766707754819791
+    second: medival_melee_die_71
+  - first:
+      213: -967824625358531851
+    second: medival_melee_die_72
+  - first:
+      213: -1842700678710536792
+    second: medival_melee_die_73
+  - first:
+      213: -8103226502712946701
+    second: medival_melee_die_74
+  - first:
+      213: -8776460842350573000
+    second: medival_melee_die_75
+  - first:
+      213: -7537571405991103110
+    second: medival_melee_die_76
+  - first:
+      213: -5405500094767551760
+    second: medival_melee_die_77
+  - first:
+      213: -5841158621055764184
+    second: medival_melee_die_78
+  - first:
+      213: -3413703666089331904
+    second: medival_melee_die_79
+  - first:
+      213: 5335528982144209390
+    second: medival_melee_die_80
+  - first:
+      213: 7864576778160076403
+    second: medival_melee_die_81
+  - first:
+      213: -1030301404425133069
+    second: medival_melee_die_82
+  - first:
+      213: -474187302916779240
+    second: medival_melee_die_83
+  - first:
+      213: -6468962565021007857
+    second: medival_melee_die_84
+  - first:
+      213: 994457381197143937
+    second: medival_melee_die_85
+  - first:
+      213: -483661559559768819
+    second: medival_melee_die_86
+  - first:
+      213: -6203865590549217587
+    second: medival_melee_die_87
+  - first:
+      213: 5040659379039574698
+    second: medival_melee_die_88
+  - first:
+      213: 4671229022360558125
+    second: medival_melee_die_89
+  - first:
+      213: -8376532123747170238
+    second: medival_melee_die_90
+  - first:
+      213: -1940134011592097700
+    second: medival_melee_die_91
+  - first:
+      213: -7528692823999175403
+    second: medival_melee_die_92
+  - first:
+      213: -2109183761903202439
+    second: medival_melee_die_93
+  - first:
+      213: -8292872105297170117
+    second: medival_melee_die_94
+  - first:
+      213: 8221124803314507704
+    second: medival_melee_die_95
+  - first:
+      213: 4069248062608602921
+    second: medival_melee_die_96
+  - first:
+      213: -3921975525852269447
+    second: medival_melee_die_97
+  - first:
+      213: 3991963984262961230
+    second: medival_melee_die_98
+  - first:
+      213: 6047018613504851958
+    second: medival_melee_die_99
+  - first:
+      213: -2411890729962263563
+    second: medival_melee_die_100
+  - first:
+      213: 5683371496575967581
+    second: medival_melee_die_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_melee_die_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1977
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199bdeca2bca04250800000000000000
+      internalID: 5926926993024989585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1977
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb43c7ab8cf37aca0800000000000000
+      internalID: -6005761446720555844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1977
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c921e74754c46b70800000000000000
+      internalID: 8891447443483339200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1976
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bce963f9f9a6c30800000000000000
+      internalID: 4353467495971998557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1976
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9af0facb48f2270800000000000000
+      internalID: 8227940990154942944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1976
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ce84d005bdcce0800000000000000
+      internalID: -1383250495362121020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1975
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41433de8b00611450800000000000000
+      internalID: 6057728576547140628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1975
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f365d7316d2b87b90800000000000000
+      internalID: -7243843368105716161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1975
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2ba5f1e6950fd0800000000000000
+      internalID: -2376327331134624299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_9
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1975
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed63e00600457f50800000000000000
+      internalID: 6878474400407186920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1974
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb7c34f4556b8850800000000000000
+      internalID: 6380304712649702399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_11
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1974
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24672d09a444120800000000000000
+      internalID: 2397122887534658224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_12
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2002
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972edb8947c505100800000000000000
+      internalID: 94677248023323257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1974
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aacad51828d99b0800000000000000
+      internalID: -5071754113215321521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_14
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2001
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ff931366956500800000000000000
+      internalID: 388882295112593745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_15
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1974
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c9e3b757fbca90800000000000000
+      internalID: -7292463215543729266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_16
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2001
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740f57cd20a86fa0800000000000000
+      internalID: -5807215601015389066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_17
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1974
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaef804956887650800000000000000
+      internalID: 6230877802360466111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_18
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2000
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db4ac311cb43d490800000000000000
+      internalID: -7722745643377472552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_19
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1975
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763de628ae6908830800000000000000
+      internalID: 4071419997097743207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2000
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c0e90e1259b5d0800000000000000
+      internalID: -3046313383971208710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_21
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1976
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a784733dfcd90f40800000000000000
+      internalID: 5695326183834814372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_22
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1997
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aed943eef1896a0800000000000000
+      internalID: -6442364159008052682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_23
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1976
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b732e766f9f28b300800000000000000
+      internalID: 268016539494392699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_24
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1977
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c91823e924b5ad0800000000000000
+      internalID: -2712501103340970951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_25
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1977
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd9c1e6bfd38420800000000000000
+      internalID: 2631192583879647052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_26
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1977
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24538845a912eba0800000000000000
+      internalID: -6061253950810401750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_27
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1977
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2470486a5650aae30800000000000000
+      internalID: 4515427510535849794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543c680b11a56c120800000000000000
+      internalID: 2433731680662897477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4030a0ebf46f0d4c0800000000000000
+      internalID: -4264638024768683260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833916f73ee1ed7b0800000000000000
+      internalID: -5197682957495463112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5228632d29b350800000000000000
+      internalID: 6032902805933678117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d5e9dac0e9ee470800000000000000
+      internalID: 8425845730146409839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b07afd1582f6a40800000000000000
+      internalID: 5363550013331278720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_34
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddfa6c5a74806160800000000000000
+      internalID: 7016753880514624984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_35
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d3f1dd0c863d60800000000000000
+      internalID: 7869631389861402624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_36
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26b8ee86fcbbe250800000000000000
+      internalID: 5975077097782687277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_37
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b123ea73e44ab50800000000000000
+      internalID: 6603488954684676891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_38
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cebcfa0605b5ff0800000000000000
+      internalID: -46354994960798582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_39
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb08b3d747033160800000000000000
+      internalID: 7003949850567379945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_40
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aced85836310690800000000000000
+      internalID: -7637763877406586330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_41
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24cadfb6b8275b0800000000000000
+      internalID: -5372078109565893968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_42
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0502e78e8e9e360800000000000000
+      internalID: 7199541564574552257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_43
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe16067474a47520800000000000000
+      internalID: 2698962896805043965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_44
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d0af80b0a12160800000000000000
+      internalID: 6999051976094832073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_45
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968ae1b24b2f5f00800000000000000
+      internalID: 1107651598809204379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_46
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230b75c9ff8f7f80800000000000000
+      internalID: -8106602501320801501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_47
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b2cf5898c8c9b80800000000000000
+      internalID: -8386673883784402077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_48
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85be442af031b6bf0800000000000000
+      internalID: -330149189813736616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_49
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1776
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ecffdc442342790800000000000000
+      internalID: -7555859003725590888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1706
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a854bc0b3b9930800000000000000
+      internalID: 4150976407303399295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1705
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e165febffa8120800000000000000
+      internalID: 2417025345663394102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1705
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc0c3eb4bafdde20800000000000000
+      internalID: 3377130949790403787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1704
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354826d9e27460550800000000000000
+      internalID: 6126662608618685523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_54
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de8902b486f0c8e0800000000000000
+      internalID: -1675068011598737704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_55
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a425df5b29b8850800000000000000
+      internalID: 6380354607437204027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444ba4596baee360800000000000000
+      internalID: 7200881323092427848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf325812e1f92bc40800000000000000
+      internalID: 5526654644497228795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_58
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f662a8fdfcba65ac0800000000000000
+      internalID: -3866714320754039185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_59
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0ff3684d709b700800000000000000
+      internalID: 556484638323765474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_60
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9900070f9343dac80800000000000000
+      internalID: -8309928313977044839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_61
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d51ede27c0cfde0800000000000000
+      internalID: -1298148904832770763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_62
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea41ea2226ade310800000000000000
+      internalID: 1435986521879562985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_63
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45e9ee6e4dda2a20800000000000000
+      internalID: 3038484227552830798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_64
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d0229c8fcf02980800000000000000
+      internalID: -8565568345802142379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_65
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c34ea90f7823af0800000000000000
+      internalID: -418122347931485163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_66
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b00c0f241b424e0800000000000000
+      internalID: -2007284632835323028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_67
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0334634e4406eecc0800000000000000
+      internalID: -3679897996512312528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_68
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46baa4931dcf17a40800000000000000
+      internalID: 5364346606714530660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_69
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc27c39938f655560800000000000000
+      internalID: 7301864981853401805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_70
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1fb0cfc3bbcd30800000000000000
+      internalID: 4452850361459219963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_71
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1703
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f93e523f0e132f0800000000000000
+      internalID: -994766707754819791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1505
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f211a881a89192f0800000000000000
+      internalID: -967824625358531851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1505
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5561aee796d66e0800000000000000
+      internalID: -1842700678710536792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_74
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1505
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff8343bd6e8b8f80800000000000000
+      internalID: -8103226502712946701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_75
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1505
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a81921d5fb33680800000000000000
+      internalID: -8776460842350573000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1432
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7532c4fdba256790800000000000000
+      internalID: -7537571405991103110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa2a0aad4ecbf4b0800000000000000
+      internalID: -5405500094767551760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829b2439e2900fea0800000000000000
+      internalID: -5841158621055764184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043fb4e2a9610a0d0800000000000000
+      internalID: -3413703666089331904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d185275b9b0a40800000000000000
+      internalID: 5335528982144209390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_81
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376740359e6942d60800000000000000
+      internalID: 7864576778160076403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f367a9d452a3b1f0800000000000000
+      internalID: -1030301404425133069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_83
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81315ac09295b69f0800000000000000
+      internalID: -474187302916779240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_84
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f008f9632d0a936a0800000000000000
+      internalID: -6468962565021007857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_85
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f558628b50dcd00800000000000000
+      internalID: 994457381197143937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_86
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05bde6cf50b949f0800000000000000
+      internalID: -483661559559768819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_87
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce7b096d1177e9a0800000000000000
+      internalID: -6203865590549217587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_88
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa1569aff404f540800000000000000
+      internalID: 5040659379039574698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_89
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2adb4eeb0a83d040800000000000000
+      internalID: 4671229022360558125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_90
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248c66a0a6490cb80800000000000000
+      internalID: -8376532123747170238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_91
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50466e45624315e0800000000000000
+      internalID: -1940134011592097700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_92
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5152f7ae3c5b48790800000000000000
+      internalID: -7528692823999175403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_93
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fccb12b8caab2e0800000000000000
+      internalID: -2109183761903202439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_94
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31340cf1ccc9ec80800000000000000
+      internalID: -8292872105297170117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_95
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfd6b3837d471270800000000000000
+      internalID: 8221124803314507704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_96
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9277bba9d8fd87830800000000000000
+      internalID: 4069248062608602921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_97
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1432
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974bccbe9085299c0800000000000000
+      internalID: -3921975525852269447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1161
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e489526e71e466730800000000000000
+      internalID: 3991963984262961230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_99
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1161
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffb128f3635be350800000000000000
+      internalID: 6047018613504851958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1161
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbaa8be82e378ed0800000000000000
+      internalID: -2411890729962263563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_die_101
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1161
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51adfba3446fde40800000000000000
+      internalID: 5683371496575967581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_melee_die_0: 5926926993024989585
+      medival_melee_die_1: -6005761446720555844
+      medival_melee_die_10: 6380304712649702399
+      medival_melee_die_100: -2411890729962263563
+      medival_melee_die_101: 5683371496575967581
+      medival_melee_die_11: 2397122887534658224
+      medival_melee_die_12: 94677248023323257
+      medival_melee_die_13: -5071754113215321521
+      medival_melee_die_14: 388882295112593745
+      medival_melee_die_15: -7292463215543729266
+      medival_melee_die_16: -5807215601015389066
+      medival_melee_die_17: 6230877802360466111
+      medival_melee_die_18: -7722745643377472552
+      medival_melee_die_19: 4071419997097743207
+      medival_melee_die_2: 8891447443483339200
+      medival_melee_die_20: -3046313383971208710
+      medival_melee_die_21: 5695326183834814372
+      medival_melee_die_22: -6442364159008052682
+      medival_melee_die_23: 268016539494392699
+      medival_melee_die_24: -2712501103340970951
+      medival_melee_die_25: 2631192583879647052
+      medival_melee_die_26: -6061253950810401750
+      medival_melee_die_27: 4515427510535849794
+      medival_melee_die_28: 2433731680662897477
+      medival_melee_die_29: -4264638024768683260
+      medival_melee_die_3: 4353467495971998557
+      medival_melee_die_30: -5197682957495463112
+      medival_melee_die_31: 6032902805933678117
+      medival_melee_die_32: 8425845730146409839
+      medival_melee_die_33: 5363550013331278720
+      medival_melee_die_34: 7016753880514624984
+      medival_melee_die_35: 7869631389861402624
+      medival_melee_die_36: 5975077097782687277
+      medival_melee_die_37: 6603488954684676891
+      medival_melee_die_38: -46354994960798582
+      medival_melee_die_39: 7003949850567379945
+      medival_melee_die_4: 8227940990154942944
+      medival_melee_die_40: -7637763877406586330
+      medival_melee_die_41: -5372078109565893968
+      medival_melee_die_42: 7199541564574552257
+      medival_melee_die_43: 2698962896805043965
+      medival_melee_die_44: 6999051976094832073
+      medival_melee_die_45: 1107651598809204379
+      medival_melee_die_46: -8106602501320801501
+      medival_melee_die_47: -8386673883784402077
+      medival_melee_die_48: -330149189813736616
+      medival_melee_die_49: -7555859003725590888
+      medival_melee_die_5: -1383250495362121020
+      medival_melee_die_50: 4150976407303399295
+      medival_melee_die_51: 2417025345663394102
+      medival_melee_die_52: 3377130949790403787
+      medival_melee_die_53: 6126662608618685523
+      medival_melee_die_54: -1675068011598737704
+      medival_melee_die_55: 6380354607437204027
+      medival_melee_die_56: 7200881323092427848
+      medival_melee_die_57: 5526654644497228795
+      medival_melee_die_58: -3866714320754039185
+      medival_melee_die_59: 556484638323765474
+      medival_melee_die_6: 6057728576547140628
+      medival_melee_die_60: -8309928313977044839
+      medival_melee_die_61: -1298148904832770763
+      medival_melee_die_62: 1435986521879562985
+      medival_melee_die_63: 3038484227552830798
+      medival_melee_die_64: -8565568345802142379
+      medival_melee_die_65: -418122347931485163
+      medival_melee_die_66: -2007284632835323028
+      medival_melee_die_67: -3679897996512312528
+      medival_melee_die_68: 5364346606714530660
+      medival_melee_die_69: 7301864981853401805
+      medival_melee_die_7: -7243843368105716161
+      medival_melee_die_70: 4452850361459219963
+      medival_melee_die_71: -994766707754819791
+      medival_melee_die_72: -967824625358531851
+      medival_melee_die_73: -1842700678710536792
+      medival_melee_die_74: -8103226502712946701
+      medival_melee_die_75: -8776460842350573000
+      medival_melee_die_76: -7537571405991103110
+      medival_melee_die_77: -5405500094767551760
+      medival_melee_die_78: -5841158621055764184
+      medival_melee_die_79: -3413703666089331904
+      medival_melee_die_8: -2376327331134624299
+      medival_melee_die_80: 5335528982144209390
+      medival_melee_die_81: 7864576778160076403
+      medival_melee_die_82: -1030301404425133069
+      medival_melee_die_83: -474187302916779240
+      medival_melee_die_84: -6468962565021007857
+      medival_melee_die_85: 994457381197143937
+      medival_melee_die_86: -483661559559768819
+      medival_melee_die_87: -6203865590549217587
+      medival_melee_die_88: 5040659379039574698
+      medival_melee_die_89: 4671229022360558125
+      medival_melee_die_9: 6878474400407186920
+      medival_melee_die_90: -8376532123747170238
+      medival_melee_die_91: -1940134011592097700
+      medival_melee_die_92: -7528692823999175403
+      medival_melee_die_93: -2109183761903202439
+      medival_melee_die_94: -8292872105297170117
+      medival_melee_die_95: 8221124803314507704
+      medival_melee_die_96: 4069248062608602921
+      medival_melee_die_97: -3921975525852269447
+      medival_melee_die_98: 3991963984262961230
+      medival_melee_die_99: 6047018613504851958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

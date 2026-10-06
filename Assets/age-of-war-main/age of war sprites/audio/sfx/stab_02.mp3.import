@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bojyh5xe5fhh8"
+path="res://.godot/imported/stab_02.mp3-b1224bab5ad860fb98dce5d43e80c29e.mp3str"
+
+[deps]
+
+source_file="res://age of war sprites/audio/sfx/stab_02.mp3"
+dest_files=["res://.godot/imported/stab_02.mp3-b1224bab5ad860fb98dce5d43e80c29e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

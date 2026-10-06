@@ -1,0 +1,2576 @@
+fileFormatVersion: 2
+guid: 64d4522cf5958ff4cbdade33a41016d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3829611907877750632
+    second: future_range_idle_0
+  - first:
+      213: -2035596934737093181
+    second: future_range_idle_1
+  - first:
+      213: -952821910605640051
+    second: future_range_idle_2
+  - first:
+      213: -4164848014448938335
+    second: future_range_idle_3
+  - first:
+      213: -1231939796023251762
+    second: future_range_idle_4
+  - first:
+      213: 7154470017904647595
+    second: future_range_idle_5
+  - first:
+      213: -8415500535942356325
+    second: future_range_idle_6
+  - first:
+      213: -8014399245529652804
+    second: future_range_idle_7
+  - first:
+      213: 6574455636788354617
+    second: future_range_idle_8
+  - first:
+      213: -5882982646660240241
+    second: future_range_idle_9
+  - first:
+      213: -6698700039879466004
+    second: future_range_idle_10
+  - first:
+      213: 6034021888096196127
+    second: future_range_idle_11
+  - first:
+      213: -863071619023723563
+    second: future_range_idle_12
+  - first:
+      213: -5440584536146380730
+    second: future_range_idle_13
+  - first:
+      213: 2940908693976051473
+    second: future_range_idle_14
+  - first:
+      213: 6594576924166992656
+    second: future_range_idle_15
+  - first:
+      213: 4436521446635816076
+    second: future_range_idle_16
+  - first:
+      213: -7182650080593118031
+    second: future_range_idle_17
+  - first:
+      213: 8311412698114757616
+    second: future_range_idle_18
+  - first:
+      213: 3305818589449411156
+    second: future_range_idle_19
+  - first:
+      213: -4743020151908104668
+    second: future_range_idle_20
+  - first:
+      213: 2150831048453695006
+    second: future_range_idle_21
+  - first:
+      213: -778508940619814110
+    second: future_range_idle_22
+  - first:
+      213: -7077000083053628873
+    second: future_range_idle_23
+  - first:
+      213: 3989853129434858765
+    second: future_range_idle_24
+  - first:
+      213: -1670731566947196085
+    second: future_range_idle_25
+  - first:
+      213: -2324860800652603602
+    second: future_range_idle_26
+  - first:
+      213: -1853807731503583173
+    second: future_range_idle_27
+  - first:
+      213: -2830347377365685567
+    second: future_range_idle_28
+  - first:
+      213: -8209154515797450309
+    second: future_range_idle_29
+  - first:
+      213: -3446023703185695033
+    second: future_range_idle_30
+  - first:
+      213: 1881147826782061927
+    second: future_range_idle_31
+  - first:
+      213: -3866095736218902573
+    second: future_range_idle_32
+  - first:
+      213: 5233018314276031387
+    second: future_range_idle_33
+  - first:
+      213: 1468759638005887463
+    second: future_range_idle_34
+  - first:
+      213: -1496869790307553125
+    second: future_range_idle_35
+  - first:
+      213: -9026670403497672077
+    second: future_range_idle_36
+  - first:
+      213: 2463311295889932173
+    second: future_range_idle_37
+  - first:
+      213: -2035965692592105574
+    second: future_range_idle_38
+  - first:
+      213: 6028216197251845030
+    second: future_range_idle_39
+  - first:
+      213: 5999782920715839164
+    second: future_range_idle_40
+  - first:
+      213: 6861267511588806266
+    second: future_range_idle_41
+  - first:
+      213: 2688747317796546292
+    second: future_range_idle_42
+  - first:
+      213: 4900363129262005889
+    second: future_range_idle_43
+  - first:
+      213: 116494558058169956
+    second: future_range_idle_44
+  - first:
+      213: 6819824645528400595
+    second: future_range_idle_45
+  - first:
+      213: 7962614052729639098
+    second: future_range_idle_46
+  - first:
+      213: -4246204174113464964
+    second: future_range_idle_47
+  - first:
+      213: 6426974051631019608
+    second: future_range_idle_48
+  - first:
+      213: 2717685481902050044
+    second: future_range_idle_49
+  - first:
+      213: 3540509482378584986
+    second: future_range_idle_50
+  - first:
+      213: 6342786490358472145
+    second: future_range_idle_51
+  - first:
+      213: -4437108822333690033
+    second: future_range_idle_52
+  - first:
+      213: -3349369856179750717
+    second: future_range_idle_53
+  - first:
+      213: 2778968795891672482
+    second: future_range_idle_54
+  - first:
+      213: 6958709496798488028
+    second: future_range_idle_55
+  - first:
+      213: -7744354583635848678
+    second: future_range_idle_56
+  - first:
+      213: -2624738412506887836
+    second: future_range_idle_57
+  - first:
+      213: -6814917780880594934
+    second: future_range_idle_58
+  - first:
+      213: 398861534923803096
+    second: future_range_idle_59
+  - first:
+      213: -3998649732135758146
+    second: future_range_idle_60
+  - first:
+      213: 668980022602904228
+    second: future_range_idle_61
+  - first:
+      213: 3945940791736414816
+    second: future_range_idle_62
+  - first:
+      213: 3701805690737015924
+    second: future_range_idle_63
+  - first:
+      213: 6759324182909689630
+    second: future_range_idle_64
+  - first:
+      213: 4541301910629690764
+    second: future_range_idle_65
+  - first:
+      213: 6221814131105090390
+    second: future_range_idle_66
+  - first:
+      213: 2738511242499207545
+    second: future_range_idle_67
+  - first:
+      213: 1403695696589414671
+    second: future_range_idle_68
+  - first:
+      213: 7444589039007175217
+    second: future_range_idle_69
+  - first:
+      213: 7621488121062148390
+    second: future_range_idle_70
+  - first:
+      213: -3139773330183782865
+    second: future_range_idle_71
+  - first:
+      213: 3899860229615277114
+    second: future_range_idle_72
+  - first:
+      213: -359747086483530743
+    second: future_range_idle_73
+  - first:
+      213: 8962497471854877955
+    second: future_range_idle_74
+  - first:
+      213: -9136063761688744583
+    second: future_range_idle_75
+  - first:
+      213: 128810950633522990
+    second: future_range_idle_76
+  - first:
+      213: -4168197037716822726
+    second: future_range_idle_77
+  - first:
+      213: 1215198266577384083
+    second: future_range_idle_78
+  - first:
+      213: -7153675312802049581
+    second: future_range_idle_79
+  - first:
+      213: -5117392695525184513
+    second: future_range_idle_80
+  - first:
+      213: -60363351530861928
+    second: future_range_idle_81
+  - first:
+      213: 874515272369056683
+    second: future_range_idle_82
+  - first:
+      213: -4922386421801398351
+    second: future_range_idle_83
+  - first:
+      213: 118071630873423636
+    second: future_range_idle_84
+  - first:
+      213: -5655947685794480691
+    second: future_range_idle_85
+  - first:
+      213: -4621411390903361413
+    second: future_range_idle_86
+  - first:
+      213: 6021650117471971815
+    second: future_range_idle_87
+  - first:
+      213: 6212188883493904855
+    second: future_range_idle_88
+  - first:
+      213: -2990544010646075298
+    second: future_range_idle_89
+  - first:
+      213: 4137001435788896221
+    second: future_range_idle_90
+  - first:
+      213: -2317837734614814685
+    second: future_range_idle_91
+  - first:
+      213: 6169289050864463655
+    second: future_range_idle_92
+  - first:
+      213: -3386726245427960614
+    second: future_range_idle_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_range_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898375b824c7adac0800000000000000
+      internalID: -3829611907877750632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd1f177f5b10c3e0800000000000000
+      internalID: -2035596934737093181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e44244585e6c2f0800000000000000
+      internalID: -952821910605640051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2b7431ccc7336c0800000000000000
+      internalID: -4164848014448938335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecced59584547eee0800000000000000
+      internalID: -1231939796023251762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad93654398c94360800000000000000
+      internalID: 7154470017904647595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92eb0c89d2263b80800000000000000
+      internalID: -8415500535942356325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1eb0a295227c090800000000000000
+      internalID: -8014399245529652804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e955691982d3b50800000000000000
+      internalID: 6574455636788354617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6706c3727b5ea0800000000000000
+      internalID: -5882982646660240241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3e6121ecf6903a0800000000000000
+      internalID: -6698700039879466004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16d7e600f62db350800000000000000
+      internalID: 6034021888096196127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ae5c6fe0c504f0800000000000000
+      internalID: -863071619023723563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f28890392f74b0800000000000000
+      internalID: -5440584536146380730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fec4520e430d820800000000000000
+      internalID: 2940908693976051473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01336f0e5c4a48b50800000000000000
+      internalID: 6594576924166992656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84412100c0b19d30800000000000000
+      internalID: 4436521446635816076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcf0589ec9125c90800000000000000
+      internalID: -7182650080593118031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f31dcc20d1185370800000000000000
+      internalID: 8311412698114757616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ad30cfd70a0ed20800000000000000
+      internalID: 3305818589449411156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4268ffa2d486d2eb0800000000000000
+      internalID: -4743020151908104668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a6f6617949dd10800000000000000
+      internalID: 2150831048453695006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 450
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22be3e34e3e2235f0800000000000000
+      internalID: -778508940619814110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 388
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732bd268be179cd90800000000000000
+      internalID: -7077000083053628873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0502f5384ece5730800000000000000
+      internalID: 3989853129434858765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43a415ed7e50d8e0800000000000000
+      internalID: -1670731566947196085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f0fd06b6f6cbfd0800000000000000
+      internalID: -2324860800652603602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b303bd9a0b3f546e0800000000000000
+      internalID: -1853807731503583173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae82d5e0698b8d0800000000000000
+      internalID: -2830347377365685567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1699b3679331e80800000000000000
+      internalID: -8209154515797450309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce5a0423b34d20d0800000000000000
+      internalID: -3446023703185695033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c7515bfd2b1a10800000000000000
+      internalID: 1881147826782061927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df150f496ed85ac0800000000000000
+      internalID: -3866095736218902573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b498d5e6a6f9840800000000000000
+      internalID: 5233018314276031387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b5c3eb15126410800000000000000
+      internalID: 1468759638005887463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9074b14bdc0a3be0800000000000000
+      internalID: -1496869790307553125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724df6e713dab280800000000000000
+      internalID: -9026670403497672077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff9ba82907f2220800000000000000
+      internalID: 2463311295889932173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a975a265dfbceb3e0800000000000000
+      internalID: -2035965692592105574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc37a41b688a350800000000000000
+      internalID: 6028216197251845030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb629b637c2834350800000000000000
+      internalID: 5999782920715839164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7edd21037e183f50800000000000000
+      internalID: 6861267511588806266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62c00a079505520800000000000000
+      internalID: 2688747317796546292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e55168d46910440800000000000000
+      internalID: 4900363129262005889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c25fee2fdd9100800000000000000
+      internalID: 116494558058169956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2bc23d162e4ae50800000000000000
+      internalID: 6819824645528400595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_46
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 326
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0db701b43e08e60800000000000000
+      internalID: 7962614052729639098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_47
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 264
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d9f2e0dc37215c0800000000000000
+      internalID: -4246204174113464964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856be1039d2313950800000000000000
+      internalID: 6426974051631019608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa02000c8827b520800000000000000
+      internalID: 2717685481902050044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e315ad9a622130800000000000000
+      internalID: 3540509482378584986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd96fb15ba160850800000000000000
+      internalID: 6342786490358472145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6c0fe8093c62c0800000000000000
+      internalID: -4437108822333690033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8310d8cd5a481d0800000000000000
+      internalID: -3349369856179750717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5a4017561e09620800000000000000
+      internalID: 2778968795891672482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_55
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5afc32b6d429060800000000000000
+      internalID: 6958709496798488028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1297bb9986868490800000000000000
+      internalID: -7744354583635848678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469443ef15e039bd0800000000000000
+      internalID: -2624738412506887836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_58
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a086e11a26c8c61a0800000000000000
+      internalID: -6814917780880594934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d943b7e37a098500800000000000000
+      internalID: 398861534923803096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb656de1141f188c0800000000000000
+      internalID: -3998649732135758146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2341149c1b84900800000000000000
+      internalID: 668980022602904228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_62
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0623c2c5e3cc2c630800000000000000
+      internalID: 3945940791736414816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c36e7a9a47f5330800000000000000
+      internalID: 3701805690737015924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1a0c2881fdcd50800000000000000
+      internalID: 6759324182909689630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8da2e0e602f50f30800000000000000
+      internalID: 4541301910629690764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_66
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b4607dcf2585650800000000000000
+      internalID: 6221814131105090390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971349e3775210620800000000000000
+      internalID: 2738511242499207545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01e4f78ccdea7310800000000000000
+      internalID: 1403695696589414671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321ac0b94e705760800000000000000
+      internalID: 7444589039007175217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 202
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629c4c3d017f4c960800000000000000
+      internalID: 7621488121062148390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_71
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 140
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e762b9ac84d64d0800000000000000
+      internalID: -3139773330183782865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3454eb67361f1630800000000000000
+      internalID: 3899860229615277114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cda2d4eebe10bf0800000000000000
+      internalID: -359747086483530743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1f3e17ff216c70800000000000000
+      internalID: 8962497471854877955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2937e96e263180800000000000000
+      internalID: -9136063761688744583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2701bb80e0a9c100800000000000000
+      internalID: 128810950633522990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ad05d0e69726c0800000000000000
+      internalID: -4168197037716822726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f30392604dd010800000000000000
+      internalID: 1215198266577384083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_79
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1d3fd643a09bc90800000000000000
+      internalID: -7153675312802049581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbea0fd47e5bf8b0800000000000000
+      internalID: -5117392695525184513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0d820adb892ff0800000000000000
+      internalID: -60363351530861928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2630c107e22c00800000000000000
+      internalID: 874515272369056683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf425911ab20bbb0800000000000000
+      internalID: -4922386421801398351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe240d58973a100800000000000000
+      internalID: 118071630873423636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_85
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf608db890281b0800000000000000
+      internalID: -5655947685794480691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e24443d27ddfb0800000000000000
+      internalID: -4621411390903361413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_87
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e92b95b0e2319350800000000000000
+      internalID: 6021650117471971815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e84e30e0263650800000000000000
+      internalID: 6212188883493904855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_89
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c44021147f76d0800000000000000
+      internalID: -2990544010646075298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_90
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd76a7713e4996930800000000000000
+      internalID: 4137001435788896221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_91
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b94d5cd265dfd0800000000000000
+      internalID: -2317837734614814685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_92
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fab7994b7bd9550800000000000000
+      internalID: 6169289050864463655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_idle_93
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 78
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad426c56c6eeff0d0800000000000000
+      internalID: -3386726245427960614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_range_idle_0: -3829611907877750632
+      future_range_idle_1: -2035596934737093181
+      future_range_idle_10: -6698700039879466004
+      future_range_idle_11: 6034021888096196127
+      future_range_idle_12: -863071619023723563
+      future_range_idle_13: -5440584536146380730
+      future_range_idle_14: 2940908693976051473
+      future_range_idle_15: 6594576924166992656
+      future_range_idle_16: 4436521446635816076
+      future_range_idle_17: -7182650080593118031
+      future_range_idle_18: 8311412698114757616
+      future_range_idle_19: 3305818589449411156
+      future_range_idle_2: -952821910605640051
+      future_range_idle_20: -4743020151908104668
+      future_range_idle_21: 2150831048453695006
+      future_range_idle_22: -778508940619814110
+      future_range_idle_23: -7077000083053628873
+      future_range_idle_24: 3989853129434858765
+      future_range_idle_25: -1670731566947196085
+      future_range_idle_26: -2324860800652603602
+      future_range_idle_27: -1853807731503583173
+      future_range_idle_28: -2830347377365685567
+      future_range_idle_29: -8209154515797450309
+      future_range_idle_3: -4164848014448938335
+      future_range_idle_30: -3446023703185695033
+      future_range_idle_31: 1881147826782061927
+      future_range_idle_32: -3866095736218902573
+      future_range_idle_33: 5233018314276031387
+      future_range_idle_34: 1468759638005887463
+      future_range_idle_35: -1496869790307553125
+      future_range_idle_36: -9026670403497672077
+      future_range_idle_37: 2463311295889932173
+      future_range_idle_38: -2035965692592105574
+      future_range_idle_39: 6028216197251845030
+      future_range_idle_4: -1231939796023251762
+      future_range_idle_40: 5999782920715839164
+      future_range_idle_41: 6861267511588806266
+      future_range_idle_42: 2688747317796546292
+      future_range_idle_43: 4900363129262005889
+      future_range_idle_44: 116494558058169956
+      future_range_idle_45: 6819824645528400595
+      future_range_idle_46: 7962614052729639098
+      future_range_idle_47: -4246204174113464964
+      future_range_idle_48: 6426974051631019608
+      future_range_idle_49: 2717685481902050044
+      future_range_idle_5: 7154470017904647595
+      future_range_idle_50: 3540509482378584986
+      future_range_idle_51: 6342786490358472145
+      future_range_idle_52: -4437108822333690033
+      future_range_idle_53: -3349369856179750717
+      future_range_idle_54: 2778968795891672482
+      future_range_idle_55: 6958709496798488028
+      future_range_idle_56: -7744354583635848678
+      future_range_idle_57: -2624738412506887836
+      future_range_idle_58: -6814917780880594934
+      future_range_idle_59: 398861534923803096
+      future_range_idle_6: -8415500535942356325
+      future_range_idle_60: -3998649732135758146
+      future_range_idle_61: 668980022602904228
+      future_range_idle_62: 3945940791736414816
+      future_range_idle_63: 3701805690737015924
+      future_range_idle_64: 6759324182909689630
+      future_range_idle_65: 4541301910629690764
+      future_range_idle_66: 6221814131105090390
+      future_range_idle_67: 2738511242499207545
+      future_range_idle_68: 1403695696589414671
+      future_range_idle_69: 7444589039007175217
+      future_range_idle_7: -8014399245529652804
+      future_range_idle_70: 7621488121062148390
+      future_range_idle_71: -3139773330183782865
+      future_range_idle_72: 3899860229615277114
+      future_range_idle_73: -359747086483530743
+      future_range_idle_74: 8962497471854877955
+      future_range_idle_75: -9136063761688744583
+      future_range_idle_76: 128810950633522990
+      future_range_idle_77: -4168197037716822726
+      future_range_idle_78: 1215198266577384083
+      future_range_idle_79: -7153675312802049581
+      future_range_idle_8: 6574455636788354617
+      future_range_idle_80: -5117392695525184513
+      future_range_idle_81: -60363351530861928
+      future_range_idle_82: 874515272369056683
+      future_range_idle_83: -4922386421801398351
+      future_range_idle_84: 118071630873423636
+      future_range_idle_85: -5655947685794480691
+      future_range_idle_86: -4621411390903361413
+      future_range_idle_87: 6021650117471971815
+      future_range_idle_88: 6212188883493904855
+      future_range_idle_89: -2990544010646075298
+      future_range_idle_9: -5882982646660240241
+      future_range_idle_90: 4137001435788896221
+      future_range_idle_91: -2317837734614814685
+      future_range_idle_92: 6169289050864463655
+      future_range_idle_93: -3386726245427960614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

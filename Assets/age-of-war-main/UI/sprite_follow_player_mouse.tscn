@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cu6m50c1h3p35"]
+
+[ext_resource type="Script" path="res://UI/sprite_follow_player_mouse.gd" id="2_ev5sa"]
+
+[node name="sprite_follow_player_mouse" type="Sprite2D"]
+z_index = 10
+scale = Vector2(0.5, 0.5)
+script = ExtResource("2_ev5sa")

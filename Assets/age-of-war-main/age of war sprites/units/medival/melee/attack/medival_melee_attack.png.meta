@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: 06485397717598d49857f2b3740636c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7224448476045857066
+    second: medival_melee_attack_0
+  - first:
+      213: 7307026971487988719
+    second: medival_melee_attack_1
+  - first:
+      213: -8364619681895187409
+    second: medival_melee_attack_2
+  - first:
+      213: -1347361202351560771
+    second: medival_melee_attack_3
+  - first:
+      213: -7239727687635973944
+    second: medival_melee_attack_4
+  - first:
+      213: 8538982960266659436
+    second: medival_melee_attack_5
+  - first:
+      213: -647624189482257064
+    second: medival_melee_attack_6
+  - first:
+      213: -5788716230512097950
+    second: medival_melee_attack_7
+  - first:
+      213: 2653702506870217601
+    second: medival_melee_attack_8
+  - first:
+      213: 5121554393855331937
+    second: medival_melee_attack_9
+  - first:
+      213: 835936244574311564
+    second: medival_melee_attack_10
+  - first:
+      213: -3551395460892861477
+    second: medival_melee_attack_11
+  - first:
+      213: 6199278512781654013
+    second: medival_melee_attack_12
+  - first:
+      213: 1523579886041879579
+    second: medival_melee_attack_13
+  - first:
+      213: -2794295466916216174
+    second: medival_melee_attack_14
+  - first:
+      213: 1695812722636812406
+    second: medival_melee_attack_15
+  - first:
+      213: 1286236894064969592
+    second: medival_melee_attack_16
+  - first:
+      213: 8763749347802245328
+    second: medival_melee_attack_17
+  - first:
+      213: -9036720068086551399
+    second: medival_melee_attack_18
+  - first:
+      213: 546430117984944187
+    second: medival_melee_attack_19
+  - first:
+      213: -649324169051108133
+    second: medival_melee_attack_20
+  - first:
+      213: 5563772677775966001
+    second: medival_melee_attack_21
+  - first:
+      213: 3594650532668297225
+    second: medival_melee_attack_22
+  - first:
+      213: 1867646188591084326
+    second: medival_melee_attack_23
+  - first:
+      213: -4677248910637888194
+    second: medival_melee_attack_24
+  - first:
+      213: 1783314286837531291
+    second: medival_melee_attack_25
+  - first:
+      213: -2762323460230980299
+    second: medival_melee_attack_26
+  - first:
+      213: 2611782000631839974
+    second: medival_melee_attack_27
+  - first:
+      213: 1536238968957987385
+    second: medival_melee_attack_28
+  - first:
+      213: -8794721342779296200
+    second: medival_melee_attack_29
+  - first:
+      213: -7779229277520423816
+    second: medival_melee_attack_30
+  - first:
+      213: 8369856076023614706
+    second: medival_melee_attack_31
+  - first:
+      213: 6969937365400724008
+    second: medival_melee_attack_32
+  - first:
+      213: 6182485530509615305
+    second: medival_melee_attack_33
+  - first:
+      213: 6196456302342844454
+    second: medival_melee_attack_34
+  - first:
+      213: -3939309988061026553
+    second: medival_melee_attack_35
+  - first:
+      213: 1686111165603435034
+    second: medival_melee_attack_36
+  - first:
+      213: -2682887568957417254
+    second: medival_melee_attack_37
+  - first:
+      213: -2628653882748495432
+    second: medival_melee_attack_38
+  - first:
+      213: 5871458295115808502
+    second: medival_melee_attack_39
+  - first:
+      213: 225470010129254757
+    second: medival_melee_attack_40
+  - first:
+      213: -2129295921635760656
+    second: medival_melee_attack_41
+  - first:
+      213: -2028247345968855314
+    second: medival_melee_attack_42
+  - first:
+      213: -6840235836118389960
+    second: medival_melee_attack_43
+  - first:
+      213: -8054160960326976136
+    second: medival_melee_attack_44
+  - first:
+      213: -5770936228661506282
+    second: medival_melee_attack_45
+  - first:
+      213: 2917325604127784504
+    second: medival_melee_attack_46
+  - first:
+      213: -4020020737762828763
+    second: medival_melee_attack_47
+  - first:
+      213: 800928940178946642
+    second: medival_melee_attack_48
+  - first:
+      213: 2592320494719808584
+    second: medival_melee_attack_49
+  - first:
+      213: -3936369771430906982
+    second: medival_melee_attack_50
+  - first:
+      213: 6760706631496818212
+    second: medival_melee_attack_51
+  - first:
+      213: 5969704542782341734
+    second: medival_melee_attack_52
+  - first:
+      213: -1902364055839200971
+    second: medival_melee_attack_53
+  - first:
+      213: -7489587191455786853
+    second: medival_melee_attack_54
+  - first:
+      213: 3835859975273280915
+    second: medival_melee_attack_55
+  - first:
+      213: 5131006787114812212
+    second: medival_melee_attack_56
+  - first:
+      213: 5709633108630977039
+    second: medival_melee_attack_57
+  - first:
+      213: 1386142822957844212
+    second: medival_melee_attack_58
+  - first:
+      213: -8970195707348641194
+    second: medival_melee_attack_59
+  - first:
+      213: -5823614417048212969
+    second: medival_melee_attack_60
+  - first:
+      213: 4006203684026323480
+    second: medival_melee_attack_61
+  - first:
+      213: 8113827615438209580
+    second: medival_melee_attack_62
+  - first:
+      213: 8312975841730195318
+    second: medival_melee_attack_63
+  - first:
+      213: -3533319943991364862
+    second: medival_melee_attack_64
+  - first:
+      213: 4468706691222912322
+    second: medival_melee_attack_65
+  - first:
+      213: 8450744431382796181
+    second: medival_melee_attack_66
+  - first:
+      213: -4720466559184560269
+    second: medival_melee_attack_67
+  - first:
+      213: 4279890093729256898
+    second: medival_melee_attack_68
+  - first:
+      213: -7203654493031104540
+    second: medival_melee_attack_69
+  - first:
+      213: 1010482675479143716
+    second: medival_melee_attack_70
+  - first:
+      213: 5436229633753798032
+    second: medival_melee_attack_71
+  - first:
+      213: -5234633308102968499
+    second: medival_melee_attack_72
+  - first:
+      213: 7079876698786407446
+    second: medival_melee_attack_73
+  - first:
+      213: -3541630603320379206
+    second: medival_melee_attack_74
+  - first:
+      213: 510137232756847722
+    second: medival_melee_attack_75
+  - first:
+      213: 2606201188229689158
+    second: medival_melee_attack_76
+  - first:
+      213: -971836046977352299
+    second: medival_melee_attack_77
+  - first:
+      213: 3302995648267360844
+    second: medival_melee_attack_78
+  - first:
+      213: -5975588226077200630
+    second: medival_melee_attack_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medival_melee_attack_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 933
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deac27436a9dbb90800000000000000
+      internalID: -7224448476045857066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 933
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb6db7f056c76560800000000000000
+      internalID: 7307026971487988719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 933
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c756b87b6eaeb80800000000000000
+      internalID: -8364619681895187409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 933
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db721b500263d4de0800000000000000
+      internalID: -1347361202351560771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 933
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c5eb9602578b90800000000000000
+      internalID: -7239727687635973944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 933
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66cec9c2cf808670800000000000000
+      internalID: 8538982960266659436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 933
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b5fd1b3d2307f0800000000000000
+      internalID: -647624189482257064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 933
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c9ce12495aafa0800000000000000
+      internalID: -5788716230512097950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_8
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 933
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b109dbe58d3d420800000000000000
+      internalID: 2653702506870217601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 933
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e8697069a631740800000000000000
+      internalID: 5121554393855331937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 933
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d9b0e597d99b00800000000000000
+      internalID: 835936244574311564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 933
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbdb88f4a8e6bec0800000000000000
+      internalID: -3551395460892861477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_12
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 933
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ff0256f2480650800000000000000
+      internalID: 6199278512781654013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 843
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d47685d7d42510800000000000000
+      internalID: 1523579886041879579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 843
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29289f0e31ba839d0800000000000000
+      internalID: -2794295466916216174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 843
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670fa5abfacb88710800000000000000
+      internalID: 1695812722636812406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 843
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8778ebfe3a1a9d110800000000000000
+      internalID: 1286236894064969592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 843
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8605879971f9970800000000000000
+      internalID: 8763749347802245328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 843
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cae070afe179280800000000000000
+      internalID: -9036720068086551399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 843
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3041151c4f459700800000000000000
+      internalID: 546430117984944187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 843
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc02a7cb132df6f0800000000000000
+      internalID: -649324169051108133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 843
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f3cd5b5cd763d40800000000000000
+      internalID: 5563772677775966001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 843
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900dc5b3d93c2e130800000000000000
+      internalID: 3594650532668297225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_23
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 843
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623751530563be910800000000000000
+      internalID: 1867646188591084326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 843
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d885b95e2171fb0800000000000000
+      internalID: -4677248910637888194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_25
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 843
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9284dd35ea9fb810800000000000000
+      internalID: 1783314286837531291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_26
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 843
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5436c2714aa9d0800000000000000
+      internalID: -2762323460230980299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 753
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7b6a44e9ee3420800000000000000
+      internalID: 2611782000631839974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 753
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6ad2f331d15510800000000000000
+      internalID: 1536238968957987385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 753
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f711098fd2f580800000000000000
+      internalID: -8794721342779296200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 753
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874931f2030aa0490800000000000000
+      internalID: -7779229277520423816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 753
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc488871c3b72470800000000000000
+      internalID: 8369856076023614706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 753
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ae630b113ab060800000000000000
+      internalID: 6969937365400724008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 753
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a40375d99cc550800000000000000
+      internalID: 6182485530509615305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 663
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620306f3d2c3ef550800000000000000
+      internalID: 6196456302342844454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 663
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707697def62c459c0800000000000000
+      internalID: -3939309988061026553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 753
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12dc95fb25466710800000000000000
+      internalID: 1686111165603435034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 663
+        width: 42
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad85bf778f774cad0800000000000000
+      internalID: -2682887568957417254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 663
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b913598835258bd0800000000000000
+      internalID: -2628653882748495432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_39
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 663
+        width: 40
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef5e9063c9b7150800000000000000
+      internalID: 5871458295115808502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_40
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 663
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569024597c7012300800000000000000
+      internalID: 225470010129254757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_41
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 753
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5663904a83372e0800000000000000
+      internalID: -2129295921635760656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_42
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 663
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c5e2f8c73ad3e0800000000000000
+      internalID: -2028247345968855314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_43
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 753
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b24488fb99211a0800000000000000
+      internalID: -6840235836118389960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 663
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d34e3874fd93090800000000000000
+      internalID: -8054160960326976136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_45
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 753
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fc235631489efa0800000000000000
+      internalID: -5770936228661506282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e30382e2c6c7820800000000000000
+      internalID: 2917325604127784504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 663
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e51ff10740638c0800000000000000
+      internalID: -4020020737762828763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 573
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a32b9a0a87d1b00800000000000000
+      internalID: 800928940178946642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 663
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8443db751c5c9f320800000000000000
+      internalID: 2592320494719808584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 663
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9376457c843f59c0800000000000000
+      internalID: -3936369771430906982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 663
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42edef09cdad2dd50800000000000000
+      internalID: 6760706631496818212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 663
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c39e17a6a8d250800000000000000
+      internalID: 5969704542782341734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 663
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539ab3a68f17995e0800000000000000
+      internalID: -1902364055839200971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 573
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9856f28124af0890800000000000000
+      internalID: -7489587191455786853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 573
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957d420356bb3530800000000000000
+      internalID: 3835859975273280915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 573
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433c816dc7ff43740800000000000000
+      internalID: 5131006787114812212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_57
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 573
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a32c5bf01bc3f40800000000000000
+      internalID: 5709633108630977039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_58
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 573
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f60c5aad819c3310800000000000000
+      internalID: 1386142822957844212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_59
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 573
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a10c1c786738380800000000000000
+      internalID: -8970195707348641194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_60
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 573
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a6ff2ea8d5e2fa0800000000000000
+      internalID: -5823614417048212969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_61
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 573
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812104c5605e89730800000000000000
+      internalID: 4006203684026323480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_62
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 573
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2203f23a3b1a9070800000000000000
+      internalID: 8113827615438209580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_63
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 573
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f6bb8eb7f9d5370800000000000000
+      internalID: 8312975841730195318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_64
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 573
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20377943b3027fec0800000000000000
+      internalID: -3533319943991364862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_65
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 573
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db0c73f09040e30800000000000000
+      internalID: 4468706691222912322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5979e205943174570800000000000000
+      internalID: 8450744431382796181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 483
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f91bdaca88d7eb0800000000000000
+      internalID: -4720466559184560269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 483
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5127a4d59356b30800000000000000
+      internalID: 4279890093729256898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 483
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4effb3ab76a770c90800000000000000
+      internalID: -7203654493031104540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_70
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 483
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425ee9bb3a4f50e00800000000000000
+      internalID: 1010482675479143716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 483
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d85dac0e517b40800000000000000
+      internalID: 5436229633753798032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_72
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 483
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b38159db8da57b0800000000000000
+      internalID: -5234633308102968499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_73
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 483
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614aab4c856c04260800000000000000
+      internalID: 7079876698786407446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_74
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 483
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8bf6b0bb999dec0800000000000000
+      internalID: -3541630603320379206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_75
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 483
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a643c214c1f541700800000000000000
+      internalID: 510137232756847722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_76
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 483
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa1a52c261b2420800000000000000
+      internalID: 2606201188229689158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_77
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 483
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dbef7a3485382f0800000000000000
+      internalID: -971836046977352299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_78
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 483
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a13a5ca0996dd20800000000000000
+      internalID: 3302995648267360844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medival_melee_attack_79
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 483
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f69ac1b22721da0800000000000000
+      internalID: -5975588226077200630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medival_melee_attack_0: -7224448476045857066
+      medival_melee_attack_1: 7307026971487988719
+      medival_melee_attack_10: 835936244574311564
+      medival_melee_attack_11: -3551395460892861477
+      medival_melee_attack_12: 6199278512781654013
+      medival_melee_attack_13: 1523579886041879579
+      medival_melee_attack_14: -2794295466916216174
+      medival_melee_attack_15: 1695812722636812406
+      medival_melee_attack_16: 1286236894064969592
+      medival_melee_attack_17: 8763749347802245328
+      medival_melee_attack_18: -9036720068086551399
+      medival_melee_attack_19: 546430117984944187
+      medival_melee_attack_2: -8364619681895187409
+      medival_melee_attack_20: -649324169051108133
+      medival_melee_attack_21: 5563772677775966001
+      medival_melee_attack_22: 3594650532668297225
+      medival_melee_attack_23: 1867646188591084326
+      medival_melee_attack_24: -4677248910637888194
+      medival_melee_attack_25: 1783314286837531291
+      medival_melee_attack_26: -2762323460230980299
+      medival_melee_attack_27: 2611782000631839974
+      medival_melee_attack_28: 1536238968957987385
+      medival_melee_attack_29: -8794721342779296200
+      medival_melee_attack_3: -1347361202351560771
+      medival_melee_attack_30: -7779229277520423816
+      medival_melee_attack_31: 8369856076023614706
+      medival_melee_attack_32: 6969937365400724008
+      medival_melee_attack_33: 6182485530509615305
+      medival_melee_attack_34: 6196456302342844454
+      medival_melee_attack_35: -3939309988061026553
+      medival_melee_attack_36: 1686111165603435034
+      medival_melee_attack_37: -2682887568957417254
+      medival_melee_attack_38: -2628653882748495432
+      medival_melee_attack_39: 5871458295115808502
+      medival_melee_attack_4: -7239727687635973944
+      medival_melee_attack_40: 225470010129254757
+      medival_melee_attack_41: -2129295921635760656
+      medival_melee_attack_42: -2028247345968855314
+      medival_melee_attack_43: -6840235836118389960
+      medival_melee_attack_44: -8054160960326976136
+      medival_melee_attack_45: -5770936228661506282
+      medival_melee_attack_46: 2917325604127784504
+      medival_melee_attack_47: -4020020737762828763
+      medival_melee_attack_48: 800928940178946642
+      medival_melee_attack_49: 2592320494719808584
+      medival_melee_attack_5: 8538982960266659436
+      medival_melee_attack_50: -3936369771430906982
+      medival_melee_attack_51: 6760706631496818212
+      medival_melee_attack_52: 5969704542782341734
+      medival_melee_attack_53: -1902364055839200971
+      medival_melee_attack_54: -7489587191455786853
+      medival_melee_attack_55: 3835859975273280915
+      medival_melee_attack_56: 5131006787114812212
+      medival_melee_attack_57: 5709633108630977039
+      medival_melee_attack_58: 1386142822957844212
+      medival_melee_attack_59: -8970195707348641194
+      medival_melee_attack_6: -647624189482257064
+      medival_melee_attack_60: -5823614417048212969
+      medival_melee_attack_61: 4006203684026323480
+      medival_melee_attack_62: 8113827615438209580
+      medival_melee_attack_63: 8312975841730195318
+      medival_melee_attack_64: -3533319943991364862
+      medival_melee_attack_65: 4468706691222912322
+      medival_melee_attack_66: 8450744431382796181
+      medival_melee_attack_67: -4720466559184560269
+      medival_melee_attack_68: 4279890093729256898
+      medival_melee_attack_69: -7203654493031104540
+      medival_melee_attack_7: -5788716230512097950
+      medival_melee_attack_70: 1010482675479143716
+      medival_melee_attack_71: 5436229633753798032
+      medival_melee_attack_72: -5234633308102968499
+      medival_melee_attack_73: 7079876698786407446
+      medival_melee_attack_74: -3541630603320379206
+      medival_melee_attack_75: 510137232756847722
+      medival_melee_attack_76: 2606201188229689158
+      medival_melee_attack_77: -971836046977352299
+      medival_melee_attack_78: 3302995648267360844
+      medival_melee_attack_79: -5975588226077200630
+      medival_melee_attack_8: 2653702506870217601
+      medival_melee_attack_9: 5121554393855331937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

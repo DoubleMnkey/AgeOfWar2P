@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: ae8d62ee01b19ae4990aeb220c5a8e2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7309344308330999321
+    second: cave_tank_idle_0
+  - first:
+      213: -1207132312758864992
+    second: cave_tank_idle_1
+  - first:
+      213: 55552769685181718
+    second: cave_tank_idle_2
+  - first:
+      213: -1973733988546394628
+    second: cave_tank_idle_3
+  - first:
+      213: 5096315389463193334
+    second: cave_tank_idle_4
+  - first:
+      213: 310923912712079577
+    second: cave_tank_idle_5
+  - first:
+      213: -9116349758673003417
+    second: cave_tank_idle_6
+  - first:
+      213: 3790555218266212359
+    second: cave_tank_idle_7
+  - first:
+      213: 9091457670027855992
+    second: cave_tank_idle_8
+  - first:
+      213: -3762912423248990696
+    second: cave_tank_idle_9
+  - first:
+      213: -3128238275371974158
+    second: cave_tank_idle_10
+  - first:
+      213: -486623610392269304
+    second: cave_tank_idle_11
+  - first:
+      213: -6634645058649371485
+    second: cave_tank_idle_12
+  - first:
+      213: 4142280126410253888
+    second: cave_tank_idle_13
+  - first:
+      213: 9209806289774354224
+    second: cave_tank_idle_14
+  - first:
+      213: 1904712136186146471
+    second: cave_tank_idle_15
+  - first:
+      213: -6254881683412358800
+    second: cave_tank_idle_16
+  - first:
+      213: -3699013428007574257
+    second: cave_tank_idle_17
+  - first:
+      213: -2941098014321308633
+    second: cave_tank_idle_18
+  - first:
+      213: 8975525892330377481
+    second: cave_tank_idle_19
+  - first:
+      213: -3979440552664526172
+    second: cave_tank_idle_20
+  - first:
+      213: -5652236379990798706
+    second: cave_tank_idle_21
+  - first:
+      213: 5727569468928530942
+    second: cave_tank_idle_22
+  - first:
+      213: 899516878603234013
+    second: cave_tank_idle_23
+  - first:
+      213: 6389610868376893232
+    second: cave_tank_idle_24
+  - first:
+      213: 6653778964883669354
+    second: cave_tank_idle_25
+  - first:
+      213: -5189828980311760848
+    second: cave_tank_idle_26
+  - first:
+      213: 4869947508177864347
+    second: cave_tank_idle_27
+  - first:
+      213: 7526969637021975292
+    second: cave_tank_idle_28
+  - first:
+      213: -3055147934189590345
+    second: cave_tank_idle_29
+  - first:
+      213: -7193083449807853740
+    second: cave_tank_idle_30
+  - first:
+      213: -1849196581175255972
+    second: cave_tank_idle_31
+  - first:
+      213: 9166170837019860933
+    second: cave_tank_idle_32
+  - first:
+      213: -435567480964721939
+    second: cave_tank_idle_33
+  - first:
+      213: -7288055766802750300
+    second: cave_tank_idle_34
+  - first:
+      213: 5772635613326639283
+    second: cave_tank_idle_35
+  - first:
+      213: -3506089161009221992
+    second: cave_tank_idle_36
+  - first:
+      213: -5186129096400155094
+    second: cave_tank_idle_37
+  - first:
+      213: -9187291509399129713
+    second: cave_tank_idle_38
+  - first:
+      213: -6884676019364589663
+    second: cave_tank_idle_39
+  - first:
+      213: 5004234755247030633
+    second: cave_tank_idle_40
+  - first:
+      213: -5668266628668530061
+    second: cave_tank_idle_41
+  - first:
+      213: -5977962884849649468
+    second: cave_tank_idle_42
+  - first:
+      213: 928814341039948894
+    second: cave_tank_idle_43
+  - first:
+      213: 8019856563004849322
+    second: cave_tank_idle_44
+  - first:
+      213: -1818497903630471109
+    second: cave_tank_idle_45
+  - first:
+      213: 2711295241529697065
+    second: cave_tank_idle_46
+  - first:
+      213: 8509984893958612365
+    second: cave_tank_idle_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave_tank_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e158e0041eff8a90800000000000000
+      internalID: -7309344308330999321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1529
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3bc15ae876f3fe0800000000000000
+      internalID: -1207132312758864992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1788
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615df5f13fc55c000800000000000000
+      internalID: 55552769685181718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1529
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5c39b0563eb94e0800000000000000
+      internalID: -1973733988546394628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1788
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f66f4468dfb9b640800000000000000
+      internalID: 5096315389463193334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1529
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c069b6af905400800000000000000
+      internalID: 310923912712079577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cd31ae1383c7180800000000000000
+      internalID: -9116349758673003417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1529
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c24643e1ca9430800000000000000
+      internalID: 3790555218266212359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1788
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c28015985b2e70800000000000000
+      internalID: 9091457670027855992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1529
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ee65b761377cbc0800000000000000
+      internalID: -3762912423248990696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1788
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14ca7dcd34694d0800000000000000
+      internalID: -3128238275371974158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1529
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e2043976a2f39f0800000000000000
+      internalID: -486623610392269304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_12
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac476498710de3a0800000000000000
+      internalID: -6634645058649371485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_13
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1529
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e7d604d55c7930800000000000000
+      internalID: 4142280126410253888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_14
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9820660ecfcf70800000000000000
+      internalID: 9209806289774354224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_15
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1529
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae20c4a895ee6a10800000000000000
+      internalID: 1904712136186146471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079eb1caf323239a0800000000000000
+      internalID: -6254881683412358800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_17
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1529
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05653ca2e67aacc0800000000000000
+      internalID: -3699013428007574257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_18
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c85c640fe1f27d0800000000000000
+      internalID: -2941098014321308633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_19
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1529
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9015ca4ae397f8c70800000000000000
+      internalID: 8975525892330377481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_20
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1788
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a295adb6ef26c8c0800000000000000
+      internalID: -3979440552664526172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_21
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1529
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ecb1095f83f81b0800000000000000
+      internalID: -5652236379990798706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 354
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef99bd5061a6c7f40800000000000000
+      internalID: 5727569468928530942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1011
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2d92d5d9bb7c00800000000000000
+      internalID: 899516878603234013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037749e2b357ca850800000000000000
+      internalID: 6389610868376893232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1011
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a618bdf17b8f65c50800000000000000
+      internalID: 6653778964883669354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_26
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0306d7f0a060af7b0800000000000000
+      internalID: -5189828980311760848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1011
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968db3e477859340800000000000000
+      internalID: 4869947508177864347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf288d9510b257860800000000000000
+      internalID: 7526969637021975292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b86c56042fe995d0800000000000000
+      internalID: -3055147934189590345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457267686b80d2c90800000000000000
+      internalID: -7193083449807853740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c9e23c1855656e0800000000000000
+      internalID: -1849196581175255972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_32
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1d13dfc7c43f70800000000000000
+      internalID: 9166170837019860933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_33
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1011
+        width: 357
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d26d0fad84f9f0800000000000000
+      internalID: -435567480964721939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_34
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a42c74d4ef9bda90800000000000000
+      internalID: -7288055766802750300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_35
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b08a1e61858c1050800000000000000
+      internalID: 5772635613326639283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_36
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ea23feb7ed75fc0800000000000000
+      internalID: -3506089161009221992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_37
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e40c9601b2708b0800000000000000
+      internalID: -5186129096400155094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_38
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1270
+        width: 356
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817d4e6c0f208080800000000000000
+      internalID: -9187291509399129713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_39
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af8f1013a7b470a0800000000000000
+      internalID: -6884676019364589663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_40
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1270
+        width: 355
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961c92f0ffc927540800000000000000
+      internalID: 5004234755247030633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_41
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372e20278854651b0800000000000000
+      internalID: -5668266628668530061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_42
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1270
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83118cd620a0da0800000000000000
+      internalID: -5977962884849649468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_43
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1011
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5489fbd8bfc3ec00800000000000000
+      internalID: 928814341039948894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 356
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac3d739d014c4f60800000000000000
+      internalID: 8019856563004849322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_45
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 752
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30305d9ac563c6e0800000000000000
+      internalID: -1818497903630471109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_46
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 752
+        width: 356
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923a59838a470a520800000000000000
+      internalID: 2711295241529697065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave_tank_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 752
+        width: 357
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e7585c2a891670800000000000000
+      internalID: 8509984893958612365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cave_tank_idle_0: -7309344308330999321
+      cave_tank_idle_1: -1207132312758864992
+      cave_tank_idle_10: -3128238275371974158
+      cave_tank_idle_11: -486623610392269304
+      cave_tank_idle_12: -6634645058649371485
+      cave_tank_idle_13: 4142280126410253888
+      cave_tank_idle_14: 9209806289774354224
+      cave_tank_idle_15: 1904712136186146471
+      cave_tank_idle_16: -6254881683412358800
+      cave_tank_idle_17: -3699013428007574257
+      cave_tank_idle_18: -2941098014321308633
+      cave_tank_idle_19: 8975525892330377481
+      cave_tank_idle_2: 55552769685181718
+      cave_tank_idle_20: -3979440552664526172
+      cave_tank_idle_21: -5652236379990798706
+      cave_tank_idle_22: 5727569468928530942
+      cave_tank_idle_23: 899516878603234013
+      cave_tank_idle_24: 6389610868376893232
+      cave_tank_idle_25: 6653778964883669354
+      cave_tank_idle_26: -5189828980311760848
+      cave_tank_idle_27: 4869947508177864347
+      cave_tank_idle_28: 7526969637021975292
+      cave_tank_idle_29: -3055147934189590345
+      cave_tank_idle_3: -1973733988546394628
+      cave_tank_idle_30: -7193083449807853740
+      cave_tank_idle_31: -1849196581175255972
+      cave_tank_idle_32: 9166170837019860933
+      cave_tank_idle_33: -435567480964721939
+      cave_tank_idle_34: -7288055766802750300
+      cave_tank_idle_35: 5772635613326639283
+      cave_tank_idle_36: -3506089161009221992
+      cave_tank_idle_37: -5186129096400155094
+      cave_tank_idle_38: -9187291509399129713
+      cave_tank_idle_39: -6884676019364589663
+      cave_tank_idle_4: 5096315389463193334
+      cave_tank_idle_40: 5004234755247030633
+      cave_tank_idle_41: -5668266628668530061
+      cave_tank_idle_42: -5977962884849649468
+      cave_tank_idle_43: 928814341039948894
+      cave_tank_idle_44: 8019856563004849322
+      cave_tank_idle_45: -1818497903630471109
+      cave_tank_idle_46: 2711295241529697065
+      cave_tank_idle_47: 8509984893958612365
+      cave_tank_idle_5: 310923912712079577
+      cave_tank_idle_6: -9116349758673003417
+      cave_tank_idle_7: 3790555218266212359
+      cave_tank_idle_8: 9091457670027855992
+      cave_tank_idle_9: -3762912423248990696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

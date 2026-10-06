@@ -1,0 +1,3954 @@
+fileFormatVersion: 2
+guid: 1cb3db8fa5fe3e54bbd5ce4fa7421d4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5065857130392386105
+    second: future_range_die_0
+  - first:
+      213: 586209985612138087
+    second: future_range_die_1
+  - first:
+      213: 438330022765395977
+    second: future_range_die_2
+  - first:
+      213: -2080399498515916838
+    second: future_range_die_3
+  - first:
+      213: 1112279153468282856
+    second: future_range_die_4
+  - first:
+      213: -2840367046596879188
+    second: future_range_die_5
+  - first:
+      213: 3814120375359265252
+    second: future_range_die_6
+  - first:
+      213: -6061441963119877095
+    second: future_range_die_7
+  - first:
+      213: -1190976749086682094
+    second: future_range_die_8
+  - first:
+      213: 2254273353714947185
+    second: future_range_die_9
+  - first:
+      213: 8092188404766288566
+    second: future_range_die_10
+  - first:
+      213: 3570376690134837829
+    second: future_range_die_11
+  - first:
+      213: -7191141599654217875
+    second: future_range_die_12
+  - first:
+      213: 5666311301874575686
+    second: future_range_die_13
+  - first:
+      213: 7254857248158080255
+    second: future_range_die_14
+  - first:
+      213: -3080043756038200732
+    second: future_range_die_15
+  - first:
+      213: 8065709721013192046
+    second: future_range_die_16
+  - first:
+      213: 7728521519227374221
+    second: future_range_die_17
+  - first:
+      213: 9209278085275501631
+    second: future_range_die_18
+  - first:
+      213: 2499214020183990036
+    second: future_range_die_19
+  - first:
+      213: 868110230926213021
+    second: future_range_die_20
+  - first:
+      213: 9078784214120956380
+    second: future_range_die_21
+  - first:
+      213: -5765232131261136633
+    second: future_range_die_22
+  - first:
+      213: -261623896353617446
+    second: future_range_die_23
+  - first:
+      213: -3338705046399468171
+    second: future_range_die_24
+  - first:
+      213: 7506322336357700891
+    second: future_range_die_25
+  - first:
+      213: -4137424631331990567
+    second: future_range_die_26
+  - first:
+      213: -2649983939080487823
+    second: future_range_die_27
+  - first:
+      213: 6189111091505508775
+    second: future_range_die_28
+  - first:
+      213: 467321680712060074
+    second: future_range_die_29
+  - first:
+      213: -3037751341936421899
+    second: future_range_die_30
+  - first:
+      213: -3135958445513070839
+    second: future_range_die_31
+  - first:
+      213: 8076214679954954118
+    second: future_range_die_32
+  - first:
+      213: -4550532780163536926
+    second: future_range_die_33
+  - first:
+      213: 3528282419378212825
+    second: future_range_die_34
+  - first:
+      213: -7422162147811186526
+    second: future_range_die_35
+  - first:
+      213: -4986407677509336683
+    second: future_range_die_36
+  - first:
+      213: 509345684552389244
+    second: future_range_die_37
+  - first:
+      213: 2298406202981001497
+    second: future_range_die_38
+  - first:
+      213: -1338550617860652605
+    second: future_range_die_39
+  - first:
+      213: 5871483912798511212
+    second: future_range_die_40
+  - first:
+      213: -7885161367787705332
+    second: future_range_die_41
+  - first:
+      213: -436466257921398581
+    second: future_range_die_42
+  - first:
+      213: -3043424105941730212
+    second: future_range_die_43
+  - first:
+      213: 5352654711924347689
+    second: future_range_die_44
+  - first:
+      213: -6458585154784409168
+    second: future_range_die_45
+  - first:
+      213: 8469382764331615980
+    second: future_range_die_46
+  - first:
+      213: 317784657740803243
+    second: future_range_die_47
+  - first:
+      213: 8286400989122636944
+    second: future_range_die_48
+  - first:
+      213: 1199389632507030298
+    second: future_range_die_49
+  - first:
+      213: -7169734945693563745
+    second: future_range_die_50
+  - first:
+      213: 7088507798728217193
+    second: future_range_die_51
+  - first:
+      213: -3804882107172582578
+    second: future_range_die_52
+  - first:
+      213: 6958964421333107629
+    second: future_range_die_53
+  - first:
+      213: -1197900870249901589
+    second: future_range_die_54
+  - first:
+      213: -7136358974763879040
+    second: future_range_die_55
+  - first:
+      213: 5003606617037983173
+    second: future_range_die_56
+  - first:
+      213: 4230364985480305392
+    second: future_range_die_57
+  - first:
+      213: -9037426471424384371
+    second: future_range_die_58
+  - first:
+      213: -4498585140013621484
+    second: future_range_die_59
+  - first:
+      213: -8154585482782933110
+    second: future_range_die_60
+  - first:
+      213: -8776805986101159738
+    second: future_range_die_61
+  - first:
+      213: -7040535867247174808
+    second: future_range_die_62
+  - first:
+      213: -5254113157834621779
+    second: future_range_die_63
+  - first:
+      213: 2849127430142139386
+    second: future_range_die_64
+  - first:
+      213: -49652862175564590
+    second: future_range_die_65
+  - first:
+      213: 6967329518199979525
+    second: future_range_die_66
+  - first:
+      213: -5008046273000495138
+    second: future_range_die_67
+  - first:
+      213: -71825630646095683
+    second: future_range_die_68
+  - first:
+      213: 6341479859947224034
+    second: future_range_die_69
+  - first:
+      213: 2098053553382655496
+    second: future_range_die_70
+  - first:
+      213: 2850285142932659723
+    second: future_range_die_71
+  - first:
+      213: 6362898690439640186
+    second: future_range_die_72
+  - first:
+      213: -8613984641603812640
+    second: future_range_die_73
+  - first:
+      213: -6745424353961074588
+    second: future_range_die_74
+  - first:
+      213: 9056606430530568619
+    second: future_range_die_75
+  - first:
+      213: 6791192338530311959
+    second: future_range_die_76
+  - first:
+      213: 2439289765396822027
+    second: future_range_die_77
+  - first:
+      213: -322859368426235419
+    second: future_range_die_78
+  - first:
+      213: -6591036678852431406
+    second: future_range_die_79
+  - first:
+      213: -471536447033819217
+    second: future_range_die_80
+  - first:
+      213: -2758399057412215875
+    second: future_range_die_81
+  - first:
+      213: -4057508544621860263
+    second: future_range_die_82
+  - first:
+      213: -3831067063821243150
+    second: future_range_die_83
+  - first:
+      213: -3864688551477852211
+    second: future_range_die_84
+  - first:
+      213: -2905556325881527225
+    second: future_range_die_85
+  - first:
+      213: -5365486507472999520
+    second: future_range_die_86
+  - first:
+      213: 5470504279709498868
+    second: future_range_die_87
+  - first:
+      213: 621580122974937157
+    second: future_range_die_88
+  - first:
+      213: -1037292101320641459
+    second: future_range_die_89
+  - first:
+      213: -2589312902639336739
+    second: future_range_die_90
+  - first:
+      213: -6218584724024734482
+    second: future_range_die_91
+  - first:
+      213: -1184922330628143409
+    second: future_range_die_92
+  - first:
+      213: 608527861608001653
+    second: future_range_die_93
+  - first:
+      213: -3143463515075731285
+    second: future_range_die_94
+  - first:
+      213: 2769857468513827258
+    second: future_range_die_95
+  - first:
+      213: 2531088012299501615
+    second: future_range_die_96
+  - first:
+      213: 7004353924500029066
+    second: future_range_die_97
+  - first:
+      213: -4784537193117295934
+    second: future_range_die_98
+  - first:
+      213: 1199827122894654378
+    second: future_range_die_99
+  - first:
+      213: 1636566288703104162
+    second: future_range_die_100
+  - first:
+      213: 826599033368741310
+    second: future_range_die_101
+  - first:
+      213: -3566776345441195638
+    second: future_range_die_102
+  - first:
+      213: -4703446918184047346
+    second: future_range_die_103
+  - first:
+      213: -5702921021014199342
+    second: future_range_die_104
+  - first:
+      213: 2442558398858067999
+    second: future_range_die_105
+  - first:
+      213: 3646405265851768382
+    second: future_range_die_106
+  - first:
+      213: -6769218405682576922
+    second: future_range_die_107
+  - first:
+      213: 7802464491129704884
+    second: future_range_die_108
+  - first:
+      213: 7473354226203570073
+    second: future_range_die_109
+  - first:
+      213: 8509262110453454383
+    second: future_range_die_110
+  - first:
+      213: 7200921922152696100
+    second: future_range_die_111
+  - first:
+      213: -3103622045773468153
+    second: future_range_die_112
+  - first:
+      213: 209731066374804602
+    second: future_range_die_113
+  - first:
+      213: 3371431806865870532
+    second: future_range_die_114
+  - first:
+      213: 4064097262386252419
+    second: future_range_die_115
+  - first:
+      213: 3392004770173830888
+    second: future_range_die_116
+  - first:
+      213: -2410893757650805414
+    second: future_range_die_117
+  - first:
+      213: 1177715223722956944
+    second: future_range_die_118
+  - first:
+      213: 4768450329049322818
+    second: future_range_die_119
+  - first:
+      213: 3297598948909801968
+    second: future_range_die_120
+  - first:
+      213: 7118148156483929777
+    second: future_range_die_121
+  - first:
+      213: -7385063474800133926
+    second: future_range_die_122
+  - first:
+      213: -3984516761449530042
+    second: future_range_die_123
+  - first:
+      213: 4582554187420809278
+    second: future_range_die_124
+  - first:
+      213: -4247820226160158094
+    second: future_range_die_125
+  - first:
+      213: 293831019042232552
+    second: future_range_die_126
+  - first:
+      213: 1339295231020122727
+    second: future_range_die_127
+  - first:
+      213: 5532331011166277554
+    second: future_range_die_128
+  - first:
+      213: 4936581846240352264
+    second: future_range_die_129
+  - first:
+      213: 3440975298274304569
+    second: future_range_die_130
+  - first:
+      213: -4862501026139432836
+    second: future_range_die_131
+  - first:
+      213: -8284199083284912362
+    second: future_range_die_132
+  - first:
+      213: 5680031020351692410
+    second: future_range_die_133
+  - first:
+      213: -7413504474525375456
+    second: future_range_die_134
+  - first:
+      213: 2204014626391907192
+    second: future_range_die_135
+  - first:
+      213: -8249720359921797494
+    second: future_range_die_136
+  - first:
+      213: -3700746016622618996
+    second: future_range_die_137
+  - first:
+      213: -3611389953466251153
+    second: future_range_die_138
+  - first:
+      213: -2927643620675359972
+    second: future_range_die_139
+  - first:
+      213: -3862187219239538128
+    second: future_range_die_140
+  - first:
+      213: 8005055755482252203
+    second: future_range_die_141
+  - first:
+      213: -5697898622605494841
+    second: future_range_die_142
+  - first:
+      213: 2134215980581250615
+    second: future_range_die_143
+  - first:
+      213: 3058328450868551886
+    second: future_range_die_144
+  - first:
+      213: -4480636279191287340
+    second: future_range_die_145
+  - first:
+      213: -4561054486410204634
+    second: future_range_die_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: future_range_die_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 962
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93afae3583a8d4640800000000000000
+      internalID: 5065857130392386105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 962
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c23440e2a22800800000000000000
+      internalID: 586209985612138087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 962
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900025555d2451600800000000000000
+      internalID: 438330022765395977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7de04bdafe023e0800000000000000
+      internalID: -2080399498515916838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 962
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79c893ffb9f6f00800000000000000
+      internalID: 1112279153468282856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1ed3583df498d0800000000000000
+      internalID: -2840367046596879188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e95ed7f54a7ee430800000000000000
+      internalID: 3814120375359265252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914e79146ae61eba0800000000000000
+      internalID: -6061441963119877095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 962
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21450fee4fcc87fe0800000000000000
+      internalID: -1190976749086682094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174decaeba9c84f10800000000000000
+      internalID: 2254273353714947185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba21a9da7a3d4070800000000000000
+      internalID: 8092188404766288566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a62d9dea68c8130800000000000000
+      internalID: 3570376690134837829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67731fb0dee33c90800000000000000
+      internalID: -7191141599654217875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649e30f8b18c2ae40800000000000000
+      internalID: 5666311301874575686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 962
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc51a4ba3e6ea460800000000000000
+      internalID: 7254857248158080255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462eeacc58c7145d0800000000000000
+      internalID: -3080043756038200732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65086ed1482fef60800000000000000
+      internalID: 8065709721013192046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a8280df59314b60800000000000000
+      internalID: 7728521519227374221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34c2ae20adedcf70800000000000000
+      internalID: 9209278085275501631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f1eb2f8edfea220800000000000000
+      internalID: 2499214020183990036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3d34d7a52c0c00800000000000000
+      internalID: 868110230926213021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd18a1b24225efd70800000000000000
+      internalID: 9078784214120956380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70103801ce7cdffa0800000000000000
+      internalID: -5765232131261136633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c611d3768e5cf0800000000000000
+      internalID: -261623896353617446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d3e8313798aa1d0800000000000000
+      internalID: -3338705046399468171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b155e2c0560db2860800000000000000
+      internalID: 7506322336357700891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_26
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d35184083ae496c0800000000000000
+      internalID: -4137424631331990567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_27
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cfd9ac5ad593bd0800000000000000
+      internalID: -2649983939080487823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_28
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1bd941fb324e550800000000000000
+      internalID: 6189111091505508775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_29
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 829
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac4ea6b7924c7600800000000000000
+      internalID: 467321680712060074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 767
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3d9ebcf3db7d5d0800000000000000
+      internalID: -3037751341936421899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 767
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907aec8a866da74d0800000000000000
+      internalID: -3135958445513070839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 767
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879288367a741070800000000000000
+      internalID: 8076214679954954118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 767
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e493db8249d0c0800000000000000
+      internalID: -4550532780163536926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 767
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df4b42ba2af6f030800000000000000
+      internalID: 3528282419378212825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 767
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a82d52d9de2ff890800000000000000
+      internalID: -7422162147811186526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 768
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59186cce2a8bccab0800000000000000
+      internalID: -4986407677509336683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_37
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 768
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c729f93933f811700800000000000000
+      internalID: 509345684552389244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 768
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919ac3e934495ef10800000000000000
+      internalID: 2298406202981001497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_39
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 768
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c149841e438c6de0800000000000000
+      internalID: -1338550617860652605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_40
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 768
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a6ce9283bb7150800000000000000
+      internalID: 5871483912798511212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_41
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 769
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c616c6387429290800000000000000
+      internalID: -7885161367787705332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_42
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 769
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a62c304c51f9f0800000000000000
+      internalID: -436466257921398581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_43
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 767
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7b7086e593c5d0800000000000000
+      internalID: -3043424105941730212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_44
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 766
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9235295d913784a40800000000000000
+      internalID: 5352654711924347689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c671550f7e56a0800000000000000
+      internalID: -6458585154784409168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce64dce50ca498570800000000000000
+      internalID: 8469382764331615980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca5b7667ff86400800000000000000
+      internalID: 317784657740803243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ca91fdbc53ff270800000000000000
+      internalID: 8286400989122636944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b2ed0248615a010800000000000000
+      internalID: 1199389632507030298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f940b34cd0cff7c90800000000000000
+      internalID: -7169734945693563745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96218c259407f5260800000000000000
+      internalID: 7088507798728217193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_52
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b0db5f1e7523bc0800000000000000
+      internalID: -3804882107172582578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da344226545339060800000000000000
+      internalID: 6958964421333107629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_54
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be19f985183306fe0800000000000000
+      internalID: -1197900870249901589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085378f825f86fc90800000000000000
+      internalID: -7136358974763879040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_56
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdc75c35b1607540800000000000000
+      internalID: 5003606617037983173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_57
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faddc57a8645ba30800000000000000
+      internalID: 4230364985480305392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_58
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a90fa18c949280800000000000000
+      internalID: -9037426471424384371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_59
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 634
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f13a156a0d191c0800000000000000
+      internalID: -4498585140013621484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 569
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7a2055b715de80800000000000000
+      internalID: -8154585482782933110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 568
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81be70575823680800000000000000
+      internalID: -8776805986101159738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 569
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bd55c5eedfa4e90800000000000000
+      internalID: -7040535867247174808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 570
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacbf81abe3a517b0800000000000000
+      internalID: -5254113157834621779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 566
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb91796d422a8720800000000000000
+      internalID: 2849127430142139386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 564
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca1f32cf89f4ff0800000000000000
+      internalID: -49652862175564590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 563
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e3765484de0b060800000000000000
+      internalID: 6967329518199979525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 561
+        width: 134
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7261fc278df7ab0800000000000000
+      internalID: -5008046273000495138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_68
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 561
+        width: 133
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0329f28f2d00ff0800000000000000
+      internalID: -71825630646095683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_69
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 561
+        width: 134
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb2728556710850800000000000000
+      internalID: 6341479859947224034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_70
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 561
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068e114798cd1d10800000000000000
+      internalID: 2098053553382655496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_71
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 561
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e131d6c3f3e8720800000000000000
+      internalID: 2850285142932659723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f37995ae8d4850800000000000000
+      internalID: 6362898690439640186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2c8887b9af47880800000000000000
+      internalID: -8613984641603812640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a1e2f9407362a0800000000000000
+      internalID: -6745424353961074588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba10b4a80978fad70800000000000000
+      internalID: 9056606430530568619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_76
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f147b53792f3e50800000000000000
+      internalID: 6791192338530311959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_77
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0839b22e191ad120800000000000000
+      internalID: 2439289765396822027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_78
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91c807d19f48bf0800000000000000
+      internalID: -322859368426235419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_79
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d13e67bf0fe784a0800000000000000
+      internalID: -6591036678852431406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf36e78914c479f0800000000000000
+      internalID: -471536447033819217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_81
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb2c220ca238b9d0800000000000000
+      internalID: -2758399057412215875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_82
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aa3bce975d0b7c0800000000000000
+      internalID: -4057508544621860263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_83
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc6c36adc055dac0800000000000000
+      internalID: -3831067063821243150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_84
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c4a90d3edd5ac0800000000000000
+      internalID: -3864688551477852211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_85
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74441f87ae36da7d0800000000000000
+      internalID: -2905556325881527225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_86
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 439
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ababe2f276f985b0800000000000000
+      internalID: -5365486507472999520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdb65e88a22beb40800000000000000
+      internalID: 5470504279709498868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5406d5d14db40a800800000000000000
+      internalID: 621580122974937157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f674645cca91f0800000000000000
+      internalID: -1037292101320641459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2c8d142a9e01cd0800000000000000
+      internalID: -2589312902639336739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecc5d6142623b9a0800000000000000
+      internalID: -6218584724024734482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc64b741b6f4e8fe0800000000000000
+      internalID: -1184922330628143409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_93
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b213bddce17800800000000000000
+      internalID: 608527861608001653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0a28b769c2064d0800000000000000
+      internalID: -3143463515075731285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_95
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ba3931b2807620800000000000000
+      internalID: 2769857468513827258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_96
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f208c5c032b302320800000000000000
+      internalID: 2531088012299501615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_97
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8effee98c6743160800000000000000
+      internalID: 7004353924500029066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_98
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca599db5c8e99db0800000000000000
+      internalID: -4784537193117295934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_99
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabc30c4964a6a010800000000000000
+      internalID: 1199827122894654378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_100
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a427816e5046b610800000000000000
+      internalID: 1636566288703104162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_101
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 366
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb500abf07ba87b00800000000000000
+      internalID: 826599033368741310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8926b8bfc3408ec0800000000000000
+      internalID: -3566776345441195638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0debb5a2fff9beb0800000000000000
+      internalID: -4703446918184047346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d33758fb872bd0b0800000000000000
+      internalID: -5702921021014199342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10051b2ce5b5e120800000000000000
+      internalID: 2442558398858067999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_106
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e55321542aa9230800000000000000
+      internalID: 3646405265851768382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_107
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1014299b7ee02a0800000000000000
+      internalID: -6769218405682576922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_108
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1926e8d1ce74c60800000000000000
+      internalID: 7802464491129704884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f278db210b6b760800000000000000
+      internalID: 7473354226203570073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_110
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26d4423ec8f61670800000000000000
+      internalID: 8509262110453454383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_111
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4290c390650dee360800000000000000
+      internalID: 7200921922152696100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_112
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ee99c6138bde4d0800000000000000
+      internalID: -3103622045773468153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_113
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7452ad2b4d19e200800000000000000
+      internalID: 209731066374804602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_114
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce81b0ad5bb9ce20800000000000000
+      internalID: 3371431806865870532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_115
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a8b297de2966830800000000000000
+      internalID: 4064097262386252419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_116
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 244
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e644aaed52d21f20800000000000000
+      internalID: 3392004770173830888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d5400a6e8ca8ed0800000000000000
+      internalID: -2410893757650805414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098939491c5185010800000000000000
+      internalID: 1177715223722956944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_119
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24554185f40fc2240800000000000000
+      internalID: 4768450329049322818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_120
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16879c5cc63cd20800000000000000
+      internalID: 3297598948909801968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_121
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b683d5e80eb8c260800000000000000
+      internalID: 7118148156483929777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_122
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad873dcb5ebf28990800000000000000
+      internalID: -7385063474800133926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_123
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64df538cd1724b8c0800000000000000
+      internalID: -3984516761449530042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_124
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38323901c0889f30800000000000000
+      internalID: 4582554187420809278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_125
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a110e9206bc05c0800000000000000
+      internalID: -4247820226160158094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_126
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8d00a41c5e31400800000000000000
+      internalID: 293831019042232552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_127
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762445eaae1269210800000000000000
+      internalID: 1339295231020122727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_128
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf817c3eb9c6cc40800000000000000
+      internalID: 5532331011166277554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_129
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8085cc5b803428440800000000000000
+      internalID: 4936581846240352264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a88e7dccc0cf20800000000000000
+      internalID: 3440975298274304569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_131
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 171
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c789cf0541de48cb0800000000000000
+      internalID: -4862501026139432836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617af2843dc980d80800000000000000
+      internalID: -8284199083284912362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_133
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e13417e1683de40800000000000000
+      internalID: 5680031020351692410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_134
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024652775f0fd1990800000000000000
+      internalID: -7413504474525375456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_135
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bdad510ab369e10800000000000000
+      internalID: 2204014626391907192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_136
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86bd82aa0b138d80800000000000000
+      internalID: -8249720359921797494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_137
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c865443fa1f44acc0800000000000000
+      internalID: -3700746016622618996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_138
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ca36a8f3c1edc0800000000000000
+      internalID: -3611389953466251153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_139
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1be4b863abee57d0800000000000000
+      internalID: -2927643620675359972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_140
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0327c25df21c66ac0800000000000000
+      internalID: -3862187219239538128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_141
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba347b80ccba71f60800000000000000
+      internalID: 8005055755482252203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_142
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c57969346ffce0b0800000000000000
+      internalID: -5697898622605494841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_143
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e18470224e9d10800000000000000
+      internalID: 2134215980581250615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_144
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ad78b58d517a20800000000000000
+      internalID: 3058328450868551886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_145
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d943132b0591d1c0800000000000000
+      internalID: -4480636279191287340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_range_die_146
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 49
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a61503c11e3b0c0800000000000000
+      internalID: -4561054486410204634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      future_range_die_0: 5065857130392386105
+      future_range_die_1: 586209985612138087
+      future_range_die_10: 8092188404766288566
+      future_range_die_100: 1636566288703104162
+      future_range_die_101: 826599033368741310
+      future_range_die_102: -3566776345441195638
+      future_range_die_103: -4703446918184047346
+      future_range_die_104: -5702921021014199342
+      future_range_die_105: 2442558398858067999
+      future_range_die_106: 3646405265851768382
+      future_range_die_107: -6769218405682576922
+      future_range_die_108: 7802464491129704884
+      future_range_die_109: 7473354226203570073
+      future_range_die_11: 3570376690134837829
+      future_range_die_110: 8509262110453454383
+      future_range_die_111: 7200921922152696100
+      future_range_die_112: -3103622045773468153
+      future_range_die_113: 209731066374804602
+      future_range_die_114: 3371431806865870532
+      future_range_die_115: 4064097262386252419
+      future_range_die_116: 3392004770173830888
+      future_range_die_117: -2410893757650805414
+      future_range_die_118: 1177715223722956944
+      future_range_die_119: 4768450329049322818
+      future_range_die_12: -7191141599654217875
+      future_range_die_120: 3297598948909801968
+      future_range_die_121: 7118148156483929777
+      future_range_die_122: -7385063474800133926
+      future_range_die_123: -3984516761449530042
+      future_range_die_124: 4582554187420809278
+      future_range_die_125: -4247820226160158094
+      future_range_die_126: 293831019042232552
+      future_range_die_127: 1339295231020122727
+      future_range_die_128: 5532331011166277554
+      future_range_die_129: 4936581846240352264
+      future_range_die_13: 5666311301874575686
+      future_range_die_130: 3440975298274304569
+      future_range_die_131: -4862501026139432836
+      future_range_die_132: -8284199083284912362
+      future_range_die_133: 5680031020351692410
+      future_range_die_134: -7413504474525375456
+      future_range_die_135: 2204014626391907192
+      future_range_die_136: -8249720359921797494
+      future_range_die_137: -3700746016622618996
+      future_range_die_138: -3611389953466251153
+      future_range_die_139: -2927643620675359972
+      future_range_die_14: 7254857248158080255
+      future_range_die_140: -3862187219239538128
+      future_range_die_141: 8005055755482252203
+      future_range_die_142: -5697898622605494841
+      future_range_die_143: 2134215980581250615
+      future_range_die_144: 3058328450868551886
+      future_range_die_145: -4480636279191287340
+      future_range_die_146: -4561054486410204634
+      future_range_die_15: -3080043756038200732
+      future_range_die_16: 8065709721013192046
+      future_range_die_17: 7728521519227374221
+      future_range_die_18: 9209278085275501631
+      future_range_die_19: 2499214020183990036
+      future_range_die_2: 438330022765395977
+      future_range_die_20: 868110230926213021
+      future_range_die_21: 9078784214120956380
+      future_range_die_22: -5765232131261136633
+      future_range_die_23: -261623896353617446
+      future_range_die_24: -3338705046399468171
+      future_range_die_25: 7506322336357700891
+      future_range_die_26: -4137424631331990567
+      future_range_die_27: -2649983939080487823
+      future_range_die_28: 6189111091505508775
+      future_range_die_29: 467321680712060074
+      future_range_die_3: -2080399498515916838
+      future_range_die_30: -3037751341936421899
+      future_range_die_31: -3135958445513070839
+      future_range_die_32: 8076214679954954118
+      future_range_die_33: -4550532780163536926
+      future_range_die_34: 3528282419378212825
+      future_range_die_35: -7422162147811186526
+      future_range_die_36: -4986407677509336683
+      future_range_die_37: 509345684552389244
+      future_range_die_38: 2298406202981001497
+      future_range_die_39: -1338550617860652605
+      future_range_die_4: 1112279153468282856
+      future_range_die_40: 5871483912798511212
+      future_range_die_41: -7885161367787705332
+      future_range_die_42: -436466257921398581
+      future_range_die_43: -3043424105941730212
+      future_range_die_44: 5352654711924347689
+      future_range_die_45: -6458585154784409168
+      future_range_die_46: 8469382764331615980
+      future_range_die_47: 317784657740803243
+      future_range_die_48: 8286400989122636944
+      future_range_die_49: 1199389632507030298
+      future_range_die_5: -2840367046596879188
+      future_range_die_50: -7169734945693563745
+      future_range_die_51: 7088507798728217193
+      future_range_die_52: -3804882107172582578
+      future_range_die_53: 6958964421333107629
+      future_range_die_54: -1197900870249901589
+      future_range_die_55: -7136358974763879040
+      future_range_die_56: 5003606617037983173
+      future_range_die_57: 4230364985480305392
+      future_range_die_58: -9037426471424384371
+      future_range_die_59: -4498585140013621484
+      future_range_die_6: 3814120375359265252
+      future_range_die_60: -8154585482782933110
+      future_range_die_61: -8776805986101159738
+      future_range_die_62: -7040535867247174808
+      future_range_die_63: -5254113157834621779
+      future_range_die_64: 2849127430142139386
+      future_range_die_65: -49652862175564590
+      future_range_die_66: 6967329518199979525
+      future_range_die_67: -5008046273000495138
+      future_range_die_68: -71825630646095683
+      future_range_die_69: 6341479859947224034
+      future_range_die_7: -6061441963119877095
+      future_range_die_70: 2098053553382655496
+      future_range_die_71: 2850285142932659723
+      future_range_die_72: 6362898690439640186
+      future_range_die_73: -8613984641603812640
+      future_range_die_74: -6745424353961074588
+      future_range_die_75: 9056606430530568619
+      future_range_die_76: 6791192338530311959
+      future_range_die_77: 2439289765396822027
+      future_range_die_78: -322859368426235419
+      future_range_die_79: -6591036678852431406
+      future_range_die_8: -1190976749086682094
+      future_range_die_80: -471536447033819217
+      future_range_die_81: -2758399057412215875
+      future_range_die_82: -4057508544621860263
+      future_range_die_83: -3831067063821243150
+      future_range_die_84: -3864688551477852211
+      future_range_die_85: -2905556325881527225
+      future_range_die_86: -5365486507472999520
+      future_range_die_87: 5470504279709498868
+      future_range_die_88: 621580122974937157
+      future_range_die_89: -1037292101320641459
+      future_range_die_9: 2254273353714947185
+      future_range_die_90: -2589312902639336739
+      future_range_die_91: -6218584724024734482
+      future_range_die_92: -1184922330628143409
+      future_range_die_93: 608527861608001653
+      future_range_die_94: -3143463515075731285
+      future_range_die_95: 2769857468513827258
+      future_range_die_96: 2531088012299501615
+      future_range_die_97: 7004353924500029066
+      future_range_die_98: -4784537193117295934
+      future_range_die_99: 1199827122894654378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

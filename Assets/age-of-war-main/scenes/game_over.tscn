@@ -1,0 +1,60 @@
+[gd_scene load_steps=6 format=3 uid="uid://skmn43wtucdx"]
+
+[ext_resource type="Script" path="res://scenes/game_over.gd" id="1_a13ri"]
+[ext_resource type="PackedScene" uid="uid://dwx7knn8q5clv" path="res://scenes/menu_parallax_background.tscn" id="2_wixbk"]
+[ext_resource type="LabelSettings" uid="uid://d2tud5fpn5upm" path="res://UI/title_text_light.tres" id="3_45dmy"]
+[ext_resource type="PackedScene" uid="uid://0fkoqk68ht8c" path="res://scenes/ui/menu_button.tscn" id="4_4wycl"]
+[ext_resource type="LabelSettings" uid="uid://4i4tknw5kf8w" path="res://UI/regular_text_light.tres" id="4_i660u"]
+
+[node name="game_over" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_a13ri")
+
+[node name="ParallaxBackground" parent="." instance=ExtResource("2_wixbk")]
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -182.0
+offset_top = -93.0
+offset_right = 184.0
+offset_bottom = 150.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Title" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 5
+theme_override_font_sizes/font_size = 40
+text = "Defeat!"
+label_settings = ExtResource("3_45dmy")
+horizontal_alignment = 1
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_constants/outline_size = 5
+text = "Maybe you didn't try hard enough?"
+label_settings = ExtResource("4_i660u")
+
+[node name="Spacer" type="Control" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="BtnReturn" parent="VBoxContainer" instance=ExtResource("4_4wycl")]
+layout_mode = 2
+text = "Play again?"
+show_hover_pointer = true
+dark = false
+
+[connection signal="pressed" from="VBoxContainer/BtnReturn" to="." method="_on_button_pressed"]

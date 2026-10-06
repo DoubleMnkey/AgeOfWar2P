@@ -1,0 +1,9 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://4i4tknw5kf8w"]
+
+[ext_resource type="FontFile" uid="uid://bi67eh3ngbnui" path="res://fonts/Lora/static/Lora-Bold.ttf" id="1_y5wpu"]
+
+[resource]
+font = ExtResource("1_y5wpu")
+font_size = 22
+shadow_color = Color(0, 0, 0, 0.8)
+shadow_offset = Vector2(0, 1)
